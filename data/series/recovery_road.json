@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_recovery_road",
+  "title": "Recovery Road",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19798753",
+    "imdb": "tt4144890",
+    "tmdb": 64673
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

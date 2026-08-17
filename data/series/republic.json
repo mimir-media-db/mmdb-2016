@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_republic",
+  "title": "Republic",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q25503056"
+  },
+  "last_updated": "2026-08-17"
+}
