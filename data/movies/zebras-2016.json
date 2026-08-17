@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zebras_2016",
+  "title": "Zebras",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27055201",
+    "imdb": "tt5947262",
+    "tmdb": 654649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 74
+}
