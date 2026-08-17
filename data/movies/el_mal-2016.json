@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_mal_2016",
+  "title": "El mal",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137808075",
+    "imdb": "tt33341714",
+    "tmdb": 1359685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-16"
+}

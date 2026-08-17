@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_emma_en_de_regenboogvlinder_2016",
+  "title": "Emma en de regenboogvlinder",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138649888",
+    "imdb": "tt39978544",
+    "tmdb": 1637869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-11"
+}

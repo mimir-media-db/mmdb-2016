@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_einsteins_god_model_2016",
+  "title": "Einstein's God Model",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83187490",
+    "imdb": "tt1773389",
+    "tmdb": 420478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-11"
+}

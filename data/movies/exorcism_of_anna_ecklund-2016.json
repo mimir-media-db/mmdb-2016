@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exorcism_of_anna_ecklund_2016",
+  "title": "The Exorcism of Anna Ecklund",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46384321",
+    "imdb": "tt3564860",
+    "tmdb": 381325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 79
+}

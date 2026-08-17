@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_but_a_man_2016",
+  "title": "Everything But a Man",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85984044",
+    "imdb": "tt4533594",
+    "tmdb": 713986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 110
+}

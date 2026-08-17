@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ennodu_vilayadu_2016",
+  "title": "Ennodu Vilayadu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806720",
+    "imdb": "tt6544392",
+    "tmdb": 410851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-01",
+  "runtime_minutes": 106
+}

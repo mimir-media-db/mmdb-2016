@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_is_broken_up_and_dances_2016",
+  "title": "Everything is Broken Up and Dances",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52837441",
+    "imdb": "tt5176794",
+    "tmdb": 417993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

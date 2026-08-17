@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enga_amma_rani_2016",
+  "title": "Enga Amma Rani",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959638",
+    "imdb": "tt6146894",
+    "tmdb": 455611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elephant_in_the_room_2016",
+  "title": "Elephant in the Room",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22674125",
+    "tmdb": 390292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-08",
+  "runtime_minutes": 108
+}

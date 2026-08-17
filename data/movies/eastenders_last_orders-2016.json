@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eastenders_last_orders_2016",
+  "title": "EastEnders: Last Orders",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26831456",
+    "imdb": "tt5733066"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 30
+}

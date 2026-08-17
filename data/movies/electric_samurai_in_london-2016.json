@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_electric_samurai_in_london_2016",
+  "title": "An Electric Samurai in London",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26834153",
+    "imdb": "tt4666326"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

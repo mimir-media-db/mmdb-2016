@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_every_day_2016",
+  "title": "Every Day",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42103869",
+    "imdb": "tt5663182",
+    "tmdb": 651266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-23"
+}

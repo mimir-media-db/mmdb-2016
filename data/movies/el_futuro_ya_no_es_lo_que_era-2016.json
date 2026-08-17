@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_futuro_ya_no_es_lo_que_era_2016",
+  "title": "El futuro ya no es lo que era",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116267626",
+    "imdb": "tt4866320",
+    "tmdb": 391881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

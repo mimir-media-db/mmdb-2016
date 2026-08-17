@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_exodus_our_journey_to_europe_2016",
+  "title": "Exodus: Our Journey to Europe",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303150",
+    "imdb": "tt5905508"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-11",
+  "runtime_minutes": 57
+}

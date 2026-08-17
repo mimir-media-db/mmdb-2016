@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_erich_kastner_das_andere_ich_2016",
+  "title": "Erich Kästner – Das andere Ich",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28100157",
+    "imdb": "tt6409160",
+    "tmdb": 466199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

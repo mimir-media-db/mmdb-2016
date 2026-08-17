@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ekk_albela_2016",
+  "title": "Ekk Albela",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807022",
+    "imdb": "tt5760484",
+    "tmdb": 452247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-24"
+}

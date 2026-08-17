@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ears_2016",
+  "title": "Ears",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30235606",
+    "imdb": "tt5450328",
+    "tmdb": 413923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

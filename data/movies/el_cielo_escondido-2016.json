@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_cielo_escondido_2016",
+  "title": "El cielo escondido",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76567255",
+    "imdb": "tt5042994",
+    "tmdb": 478278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

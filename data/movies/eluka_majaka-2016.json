@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eluka_majaka_2016",
+  "title": "Eluka Majaka",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646379",
+    "imdb": "tt6925128",
+    "tmdb": 526078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-26"
+}

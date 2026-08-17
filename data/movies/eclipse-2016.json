@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eclipse_2016",
+  "title": "Eclipse",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22975150",
+    "imdb": "tt6689400",
+    "tmdb": 391892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-30"
+}

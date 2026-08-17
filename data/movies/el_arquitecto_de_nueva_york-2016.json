@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_arquitecto_de_nueva_york_2016",
+  "title": "El Arquitecto De Nueva York",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042211",
+    "imdb": "tt5495694",
+    "tmdb": 1660505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

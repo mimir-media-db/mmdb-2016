@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_erich_kastner_and_little_tuesday_2016",
+  "title": "Erich Kästner and Little Tuesday",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29476902",
+    "imdb": "tt5126602",
+    "tmdb": 394774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 102
+}

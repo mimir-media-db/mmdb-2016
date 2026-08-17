@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_is_copy_2016",
+  "title": "Everything Is Copy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51031218",
+    "imdb": "tt2831414",
+    "tmdb": 356325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-21"
+}

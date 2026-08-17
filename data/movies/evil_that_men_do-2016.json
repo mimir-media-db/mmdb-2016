@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evil_that_men_do_2016",
+  "title": "The Evil That Men Do",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105301360",
+    "imdb": "tt3865850",
+    "tmdb": 378080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-19",
+  "runtime_minutes": 90
+}

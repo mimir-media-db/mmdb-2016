@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_el_pais_de_la_muralla_nevada_2016",
+  "title": "En el país de la muralla nevada",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042677",
+    "imdb": "tt6048680",
+    "tmdb": 1140898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

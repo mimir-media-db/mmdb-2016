@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_e_venne_luomo_un_dialogo_con_ermanno_olmi_2016",
+  "title": "E venne l'uomo: Un dialogo con Ermanno Olmi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043091",
+    "imdb": "tt6051384",
+    "tmdb": 657553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 47
+}

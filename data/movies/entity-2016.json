@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_entity_2016",
+  "title": "The Entity",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21480368",
+    "imdb": "tt4689996",
+    "tmdb": 347767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-29"
+}

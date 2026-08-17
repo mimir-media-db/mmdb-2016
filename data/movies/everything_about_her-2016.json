@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_about_her_2016",
+  "title": "Everything About Her",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22251940",
+    "imdb": "tt3860092",
+    "tmdb": 377911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-27",
+  "runtime_minutes": 127
+}

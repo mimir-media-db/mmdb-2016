@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_electricite_le_montant_de_la_facture_2016",
+  "title": "Électricité, le montant de la facture",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050923",
+    "imdb": "tt5720730",
+    "tmdb": 399597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

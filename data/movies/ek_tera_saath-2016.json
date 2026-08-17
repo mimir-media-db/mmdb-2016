@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_tera_saath_2016",
+  "title": "Ek Tera Saath",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963167",
+    "imdb": "tt3411076",
+    "tmdb": 424878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-14"
+}

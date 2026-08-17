@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_esteban_2016",
+  "title": "Esteban",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112750078",
+    "imdb": "tt7218830",
+    "tmdb": 417609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-13",
+  "runtime_minutes": 90
+}
