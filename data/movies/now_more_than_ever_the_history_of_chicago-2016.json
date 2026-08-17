@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_now_more_than_ever_the_history_of_chicago_2016",
+  "title": "Now More Than Ever: The History of Chicago",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24630019",
+    "imdb": "tt3807496",
+    "tmdb": 433946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 113
+}

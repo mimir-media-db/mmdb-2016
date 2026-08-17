@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_color_2016",
+  "title": "A New Color",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24764379",
+    "imdb": "tt4797086",
+    "tmdb": 572139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 57
+}

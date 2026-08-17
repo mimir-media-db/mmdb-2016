@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_not_without_us_2016",
+  "title": "Not Without Us",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24718644",
+    "imdb": "tt5718456",
+    "tmdb": 581847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 94
+}

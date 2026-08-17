@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ng83_when_we_were_b_boys_2016",
+  "title": "NG83 When We Were B Boys",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706334",
+    "imdb": "tt5614720",
+    "tmdb": 423276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 74
+}

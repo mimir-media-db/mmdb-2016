@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neighbors_2_2016",
+  "title": "Neighbors 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899742",
+    "imdb": "tt4438848",
+    "tmdb": 325133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

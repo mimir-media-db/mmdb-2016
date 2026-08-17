@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nuevo_rock_adicta_el_documental_2016",
+  "title": "Nuevo Rock: Adicta, el documental",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044605",
+    "imdb": "tt5660072"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}
