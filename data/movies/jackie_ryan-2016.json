@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jackie_ryan_2016",
+  "title": "Jackie & Ryan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17296910",
+    "imdb": "tt3270108",
+    "tmdb": 289891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-20",
+  "runtime_minutes": 95
+}

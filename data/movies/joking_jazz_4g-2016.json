@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_joking_jazz_4g_2016",
+  "title": "Joking Jazz 4G",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61362691",
+    "imdb": "tt6449704",
+    "tmdb": 408335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-06"
+}

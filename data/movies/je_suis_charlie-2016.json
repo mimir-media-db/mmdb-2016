@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_suis_charlie_2016",
+  "title": "Je suis Charlie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814582",
+    "imdb": "tt4760714",
+    "tmdb": 358761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-07",
+  "runtime_minutes": 90
+}

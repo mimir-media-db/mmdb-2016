@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jane_2016",
+  "title": "Jane",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27488827",
+    "imdb": "tt7317404",
+    "tmdb": 420965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 104
+}

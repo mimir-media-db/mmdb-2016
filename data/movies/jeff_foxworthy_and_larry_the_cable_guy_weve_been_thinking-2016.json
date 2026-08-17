@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jeff_foxworthy_and_larry_the_cable_guy_weve_been_thinking_2016",
+  "title": "Jeff Foxworthy and Larry the Cable Guy: We’ve Been Thinking...",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100405",
+    "imdb": "tt5571712",
+    "tmdb": 410965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-26",
+  "runtime_minutes": 75
+}

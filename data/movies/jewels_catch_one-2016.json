@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jewels_catch_one_2016",
+  "title": "Jewel's Catch One",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26831276",
+    "imdb": "tt5562172",
+    "tmdb": 413165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

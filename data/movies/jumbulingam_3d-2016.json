@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jumbulingam_3d_2016",
+  "title": "Jumbulingam 3D",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24211104",
+    "imdb": "tt4526630",
+    "tmdb": 399137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-13"
+}

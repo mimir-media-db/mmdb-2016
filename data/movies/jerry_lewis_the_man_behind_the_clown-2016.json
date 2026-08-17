@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jerry_lewis_the_man_behind_the_clown_2016",
+  "title": "Jerry Lewis: The Man Behind the Clown",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884345",
+    "imdb": "tt5635898",
+    "tmdb": 414789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 61
+}

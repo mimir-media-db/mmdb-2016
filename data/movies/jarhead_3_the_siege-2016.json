@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jarhead_3_the_siege_2016",
+  "title": "Jarhead 3: The Siege",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22582300",
+    "imdb": "tt4616014",
+    "tmdb": 378385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-07",
+  "runtime_minutes": 89
+}

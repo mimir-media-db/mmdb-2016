@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jeremiah_tower_the_last_magnificent_2016",
+  "title": "Jeremiah Tower: The Last Magnificent",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47344102",
+    "imdb": "tt5163286",
+    "tmdb": 392734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 103
+}

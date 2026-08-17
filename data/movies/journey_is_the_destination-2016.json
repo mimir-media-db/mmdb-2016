@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_is_the_destination_2016",
+  "title": "The Journey Is the Destination",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46997880",
+    "imdb": "tt3292080",
+    "tmdb": 408245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 123
+}

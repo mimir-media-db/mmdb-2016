@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jhiata_bigidigala_2016",
+  "title": "Jhiata Bigidigala",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25991189",
+    "imdb": "tt5905080"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-14"
+}
