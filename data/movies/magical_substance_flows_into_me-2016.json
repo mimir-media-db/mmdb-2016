@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magical_substance_flows_into_me_2016",
+  "title": "A Magical Substance Flows into Me",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719404",
+    "imdb": "tt5045644",
+    "tmdb": 389112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

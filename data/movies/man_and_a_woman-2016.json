@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_and_a_woman_2016",
+  "title": "A Man and A Woman",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22973255",
+    "imdb": "tt5700648",
+    "tmdb": 384127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_music_is_our_weapon_2016",
+  "title": "Music Is Our Weapon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039084",
+    "imdb": "tt5611214",
+    "tmdb": 443219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 110
+}

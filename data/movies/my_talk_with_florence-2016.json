@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_talk_with_florence_2016",
+  "title": "My Talk with Florence",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21899263",
+    "imdb": "tt3641062",
+    "tmdb": 365413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-14",
+  "runtime_minutes": 129
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_revolution_2016",
+  "title": "Ma Révolution",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26213229",
+    "imdb": "tt4277264",
+    "tmdb": 384318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

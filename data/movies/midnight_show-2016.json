@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_show_2016",
+  "title": "Midnight Show",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56389244",
+    "imdb": "tt4379102",
+    "tmdb": 370666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-14",
+  "runtime_minutes": 96
+}

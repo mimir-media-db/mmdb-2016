@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moods_of_crime_2016",
+  "title": "Moods Of Crime",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999914",
+    "imdb": "tt4839000",
+    "tmdb": 797910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-01"
+}

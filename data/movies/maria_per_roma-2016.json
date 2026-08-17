@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maria_per_roma_2016",
+  "title": "Maria per Roma",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59286399",
+    "imdb": "tt6075948",
+    "tmdb": 422590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

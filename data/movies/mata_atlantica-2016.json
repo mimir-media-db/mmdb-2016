@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mata_atlantica_2016",
+  "title": "Mata Atlantica",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59642421",
+    "imdb": "tt5908262",
+    "tmdb": 420213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 35
+}

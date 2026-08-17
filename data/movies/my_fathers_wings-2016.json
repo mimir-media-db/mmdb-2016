@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_fathers_wings_2016",
+  "title": "My Father's Wings",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703656",
+    "imdb": "tt5830248",
+    "tmdb": 412672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 101
+}

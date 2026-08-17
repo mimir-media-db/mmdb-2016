@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_middle_man_2016",
+  "title": "Middle Man",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672730",
+    "imdb": "tt4835894",
+    "tmdb": 364060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-10"
+}

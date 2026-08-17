@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mental_2016",
+  "title": "Mental",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18603037",
+    "imdb": "tt5830066",
+    "tmdb": 833749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-07"
+}

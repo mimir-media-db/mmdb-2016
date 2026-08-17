@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_underground_2016",
+  "title": "Man Underground",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38463296",
+    "imdb": "tt5086772",
+    "tmdb": 386823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

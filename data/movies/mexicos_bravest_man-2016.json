@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mexicos_bravest_man_2016",
+  "title": "Mexico's Bravest Man",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26912029",
+    "imdb": "tt5277298",
+    "tmdb": 634683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

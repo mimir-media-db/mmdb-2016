@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_masabu_2016",
+  "title": "Masabu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123483065",
+    "imdb": "tt6467146"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

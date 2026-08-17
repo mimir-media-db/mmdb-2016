@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_honor_was_loyalty_2016",
+  "title": "My Honor Was Loyalty",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29034246",
+    "imdb": "tt4544696",
+    "tmdb": 383001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

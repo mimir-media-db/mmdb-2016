@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mizu_to_kaze_to_ikimono_to_2016",
+  "title": "Mizu to kaze to ikimono to",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057334",
+    "imdb": "tt5970034"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 119
+}

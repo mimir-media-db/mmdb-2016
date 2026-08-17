@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mango_dreams_2016",
+  "title": "Mango Dreams",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26683766",
+    "imdb": "tt5069158",
+    "tmdb": 460271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_microbe_gasoline_2016",
+  "title": "Microbe & Gasoline",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20089721",
+    "imdb": "tt3882000",
+    "tmdb": 337677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-02",
+  "runtime_minutes": 104
+}

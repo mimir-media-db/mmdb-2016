@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mich_vermisst_keiner_2016",
+  "title": "Mich vermisst keiner!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64007276",
+    "imdb": "tt5818816",
+    "tmdb": 644802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

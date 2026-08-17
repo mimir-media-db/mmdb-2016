@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_modern_monk_2016",
+  "title": "Modern Monk",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042223",
+    "imdb": "tt5655268",
+    "tmdb": 994398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

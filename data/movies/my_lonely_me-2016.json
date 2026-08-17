@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_lonely_me_2016",
+  "title": "My Lonely Me",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20949915",
+    "imdb": "tt3865286",
+    "tmdb": 406970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_moohyun_tale_of_two_cities_2016",
+  "title": "Moo-hyun, Tale of Two Cities",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65248842",
+    "tmdb": 432146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

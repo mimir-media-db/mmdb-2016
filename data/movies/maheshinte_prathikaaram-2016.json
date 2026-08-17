@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maheshinte_prathikaaram_2016",
+  "title": "Maheshinte Prathikaaram",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23681158",
+    "imdb": "tt4851630",
+    "tmdb": 381691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-05"
+}

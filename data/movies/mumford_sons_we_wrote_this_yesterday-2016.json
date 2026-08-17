@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mumford_sons_we_wrote_this_yesterday_2016",
+  "title": "Mumford & Sons: We Wrote This Yesterday",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73019014",
+    "imdb": "tt6268930",
+    "tmdb": 439121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_message_from_the_king_2016",
+  "title": "Message from the King",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26761678",
+    "imdb": "tt1712192",
+    "tmdb": 301355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 102
+}

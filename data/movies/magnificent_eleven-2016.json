@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magnificent_eleven_2016",
+  "title": "The Magnificent Eleven",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110324618",
+    "imdb": "tt1027873",
+    "tmdb": 191825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-19",
+  "runtime_minutes": 91
+}

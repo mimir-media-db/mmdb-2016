@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mars_mimpi_ananda_raih_semesta_2016",
+  "title": "Mars: Mimpi Ananda Raih Semesta",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28724589",
+    "tmdb": 752224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-04",
+  "runtime_minutes": 105
+}

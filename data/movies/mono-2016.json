@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mono_2016",
+  "title": "Mono",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56561486",
+    "imdb": "tt4872896",
+    "tmdb": 405388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meeku_meere_maaku_meme_2016",
+  "title": "Meeku Meere Maaku Meme",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892323",
+    "imdb": "tt5812842",
+    "tmdb": 437929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

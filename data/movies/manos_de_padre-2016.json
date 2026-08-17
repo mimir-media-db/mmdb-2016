@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manos_de_padre_2016",
+  "title": "Manos de Padre",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043545",
+    "imdb": "tt5719918",
+    "tmdb": 436123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mohenjo_daro_2016",
+  "title": "Mohenjo Daro",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128126",
+    "imdb": "tt3859980",
+    "tmdb": 402672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-25"
+}

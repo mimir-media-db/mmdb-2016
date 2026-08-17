@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_calls_2016",
+  "title": "A Monster Calls",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18200409",
+    "imdb": "tt3416532",
+    "tmdb": 258230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-09",
+  "runtime_minutes": 108
+}

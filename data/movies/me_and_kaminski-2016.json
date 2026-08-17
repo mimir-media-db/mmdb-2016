@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_kaminski_2016",
+  "title": "Me and Kaminski",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20991112",
+    "imdb": "tt1369667",
+    "tmdb": 277968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-31",
+  "runtime_minutes": 124
+}

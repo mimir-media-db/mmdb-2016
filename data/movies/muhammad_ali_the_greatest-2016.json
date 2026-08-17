@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muhammad_ali_the_greatest_2016",
+  "title": "Muhammad Ali: The Greatest",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26832681",
+    "imdb": "tt5820422"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 79
+}

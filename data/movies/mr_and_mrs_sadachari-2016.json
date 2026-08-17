@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_and_mrs_sadachari_2016",
+  "title": "Mr. and Mrs. Sadachari",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24514715",
+    "imdb": "tt5644678"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-19"
+}

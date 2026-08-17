@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_was_too_free_2016",
+  "title": "The Man Who Was Too Free",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93895501",
+    "imdb": "tt6273862",
+    "tmdb": 437372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 126
+}

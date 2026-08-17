@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marie_curie_the_courage_of_knowledge_2016",
+  "title": "Marie Curie: The Courage of Knowledge",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963166",
+    "imdb": "tt5705058",
+    "tmdb": 412204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-09",
+  "runtime_minutes": 100
+}

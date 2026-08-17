@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_murari_the_mad_gentleman_2016",
+  "title": "Murari - The Mad Gentleman",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22905731",
+    "imdb": "tt5456810"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-11"
+}

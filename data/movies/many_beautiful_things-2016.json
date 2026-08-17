@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_many_beautiful_things_2016",
+  "title": "Many Beautiful Things",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042492",
+    "imdb": "tt4485600"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 56
+}

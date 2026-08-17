@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_gaga_2016",
+  "title": "Mr. Gaga",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23893071",
+    "imdb": "tt3412684",
+    "tmdb": 361474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-11",
+  "runtime_minutes": 100
+}

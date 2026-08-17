@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_with_the_binoculars_2016",
+  "title": "Man with the Binoculars",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63554556",
+    "imdb": "tt5808842",
+    "tmdb": 423596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

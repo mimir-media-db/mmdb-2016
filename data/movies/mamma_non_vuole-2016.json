@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mamma_non_vuole_2016",
+  "title": "Mamma non vuole",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27961112",
+    "imdb": "tt6659266",
+    "tmdb": 455153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 20
+}

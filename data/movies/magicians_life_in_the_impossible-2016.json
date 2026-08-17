@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magicians_life_in_the_impossible_2016",
+  "title": "Magicians: Life in the Impossible",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50314173",
+    "imdb": "tt3433160",
+    "tmdb": 395531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

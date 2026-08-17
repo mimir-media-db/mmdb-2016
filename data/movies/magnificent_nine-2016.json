@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magnificent_nine_2016",
+  "title": "The Magnificent Nine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22131308",
+    "imdb": "tt4834622",
+    "tmdb": 394314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-14",
+  "runtime_minutes": 129
+}

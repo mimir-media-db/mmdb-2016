@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_musee_a_vendre_detroit_institute_of_arts_2016",
+  "title": "Musée à vendre? Detroit Institute of Arts",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051281",
+    "imdb": "tt6070838",
+    "tmdb": 737091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_return_the_story_of_billy_hayes_and_turkey_2016",
+  "title": "Midnight Return: The Story of Billy Hayes and Turkey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26829345",
+    "imdb": "tt3511510",
+    "tmdb": 411983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 99
+}

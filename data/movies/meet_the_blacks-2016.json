@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_the_blacks_2016",
+  "title": "Meet the Blacks",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23022538",
+    "imdb": "tt4191580",
+    "tmdb": 377587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-01"
+}

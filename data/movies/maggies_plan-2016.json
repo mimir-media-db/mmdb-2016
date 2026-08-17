@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maggies_plan_2016",
+  "title": "Maggie's Plan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363678",
+    "imdb": "tt3471098",
+    "tmdb": 312669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-04",
+  "runtime_minutes": 92
+}

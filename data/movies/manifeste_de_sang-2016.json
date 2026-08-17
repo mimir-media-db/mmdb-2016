@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_manifeste_de_sang_2016",
+  "title": "Manifeste de sang",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59619233"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 2
+}

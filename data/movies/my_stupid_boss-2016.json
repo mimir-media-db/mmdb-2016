@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_stupid_boss_2016",
+  "title": "My Stupid Boss",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25929051",
+    "imdb": "tt5514296",
+    "tmdb": 398421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-19"
+}
