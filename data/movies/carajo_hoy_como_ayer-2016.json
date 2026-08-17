@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_carajo_hoy_como_ayer_2016",
+  "title": "Carajo Hoy Como Ayer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050731",
+    "imdb": "tt5962060"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

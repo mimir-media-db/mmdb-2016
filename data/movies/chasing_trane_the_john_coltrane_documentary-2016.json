@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_trane_the_john_coltrane_documentary_2016",
+  "title": "Chasing Trane: The John Coltrane Documentary",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26883824",
+    "imdb": "tt4283892",
+    "tmdb": 411012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 99
+}

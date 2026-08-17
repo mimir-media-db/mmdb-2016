@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carne_propia_2016",
+  "title": "Carne propia",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043579",
+    "imdb": "tt4366768",
+    "tmdb": 805284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 73
+}

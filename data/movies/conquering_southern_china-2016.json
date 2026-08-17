@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_conquering_southern_china_2016",
+  "title": "Conquering Southern China",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038239",
+    "imdb": "tt6050292"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_code_of_honor_2016",
+  "title": "Code of Honor",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649570",
+    "imdb": "tt4060866",
+    "tmdb": 389425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-06",
+  "runtime_minutes": 106
+}

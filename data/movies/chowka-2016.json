@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chowka_2016",
+  "title": "Chowka",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964504",
+    "imdb": "tt6284474",
+    "tmdb": 572118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-23"
+}

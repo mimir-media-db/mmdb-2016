@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_conversation_with_director_rowdy_herrington_2016",
+  "title": "A Conversation with Director Rowdy Herrington",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050750",
+    "imdb": "tt6043928"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 29
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_ciudad_de_los_reyes_2016",
+  "title": "Ciudad de los reyes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123483069"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

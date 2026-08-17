@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_carnations_and_the_rock_2016",
+  "title": "The Carnations And the Rock",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59690862"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camilas_kids_company_the_inside_story_2016",
+  "title": "Camila's Kids Company: The Inside Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051691",
+    "imdb": "tt5369552",
+    "tmdb": 381814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

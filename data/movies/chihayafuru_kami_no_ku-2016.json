@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chihayafuru_kami_no_ku_2016",
+  "title": "Chihayafuru: Kami no Ku",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23498443",
+    "imdb": "tt4785440",
+    "tmdb": 407936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-19",
+  "runtime_minutes": 111
+}

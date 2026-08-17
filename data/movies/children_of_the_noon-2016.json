@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_children_of_the_noon_2016",
+  "title": "The Children of the Noon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60854134",
+    "imdb": "tt4384266",
+    "tmdb": 461664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

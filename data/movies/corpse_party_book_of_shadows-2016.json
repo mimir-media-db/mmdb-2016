@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_corpse_party_book_of_shadows_2016",
+  "title": "Corpse Party Book of Shadows",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807326",
+    "imdb": "tt5641606",
+    "tmdb": 433640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-30"
+}

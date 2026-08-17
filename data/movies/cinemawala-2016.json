@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinemawala_2016",
+  "title": "Cinemawala",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24514706",
+    "imdb": "tt5716302",
+    "tmdb": 396262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-13"
+}

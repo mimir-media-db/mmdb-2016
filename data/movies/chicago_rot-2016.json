@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chicago_rot_2016",
+  "title": "Chicago Rot",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64777695",
+    "imdb": "tt3948764",
+    "tmdb": 362388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

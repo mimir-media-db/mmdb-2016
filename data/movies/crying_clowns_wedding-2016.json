@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crying_clowns_wedding_2016",
+  "title": "Crying Clown's Wedding",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28685050",
+    "imdb": "tt5668076",
+    "tmdb": 443755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-24"
+}

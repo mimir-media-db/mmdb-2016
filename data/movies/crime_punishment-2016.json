@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crime_punishment_2016",
+  "title": "Crime & Punishment",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600757",
+    "imdb": "tt2468804",
+    "tmdb": 361698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

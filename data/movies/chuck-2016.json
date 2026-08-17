@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chuck_2016",
+  "title": "Chuck",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21528106",
+    "imdb": "tt1610525",
+    "tmdb": 373546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02",
+  "runtime_minutes": 101
+}

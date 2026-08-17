@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_condenados_al_infierno_2016",
+  "title": "Condenados al infierno",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123483047",
+    "imdb": "tt27827397",
+    "tmdb": 1129984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

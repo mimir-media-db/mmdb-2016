@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chinese_recipe_bold_and_smart_2016",
+  "title": "The Chinese Recipe: Bold and Smart",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042228",
+    "imdb": "tt3406856",
+    "tmdb": 632435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 35
+}

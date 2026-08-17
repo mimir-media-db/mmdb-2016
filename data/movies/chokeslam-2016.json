@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chokeslam_2016",
+  "title": "Chokeslam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28233392",
+    "imdb": "tt2076826",
+    "tmdb": 394185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-02"
+}

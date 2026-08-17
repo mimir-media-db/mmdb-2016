@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coach_2016",
+  "title": "Coach",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115691358",
+    "imdb": "tt5820612",
+    "tmdb": 541118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-28",
+  "runtime_minutes": 82
+}

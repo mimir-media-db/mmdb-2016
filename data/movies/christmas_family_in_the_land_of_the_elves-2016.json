@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_family_in_the_land_of_the_elves_2016",
+  "title": "The Christmas Family in the Land of the Elves",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29017163",
+    "imdb": "tt5822856",
+    "tmdb": 416774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-03",
+  "runtime_minutes": 90
+}

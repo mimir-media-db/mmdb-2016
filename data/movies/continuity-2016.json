@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_continuity_2016",
+  "title": "Continuity",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106867775",
+    "imdb": "tt6312944",
+    "tmdb": 382987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

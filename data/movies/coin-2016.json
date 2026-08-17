@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_coin_2016",
+  "title": "The Coin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28701268",
+    "imdb": "tt5924974"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

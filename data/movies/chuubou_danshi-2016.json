@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chuubou_danshi_2016",
+  "title": "Chuubou danshi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050890",
+    "imdb": "tt6033638"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 107
+}

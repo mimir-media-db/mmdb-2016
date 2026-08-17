@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cholai_2016",
+  "title": "Cholai",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27957947",
+    "imdb": "tt5568764",
+    "tmdb": 465049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

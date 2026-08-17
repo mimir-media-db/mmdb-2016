@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_claire_in_motion_2016",
+  "title": "Claire in Motion",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30203676",
+    "imdb": "tt5432114",
+    "tmdb": 381008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_car_dogs_2016",
+  "title": "Car Dogs",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44491998",
+    "imdb": "tt3207376",
+    "tmdb": 459427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_close_combat_2016",
+  "title": "Close Combat",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26916281",
+    "imdb": "tt3722086",
+    "tmdb": 1142768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

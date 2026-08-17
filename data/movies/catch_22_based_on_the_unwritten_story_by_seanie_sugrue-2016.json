@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_catch_22_based_on_the_unwritten_story_by_seanie_sugrue_2016",
+  "title": "Catch 22: Based on the Unwritten Story by Seanie Sugrue",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26199991",
+    "imdb": "tt3631298",
+    "tmdb": 434924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

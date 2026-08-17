@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caged_no_more_2016",
+  "title": "Caged No More",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963194",
+    "imdb": "tt4104354",
+    "tmdb": 364160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-22",
+  "runtime_minutes": 99
+}

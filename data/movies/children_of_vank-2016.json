@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_children_of_vank_2016",
+  "title": "The Children of Vank",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28740162",
+    "imdb": "tt5728798"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 70
+}

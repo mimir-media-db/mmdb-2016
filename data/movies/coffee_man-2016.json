@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coffee_man_2016",
+  "title": "The Coffee Man",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26829281",
+    "imdb": "tt5777214",
+    "tmdb": 428596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

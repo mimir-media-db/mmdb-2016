@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colkatay_columbus_2016",
+  "title": "Colkatay Columbus",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27890319",
+    "imdb": "tt6069520",
+    "tmdb": 451956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-11",
+  "runtime_minutes": 126
+}

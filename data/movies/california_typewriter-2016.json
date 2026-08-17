@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_california_typewriter_2016",
+  "title": "California Typewriter",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26863800",
+    "imdb": "tt5966990",
+    "tmdb": 414792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 103
+}

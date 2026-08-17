@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_close_encounters_with_vilmos_zsigmond_2016",
+  "title": "Close Encounters with Vilmos Zsigmond",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26829458",
+    "imdb": "tt5563254",
+    "tmdb": 397406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

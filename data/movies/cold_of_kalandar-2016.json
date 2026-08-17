@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_of_kalandar_2016",
+  "title": "Cold of Kalandar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25434555",
+    "imdb": "tt4518234",
+    "tmdb": 400812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-08",
+  "runtime_minutes": 139
+}

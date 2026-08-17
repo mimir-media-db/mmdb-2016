@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chakravyuham_2016",
+  "title": "Chakravyuham",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28173927",
+    "imdb": "tt0235272",
+    "tmdb": 714600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}
