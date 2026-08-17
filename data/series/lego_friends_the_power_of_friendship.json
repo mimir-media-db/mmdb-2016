@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lego_friends_the_power_of_friendship",
+  "title": "LEGO Friends: The Power of Friendship",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28859221",
+    "imdb": "tt6464612",
+    "tmdb": 70779
+  },
+  "last_updated": "2026-08-17"
+}

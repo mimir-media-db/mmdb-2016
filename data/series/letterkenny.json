@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_letterkenny",
+  "title": "Letterkenny",
+  "start_year": 2016,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q19824762",
+    "imdb": "tt4647692",
+    "tmdb": 65798
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 81
+}

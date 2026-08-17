@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_in_the_moonlight",
+  "title": "Love in the Moonlight",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23001122",
+    "imdb": "tt5575678",
+    "tmdb": 66256
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

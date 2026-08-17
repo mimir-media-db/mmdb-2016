@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_grands_mythes",
+  "title": "Les Grands Mythes",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q27927444",
+    "imdb": "tt6258754",
+    "tmdb": 68304
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}
