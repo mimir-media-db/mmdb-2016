@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_jonbenet_an_american_murder_mystery",
+  "title": "jonbenét: an american murder mystery",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56882989",
+    "imdb": "tt6056090",
+    "tmdb": 67759
+  },
+  "last_updated": "2026-08-17"
+}

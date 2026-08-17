@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_james_may_the_reassembler",
+  "title": "James May: The Reassembler",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28605621",
+    "imdb": "tt5612192",
+    "tmdb": 69340
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 7
+}
