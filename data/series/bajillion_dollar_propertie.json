@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bajillion_dollar_propertie",
+  "title": "Bajillion Dollar Propertie$",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q23647027",
+    "imdb": "tt5363872",
+    "tmdb": 68225
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

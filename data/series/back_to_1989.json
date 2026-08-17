@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_back_to_1989",
+  "title": "Back to 1989",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22078603",
+    "imdb": "tt6273088",
+    "tmdb": 69446
+  },
+  "last_updated": "2026-08-17"
+}

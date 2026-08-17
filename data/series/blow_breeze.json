@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_blow_breeze",
+  "title": "Blow Breeze",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q24659708",
+    "imdb": "tt5987734",
+    "tmdb": 67483
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

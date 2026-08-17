@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_baskets",
+  "title": "Baskets",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q19593680",
+    "imdb": "tt3468798",
+    "tmdb": 64551
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_backstage",
+  "title": "Backstage",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q23647026",
+    "imdb": "tt4916574",
+    "tmdb": 66659
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

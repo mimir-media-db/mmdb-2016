@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blue_moon",
+  "title": "Blue Moon",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q28496918",
+    "imdb": "tt4828090",
+    "tmdb": 67222
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

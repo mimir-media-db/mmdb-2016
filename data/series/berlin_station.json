@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_berlin_station",
+  "title": "Berlin Station",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q21488911",
+    "imdb": "tt5191110",
+    "tmdb": 66282
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 29
+}

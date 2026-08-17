@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bento_expo",
+  "title": "BENTO EXPO",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65227679",
+    "imdb": "tt11943452",
+    "tmdb": 93443
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 45
+}

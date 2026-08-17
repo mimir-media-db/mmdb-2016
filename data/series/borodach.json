@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_borodach",
+  "title": "Borodach",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23900044",
+    "imdb": "tt6489320",
+    "tmdb": 68044
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_babam_ve_ailesi",
+  "title": "Babam ve Ailesi",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q27981980",
+    "imdb": "tt6225210",
+    "tmdb": 70606
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}
