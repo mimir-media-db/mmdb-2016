@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shaunies_home_court",
+  "title": "Shaunie's Home Court",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q96845961",
+    "imdb": "tt5881634",
+    "tmdb": 67200
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

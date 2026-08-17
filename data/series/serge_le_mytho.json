@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_serge_le_mytho",
+  "title": "Serge le Mytho",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q28495442",
+    "imdb": "tt6135074",
+    "tmdb": 68347
+  },
+  "last_updated": "2026-08-17"
+}

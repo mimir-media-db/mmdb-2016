@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_search_bloc",
+  "title": "Search Bloc",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23986144",
+    "imdb": "tt5354818",
+    "tmdb": 102918
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 74
+}

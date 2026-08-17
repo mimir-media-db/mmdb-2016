@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sekasin",
+  "title": "Sekasin",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25452206",
+    "imdb": "tt5747072",
+    "tmdb": 66575
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_seven_and_me",
+  "title": "Seven and Me",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30889058",
+    "imdb": "tt4467232",
+    "tmdb": 79681
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

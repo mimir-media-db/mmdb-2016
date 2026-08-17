@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sanadamaru",
+  "title": "Sanadamaru",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17230890",
+    "imdb": "tt3811304",
+    "tmdb": 72401
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

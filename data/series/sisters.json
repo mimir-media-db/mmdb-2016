@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sisters",
+  "title": "Sisters",
+  "start_year": 2015,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q25495785",
+    "imdb": "tt6674356",
+    "tmdb": 75579
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 36
+}

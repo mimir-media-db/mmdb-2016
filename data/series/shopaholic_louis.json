@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shopaholic_louis",
+  "title": "Shopaholic Louis",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q26160413",
+    "imdb": "tt5994306",
+    "tmdb": 67272
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

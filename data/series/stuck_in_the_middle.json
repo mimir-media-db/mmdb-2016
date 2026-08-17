@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stuck_in_the_middle",
+  "title": "Stuck in the Middle",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q21870142",
+    "imdb": "tt4488724",
+    "tmdb": 65291
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 57
+}

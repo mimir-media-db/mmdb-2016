@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_skinny",
+  "title": "The Skinny",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22674221",
+    "imdb": "tt4164370"
+  },
+  "last_updated": "2026-08-17"
+}

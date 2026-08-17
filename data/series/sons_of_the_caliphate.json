@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sons_of_the_caliphate",
+  "title": "Sons of the Caliphate",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q82467473",
+    "imdb": "tt10202268",
+    "tmdb": 86354
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

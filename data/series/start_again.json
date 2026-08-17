@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_start_again",
+  "title": "Start Again",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23727156",
+    "tmdb": 94585
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 121
+}

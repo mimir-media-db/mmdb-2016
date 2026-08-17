@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sueno_de_amor",
+  "title": "Sueño de amor",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21780598",
+    "imdb": "tt5251326",
+    "tmdb": 66891
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 131
+}

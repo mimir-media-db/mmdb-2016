@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_surrogate_mother",
+  "title": "The surrogate mother",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q26707859",
+    "imdb": "tt6033780"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 131
+}

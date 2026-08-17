@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stan_against_evil",
+  "title": "Stan Against Evil",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q27645662",
+    "imdb": "tt5722214",
+    "tmdb": 67832
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

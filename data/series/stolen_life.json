@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stolen_life",
+  "title": "Stolen Life",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24238050",
+    "imdb": "tt5724688",
+    "tmdb": 65448
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 138
+}

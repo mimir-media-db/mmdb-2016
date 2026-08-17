@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shooter",
+  "title": "Shooter",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q24262082",
+    "imdb": "tt4181172",
+    "tmdb": 66857
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 31
+}
