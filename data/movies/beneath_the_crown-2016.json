@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beneath_the_crown_2016",
+  "title": "Beneath the Crown",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042550",
+    "imdb": "tt4760472"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 23
+}

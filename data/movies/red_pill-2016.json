@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_pill_2016",
+  "title": "The Red Pill",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590931",
+    "imdb": "tt3686998",
+    "tmdb": 366696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-07",
+  "runtime_minutes": 117
+}

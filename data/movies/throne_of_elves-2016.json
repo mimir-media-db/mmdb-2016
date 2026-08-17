@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_throne_of_elves_2016",
+  "title": "Throne of Elves",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26456766",
+    "imdb": "tt5425264",
+    "tmdb": 408355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-19"
+}

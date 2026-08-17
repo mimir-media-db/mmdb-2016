@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_breath_2016",
+  "title": "Cold breath",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25411840",
+    "imdb": "tt5906834",
+    "tmdb": 481712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

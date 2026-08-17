@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swiss_army_man_2016",
+  "title": "Swiss Army Man",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21528092",
+    "imdb": "tt4034354",
+    "tmdb": 347031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-13",
+  "runtime_minutes": 97
+}

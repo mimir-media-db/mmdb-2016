@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_salute_2016",
+  "title": "Salute",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26964599",
+    "imdb": "tt6250906",
+    "tmdb": 524865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-05"
+}

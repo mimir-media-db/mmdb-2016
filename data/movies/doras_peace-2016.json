@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doras_peace_2016",
+  "title": "Dora's Peace",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66764391",
+    "imdb": "tt3556394",
+    "tmdb": 700070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-26"
+}

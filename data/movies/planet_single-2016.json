@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_planet_single_2016",
+  "title": "Planet Single",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26234734",
+    "imdb": "tt5127398",
+    "tmdb": 383682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-05",
+  "runtime_minutes": 136
+}

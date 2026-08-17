@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_blame_the_karma_for_being_an_idiot_2016",
+  "title": "Don't Blame the Karma for Being an Idiot",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24034631",
+    "imdb": "tt5433520",
+    "tmdb": 403499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-11",
+  "runtime_minutes": 98
+}

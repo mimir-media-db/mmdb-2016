@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_at_cafe_6_2016",
+  "title": "At Café 6",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19849925",
+    "imdb": "tt5827496",
+    "tmdb": 406125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-15",
+  "runtime_minutes": 103
+}

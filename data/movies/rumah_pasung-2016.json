@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rumah_pasung_2016",
+  "title": "Rumah Pasung",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25469760",
+    "imdb": "tt12842808",
+    "tmdb": 513867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-28",
+  "runtime_minutes": 77
+}

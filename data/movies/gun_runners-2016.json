@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gun_runners_2016",
+  "title": "Gun Runners",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28936731",
+    "imdb": "tt3957170",
+    "tmdb": 412734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

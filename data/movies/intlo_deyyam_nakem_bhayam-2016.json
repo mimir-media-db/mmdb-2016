@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_intlo_deyyam_nakem_bhayam_2016",
+  "title": "Intlo Deyyam Nakem Bhayam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28127850",
+    "imdb": "tt6889700",
+    "tmdb": 433673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-30"
+}

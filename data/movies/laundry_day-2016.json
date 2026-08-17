@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_laundry_day_2016",
+  "title": "Laundry Day",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28840498",
+    "imdb": "tt3260760",
+    "tmdb": 396715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

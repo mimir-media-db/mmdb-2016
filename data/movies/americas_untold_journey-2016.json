@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_americas_untold_journey_2016",
+  "title": "America's Untold Journey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050796",
+    "imdb": "tt5366344",
+    "tmdb": 1084180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 48
+}

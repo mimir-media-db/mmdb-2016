@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hier_ist_ein_mensch_peter_alexander_2016",
+  "title": "Hier ist ein Mensch: Peter Alexander",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050860",
+    "imdb": "tt5853388",
+    "tmdb": 404462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 94
+}

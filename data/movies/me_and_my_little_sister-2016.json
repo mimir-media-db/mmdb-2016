@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_my_little_sister_2016",
+  "title": "Me and My Little Sister",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26835976",
+    "imdb": "tt3586864",
+    "tmdb": 386334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-12",
+  "runtime_minutes": 69
+}

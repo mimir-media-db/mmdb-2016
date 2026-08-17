@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drought_and_lies_2016",
+  "title": "Drought and lies",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21600139",
+    "imdb": "tt7881284",
+    "tmdb": 492656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-28"
+}

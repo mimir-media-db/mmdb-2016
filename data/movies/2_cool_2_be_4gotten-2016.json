@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2_cool_2_be_4gotten_2016",
+  "title": "2 Cool 2 Be 4gotten",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29021072",
+    "imdb": "tt6259946",
+    "tmdb": 425849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-17",
+  "runtime_minutes": 95
+}

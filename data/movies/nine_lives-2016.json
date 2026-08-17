@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nine_lives_2016",
+  "title": "Nine Lives",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20002304",
+    "imdb": "tt4383594",
+    "tmdb": 322240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-29",
+  "runtime_minutes": 87
+}

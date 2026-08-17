@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exprmntl_2016",
+  "title": "EXPRMNTL",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038266",
+    "imdb": "tt6070466",
+    "tmdb": 413796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 65
+}

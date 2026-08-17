@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garo_divine_flame_2016",
+  "title": "Garo: Divine Flame",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40888693",
+    "imdb": "tt5271582",
+    "tmdb": 374195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_end_of_trust_2016",
+  "title": "The Dead End of Trust",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28599689",
+    "imdb": "tt6607602",
+    "tmdb": 1197365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

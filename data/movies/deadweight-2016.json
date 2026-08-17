@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deadweight_2016",
+  "title": "Deadweight",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719403",
+    "imdb": "tt5424014",
+    "tmdb": 389107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

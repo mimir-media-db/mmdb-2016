@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fat_legs_2016",
+  "title": "Fat Legs",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600283",
+    "imdb": "tt3562532",
+    "tmdb": 426202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

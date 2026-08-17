@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_little_pony_equestria_girls_legend_of_everfree_2016",
+  "title": "My Little Pony: Equestria Girls – Legend of Everfree",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22350787",
+    "imdb": "tt5474644",
+    "tmdb": 405314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wet_woman_in_the_wind_2016",
+  "title": "Wet Woman in the Wind",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28868415",
+    "imdb": "tt5883008",
+    "tmdb": 408270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

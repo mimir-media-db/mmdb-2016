@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_custody_2016",
+  "title": "Custody",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649652",
+    "imdb": "tt4575930",
+    "tmdb": 390401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-17",
+  "runtime_minutes": 104
+}

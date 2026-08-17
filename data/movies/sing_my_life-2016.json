@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sing_my_life_2016",
+  "title": "Sing My Life",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63707641",
+    "imdb": "tt5092272",
+    "tmdb": 394310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

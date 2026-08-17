@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_santhu_straight_forward_2016",
+  "title": "Santhu Straight Forward",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24211098",
+    "imdb": "tt6203612",
+    "tmdb": 519909
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01"
+}

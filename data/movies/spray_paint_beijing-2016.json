@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spray_paint_beijing_2016",
+  "title": "Spray Paint Beijing",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050972",
+    "imdb": "tt2505568",
+    "tmdb": 298727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

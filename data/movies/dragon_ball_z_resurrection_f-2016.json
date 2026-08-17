@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dragon_ball_z_resurrection_f_2016",
+  "title": "Dragon Ball Z: Resurrection 'F'",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17476655",
+    "imdb": "tt3819668",
+    "tmdb": 303857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-08",
+  "runtime_minutes": 94
+}

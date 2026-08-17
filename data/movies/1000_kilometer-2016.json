@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1000_kilometer_2016",
+  "title": "1000 Kilometer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26831286",
+    "imdb": "tt5892030"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 48
+}

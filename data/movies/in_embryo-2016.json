@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_embryo_2016",
+  "title": "In Embryo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29218272",
+    "imdb": "tt2707722",
+    "tmdb": 428400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-16",
+  "runtime_minutes": 105
+}

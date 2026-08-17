@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lennon_report_2016",
+  "title": "The Lennon Report",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536691",
+    "imdb": "tt3856300",
+    "tmdb": 397704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_margarita_ese_dulce_caos_2016",
+  "title": "Margarita: Ese dulce caos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115804744",
+    "imdb": "tt5852052",
+    "tmdb": 416493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joe_cinques_consolation_2016",
+  "title": "Joe Cinque's Consolation",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959460",
+    "imdb": "tt4771160",
+    "tmdb": 405656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-30",
+  "runtime_minutes": 102
+}

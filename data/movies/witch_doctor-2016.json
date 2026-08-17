@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_witch_doctor_2016",
+  "title": "Witch Doctor",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25208856",
+    "imdb": "tt4230294",
+    "tmdb": 458936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-27"
+}

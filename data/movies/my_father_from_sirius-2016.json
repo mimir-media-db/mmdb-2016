@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_father_from_sirius_2016",
+  "title": "My Father from Sirius",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26916853",
+    "imdb": "tt5945054",
+    "tmdb": 403372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

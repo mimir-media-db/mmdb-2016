@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fassman_lincreible_home_radar_2016",
+  "title": "Fassman: l'increïble home radar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98785132",
+    "imdb": "tt4276872",
+    "tmdb": 378076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-18",
+  "runtime_minutes": 85
+}

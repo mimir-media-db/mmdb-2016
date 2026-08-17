@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dabak_daba_aisa_2016",
+  "title": "Dabak Daba Aisa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24887282",
+    "imdb": "tt43744734"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-01"
+}

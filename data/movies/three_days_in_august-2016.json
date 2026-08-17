@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_days_in_august_2016",
+  "title": "Three Days in August",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65679598",
+    "imdb": "tt4405532",
+    "tmdb": 439007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

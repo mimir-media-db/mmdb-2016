@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_monstruo_de_mil_cabezas_2016",
+  "title": "Un Monstruo de Mil Cabezas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23838606",
+    "imdb": "tt4569240",
+    "tmdb": 296865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-30",
+  "runtime_minutes": 74
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pele_birth_of_a_legend_2016",
+  "title": "Pelé: Birth of a Legend",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15141749",
+    "imdb": "tt0995868",
+    "tmdb": 245913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-23",
+  "runtime_minutes": 107
+}

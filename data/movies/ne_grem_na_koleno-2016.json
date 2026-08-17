@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ne_grem_na_koleno_2016",
+  "title": "Ne grem na koleno",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050887",
+    "imdb": "tt5506750",
+    "tmdb": 418629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 51
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zombieville_an_undead_rights_story_2016",
+  "title": "Zombieville: An Undead Rights Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26914821",
+    "imdb": "tt5716224"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 70
+}

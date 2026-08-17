@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_intestine_2016",
+  "title": "The Intestine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536763",
+    "imdb": "tt5970252",
+    "tmdb": 419298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-03"
+}

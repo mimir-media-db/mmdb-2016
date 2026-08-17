@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amy_winehouse_the_final_goodbye_2016",
+  "title": "Amy Winehouse: The Final Goodbye",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043035",
+    "imdb": "tt5992104",
+    "tmdb": 356397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_with_me_the_trials_of_damon_j_keith_2016",
+  "title": "Walk with Me: The Trials of Damon J. Keith",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26835693",
+    "imdb": "tt3783474",
+    "tmdb": 450964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

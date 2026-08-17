@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maya_3d_2016",
+  "title": "Maya 3D",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28859316",
+    "imdb": "tt5961452",
+    "tmdb": 704861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-14"
+}

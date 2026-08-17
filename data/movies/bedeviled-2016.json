@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bedeviled_2016",
+  "title": "Bedeviled",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959488",
+    "imdb": "tt4998772",
+    "tmdb": 407531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-22",
+  "runtime_minutes": 98
+}

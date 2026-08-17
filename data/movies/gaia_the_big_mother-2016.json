@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gaia_the_big_mother_2016",
+  "title": "GAIA: The Big Mother",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042731",
+    "imdb": "tt5368762"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 49
+}

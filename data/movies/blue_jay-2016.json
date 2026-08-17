@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_jay_2016",
+  "title": "Blue Jay",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958185",
+    "imdb": "tt5912454",
+    "tmdb": 408508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-12",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adopte_un_veuf_2016",
+  "title": "Adopte un veuf",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22672807",
+    "imdb": "tt4857596",
+    "tmdb": 384371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-20",
+  "runtime_minutes": 97
+}

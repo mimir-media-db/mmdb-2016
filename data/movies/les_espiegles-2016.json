@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_espiegles_2016",
+  "title": "Les espiègles",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128601227",
+    "imdb": "tt5895140",
+    "tmdb": 716160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

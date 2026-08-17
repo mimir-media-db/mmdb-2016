@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wondrous_boccaccio_2016",
+  "title": "Wondrous Boccaccio",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19272577",
+    "imdb": "tt3596952",
+    "tmdb": 314404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-02",
+  "runtime_minutes": 120
+}

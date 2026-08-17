@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_nowhere_2016",
+  "title": "From Nowhere",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30612097",
+    "imdb": "tt5447816",
+    "tmdb": 381033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-12",
+  "runtime_minutes": 89
+}

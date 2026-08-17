@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_24x36_a_movie_about_movie_posters_2016",
+  "title": "24X36: A Movie About Movie Posters",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27037988",
+    "imdb": "tt5003654",
+    "tmdb": 385305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 99
+}

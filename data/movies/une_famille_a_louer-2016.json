@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_une_famille_a_louer_2016",
+  "title": "Une famille à louer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009512",
+    "imdb": "tt3811986",
+    "tmdb": 342281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-31",
+  "runtime_minutes": 97
+}

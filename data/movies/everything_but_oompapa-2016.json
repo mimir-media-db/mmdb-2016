@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_but_oompapa_2016",
+  "title": "Everything but Oom-Pa-Pa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22998187",
+    "imdb": "tt3760260",
+    "tmdb": 351691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-17",
+  "runtime_minutes": 69
+}

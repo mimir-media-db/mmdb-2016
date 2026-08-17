@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_48_hours_in_baltimore_2016",
+  "title": "48 Hours in Baltimore",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26917143",
+    "imdb": "tt4872222"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 63
+}

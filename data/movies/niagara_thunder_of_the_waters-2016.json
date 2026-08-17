@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_niagara_thunder_of_the_waters_2016",
+  "title": "NIAGARA: Thunder of the Waters",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043373",
+    "imdb": "tt5901610"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 47
+}

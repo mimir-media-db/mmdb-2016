@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manamantha_2016",
+  "title": "Manamantha",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23838187",
+    "imdb": "tt5948916",
+    "tmdb": 410508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-04"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_babu_bangaram_2016",
+  "title": "Babu Bangaram",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647254",
+    "imdb": "tt5953594",
+    "tmdb": 410572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-12"
+}

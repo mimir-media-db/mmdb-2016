@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhara_302_2016",
+  "title": "Dhara 302",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20538703",
+    "imdb": "tt5005142",
+    "tmdb": 506217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-26"
+}

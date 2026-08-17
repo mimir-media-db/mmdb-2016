@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doktor_proktors_tidsbadekar_2016",
+  "title": "Doktor Proktors tidsbadekar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29877332",
+    "imdb": "tt5057300",
+    "tmdb": 377495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-02",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_normal_autistic_film_2016",
+  "title": "Normal Autistic Film",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043588",
+    "imdb": "tt5870288",
+    "tmdb": 444396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-10",
+  "runtime_minutes": 90
+}

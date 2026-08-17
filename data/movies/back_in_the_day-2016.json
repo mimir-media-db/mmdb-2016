@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_back_in_the_day_2016",
+  "title": "Back in the Day",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56302226",
+    "imdb": "tt3349772",
+    "tmdb": 368596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-20"
+}

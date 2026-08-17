@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_concussion_2016",
+  "title": "Concussion",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18356955",
+    "imdb": "tt3322364",
+    "tmdb": 321741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-18",
+  "runtime_minutes": 123
+}

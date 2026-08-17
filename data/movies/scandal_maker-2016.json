@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scandal_maker_2016",
+  "title": "Scandal Maker",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27890331",
+    "imdb": "tt5936462",
+    "tmdb": 498833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-11",
+  "runtime_minutes": 103
+}

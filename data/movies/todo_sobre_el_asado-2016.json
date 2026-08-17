@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_todo_sobre_el_asado_2016",
+  "title": "Todo sobre el asado",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039122",
+    "imdb": "tt6079360",
+    "tmdb": 456705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

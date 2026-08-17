@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_au_bruit_des_clochettes_2016",
+  "title": "Au bruit des clochettes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45303630",
+    "imdb": "tt5464342",
+    "tmdb": 419048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 25
+}

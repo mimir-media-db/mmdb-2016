@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bitter_money_2016",
+  "title": "Bitter Money",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884764",
+    "imdb": "tt6028412",
+    "tmdb": 412366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 152
+}

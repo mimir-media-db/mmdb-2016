@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirt_deeds_in_mississippi_2016",
+  "title": "Dirt & Deeds in Mississippi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27041242",
+    "imdb": "tt4839164",
+    "tmdb": 1678190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 81
+}

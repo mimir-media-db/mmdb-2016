@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waalaikumsalam_paris_2016",
+  "title": "Wa'alaikumsalam Paris",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25470155",
+    "tmdb": 426402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-17",
+  "runtime_minutes": 106
+}

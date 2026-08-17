@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kelor_kirti_2016",
+  "title": "Kelor Kirti",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25986390",
+    "imdb": "tt6164432",
+    "tmdb": 415180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-06"
+}

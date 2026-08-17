@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_life_2016",
+  "title": "The Sweet Life",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48673904",
+    "imdb": "tt4838534",
+    "tmdb": 401484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-07"
+}

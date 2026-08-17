@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_pig_2016",
+  "title": "Mr. Pig",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26252699",
+    "imdb": "tt2722504",
+    "tmdb": 272820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-26",
+  "runtime_minutes": 100
+}

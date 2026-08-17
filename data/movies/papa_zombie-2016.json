@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_papa_zombie_2016",
+  "title": "Papa Zombie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28699192",
+    "tmdb": 493534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-29"
+}

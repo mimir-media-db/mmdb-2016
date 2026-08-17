@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinema_manoel_de_oliveira_and_me_2016",
+  "title": "Cinema, Manoel de Oliveira and Me",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26834427",
+    "imdb": "tt5282462",
+    "tmdb": 409097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

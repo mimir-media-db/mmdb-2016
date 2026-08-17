@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ki_and_ka_2016",
+  "title": "Ki and Ka",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20762686",
+    "imdb": "tt4744086",
+    "tmdb": 390437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-01",
+  "runtime_minutes": 126
+}

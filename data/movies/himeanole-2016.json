@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_himeanole_2016",
+  "title": "Himeanole",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11330182",
+    "imdb": "tt4949100",
+    "tmdb": 394448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sparta_2016",
+  "title": "Sparta",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27049596",
+    "imdb": "tt6844328",
+    "tmdb": 412449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_call_me_martina_2016",
+  "title": "Just Call Me Martina",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26832683",
+    "imdb": "tt5865980",
+    "tmdb": 1140511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

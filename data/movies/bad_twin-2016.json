@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_twin_2016",
+  "title": "The Bad Twin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65706840",
+    "imdb": "tt6368324",
+    "tmdb": 446908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-29"
+}

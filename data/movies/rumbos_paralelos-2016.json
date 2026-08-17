@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rumbos_paralelos_2016",
+  "title": "Rumbos paralelos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29920068",
+    "imdb": "tt5223624",
+    "tmdb": 351232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-20",
+  "runtime_minutes": 90
+}

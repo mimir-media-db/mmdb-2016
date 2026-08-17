@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ki_kore_toke_bolb_2016",
+  "title": "Ki kore toke bolb",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22251980",
+    "imdb": "tt5373192",
+    "tmdb": 555350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-12"
+}

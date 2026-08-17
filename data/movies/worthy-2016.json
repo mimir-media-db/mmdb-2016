@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_worthy_2016",
+  "title": "The Worthy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45263064",
+    "imdb": "tt4943218",
+    "tmdb": 413780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 99
+}

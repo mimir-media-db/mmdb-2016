@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rules_2016",
+  "title": "Rules",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61103676",
+    "imdb": "tt5821788"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

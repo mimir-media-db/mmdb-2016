@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_influx_documentary_2016",
+  "title": "Influx: Documentary",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26915309",
+    "imdb": "tt5186644",
+    "tmdb": 542145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

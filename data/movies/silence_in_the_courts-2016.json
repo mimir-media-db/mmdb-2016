@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_silence_in_the_courts_2016",
+  "title": "Silence in the Courts",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28859329",
+    "imdb": "tt4688464",
+    "tmdb": 1381457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-22"
+}

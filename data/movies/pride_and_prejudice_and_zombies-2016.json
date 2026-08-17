@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pride_and_prejudice_and_zombies_2016",
+  "title": "Pride and Prejudice and Zombies",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18154994",
+    "imdb": "tt1374989",
+    "tmdb": 58431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-21",
+  "runtime_minutes": 108
+}

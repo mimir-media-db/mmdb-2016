@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_menkoff_method_2016",
+  "title": "The Menkoff Method",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600760",
+    "imdb": "tt3174842",
+    "tmdb": 429623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

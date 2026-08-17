@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amanat_2016",
+  "title": "Amanat",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27048815",
+    "imdb": "tt4564526",
+    "tmdb": 418661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-19",
+  "runtime_minutes": 127
+}

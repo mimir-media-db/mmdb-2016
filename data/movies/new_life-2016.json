@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_life_2016",
+  "title": "New Life",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65240790",
+    "imdb": "tt2931140",
+    "tmdb": 444951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

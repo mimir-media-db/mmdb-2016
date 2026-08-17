@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jatra_2016",
+  "title": "Jatra",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30545677",
+    "imdb": "tt6249904",
+    "tmdb": 495875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

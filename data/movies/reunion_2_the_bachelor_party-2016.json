@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reunion_2_the_bachelor_party_2016",
+  "title": "Reunion 2: The Bachelor Party",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26723800",
+    "imdb": "tt5030004",
+    "tmdb": 423525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

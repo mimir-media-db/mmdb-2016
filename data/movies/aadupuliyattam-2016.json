@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aadupuliyattam_2016",
+  "title": "Aadupuliyattam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21645984",
+    "imdb": "tt5326230",
+    "tmdb": 392569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-20"
+}

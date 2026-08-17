@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_copenhague_a_love_story_2016",
+  "title": "Copenhague a love story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50224540",
+    "imdb": "tt3847694",
+    "tmdb": 384629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

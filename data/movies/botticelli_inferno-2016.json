@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_botticelli_inferno_2016",
+  "title": "Botticelli Inferno",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27451991",
+    "imdb": "tt6114606",
+    "tmdb": 421075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-03",
+  "runtime_minutes": 96
+}

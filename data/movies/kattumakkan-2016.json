@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kattumakkan_2016",
+  "title": "Kattumakkan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22074973",
+    "imdb": "tt5329278",
+    "tmdb": 398562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-12"
+}

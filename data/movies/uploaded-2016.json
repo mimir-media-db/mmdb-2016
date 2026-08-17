@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uploaded_2016",
+  "title": "Uploaded",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93882563",
+    "imdb": "tt4480774",
+    "tmdb": 454874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiramisu_2016",
+  "title": "Tiramisù",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25409962",
+    "imdb": "tt4908040",
+    "tmdb": 384500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

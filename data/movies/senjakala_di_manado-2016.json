@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_senjakala_di_manado_2016",
+  "title": "Senjakala di Manado",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28725390",
+    "imdb": "tt8453090",
+    "tmdb": 535152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_match_2016",
+  "title": "The Perfect Match",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22252016",
+    "imdb": "tt4871980",
+    "tmdb": 378200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-11",
+  "runtime_minutes": 96
+}

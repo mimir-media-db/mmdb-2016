@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seit_du_da_bist_2016",
+  "title": "Seit du da bist",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28136118",
+    "imdb": "tt4598084",
+    "tmdb": 396512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

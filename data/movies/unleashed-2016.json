@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unleashed_2016",
+  "title": "Unleashed",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959497",
+    "imdb": "tt4587780",
+    "tmdb": 345937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-12"
+}

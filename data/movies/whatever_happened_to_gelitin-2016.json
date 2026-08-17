@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whatever_happened_to_gelitin_2016",
+  "title": "Whatever Happened to Gelitin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050120",
+    "imdb": "tt5669930",
+    "tmdb": 460658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 82
+}

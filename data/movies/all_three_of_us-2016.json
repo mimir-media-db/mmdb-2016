@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_three_of_us_2016",
+  "title": "All Three of Us",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009248",
+    "imdb": "tt4057632",
+    "tmdb": 364137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-30",
+  "runtime_minutes": 102
+}

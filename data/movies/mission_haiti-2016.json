@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_haiti_2016",
+  "title": "Mission: Haiti",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051453",
+    "imdb": "tt5200142"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

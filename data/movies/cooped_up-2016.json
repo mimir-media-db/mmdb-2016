@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cooped_up_2016",
+  "title": "Cooped Up",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132636559",
+    "imdb": "tt4937112",
+    "tmdb": 419321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

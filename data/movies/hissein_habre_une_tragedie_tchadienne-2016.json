@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hissein_habre_une_tragedie_tchadienne_2016",
+  "title": "Hissein Habré, une tragédie tchadienne",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26830553",
+    "imdb": "tt5154092",
+    "tmdb": 392800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 82
+}

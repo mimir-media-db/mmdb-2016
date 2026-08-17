@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodnight_brooklyn_the_story_of_death_by_audio_2016",
+  "title": "Goodnight Brooklyn – The Story of Death by Audio",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26831406",
+    "imdb": "tt5492608",
+    "tmdb": 381022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 83
+}

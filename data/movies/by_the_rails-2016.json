@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_by_the_rails_2016",
+  "title": "By the Rails",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28726292",
+    "imdb": "tt4936300",
+    "tmdb": 405716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_birth_death_2016",
+  "title": "Happy Birth Death",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65237988",
+    "imdb": "tt7008470",
+    "tmdb": 499363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

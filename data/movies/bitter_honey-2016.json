@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bitter_honey_2016",
+  "title": "Bitter Honey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28068226",
+    "imdb": "tt4840686",
+    "tmdb": 378114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-01"
+}

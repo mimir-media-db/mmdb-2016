@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iraivi_2016",
+  "title": "Iraivi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001994",
+    "imdb": "tt5477194",
+    "tmdb": 369094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-03",
+  "runtime_minutes": 160
+}

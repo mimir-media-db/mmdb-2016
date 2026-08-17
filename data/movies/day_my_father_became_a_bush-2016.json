@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_my_father_became_a_bush_2016",
+  "title": "The Day My Father Became a Bush",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38681662",
+    "imdb": "tt5224746",
+    "tmdb": 413832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 89
+}

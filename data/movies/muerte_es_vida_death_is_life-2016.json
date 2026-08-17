@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muerte_es_vida_death_is_life_2016",
+  "title": "Muerte Es Vida: Death Is Life",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042188",
+    "imdb": "tt4932418",
+    "tmdb": 422663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 67
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drinksgiving_2016",
+  "title": "Drinksgiving",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64068910",
+    "imdb": "tt4773854",
+    "tmdb": 508562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 89
+}

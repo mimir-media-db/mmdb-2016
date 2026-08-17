@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jackie_robinson_2016",
+  "title": "Jackie Robinson",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25206446",
+    "imdb": "tt5618356"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-11"
+}

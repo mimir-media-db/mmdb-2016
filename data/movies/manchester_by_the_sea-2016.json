@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manchester_by_the_sea_2016",
+  "title": "Manchester by the Sea",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19864603",
+    "imdb": "tt4034228",
+    "tmdb": 334541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-23",
+  "runtime_minutes": 135
+}

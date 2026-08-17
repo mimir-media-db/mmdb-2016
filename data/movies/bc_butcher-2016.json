@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bc_butcher_2016",
+  "title": "B.C. Butcher",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24053283",
+    "imdb": "tt3150796",
+    "tmdb": 376537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-08",
+  "runtime_minutes": 51
+}

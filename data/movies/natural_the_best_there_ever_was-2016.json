@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_natural_the_best_there_ever_was_2016",
+  "title": "The Natural: The Best There Ever Was",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26831409",
+    "imdb": "tt2991768",
+    "tmdb": 375313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

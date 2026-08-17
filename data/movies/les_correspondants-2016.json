@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_correspondants_2016",
+  "title": "Les Correspondants",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137830347",
+    "imdb": "tt6269538",
+    "tmdb": 1640582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-07"
+}

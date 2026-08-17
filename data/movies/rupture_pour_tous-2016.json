@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rupture_pour_tous_2016",
+  "title": "Rupture pour tous",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30738621",
+    "imdb": "tt5199486",
+    "tmdb": 427955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

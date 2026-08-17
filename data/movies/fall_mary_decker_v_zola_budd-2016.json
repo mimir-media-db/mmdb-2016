@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fall_mary_decker_v_zola_budd_2016",
+  "title": "The Fall: Mary Decker v Zola Budd",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26831581",
+    "imdb": "tt5896674",
+    "tmdb": 409069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

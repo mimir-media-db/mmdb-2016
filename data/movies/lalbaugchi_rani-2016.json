@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lalbaugchi_rani_2016",
+  "title": "Lalbaugchi Rani",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24514663",
+    "imdb": "tt5691732"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-03"
+}

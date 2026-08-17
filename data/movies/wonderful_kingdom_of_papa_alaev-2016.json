@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wonderful_kingdom_of_papa_alaev_2016",
+  "title": "The Wonderful Kingdom of Papa Alaev",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124567549",
+    "imdb": "tt5660988",
+    "tmdb": 396679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 74
+}

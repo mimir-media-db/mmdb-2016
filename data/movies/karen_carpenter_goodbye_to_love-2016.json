@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karen_carpenter_goodbye_to_love_2016",
+  "title": "Karen Carpenter: Goodbye to Love",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26885102",
+    "imdb": "tt5804272",
+    "tmdb": 424405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 120
+}

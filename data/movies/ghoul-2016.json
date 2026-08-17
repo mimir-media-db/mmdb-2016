@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghoul_2016",
+  "title": "The Ghoul",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75206451",
+    "imdb": "tt3613314",
+    "tmdb": 399256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-14"
+}

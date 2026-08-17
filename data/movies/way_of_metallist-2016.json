@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_way_of_metallist_2016",
+  "title": "The Way of Metallist",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28684372"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-16",
+  "runtime_minutes": 63
+}

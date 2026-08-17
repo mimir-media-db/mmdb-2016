@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinderella_christmas_2016",
+  "title": "A Cinderella Christmas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16826854",
+    "imdb": "tt6185074",
+    "tmdb": 426808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-04"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_morning_2016",
+  "title": "Good Morning",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28944136",
+    "imdb": "tt5119914",
+    "tmdb": 618577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 104
+}

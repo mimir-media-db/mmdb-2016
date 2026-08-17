@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_carpet_for_asta_nielsen_2016",
+  "title": "A Red Carpet for Asta Nielsen",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26899812",
+    "imdb": "tt6020456"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-11",
+  "runtime_minutes": 52
+}

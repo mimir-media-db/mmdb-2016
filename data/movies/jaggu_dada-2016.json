@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jaggu_dada_2016",
+  "title": "Jaggu Dada",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23013652",
+    "imdb": "tt5701116",
+    "tmdb": 402112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-10"
+}

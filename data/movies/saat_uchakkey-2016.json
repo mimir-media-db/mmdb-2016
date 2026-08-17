@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saat_uchakkey_2016",
+  "title": "Saat Uchakkey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963363",
+    "imdb": "tt5637188",
+    "tmdb": 421515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-14"
+}

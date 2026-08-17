@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karvva_2016",
+  "title": "Karvva",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536722",
+    "imdb": "tt5760590",
+    "tmdb": 420501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-24"
+}

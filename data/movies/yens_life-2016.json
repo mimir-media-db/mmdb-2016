@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yens_life_2016",
+  "title": "Yen's life",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123122993",
+    "imdb": "tt5836334",
+    "tmdb": 405114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-08"
+}

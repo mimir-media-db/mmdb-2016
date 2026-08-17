@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_beethoven_street_sam_fuller_in_germany_2016",
+  "title": "Return to Beethoven Street: Sam Fuller in Germany",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26885108",
+    "imdb": "tt5889162",
+    "tmdb": 668588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

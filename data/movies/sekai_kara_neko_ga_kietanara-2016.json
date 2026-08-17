@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sekai_kara_neko_ga_kietanara_2016",
+  "title": "Sekai kara neko ga kietanara",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20040927",
+    "imdb": "tt4042994",
+    "tmdb": 390930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-14",
+  "runtime_minutes": 103
+}

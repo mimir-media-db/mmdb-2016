@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hail_caesar_2016",
+  "title": "Hail, Caesar!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18516636",
+    "imdb": "tt0475290",
+    "tmdb": 270487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-01",
+  "runtime_minutes": 106
+}

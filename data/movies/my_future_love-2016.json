@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_future_love_2016",
+  "title": "My Future Love",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28847328",
+    "imdb": "tt5194446",
+    "tmdb": 425553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-11",
+  "runtime_minutes": 99
+}

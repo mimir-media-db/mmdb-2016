@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_sahara_riding_from_cairo_to_cape_town_2016",
+  "title": "Beyond Sahara: Riding from Cairo to Cape Town",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26885031",
+    "imdb": "tt5826462",
+    "tmdb": 603960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

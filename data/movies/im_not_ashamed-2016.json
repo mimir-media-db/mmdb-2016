@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_not_ashamed_2016",
+  "title": "I'm Not Ashamed",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136676",
+    "imdb": "tt4950110",
+    "tmdb": 409502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-21",
+  "runtime_minutes": 112
+}

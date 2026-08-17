@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peret_i_lorigen_de_la_rumba_catalana_2016",
+  "title": "Peret i l'origen de la rumba catalana",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39529683",
+    "imdb": "tt6101876",
+    "tmdb": 449210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01",
+  "runtime_minutes": 52
+}

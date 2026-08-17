@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cutie_honey_tears_2016",
+  "title": "Cutie Honey: Tears",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24034658",
+    "imdb": "tt5520970",
+    "tmdb": 436022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01"
+}

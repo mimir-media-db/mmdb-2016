@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_annoying_brother_2016",
+  "title": "My Annoying Brother",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22100066",
+    "imdb": "tt6388082",
+    "tmdb": 426166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-23",
+  "runtime_minutes": 110
+}

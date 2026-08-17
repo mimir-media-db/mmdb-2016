@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nous_autres_les_autres_2016",
+  "title": "Nous autres, les autres",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65388078",
+    "imdb": "tt5705274"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 83
+}

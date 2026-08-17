@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunting_history_2016",
+  "title": "A Haunting History",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26833760",
+    "imdb": "tt4043760",
+    "tmdb": 382152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 70
+}

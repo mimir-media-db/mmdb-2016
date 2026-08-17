@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_triple_9_2016",
+  "title": "Triple 9",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17144452",
+    "imdb": "tt1712261",
+    "tmdb": 146198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-16",
+  "runtime_minutes": 115
+}

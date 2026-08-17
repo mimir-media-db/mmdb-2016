@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sons_of_ben_2016",
+  "title": "Sons of Ben",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26831474",
+    "imdb": "tt2317088",
+    "tmdb": 318852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rudy_habibie_2016",
+  "title": "Rudy Habibie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25260105",
+    "imdb": "tt5874502",
+    "tmdb": 403608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-30"
+}

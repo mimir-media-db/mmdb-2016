@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_horizons_a_slice_of_the_sun_2016",
+  "title": "Horizons: A Slice of the Sun",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051222",
+    "imdb": "tt5821628"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

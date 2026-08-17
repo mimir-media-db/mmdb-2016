@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kannula_kaasa_kattappa_2016",
+  "title": "Kannula Kaasa Kattappa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27963243",
+    "imdb": "tt6354194",
+    "tmdb": 427727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-25"
+}

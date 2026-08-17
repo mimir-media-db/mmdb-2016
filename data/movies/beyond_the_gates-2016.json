@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_gates_2016",
+  "title": "Beyond the Gates",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703268",
+    "imdb": "tt4687358",
+    "tmdb": 397981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-02",
+  "runtime_minutes": 84
+}

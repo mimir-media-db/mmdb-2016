@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_geschichte_einer_liebe_freya_2016",
+  "title": "Geschichte einer Liebe – Freya",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28920228",
+    "imdb": "tt9121940",
+    "tmdb": 466297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

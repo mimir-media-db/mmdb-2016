@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kotigobba_2_2016",
+  "title": "Kotigobba 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899510",
+    "imdb": "tt3540016",
+    "tmdb": 389952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-12"
+}

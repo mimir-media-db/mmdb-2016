@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shooting_star_2016",
+  "title": "Shooting Star",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13036287",
+    "imdb": "tt3064000",
+    "tmdb": 438338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-22",
+  "runtime_minutes": 92
+}

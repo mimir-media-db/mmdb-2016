@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_levelling_2016",
+  "title": "The Levelling",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963239",
+    "imdb": "tt5158522",
+    "tmdb": 413762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-10",
+  "runtime_minutes": 83
+}

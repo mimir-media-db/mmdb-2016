@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smolensk_2016",
+  "title": "Smoleńsk",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16601763",
+    "imdb": "tt6038600",
+    "tmdb": 415861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-01",
+  "runtime_minutes": 120
+}

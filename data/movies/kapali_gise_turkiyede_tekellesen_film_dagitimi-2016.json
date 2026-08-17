@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kapali_gise_turkiyede_tekellesen_film_dagitimi_2016",
+  "title": "Kapali Gise: Turkiye'de Tekellesen Film Dagitimi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039244",
+    "imdb": "tt5624042",
+    "tmdb": 400827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 45
+}

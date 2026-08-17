@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_down_in_suntown_san_diegos_homeless_2016",
+  "title": "Down in Suntown: San Diego's Homeless",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051312",
+    "imdb": "tt5335196",
+    "tmdb": 1044450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 121
+}

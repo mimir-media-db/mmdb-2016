@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_was_im_leben_zahlt_2016",
+  "title": "Was im Leben zählt",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60172486",
+    "imdb": "tt5642884",
+    "tmdb": 398554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

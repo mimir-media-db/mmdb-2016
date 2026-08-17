@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legendary_ad_2016",
+  "title": "Legendary AD",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26833756",
+    "imdb": "tt2850318",
+    "tmdb": 589610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 96
+}

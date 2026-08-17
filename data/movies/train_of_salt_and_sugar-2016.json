@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_train_of_salt_and_sugar_2016",
+  "title": "The Train of Salt and Sugar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41366550",
+    "imdb": "tt4524676",
+    "tmdb": 408296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-10",
+  "runtime_minutes": 93
+}

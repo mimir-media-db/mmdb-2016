@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bratricek_karel_2016",
+  "title": "Bratrícek Karel",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042424",
+    "imdb": "tt5789544",
+    "tmdb": 448188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 79
+}

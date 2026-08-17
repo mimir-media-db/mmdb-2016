@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_call_me_thief_2016",
+  "title": "Call Me Thief",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044187",
+    "imdb": "tt4567500",
+    "tmdb": 410830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02",
+  "runtime_minutes": 150
+}

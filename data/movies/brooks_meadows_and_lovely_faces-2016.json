@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brooks_meadows_and_lovely_faces_2016",
+  "title": "Brooks, Meadows and Lovely Faces",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26684491",
+    "imdb": "tt5974374",
+    "tmdb": 408261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-07",
+  "runtime_minutes": 115
+}

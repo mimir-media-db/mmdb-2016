@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ketika_mas_gagah_pergi_2016",
+  "title": "Ketika Mas Gagah Pergi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25471250",
+    "imdb": "tt5605508"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-21",
+  "runtime_minutes": 99
+}

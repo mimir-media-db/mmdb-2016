@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_vay_mama_jan_2016",
+  "title": "Vay Mama Jan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28149664"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-06"
+}

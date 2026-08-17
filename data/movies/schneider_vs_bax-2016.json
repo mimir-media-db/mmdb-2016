@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schneider_vs_bax_2016",
+  "title": "Schneider vs. Bax",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19895685",
+    "imdb": "tt3430416",
+    "tmdb": 333555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-20",
+  "runtime_minutes": 94
+}

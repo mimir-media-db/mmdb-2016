@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_project_lazarus_2016",
+  "title": "Project Lazarus",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009572",
+    "imdb": "tt4074928",
+    "tmdb": 399612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-23",
+  "runtime_minutes": 112
+}

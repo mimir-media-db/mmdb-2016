@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_sas_en_sas_2016",
+  "title": "De sas en sas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30737761",
+    "imdb": "tt4787510",
+    "tmdb": 441568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 82
+}

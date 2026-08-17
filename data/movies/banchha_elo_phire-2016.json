@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_banchha_elo_phire_2016",
+  "title": "Banchha Elo Phire",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536734",
+    "imdb": "tt5911504",
+    "tmdb": 1031574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-21"
+}

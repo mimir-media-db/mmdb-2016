@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carpe_kilimanjaro_an_alzheimers_project_2016",
+  "title": "Carpe Kilimanjaro: An Alzheimer's Project",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042421",
+    "imdb": "tt4093962",
+    "tmdb": 987610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 76
+}

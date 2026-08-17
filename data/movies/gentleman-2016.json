@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gentleman_2016",
+  "title": "Gentleman",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25218469",
+    "imdb": "tt5815940",
+    "tmdb": 400247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-17"
+}

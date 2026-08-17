@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iseng_2016",
+  "title": "Iseng",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31175005",
+    "imdb": "tt5340728",
+    "tmdb": 492006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-10",
+  "runtime_minutes": 99
+}

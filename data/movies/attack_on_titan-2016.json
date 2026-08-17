@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attack_on_titan_2016",
+  "title": "Attack on Titan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20313191",
+    "imdb": "tt2072230",
+    "tmdb": 295830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-22",
+  "runtime_minutes": 98
+}

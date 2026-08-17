@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_destroyer_2016",
+  "title": "Hello Destroyer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963213",
+    "imdb": "tt2489736",
+    "tmdb": 410200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-10",
+  "runtime_minutes": 110
+}

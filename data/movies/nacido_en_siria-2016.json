@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nacido_en_siria_2016",
+  "title": "Nacido en Siria",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98666411",
+    "imdb": "tt5356680",
+    "tmdb": 438592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-06",
+  "runtime_minutes": 86
+}

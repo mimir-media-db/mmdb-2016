@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_water_city_2016",
+  "title": "Water city",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303317",
+    "imdb": "tt9441850"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 23
+}

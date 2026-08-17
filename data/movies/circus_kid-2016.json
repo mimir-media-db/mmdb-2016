@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_circus_kid_2016",
+  "title": "Circus Kid",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128196666",
+    "imdb": "tt6107306",
+    "tmdb": 425708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-09",
+  "runtime_minutes": 69
+}

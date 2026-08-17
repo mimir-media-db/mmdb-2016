@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_by_war_by_god_2016",
+  "title": "By War & By God",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038177",
+    "imdb": "tt5468718"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 40
+}

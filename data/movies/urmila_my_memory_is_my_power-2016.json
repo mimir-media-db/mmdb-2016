@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_urmila_my_memory_is_my_power_2016",
+  "title": "Urmila: my memory is my power",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22132641",
+    "imdb": "tt5457050",
+    "tmdb": 468676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-26",
+  "runtime_minutes": 84
+}

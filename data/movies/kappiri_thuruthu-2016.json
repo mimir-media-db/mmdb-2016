@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kappiri_thuruthu_2016",
+  "title": "Kappiri Thuruthu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964670",
+    "imdb": "tt6129026",
+    "tmdb": 449785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-09"
+}

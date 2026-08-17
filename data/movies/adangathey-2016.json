@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adangathey_2016",
+  "title": "Adangathey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963261",
+    "imdb": "tt7019936",
+    "tmdb": 456281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

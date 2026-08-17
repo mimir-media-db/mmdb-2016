@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guy_from_oklahoma_2016",
+  "title": "The Guy from Oklahoma",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043583",
+    "imdb": "tt5969548"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_metro_2016",
+  "title": "Metro",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706346",
+    "imdb": "tt5833302",
+    "tmdb": 402692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-24"
+}

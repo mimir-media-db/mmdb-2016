@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_boy_2016",
+  "title": "Sweet Boy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303241",
+    "imdb": "tt5002872",
+    "tmdb": 455355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-21"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attenboroughs_life_that_glows_2016",
+  "title": "Attenborough's Life That Glows",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39056734",
+    "imdb": "tt5705966",
+    "tmdb": 397619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

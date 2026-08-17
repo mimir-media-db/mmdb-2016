@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fish_men_2016",
+  "title": "Fish & Men",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26914764",
+    "imdb": "tt3652088",
+    "tmdb": 742236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 120
+}

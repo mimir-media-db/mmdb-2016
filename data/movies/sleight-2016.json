@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sleight_2016",
+  "title": "Sleight",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27049826",
+    "imdb": "tt4573516",
+    "tmdb": 347882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-23"
+}

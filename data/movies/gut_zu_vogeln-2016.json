@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gut_zu_vogeln_2016",
+  "title": "Gut zu Vögeln",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21681007",
+    "imdb": "tt4949254",
+    "tmdb": 372288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-14",
+  "runtime_minutes": 92
+}

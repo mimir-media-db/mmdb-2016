@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_golgotha_2016",
+  "title": "Golgotha",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051097",
+    "imdb": "tt5893368"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

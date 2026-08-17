@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_encore_heureux_2016",
+  "title": "Encore heureux",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22672618",
+    "imdb": "tt4616292",
+    "tmdb": 375897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-27",
+  "runtime_minutes": 93
+}

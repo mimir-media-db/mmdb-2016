@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_britains_biggest_mosque_2016",
+  "title": "Inside Britain's Biggest Mosque",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050443",
+    "imdb": "tt5780590"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 45
+}

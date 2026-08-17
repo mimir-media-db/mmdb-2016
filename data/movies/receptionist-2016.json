@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_receptionist_2016",
+  "title": "The Receptionist",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30947891",
+    "imdb": "tt4486838",
+    "tmdb": 421486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

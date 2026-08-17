@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ljubavni_slucaj_2016",
+  "title": "Ljubavni slučaj",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138748166",
+    "imdb": "tt8077038",
+    "tmdb": 666885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

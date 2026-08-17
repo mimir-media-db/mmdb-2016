@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scandal_2_2016",
+  "title": "The Scandal 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22134334",
+    "imdb": "tt6136616",
+    "tmdb": 420133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-04"
+}

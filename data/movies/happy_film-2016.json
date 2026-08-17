@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_film_2016",
+  "title": "The Happy Film",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24659211",
+    "imdb": "tt5134870",
+    "tmdb": 390298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-05",
+  "runtime_minutes": 93
+}

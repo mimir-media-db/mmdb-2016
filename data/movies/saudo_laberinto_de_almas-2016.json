@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saudo_laberinto_de_almas_2016",
+  "title": "Saudó, laberinto de almas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51885769",
+    "imdb": "tt5190922",
+    "tmdb": 410838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 82
+}

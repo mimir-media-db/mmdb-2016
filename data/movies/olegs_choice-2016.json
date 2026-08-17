@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_olegs_choice_2016",
+  "title": "Oleg's choice",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27966145",
+    "imdb": "tt6965292",
+    "tmdb": 399017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

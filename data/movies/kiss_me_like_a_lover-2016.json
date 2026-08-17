@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kiss_me_like_a_lover_2016",
+  "title": "Kiss Me Like a Lover",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28494295",
+    "imdb": "tt5352908",
+    "tmdb": 418637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-25",
+  "runtime_minutes": 108
+}

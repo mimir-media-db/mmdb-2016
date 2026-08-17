@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blaxploitalian_100_years_of_blackness_in_italian_cinema_2016",
+  "title": "BlaxploItalian: 100 Years of Blackness in Italian Cinema",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042046",
+    "imdb": "tt4056422",
+    "tmdb": 468680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 65
+}

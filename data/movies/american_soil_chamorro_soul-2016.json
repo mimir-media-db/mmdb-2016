@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_soil_chamorro_soul_2016",
+  "title": "American Soil, Chamorro Soul",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043821",
+    "imdb": "tt5026432",
+    "tmdb": 786395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 24
+}

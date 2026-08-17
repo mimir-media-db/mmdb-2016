@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zeigen_was_man_liebt_2016",
+  "title": "Zeigen was man liebt",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26908482",
+    "imdb": "tt5777328",
+    "tmdb": 402923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

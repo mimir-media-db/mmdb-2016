@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enclosure_2016",
+  "title": "Enclosure",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127339349",
+    "imdb": "tt4375268",
+    "tmdb": 405551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 89
+}

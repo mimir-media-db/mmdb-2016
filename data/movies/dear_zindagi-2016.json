@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_zindagi_2016",
+  "title": "Dear Zindagi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807410",
+    "imdb": "tt5946128",
+    "tmdb": 413543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-25",
+  "runtime_minutes": 151
+}

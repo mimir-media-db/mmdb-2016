@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_fine_2016",
+  "title": "We Are Fine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21682651",
+    "imdb": "tt3886104",
+    "tmdb": 430382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28"
+}

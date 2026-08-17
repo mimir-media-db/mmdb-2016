@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agony_2016",
+  "title": "Agony",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23562788",
+    "imdb": "tt4217446",
+    "tmdb": 384086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-13",
+  "runtime_minutes": 93
+}

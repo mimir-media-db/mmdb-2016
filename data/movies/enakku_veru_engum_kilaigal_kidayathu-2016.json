@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enakku_veru_engum_kilaigal_kidayathu_2016",
+  "title": "Enakku Veru Engum Kilaigal Kidayathu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26252742",
+    "imdb": "tt6001910",
+    "tmdb": 371097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-26"
+}

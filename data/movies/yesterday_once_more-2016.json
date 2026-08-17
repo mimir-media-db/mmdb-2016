@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yesterday_once_more_2016",
+  "title": "Yesterday Once More",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24283967",
+    "imdb": "tt5769516",
+    "tmdb": 399460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-22"
+}

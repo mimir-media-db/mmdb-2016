@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadows_of_paradise_2016",
+  "title": "Shadows of Paradise",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057106",
+    "imdb": "tt6085902",
+    "tmdb": 425057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

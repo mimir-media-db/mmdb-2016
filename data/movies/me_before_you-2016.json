@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_before_you_2016",
+  "title": "Me Before You",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20735644",
+    "imdb": "tt2674426",
+    "tmdb": 296096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-16",
+  "runtime_minutes": 123
+}

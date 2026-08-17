@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_albasaeng_2016",
+  "title": "The Albasaeng",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24859247",
+    "tmdb": 398076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-28"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baby_2016",
+  "title": "Baby",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26857832",
+    "imdb": "tt6177820",
+    "tmdb": 1011851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bye_bye_dubai_2016",
+  "title": "Bye Bye Dubai",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26225381",
+    "imdb": "tt31638113",
+    "tmdb": 510792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02"
+}

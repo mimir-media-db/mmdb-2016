@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_manzai_2016",
+  "title": "What's Manzai?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26912066",
+    "imdb": "tt6032978",
+    "tmdb": 463980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 42
+}

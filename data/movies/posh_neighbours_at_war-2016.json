@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_posh_neighbours_at_war_2016",
+  "title": "Posh Neighbours at War",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050712",
+    "imdb": "tt5799514",
+    "tmdb": 1089456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_funerailles_de_lart_de_mourir_2016",
+  "title": "Funérailles (de l'art de mourir)",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55717585",
+    "imdb": "tt6109912",
+    "tmdb": 422558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 97
+}

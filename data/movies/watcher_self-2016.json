@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_watcher_self_2016",
+  "title": "The Watcher Self",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17015736",
+    "imdb": "tt2237012",
+    "tmdb": 427124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-25"
+}

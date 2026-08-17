@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jinsei_no_yakusoku_2016",
+  "title": "Jinsei no yakusoku",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20045018",
+    "imdb": "tt4539136",
+    "tmdb": 400246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-09"
+}

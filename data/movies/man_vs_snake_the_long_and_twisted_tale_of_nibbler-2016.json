@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_vs_snake_the_long_and_twisted_tale_of_nibbler_2016",
+  "title": "Man vs Snake: The Long and Twisted Tale of Nibbler",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807069",
+    "imdb": "tt2933794",
+    "tmdb": 356335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-24",
+  "runtime_minutes": 92
+}

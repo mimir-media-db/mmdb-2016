@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asura_the_city_of_madness_2016",
+  "title": "Asura: The City of Madness",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21059216",
+    "imdb": "tt5918028",
+    "tmdb": 408620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-12",
+  "runtime_minutes": 136
+}

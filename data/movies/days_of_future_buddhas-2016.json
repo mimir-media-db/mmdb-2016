@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_days_of_future_buddhas_2016",
+  "title": "Days of Future Buddhas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27052037",
+    "imdb": "tt5528272",
+    "tmdb": 394451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 53
+}

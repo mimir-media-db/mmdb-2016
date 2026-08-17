@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_catholics_vs_convicts_2016",
+  "title": "Catholics vs. Convicts",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104870146",
+    "imdb": "tt6162216",
+    "tmdb": 419354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

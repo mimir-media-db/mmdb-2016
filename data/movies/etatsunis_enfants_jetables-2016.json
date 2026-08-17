@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_etatsunis_enfants_jetables_2016",
+  "title": "Etats-Unis, enfants jetables",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050597",
+    "imdb": "tt5660566",
+    "tmdb": 433995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

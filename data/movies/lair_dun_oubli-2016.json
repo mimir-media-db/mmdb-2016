@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lair_dun_oubli_2016",
+  "title": "L'Air d'un oubli",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55597524",
+    "imdb": "tt5860054"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

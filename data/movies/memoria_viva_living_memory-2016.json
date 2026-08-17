@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memoria_viva_living_memory_2016",
+  "title": "Memoria Viva (Living Memory)",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25852942",
+    "imdb": "tt5507202",
+    "tmdb": 711362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-14",
+  "runtime_minutes": 120
+}

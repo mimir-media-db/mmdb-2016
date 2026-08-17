@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anuraga_karikkin_vellam_2016",
+  "title": "Anuraga Karikkin Vellam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21198123",
+    "imdb": "tt5375324",
+    "tmdb": 406162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-07"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_amor_e_lindo_porque_sim_2016",
+  "title": "O Amor É Lindo... Porque Sim!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60999967",
+    "imdb": "tt4562260",
+    "tmdb": 364796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

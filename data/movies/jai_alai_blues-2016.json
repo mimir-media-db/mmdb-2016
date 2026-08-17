@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_alai_blues_2016",
+  "title": "Jai Alai Blues",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042207",
+    "imdb": "tt6055012",
+    "tmdb": 424249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 99
+}

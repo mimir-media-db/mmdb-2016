@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tini_the_movie_2016",
+  "title": "Tini: The Movie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21910673",
+    "imdb": "tt5122374",
+    "tmdb": 360365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-23",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_left_on_pearl_2016",
+  "title": "Left on Pearl",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050676",
+    "imdb": "tt5709630",
+    "tmdb": 508111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 55
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naughty_list_2016",
+  "title": "The Naughty List",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28840393",
+    "imdb": "tt5528356",
+    "tmdb": 433039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-22"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hermia_helena_2016",
+  "title": "Hermia & Helena",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26235411",
+    "imdb": "tt5880296",
+    "tmdb": 377279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mahana_2016",
+  "title": "Mahana",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22813587",
+    "imdb": "tt4424228",
+    "tmdb": 371647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-13"
+}

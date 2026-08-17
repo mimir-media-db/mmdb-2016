@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_30_years_of_garbage_the_garbage_pail_kids_story_2016",
+  "title": "30 Years of Garbage: The Garbage Pail Kids Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26828313",
+    "imdb": "tt3711708",
+    "tmdb": 270533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 114
+}

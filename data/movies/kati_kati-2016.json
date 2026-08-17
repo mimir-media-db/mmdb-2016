@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kati_kati_2016",
+  "title": "Kati Kati",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26837751",
+    "imdb": "tt6039442",
+    "tmdb": 413602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-10",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madaari_2016",
+  "title": "Madaari",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24049854",
+    "imdb": "tt5713232",
+    "tmdb": 397365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-10",
+  "runtime_minutes": 133
+}

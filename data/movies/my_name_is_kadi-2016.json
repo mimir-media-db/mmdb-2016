@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_name_is_kadi_2016",
+  "title": "My Name is Kadi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113141252",
+    "imdb": "tt8346608"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

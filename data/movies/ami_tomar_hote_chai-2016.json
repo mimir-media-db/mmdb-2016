@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ami_tomar_hote_chai_2016",
+  "title": "Ami Tomar Hote Chai",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138299273",
+    "imdb": "tt7204312",
+    "tmdb": 1565210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-16"
+}

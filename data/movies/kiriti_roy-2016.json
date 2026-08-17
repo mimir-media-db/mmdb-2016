@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kiriti_roy_2016",
+  "title": "Kiriti Roy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51655469",
+    "imdb": "tt6330220",
+    "tmdb": 436793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

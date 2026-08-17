@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tickled_2016",
+  "title": "Tickled",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24042656",
+    "imdb": "tt5278506",
+    "tmdb": 373072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-17",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yowamushi_pedal_spare_bike_2016",
+  "title": "Yowamushi Pedal: Spare Bike",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111450343",
+    "imdb": "tt17319094",
+    "tmdb": 403895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ouija_origin_of_evil_2016",
+  "title": "Ouija: Origin of Evil",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20979348",
+    "imdb": "tt4361050",
+    "tmdb": 335796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-20",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bell_ringer_the_invisible_brain_injury_2016",
+  "title": "Bell Ringer: The Invisible Brain Injury",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043532",
+    "imdb": "tt4864308"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 56
+}

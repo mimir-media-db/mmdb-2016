@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anhedonia_2016",
+  "title": "Anhedonia",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21695733",
+    "imdb": "tt5566684",
+    "tmdb": 389321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-31",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_take_my_nose_please_2016",
+  "title": "Take My Nose... Please",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26830797",
+    "imdb": "tt4310428",
+    "tmdb": 479552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robert_klein_still_cant_stop_his_leg_2016",
+  "title": "Robert Klein Still Can't Stop His Leg",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039310",
+    "imdb": "tt5579442",
+    "tmdb": 386133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 94
+}

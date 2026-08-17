@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_buona_uscita_2016",
+  "title": "La buona uscita",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28668697",
+    "imdb": "tt4576254",
+    "tmdb": 395693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 97
+}

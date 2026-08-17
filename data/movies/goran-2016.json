@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goran_2016",
+  "title": "Goran",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43528373",
+    "imdb": "tt4757570",
+    "tmdb": 388592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 82
+}

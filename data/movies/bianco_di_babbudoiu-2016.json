@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bianco_di_babbudoiu_2016",
+  "title": "Bianco di Babbudoiu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590172",
+    "imdb": "tt5551590",
+    "tmdb": 388899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 93
+}

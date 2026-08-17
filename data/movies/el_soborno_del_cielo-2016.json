@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_soborno_del_cielo_2016",
+  "title": "El soborno del cielo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37490688",
+    "imdb": "tt4503084",
+    "tmdb": 432300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-17",
+  "runtime_minutes": 90
+}

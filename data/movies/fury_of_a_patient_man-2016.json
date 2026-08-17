@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fury_of_a_patient_man_2016",
+  "title": "The Fury of a Patient Man",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26921375",
+    "imdb": "tt4771896",
+    "tmdb": 411638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

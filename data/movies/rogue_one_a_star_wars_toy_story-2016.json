@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rogue_one_a_star_wars_toy_story_2016",
+  "title": "Rogue One: A Star Wars Toy Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35863374",
+    "imdb": "tt6343680"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

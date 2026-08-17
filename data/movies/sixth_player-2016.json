@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sixth_player_2016",
+  "title": "The Sixth Player",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043795",
+    "imdb": "tt6006672",
+    "tmdb": 840850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 81
+}

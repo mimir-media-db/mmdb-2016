@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_by_a_professional_secrecy_2016",
+  "title": "By a Professional Secrecy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116269859",
+    "imdb": "tt7119492",
+    "tmdb": 435716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kai_2016",
+  "title": "Kai",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55735220",
+    "imdb": "tt5819912",
+    "tmdb": 404007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-17"
+}

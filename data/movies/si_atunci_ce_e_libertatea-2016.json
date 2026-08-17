@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_si_atunci_ce_e_libertatea_2016",
+  "title": "Si atunci, ce e libertatea?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44872351",
+    "imdb": "tt2584702",
+    "tmdb": 767257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 133
+}

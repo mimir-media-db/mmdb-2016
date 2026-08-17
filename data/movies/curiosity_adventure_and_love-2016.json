@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_curiosity_adventure_and_love_2016",
+  "title": "Curiosity, Adventure, and Love",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042102",
+    "imdb": "tt5837046",
+    "tmdb": 404828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-02",
+  "runtime_minutes": 62
+}

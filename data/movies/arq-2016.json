@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arq_2016",
+  "title": "ARQ",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26887323",
+    "imdb": "tt5640450",
+    "tmdb": 410199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-09",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_children_on_the_frontline_the_escape_2016",
+  "title": "Children on the Frontline: The Escape",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26910895",
+    "imdb": "tt5782390"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 48
+}

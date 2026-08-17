@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_tokyo_fairytale_2016",
+  "title": "My Tokyo Fairytale",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33552697",
+    "imdb": "tt5611224"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 24
+}

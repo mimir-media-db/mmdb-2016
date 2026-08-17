@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hardcore_guaranteed_2016",
+  "title": "Hardcore Guaranteed",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26832847",
+    "imdb": "tt5801586"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

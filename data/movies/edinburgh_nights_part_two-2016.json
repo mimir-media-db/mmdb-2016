@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_edinburgh_nights_part_two_2016",
+  "title": "Edinburgh Nights: Part Two",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056705",
+    "imdb": "tt6027654"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

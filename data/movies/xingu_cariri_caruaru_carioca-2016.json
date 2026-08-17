@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_xingu_cariri_caruaru_carioca_2016",
+  "title": "Xingu Cariri Caruaru Carioca",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28680074",
+    "imdb": "tt5127514",
+    "tmdb": 396056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

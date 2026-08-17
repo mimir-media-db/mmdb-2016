@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pies_ligeros_2016",
+  "title": "Pies Ligeros",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042021",
+    "imdb": "tt5970470",
+    "tmdb": 317937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 64
+}

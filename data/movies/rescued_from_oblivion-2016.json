@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rescued_from_oblivion_2016",
+  "title": "Rescued from Oblivion",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27052212",
+    "imdb": "tt5671592"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

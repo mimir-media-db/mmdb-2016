@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adan_buenosayres_la_pelicula_2016",
+  "title": "Adán Buenosayres. La película",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050499",
+    "imdb": "tt5654018",
+    "tmdb": 1206808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 45
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ambarsariya_2016",
+  "title": "Ambarsariya",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095434",
+    "imdb": "tt5565818",
+    "tmdb": 389231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-25"
+}

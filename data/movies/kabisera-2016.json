@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kabisera_2016",
+  "title": "Kabisera",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27957879",
+    "imdb": "tt6271638",
+    "tmdb": 430975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-25"
+}

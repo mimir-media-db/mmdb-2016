@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tere_bin_laaden_2_2016",
+  "title": "Tere Bin Laaden 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254653",
+    "imdb": "tt5313980",
+    "tmdb": 384344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-26"
+}

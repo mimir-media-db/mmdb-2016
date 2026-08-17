@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_afternoon_with_john_michael_capaldi_2016",
+  "title": "An Afternoon with John Michael Capaldi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043613",
+    "imdb": "tt5618304"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 220
+}

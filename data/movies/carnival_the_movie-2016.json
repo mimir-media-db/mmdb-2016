@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carnival_the_movie_2016",
+  "title": "Carnival: The Movie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26833783",
+    "imdb": "tt3462808"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 120
+}

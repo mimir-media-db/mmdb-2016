@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liberation_of_skopje_2016",
+  "title": "The Liberation of Skopje",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25553651",
+    "imdb": "tt4168286",
+    "tmdb": 380139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-13",
+  "runtime_minutes": 110
+}

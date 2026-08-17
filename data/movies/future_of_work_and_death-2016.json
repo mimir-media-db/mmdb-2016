@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_future_of_work_and_death_2016",
+  "title": "The Future of Work and Death",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55394297",
+    "imdb": "tt5142784",
+    "tmdb": 455151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

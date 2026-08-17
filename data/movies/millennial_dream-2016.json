@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_millennial_dream_2016",
+  "title": "The Millennial Dream",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26913035",
+    "imdb": "tt5540536",
+    "tmdb": 412745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 45
+}

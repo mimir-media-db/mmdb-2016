@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_msg_the_warrior_lion_heart_2016",
+  "title": "MSG: The Warrior Lion Heart",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536565",
+    "imdb": "tt6040012",
+    "tmdb": 421969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-07"
+}

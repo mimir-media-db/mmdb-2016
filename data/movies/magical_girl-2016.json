@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magical_girl_2016",
+  "title": "Magical Girl",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16766108",
+    "imdb": "tt3089326",
+    "tmdb": 282983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-12",
+  "runtime_minutes": 127
+}

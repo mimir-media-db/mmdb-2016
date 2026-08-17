@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_held_2016",
+  "title": "De Held",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27861525",
+    "imdb": "tt3522734",
+    "tmdb": 413107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-21",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_navarasa_thilagam_2016",
+  "title": "Navarasa Thilagam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22074988",
+    "imdb": "tt5500928",
+    "tmdb": 382730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-19"
+}

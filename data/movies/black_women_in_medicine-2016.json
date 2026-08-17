@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_women_in_medicine_2016",
+  "title": "Black Women in Medicine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26825359",
+    "imdb": "tt4314934",
+    "tmdb": 412884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 57
+}

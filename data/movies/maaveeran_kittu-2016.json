@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maaveeran_kittu_2016",
+  "title": "Maaveeran Kittu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958067",
+    "imdb": "tt6348566",
+    "tmdb": 412017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-02",
+  "runtime_minutes": 121
+}

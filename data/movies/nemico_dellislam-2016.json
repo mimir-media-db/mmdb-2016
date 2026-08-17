@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nemico_dellislam_2016",
+  "title": "Nemico dell'Islam?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27041801",
+    "imdb": "tt6080900",
+    "tmdb": 847762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

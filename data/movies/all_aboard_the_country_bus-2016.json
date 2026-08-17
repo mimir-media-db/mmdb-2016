@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_aboard_the_country_bus_2016",
+  "title": "All Aboard! The Country Bus",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884747",
+    "imdb": "tt6020078",
+    "tmdb": 418813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 120
+}

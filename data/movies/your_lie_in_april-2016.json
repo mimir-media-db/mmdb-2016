@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_your_lie_in_april_2016",
+  "title": "Your Lie in April",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26810037",
+    "imdb": "tt5672048",
+    "tmdb": 401146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-10",
+  "runtime_minutes": 122
+}

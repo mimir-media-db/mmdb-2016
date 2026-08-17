@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_in_red_bandana_2016",
+  "title": "Man in Red Bandana",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038209",
+    "imdb": "tt4687392",
+    "tmdb": 403106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

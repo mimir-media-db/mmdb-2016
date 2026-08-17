@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mukunda_murari_2016",
+  "title": "Mukunda Murari",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963162",
+    "imdb": "tt5465216",
+    "tmdb": 468329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01"
+}

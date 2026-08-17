@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deux_au_carre_2016",
+  "title": "Deux au carré",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55596613",
+    "imdb": "tt4968748",
+    "tmdb": 416645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-15",
+  "runtime_minutes": 86
+}

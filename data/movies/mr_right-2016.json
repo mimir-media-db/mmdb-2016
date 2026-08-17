@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_right_2016",
+  "title": "Mr. Right",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18377827",
+    "imdb": "tt2091935",
+    "tmdb": 333385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-15",
+  "runtime_minutes": 95
+}

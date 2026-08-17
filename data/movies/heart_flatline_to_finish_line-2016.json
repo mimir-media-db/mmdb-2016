@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_flatline_to_finish_line_2016",
+  "title": "HEART: Flatline to Finish Line",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042010",
+    "imdb": "tt5527000",
+    "tmdb": 398290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

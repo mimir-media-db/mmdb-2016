@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tchernobyl_fukushima_vivre_avec_2016",
+  "title": "Tchernobyl, Fukushima, vivre avec",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050810",
+    "imdb": "tt5699210",
+    "tmdb": 678974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

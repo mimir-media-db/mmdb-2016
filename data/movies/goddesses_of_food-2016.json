@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goddesses_of_food_2016",
+  "title": "The Goddesses of Food",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042921",
+    "imdb": "tt6064228",
+    "tmdb": 466890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 106
+}

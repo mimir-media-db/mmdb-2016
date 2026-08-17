@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaafiron_ki_namaaz_2016",
+  "title": "Kaafiron Ki Namaaz",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24514627",
+    "imdb": "tt3095248",
+    "tmdb": 392390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-07"
+}

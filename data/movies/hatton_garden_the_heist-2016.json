@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hatton_garden_the_heist_2016",
+  "title": "Hatton Garden: the Heist",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112241960",
+    "imdb": "tt5953854",
+    "tmdb": 421768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

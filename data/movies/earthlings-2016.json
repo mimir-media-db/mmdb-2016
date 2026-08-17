@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_earthlings_2016",
+  "title": "Earthlings",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1277684",
+    "imdb": "tt0358456",
+    "tmdb": 30238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-29",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_30_svidaniy_2016",
+  "title": "30 svidaniy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28667328",
+    "imdb": "tt5437194",
+    "tmdb": 380815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

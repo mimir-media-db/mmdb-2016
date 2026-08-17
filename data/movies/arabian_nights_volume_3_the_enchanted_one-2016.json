@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arabian_nights_volume_3_the_enchanted_one_2016",
+  "title": "Arabian Nights: Volume 3 - The Enchanted One",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26269988",
+    "imdb": "tt4692242",
+    "tmdb": 342183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-25",
+  "runtime_minutes": 126
+}

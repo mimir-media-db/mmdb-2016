@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minha_mae_e_uma_peca_2_o_filme_2016",
+  "title": "Minha Mãe é uma Peça 2 - O Filme",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28803031",
+    "imdb": "tt3212812",
+    "tmdb": 227932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-22",
+  "runtime_minutes": 96
+}

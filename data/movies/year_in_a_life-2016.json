@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_year_in_a_life_2016",
+  "title": "A Year in a Life",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056887",
+    "imdb": "tt5645126",
+    "tmdb": 594581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_friendship_2016",
+  "title": "Love & Friendship",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363674",
+    "imdb": "tt3068194",
+    "tmdb": 296360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-13",
+  "runtime_minutes": 92
+}

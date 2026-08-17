@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bastion_2016",
+  "title": "Bastion",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28970937",
+    "imdb": "tt5458650",
+    "tmdb": 612817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-02"
+}

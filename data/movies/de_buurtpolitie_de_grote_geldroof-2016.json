@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_buurtpolitie_de_grote_geldroof_2016",
+  "title": "De Buurtpolitie: De Grote Geldroof",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31202170",
+    "imdb": "tt6214416",
+    "tmdb": 422985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-26",
+  "runtime_minutes": 80
+}

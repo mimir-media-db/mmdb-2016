@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_in_heinola_2016",
+  "title": "Born in Heinola",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26768828",
+    "imdb": "tt5032492",
+    "tmdb": 405203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-07",
+  "runtime_minutes": 111
+}

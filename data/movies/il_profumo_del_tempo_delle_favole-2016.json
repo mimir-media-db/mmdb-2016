@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_profumo_del_tempo_delle_favole_2016",
+  "title": "Il Profumo del Tempo delle Favole",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884123",
+    "imdb": "tt5917326",
+    "tmdb": 416078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 65
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_foolish_plans_2016",
+  "title": "Foolish Plans",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24278885",
+    "imdb": "tt6447734",
+    "tmdb": 405024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-08"
+}

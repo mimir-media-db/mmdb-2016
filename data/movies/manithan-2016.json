@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manithan_2016",
+  "title": "Manithan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22074981",
+    "imdb": "tt5673792",
+    "tmdb": 391276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-29"
+}

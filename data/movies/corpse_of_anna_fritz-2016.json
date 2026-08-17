@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corpse_of_anna_fritz_2016",
+  "title": "The Corpse of Anna Fritz",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19354987",
+    "imdb": "tt4441280",
+    "tmdb": 323372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-26",
+  "runtime_minutes": 76
+}

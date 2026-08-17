@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_2016",
+  "title": "A War",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19590783",
+    "imdb": "tt3830162",
+    "tmdb": 348674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-03",
+  "runtime_minutes": 115
+}

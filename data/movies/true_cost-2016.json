@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_true_cost_2016",
+  "title": "The True Cost",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21643373",
+    "imdb": "tt3162938",
+    "tmdb": 339065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-21",
+  "runtime_minutes": 92
+}

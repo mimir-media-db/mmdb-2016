@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oloibiri_2016",
+  "title": "Oloibiri",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28453282",
+    "imdb": "tt4452274",
+    "tmdb": 376418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-21"
+}

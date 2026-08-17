@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fifth_avenue_a_poem_by_hasan_mujtaba_2016",
+  "title": "Fifth Avenue: A Poem By Hasan Mujtaba",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056907",
+    "imdb": "tt5033052",
+    "tmdb": 571111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 4
+}

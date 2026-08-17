@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daylights_end_2016",
+  "title": "Daylight's End",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46997074",
+    "imdb": "tt3007132",
+    "tmdb": 399894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

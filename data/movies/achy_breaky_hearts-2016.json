@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_achy_breaky_hearts_2016",
+  "title": "The Achy Breaky Hearts",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24707908",
+    "imdb": "tt5755634",
+    "tmdb": 404340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-29",
+  "runtime_minutes": 119
+}

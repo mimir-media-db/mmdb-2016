@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sousa_martins_vida_e_culto_2016",
+  "title": "Sousa Martins: Vida e Culto",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043070",
+    "imdb": "tt5609012",
+    "tmdb": 748226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

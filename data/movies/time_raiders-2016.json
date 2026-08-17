@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_time_raiders_2016",
+  "title": "Time Raiders",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24278848",
+    "imdb": "tt5354664",
+    "tmdb": 411442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-05",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_godspeed_2016",
+  "title": "Godspeed",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27901264",
+    "imdb": "tt5952306",
+    "tmdb": 411005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 111
+}

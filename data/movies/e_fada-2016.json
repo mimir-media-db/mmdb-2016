@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_e_fada_2016",
+  "title": "É Fada!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22000112",
+    "imdb": "tt2495980",
+    "tmdb": 409317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-06",
+  "runtime_minutes": 86
+}

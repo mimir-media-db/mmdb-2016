@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_life_i_dont_want_2016",
+  "title": "My Life I Don't Want",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768656",
+    "imdb": "tt5706358",
+    "tmdb": 469331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

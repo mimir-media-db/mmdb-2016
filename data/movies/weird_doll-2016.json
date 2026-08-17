@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weird_doll_2016",
+  "title": "The Weird Doll",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23013875",
+    "imdb": "tt6447434",
+    "tmdb": 443568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-25"
+}

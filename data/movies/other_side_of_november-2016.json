@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_other_side_of_november_2016",
+  "title": "The Other Side of November",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055361",
+    "imdb": "tt3640140",
+    "tmdb": 506961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 78
+}

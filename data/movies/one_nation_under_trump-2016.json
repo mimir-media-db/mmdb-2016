@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_nation_under_trump_2016",
+  "title": "One Nation Under Trump",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26821174",
+    "imdb": "tt5968156",
+    "tmdb": 412420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 62
+}

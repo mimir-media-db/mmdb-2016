@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arabian_nights_volume_2_the_desolate_one_2016",
+  "title": "Arabian Nights: Volume 2 - The Desolate One",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26269987",
+    "imdb": "tt4692234",
+    "tmdb": 342179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-11",
+  "runtime_minutes": 133
+}

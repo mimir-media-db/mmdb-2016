@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_mistress_2016",
+  "title": "Devil's Mistress",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15951713",
+    "imdb": "tt4240406",
+    "tmdb": 376972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-21",
+  "runtime_minutes": 106
+}

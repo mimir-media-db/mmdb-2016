@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shukranallah_2016",
+  "title": "Shukranallah",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50408250",
+    "imdb": "tt6958978",
+    "tmdb": 470425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

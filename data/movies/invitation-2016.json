@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invitation_2016",
+  "title": "The Invitation",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19627585",
+    "imdb": "tt2400463",
+    "tmdb": 306947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-15",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chamissos_shadow_2016",
+  "title": "Chamisso's Shadow",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23016244",
+    "imdb": "tt5374716",
+    "tmdb": 434210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-12",
+  "runtime_minutes": 718
+}

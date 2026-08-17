@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_at_all_costs_2016",
+  "title": "At All Costs",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48814131",
+    "imdb": "tt3800222",
+    "tmdb": 416122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-30"
+}

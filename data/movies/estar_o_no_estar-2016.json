@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_estar_o_no_estar_2016",
+  "title": "Estar o No Estar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29317144",
+    "imdb": "tt2996710",
+    "tmdb": 317945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

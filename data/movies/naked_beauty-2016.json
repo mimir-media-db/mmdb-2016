@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naked_beauty_2016",
+  "title": "Naked Beauty",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23436369",
+    "imdb": "tt5072466",
+    "tmdb": 391271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abattoir_2016",
+  "title": "Abattoir",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23797181",
+    "imdb": "tt1480285",
+    "tmdb": 245627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-07",
+  "runtime_minutes": 98
+}

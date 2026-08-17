@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_down_loch_anzi_2016",
+  "title": "The Girl Down Loch Änzi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60854199",
+    "imdb": "tt6052060",
+    "tmdb": 455692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

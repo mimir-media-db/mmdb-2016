@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morgan_2016",
+  "title": "Morgan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20026859",
+    "imdb": "tt4520364",
+    "tmdb": 377264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02",
+  "runtime_minutes": 92
+}

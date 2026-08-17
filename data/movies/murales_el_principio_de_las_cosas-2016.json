@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_murales_el_principio_de_las_cosas_2016",
+  "title": "Murales. El principio de las cosas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056647",
+    "imdb": "tt5699074"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 66
+}

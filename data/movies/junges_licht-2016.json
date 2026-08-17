@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_junges_licht_2016",
+  "title": "Junges Licht",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24082706",
+    "imdb": "tt4830708",
+    "tmdb": 388022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-14",
+  "runtime_minutes": 122
+}

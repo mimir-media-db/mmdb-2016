@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_han_solo_a_smugglers_trade_2016",
+  "title": "Han Solo: A Smuggler's Trade",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64683240",
+    "imdb": "tt6342284",
+    "tmdb": 1443556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-11",
+  "runtime_minutes": 14
+}

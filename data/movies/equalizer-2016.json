@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_equalizer_2016",
+  "title": "The Equalizer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26829926",
+    "imdb": "tt4648652",
+    "tmdb": 1227803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

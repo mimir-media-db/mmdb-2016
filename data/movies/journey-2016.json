@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_2016",
+  "title": "The Journey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21527783",
+    "imdb": "tt4826674",
+    "tmdb": 408616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-01"
+}

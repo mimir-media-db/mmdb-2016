@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_braving_the_waves_2016",
+  "title": "Braving the Waves",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043375",
+    "imdb": "tt6058554",
+    "tmdb": 420794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

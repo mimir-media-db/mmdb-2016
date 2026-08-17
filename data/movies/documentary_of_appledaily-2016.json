@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_documentary_of_appledaily_2016",
+  "title": "Documentary Of Appledaily",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28416103",
+    "imdb": "tt5890754",
+    "tmdb": 734332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-13"
+}

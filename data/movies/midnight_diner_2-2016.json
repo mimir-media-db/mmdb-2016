@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_diner_2_2016",
+  "title": "Midnight Diner 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55697322",
+    "imdb": "tt5741902",
+    "tmdb": 429285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-05"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_echos_transpositions_de_signal_2016",
+  "title": "Échos: Transpositions de signal",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122259810"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 11
+}

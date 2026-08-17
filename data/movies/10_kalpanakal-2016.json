@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_10_kalpanakal_2016",
+  "title": "10 Kalpanakal",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27890273",
+    "imdb": "tt6260318",
+    "tmdb": 431891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bayram_abi_2016",
+  "title": "Bayram Abi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703663",
+    "imdb": "tt6133048",
+    "tmdb": 445340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

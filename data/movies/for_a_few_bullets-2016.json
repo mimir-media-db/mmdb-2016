@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_a_few_bullets_2016",
+  "title": "For a Few Bullets",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24278852",
+    "imdb": "tt5882704",
+    "tmdb": 406099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-15",
+  "runtime_minutes": 115
+}

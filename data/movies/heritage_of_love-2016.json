@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heritage_of_love_2016",
+  "title": "The Heritage of Love",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24278861",
+    "imdb": "tt5202654",
+    "tmdb": 390441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-31",
+  "runtime_minutes": 76
+}

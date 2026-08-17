@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amazing_colossal_woman_2016",
+  "title": "The Amazing Colossal Woman",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106708603",
+    "imdb": "tt5632254",
+    "tmdb": 1328651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

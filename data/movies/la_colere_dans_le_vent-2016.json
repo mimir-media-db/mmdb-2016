@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_colere_dans_le_vent_2016",
+  "title": "La Colère dans le vent",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109000262",
+    "imdb": "tt7791198",
+    "tmdb": 478049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

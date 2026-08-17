@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_runner_2016",
+  "title": "The Runner",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17154325",
+    "imdb": "tt3687398",
+    "tmdb": 277546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-15",
+  "runtime_minutes": 86
+}

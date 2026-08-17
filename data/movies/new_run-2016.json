@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_run_2016",
+  "title": "New Run",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113469416",
+    "imdb": "tt6144114",
+    "tmdb": 420690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-12",
+  "runtime_minutes": 68
+}

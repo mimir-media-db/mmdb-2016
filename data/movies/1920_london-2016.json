@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1920_london_2016",
+  "title": "1920 London",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20900098",
+    "imdb": "tt5638500",
+    "tmdb": 392222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-06",
+  "runtime_minutes": 120
+}

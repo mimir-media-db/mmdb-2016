@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fairy_dust_2016",
+  "title": "Fairy Dust",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28123324",
+    "imdb": "tt2582514",
+    "tmdb": 1587699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-31"
+}

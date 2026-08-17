@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gandu_endare_gandu_2016",
+  "title": "Gandu Endare Gandu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925029",
+    "imdb": "tt7915634",
+    "tmdb": 848910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-09"
+}

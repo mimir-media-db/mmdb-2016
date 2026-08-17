@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_manos_del_pasado_2016",
+  "title": "Manos del pasado",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118125190",
+    "imdb": "tt27651523"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

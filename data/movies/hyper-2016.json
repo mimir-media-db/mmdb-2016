@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hyper_2016",
+  "title": "Hyper",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27230377",
+    "imdb": "tt6128292",
+    "tmdb": 419245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-30",
+  "runtime_minutes": 144
+}

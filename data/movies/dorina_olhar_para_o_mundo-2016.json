@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dorina_olhar_para_o_mundo_2016",
+  "title": "Dorina: Olhar Para o Mundo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050387",
+    "imdb": "tt5820100",
+    "tmdb": 1229440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_aman_ke_farishtey_2016",
+  "title": "Aman Ke Farishtey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11169363",
+    "imdb": "tt0364201"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-20"
+}

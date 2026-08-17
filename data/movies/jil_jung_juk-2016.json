@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jil_jung_juk_2016",
+  "title": "Jil Jung Juk",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22315051",
+    "imdb": "tt5459644",
+    "tmdb": 366148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-12"
+}

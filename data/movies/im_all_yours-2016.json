@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_all_yours_2016",
+  "title": "I'm All Yours",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009167",
+    "imdb": "tt4025194",
+    "tmdb": 352188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-14",
+  "runtime_minutes": 100
+}

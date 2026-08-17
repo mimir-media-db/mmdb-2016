@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ghana_must_go_2016",
+  "title": "Ghana Must Go",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28453283",
+    "imdb": "tt10508526"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-04"
+}

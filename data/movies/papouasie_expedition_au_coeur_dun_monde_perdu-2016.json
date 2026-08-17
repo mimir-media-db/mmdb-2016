@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_papouasie_expedition_au_coeur_dun_monde_perdu_2016",
+  "title": "Papouasie, expédition au coeur d'un monde perdu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056976",
+    "imdb": "tt5836750",
+    "tmdb": 706447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

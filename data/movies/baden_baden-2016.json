@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baden_baden_2016",
+  "title": "Baden Baden",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22683487",
+    "imdb": "tt4216890",
+    "tmdb": 340616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-12",
+  "runtime_minutes": 96
+}

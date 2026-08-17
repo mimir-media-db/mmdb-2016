@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_candidato_2016",
+  "title": "El Candidato",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60669853",
+    "imdb": "tt5859400",
+    "tmdb": 408294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-21"
+}

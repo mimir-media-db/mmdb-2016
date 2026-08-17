@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dilwale_2016",
+  "title": "Dilwale",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19264035",
+    "imdb": "tt4535650",
+    "tmdb": 370665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-07",
+  "runtime_minutes": 154
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_30_years_ago_2016",
+  "title": "30 Years Ago",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27907930",
+    "imdb": "tt5680626",
+    "tmdb": 415817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-06"
+}

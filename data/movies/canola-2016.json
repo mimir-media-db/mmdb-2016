@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_canola_2016",
+  "title": "Canola",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21057627",
+    "imdb": "tt6135036",
+    "tmdb": 387886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-19"
+}

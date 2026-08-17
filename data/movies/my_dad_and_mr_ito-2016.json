@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_dad_and_mr_ito_2016",
+  "title": "My Dad and Mr. Ito",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536757",
+    "imdb": "tt5461596",
+    "tmdb": 443189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-08",
+  "runtime_minutes": 119
+}

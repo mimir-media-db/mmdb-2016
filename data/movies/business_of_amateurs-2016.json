@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_business_of_amateurs_2016",
+  "title": "The Business of Amateurs",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26828269",
+    "imdb": "tt4295602",
+    "tmdb": 408552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 89
+}

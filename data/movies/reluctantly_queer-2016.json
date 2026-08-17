@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reluctantly_queer_2016",
+  "title": "Reluctantly Queer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130937912",
+    "imdb": "tt5028880",
+    "tmdb": 390416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 8
+}

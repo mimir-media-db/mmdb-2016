@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_annmaria_kalippilanu_2016",
+  "title": "Annmaria Kalippilanu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999953",
+    "imdb": "tt5838806",
+    "tmdb": 411053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_chromite_2016",
+  "title": "Operation Chromite",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21780588",
+    "imdb": "tt4939066",
+    "tmdb": 407887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-27",
+  "runtime_minutes": 111
+}

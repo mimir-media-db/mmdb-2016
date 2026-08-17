@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shooting_clerks_2016",
+  "title": "Shooting Clerks",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811633",
+    "imdb": "tt3449200",
+    "tmdb": 326035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-10"
+}

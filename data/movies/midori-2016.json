@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midori_2016",
+  "title": "Midori",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125580332",
+    "imdb": "tt4876334",
+    "tmdb": 394315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

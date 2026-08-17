@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_earth_is_flat_2016",
+  "title": "The Earth is Flat",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115640629",
+    "imdb": "tt7888468",
+    "tmdb": 734930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-01"
+}

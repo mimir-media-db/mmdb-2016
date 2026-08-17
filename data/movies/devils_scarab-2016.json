@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_scarab_2016",
+  "title": "The Devil's Scarab",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27996392",
+    "imdb": "tt5341056",
+    "tmdb": 324463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 102
+}

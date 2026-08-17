@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deutschland_made_by_germany_2016",
+  "title": "Deutschland. Made by Germany",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25550740",
+    "imdb": "tt5180906",
+    "tmdb": 400598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-14",
+  "runtime_minutes": 99
+}

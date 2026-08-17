@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_better_off_single_2016",
+  "title": "Better Off Single",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245414",
+    "imdb": "tt2081374",
+    "tmdb": 333358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-06"
+}

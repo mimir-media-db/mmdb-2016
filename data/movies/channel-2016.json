@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_channel_2016",
+  "title": "The Channel",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32859490",
+    "imdb": "tt2581480",
+    "tmdb": 384687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

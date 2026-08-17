@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elvis_lives_2016",
+  "title": "Elvis Lives!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64584870",
+    "imdb": "tt5748998",
+    "tmdb": 414866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-16",
+  "runtime_minutes": 82
+}

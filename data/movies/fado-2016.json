@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fado_2016",
+  "title": "Fado",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27941637",
+    "imdb": "tt4131594",
+    "tmdb": 326381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-01",
+  "runtime_minutes": 101
+}

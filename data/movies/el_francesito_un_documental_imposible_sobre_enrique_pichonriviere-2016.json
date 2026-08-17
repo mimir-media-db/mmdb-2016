@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_francesito_un_documental_imposible_sobre_enrique_pichonriviere_2016",
+  "title": "El francesito. Un documental (im)posible sobre Enrique Pichón-Riviere",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039277",
+    "imdb": "tt5698920",
+    "tmdb": 420306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

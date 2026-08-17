@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abortion_stories_women_tell_2016",
+  "title": "Abortion: Stories Women Tell",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26830122",
+    "imdb": "tt5591746",
+    "tmdb": 390590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

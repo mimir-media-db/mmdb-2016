@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_days_of_our_own_2016",
+  "title": "Days of Our Own",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963165",
+    "imdb": "tt6449114",
+    "tmdb": 465562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02"
+}

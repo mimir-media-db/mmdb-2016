@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_batman_v_superman_dawn_of_justice_ultimate_edition_2016",
+  "title": "Batman v Superman: Dawn of Justice – Ultimate Edition",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111956660"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 182
+}

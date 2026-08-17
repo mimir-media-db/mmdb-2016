@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beat_beat_heart_2016",
+  "title": "Beat Beat Heart",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25909938",
+    "imdb": "tt5778098",
+    "tmdb": 402848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 86
+}

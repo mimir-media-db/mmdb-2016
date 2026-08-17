@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iqbal_the_superchip_2016",
+  "title": "Iqbal & The Superchip",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28790835",
+    "imdb": "tt5822910",
+    "tmdb": 430768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-15",
+  "runtime_minutes": 83
+}

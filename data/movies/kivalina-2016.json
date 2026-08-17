@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kivalina_2016",
+  "title": "Kivalina",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26835782",
+    "imdb": "tt5492038",
+    "tmdb": 426319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

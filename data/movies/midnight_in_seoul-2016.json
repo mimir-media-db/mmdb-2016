@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_in_seoul_2016",
+  "title": "Midnight in Seoul",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21577120",
+    "imdb": "tt6769930",
+    "tmdb": 468611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lami_francois_dassise_et_ses_freres_2016",
+  "title": "L'ami - François d'Assise et ses frères",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590309",
+    "imdb": "tt5096600",
+    "tmdb": 419331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-04",
+  "runtime_minutes": 88
+}

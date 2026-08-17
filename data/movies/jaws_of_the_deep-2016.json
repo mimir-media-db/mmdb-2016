@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jaws_of_the_deep_2016",
+  "title": "Jaws of the Deep",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26908486",
+    "imdb": "tt5841256"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

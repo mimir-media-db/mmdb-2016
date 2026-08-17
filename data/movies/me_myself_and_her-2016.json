@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_myself_and_her_2016",
+  "title": "Me, Myself and Her",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20747821",
+    "imdb": "tt4703676",
+    "tmdb": 362155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-19",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sinbad_and_the_war_of_the_furies_2016",
+  "title": "Sinbad And The War Of The Furies",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114877272",
+    "imdb": "tt6231588",
+    "tmdb": 431643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

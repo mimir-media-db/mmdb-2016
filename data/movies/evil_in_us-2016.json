@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evil_in_us_2016",
+  "title": "The Evil in Us",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28699835",
+    "imdb": "tt4035898",
+    "tmdb": 396004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_berta_vive_2016",
+  "title": "Berta vive",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137826091",
+    "imdb": "tt12681034"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-11",
+  "runtime_minutes": 30
+}

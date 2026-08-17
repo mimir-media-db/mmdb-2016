@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gadgetgang_in_outer_space_2016",
+  "title": "GadgetGang in Outer Space",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28678515",
+    "imdb": "tt5812510",
+    "tmdb": 441601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 86
+}

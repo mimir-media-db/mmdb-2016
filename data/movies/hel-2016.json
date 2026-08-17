@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hel_2016",
+  "title": "Hel",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28675897",
+    "imdb": "tt3953260",
+    "tmdb": 429547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-05"
+}

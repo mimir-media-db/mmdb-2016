@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_woods_2016",
+  "title": "Beyond the Woods",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59677140",
+    "imdb": "tt5060166",
+    "tmdb": 417611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

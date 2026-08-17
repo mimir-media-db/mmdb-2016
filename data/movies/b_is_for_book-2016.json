@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_b_is_for_book_2016",
+  "title": "B Is for Book",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26911902",
+    "imdb": "tt5873990",
+    "tmdb": 587390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 59
+}

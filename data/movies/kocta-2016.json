@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kocta_2016",
+  "title": "Kocta",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132396829",
+    "imdb": "tt31080242"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-04"
+}

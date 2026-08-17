@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_tetes_de_lemploi_2016",
+  "title": "Les têtes de l'emploi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27882965",
+    "imdb": "tt5666160",
+    "tmdb": 419772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-16",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_cities_of_the_north_2016",
+  "title": "All the Cities of the North",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31182756",
+    "imdb": "tt5641192",
+    "tmdb": 405983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 97
+}

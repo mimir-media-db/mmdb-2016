@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaputt_2016",
+  "title": "Kaputt",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28653648",
+    "imdb": "tt5389642",
+    "tmdb": 403795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 7
+}

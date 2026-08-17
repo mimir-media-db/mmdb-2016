@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chuttalabbai_2016",
+  "title": "Chuttalabbai",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720694",
+    "imdb": "tt6070344",
+    "tmdb": 434296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-19"
+}

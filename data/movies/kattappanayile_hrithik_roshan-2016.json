@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kattappanayile_hrithik_roshan_2016",
+  "title": "Kattappanayile Hrithik Roshan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963040",
+    "imdb": "tt5598764",
+    "tmdb": 427012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-18"
+}

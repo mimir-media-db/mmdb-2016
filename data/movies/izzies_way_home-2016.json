@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_izzies_way_home_2016",
+  "title": "Izzie's Way Home",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963248",
+    "imdb": "tt5667482",
+    "tmdb": 398362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-17"
+}

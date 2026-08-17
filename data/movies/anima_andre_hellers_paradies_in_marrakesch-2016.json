@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anima_andre_hellers_paradies_in_marrakesch_2016",
+  "title": "Anima: André Hellers Paradies in Marrakesch",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27052271",
+    "imdb": "tt5684922"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 26
+}

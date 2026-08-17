@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krampus_the_devil_returns_2016",
+  "title": "Krampus: The Devil Returns",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43302269",
+    "imdb": "tt3527772",
+    "tmdb": 419548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-04",
+  "runtime_minutes": 83
+}

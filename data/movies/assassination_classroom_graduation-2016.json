@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assassination_classroom_graduation_2016",
+  "title": "Assassination Classroom: Graduation",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23762900",
+    "imdb": "tt4641264",
+    "tmdb": 359628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-25",
+  "runtime_minutes": 118
+}

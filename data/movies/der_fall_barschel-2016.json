@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_fall_barschel_2016",
+  "title": "Der Fall Barschel",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22668975",
+    "imdb": "tt3644574",
+    "tmdb": 967994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-06",
+  "runtime_minutes": 177
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_girls_weekend_2016",
+  "title": "All Girls Weekend",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66777014",
+    "imdb": "tt4247682",
+    "tmdb": 405932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-12",
+  "runtime_minutes": 85
+}

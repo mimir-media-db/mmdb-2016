@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_because_were_heading_out_2016",
+  "title": "Because We're Heading Out",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27907948",
+    "imdb": "tt6086714",
+    "tmdb": 445841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-12",
+  "runtime_minutes": 99
+}

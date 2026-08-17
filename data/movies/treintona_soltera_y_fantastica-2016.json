@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_treintona_soltera_y_fantastica_2016",
+  "title": "Treintona, soltera y fantástica",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27888463",
+    "imdb": "tt4829436",
+    "tmdb": 375788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 96
+}

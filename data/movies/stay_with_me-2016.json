@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stay_with_me_2016",
+  "title": "Stay with Me",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22974590",
+    "imdb": "tt4702610",
+    "tmdb": 383582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28"
+}

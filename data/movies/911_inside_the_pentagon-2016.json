@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_911_inside_the_pentagon_2016",
+  "title": "9/11 Inside the Pentagon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884100",
+    "imdb": "tt6017184",
+    "tmdb": 413691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 54
+}

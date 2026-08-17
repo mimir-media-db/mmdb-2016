@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brantsi_2016",
+  "title": "Brantsi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576071",
+    "imdb": "tt5114626",
+    "tmdb": 490333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-15",
+  "runtime_minutes": 88
+}

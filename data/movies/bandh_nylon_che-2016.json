@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bandh_nylon_che_2016",
+  "title": "Bandh Nylon Che",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24904958",
+    "imdb": "tt5206784",
+    "tmdb": 537897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-29",
+  "runtime_minutes": 135
+}

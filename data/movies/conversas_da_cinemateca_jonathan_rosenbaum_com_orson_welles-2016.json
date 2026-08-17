@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_conversas_da_cinemateca_jonathan_rosenbaum_com_orson_welles_2016",
+  "title": "Conversas da Cinemateca: Jonathan Rosenbaum com Orson Welles",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057251",
+    "imdb": "tt5843874"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

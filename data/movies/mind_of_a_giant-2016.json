@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mind_of_a_giant_2016",
+  "title": "Mind of a Giant",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26914513",
+    "imdb": "tt6007094",
+    "tmdb": 781656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 45
+}

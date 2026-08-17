@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phantom_detective_2016",
+  "title": "Phantom Detective",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20444431",
+    "imdb": "tt5644726",
+    "tmdb": 394170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-04",
+  "runtime_minutes": 126
+}

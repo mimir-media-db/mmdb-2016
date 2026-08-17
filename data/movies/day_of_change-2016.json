@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_change_2016",
+  "title": "Day of Change",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057511",
+    "imdb": "tt5690556"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 23
+}

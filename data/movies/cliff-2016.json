@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cliff_2016",
+  "title": "The Cliff",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37760392",
+    "imdb": "tt4176928",
+    "tmdb": 393158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

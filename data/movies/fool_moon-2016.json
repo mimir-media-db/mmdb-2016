@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fool_moon_2016",
+  "title": "Fool Moon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23984335",
+    "imdb": "tt4976628",
+    "tmdb": 394139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-17",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_you_a_divorce_comedy_2016",
+  "title": "I Love You - A Divorce Comedy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29384618",
+    "imdb": "tt5183654",
+    "tmdb": 417015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-30",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gray_matters_2016",
+  "title": "Gray Matters",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28501051",
+    "imdb": "tt3296248",
+    "tmdb": 431361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-28"
+}

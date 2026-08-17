@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_amor_no_diva_2016",
+  "title": "O Amor no Divã",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52429588",
+    "imdb": "tt5820146",
+    "tmdb": 428327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

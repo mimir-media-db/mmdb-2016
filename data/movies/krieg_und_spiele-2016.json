@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_krieg_und_spiele_2016",
+  "title": "Krieg und Spiele",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26214136",
+    "imdb": "tt6864000",
+    "tmdb": 412423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-18"
+}

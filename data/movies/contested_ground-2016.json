@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_contested_ground_2016",
+  "title": "Contested Ground",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26832583",
+    "imdb": "tt5979784",
+    "tmdb": 624341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 47
+}

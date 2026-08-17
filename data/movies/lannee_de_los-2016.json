@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lannee_de_los_2016",
+  "title": "L'Année de l'os",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59617395"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 7
+}

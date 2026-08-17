@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saat_kadam_2016",
+  "title": "Saat Kadam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959513",
+    "imdb": "tt5472700",
+    "tmdb": 809773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

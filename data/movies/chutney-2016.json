@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chutney_2016",
+  "title": "Chutney",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30604130",
+    "imdb": "tt6289266",
+    "tmdb": 460848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 17
+}

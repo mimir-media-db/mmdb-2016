@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_zevende_hemel_2016",
+  "title": "De zevende hemel",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27995466",
+    "imdb": "tt5320518",
+    "tmdb": 420590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-14",
+  "runtime_minutes": 106
+}

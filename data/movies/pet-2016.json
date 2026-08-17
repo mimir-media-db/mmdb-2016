@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pet_2016",
+  "title": "Pet",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22905746",
+    "imdb": "tt1183374",
+    "tmdb": 353979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-11",
+  "runtime_minutes": 94
+}

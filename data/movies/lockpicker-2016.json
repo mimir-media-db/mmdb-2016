@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lockpicker_2016",
+  "title": "The Lockpicker",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60197069",
+    "imdb": "tt4331776",
+    "tmdb": 419034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-16"
+}

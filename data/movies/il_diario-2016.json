@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_diario_2016",
+  "title": "Il diario",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125060096",
+    "imdb": "tt4910670",
+    "tmdb": 511048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

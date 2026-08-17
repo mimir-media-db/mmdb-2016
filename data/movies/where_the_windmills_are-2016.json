@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_the_windmills_are_2016",
+  "title": "Where the Windmills Are",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31470683",
+    "imdb": "tt5271304",
+    "tmdb": 491450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-27",
+  "runtime_minutes": 85
+}

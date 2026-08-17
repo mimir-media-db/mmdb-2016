@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_afar_2016",
+  "title": "From Afar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20747599",
+    "imdb": "tt4721400",
+    "tmdb": 352162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-30",
+  "runtime_minutes": 93
+}

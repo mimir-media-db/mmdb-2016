@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deserted_2016",
+  "title": "Deserted",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672571",
+    "imdb": "tt2461030",
+    "tmdb": 367807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-06"
+}

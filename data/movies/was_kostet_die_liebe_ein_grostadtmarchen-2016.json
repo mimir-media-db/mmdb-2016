@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_was_kostet_die_liebe_ein_grostadtmarchen_2016",
+  "title": "Was kostet die Liebe? - Ein Großstadtmärchen",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27685945",
+    "imdb": "tt5076290",
+    "tmdb": 392798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-01",
+  "runtime_minutes": 84
+}

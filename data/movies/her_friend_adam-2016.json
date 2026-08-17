@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_her_friend_adam_2016",
+  "title": "Her Friend Adam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66764347",
+    "imdb": "tt5120094",
+    "tmdb": 380274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-22",
+  "runtime_minutes": 17
+}

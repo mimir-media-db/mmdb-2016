@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_plains_2016",
+  "title": "Great Plains",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30748586",
+    "imdb": "tt4941722",
+    "tmdb": 398111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-21"
+}

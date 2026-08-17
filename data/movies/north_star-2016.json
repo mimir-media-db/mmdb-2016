@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_north_star_2016",
+  "title": "The North Star",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61911122",
+    "imdb": "tt2515134",
+    "tmdb": 387308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

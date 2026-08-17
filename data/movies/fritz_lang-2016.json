@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fritz_lang_2016",
+  "title": "Fritz Lang",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23718750",
+    "imdb": "tt5520618",
+    "tmdb": 386100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-14",
+  "runtime_minutes": 104
+}

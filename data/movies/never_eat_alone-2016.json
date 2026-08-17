@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_never_eat_alone_2016",
+  "title": "Never Eat Alone",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66828716",
+    "imdb": "tt5973370",
+    "tmdb": 419239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

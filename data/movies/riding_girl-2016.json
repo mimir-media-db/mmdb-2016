@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_riding_girl_2016",
+  "title": "Riding Girl",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840846",
+    "tmdb": 429975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-11"
+}

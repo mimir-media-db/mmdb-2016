@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_watercolor_artists_of_ocean_springs_2016",
+  "title": "Watercolor – Artists of Ocean Springs",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27052343",
+    "imdb": "tt6052072"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 21
+}

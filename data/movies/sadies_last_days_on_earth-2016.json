@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sadies_last_days_on_earth_2016",
+  "title": "Sadie's Last Days on Earth",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38463489",
+    "imdb": "tt5777802",
+    "tmdb": 427673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-09"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_falsely_accused_2016",
+  "title": "Falsely Accused",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62507613",
+    "imdb": "tt3960584",
+    "tmdb": 283521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 81
+}

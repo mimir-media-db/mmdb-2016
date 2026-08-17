@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everydays_lie_2016",
+  "title": "Everyday’s Lie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25451879",
+    "imdb": "tt6448698",
+    "tmdb": 406565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-20"
+}

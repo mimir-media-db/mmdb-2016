@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pilgrim_2016",
+  "title": "The Pilgrim",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18043331",
+    "imdb": "tt3006814",
+    "tmdb": 228176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-25",
+  "runtime_minutes": 112
+}

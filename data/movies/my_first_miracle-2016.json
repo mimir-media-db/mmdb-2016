@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_first_miracle_2016",
+  "title": "My First Miracle",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27942960",
+    "imdb": "tt3967826",
+    "tmdb": 493511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

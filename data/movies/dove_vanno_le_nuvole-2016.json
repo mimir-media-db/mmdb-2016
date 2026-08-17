@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dove_vanno_le_nuvole_2016",
+  "title": "Dove vanno le nuvole",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50330400",
+    "imdb": "tt6638500"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

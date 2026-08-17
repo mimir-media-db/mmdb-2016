@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ventilator_2016",
+  "title": "Ventilator",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27957824",
+    "imdb": "tt6120548",
+    "tmdb": 426024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-04"
+}

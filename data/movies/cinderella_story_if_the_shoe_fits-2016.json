@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinderella_story_if_the_shoe_fits_2016",
+  "title": "A Cinderella Story: If the Shoe Fits",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755501",
+    "imdb": "tt5822648",
+    "tmdb": 407655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-02",
+  "runtime_minutes": 93
+}

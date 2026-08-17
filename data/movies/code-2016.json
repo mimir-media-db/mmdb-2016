@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_code_2016",
+  "title": "CODE",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28413496",
+    "imdb": "tt7862562",
+    "tmdb": 516738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01"
+}

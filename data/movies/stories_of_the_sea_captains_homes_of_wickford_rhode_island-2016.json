@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stories_of_the_sea_captains_homes_of_wickford_rhode_island_2016",
+  "title": "Stories of the Sea Captains' Homes of Wickford, Rhode Island",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050440",
+    "imdb": "tt5723468"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 54
+}

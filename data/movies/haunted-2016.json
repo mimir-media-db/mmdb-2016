@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_2016",
+  "title": "Haunted",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27902239",
+    "imdb": "tt3868406",
+    "tmdb": 314523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-24",
+  "runtime_minutes": 112
+}

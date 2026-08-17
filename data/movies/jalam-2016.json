@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jalam_2016",
+  "title": "Jalam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20992411",
+    "imdb": "tt5298910",
+    "tmdb": 371079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28"
+}

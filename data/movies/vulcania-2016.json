@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vulcania_2016",
+  "title": "Vulcania",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98506288",
+    "imdb": "tt2392451",
+    "tmdb": 342684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-04",
+  "runtime_minutes": 92
+}

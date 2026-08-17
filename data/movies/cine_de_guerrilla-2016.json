@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cine_de_guerrilla_2016",
+  "title": "Cine de guerrilla",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29259820",
+    "imdb": "tt6358660",
+    "tmdb": 478437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 70
+}

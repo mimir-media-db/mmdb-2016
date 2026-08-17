@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_veju_zeme_2016",
+  "title": "Veju zeme",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27040537",
+    "imdb": "tt5510042",
+    "tmdb": 817431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 51
+}

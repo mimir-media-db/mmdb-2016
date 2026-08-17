@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_traded_2016",
+  "title": "Traded",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964464",
+    "imdb": "tt5255524",
+    "tmdb": 398265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-10"
+}

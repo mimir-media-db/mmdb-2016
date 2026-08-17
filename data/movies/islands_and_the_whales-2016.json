@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_islands_and_the_whales_2016",
+  "title": "The Islands and the Whales",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884359",
+    "imdb": "tt5746140",
+    "tmdb": 394442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

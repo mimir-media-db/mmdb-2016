@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pekak_2016",
+  "title": "Pekak",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27068011",
+    "imdb": "tt4810104",
+    "tmdb": 414101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-17"
+}

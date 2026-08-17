@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mere_ocean_2016",
+  "title": "Mère Océan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56311448",
+    "imdb": "tt6181072",
+    "tmdb": 434446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_90_minute_war_2016",
+  "title": "The 90 Minute War",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25541603",
+    "imdb": "tt4967126",
+    "tmdb": 398368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-30",
+  "runtime_minutes": 90
+}

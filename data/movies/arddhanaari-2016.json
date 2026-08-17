@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arddhanaari_2016",
+  "title": "Arddhanaari",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25344363",
+    "imdb": "tt5867416",
+    "tmdb": 413721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-01"
+}

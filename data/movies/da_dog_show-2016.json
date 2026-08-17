@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_da_dog_show_2016",
+  "title": "Da Dog Show",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27670858",
+    "imdb": "tt3865084",
+    "tmdb": 346794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-06",
+  "runtime_minutes": 92
+}

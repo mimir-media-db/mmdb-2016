@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_main_teri_tu_mera_2016",
+  "title": "Main Teri Tu Mera",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999718",
+    "imdb": "tt5851492",
+    "tmdb": 418022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-19"
+}

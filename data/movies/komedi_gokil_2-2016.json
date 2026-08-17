@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_komedi_gokil_2_2016",
+  "title": "Komedi Gokil 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25470376",
+    "imdb": "tt11646334",
+    "tmdb": 413508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-12",
+  "runtime_minutes": 93
+}

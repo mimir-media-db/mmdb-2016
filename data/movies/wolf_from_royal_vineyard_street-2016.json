@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_from_royal_vineyard_street_2016",
+  "title": "The Wolf from Royal Vineyard Street",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25301499",
+    "imdb": "tt5135810",
+    "tmdb": 405765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-02",
+  "runtime_minutes": 75
+}

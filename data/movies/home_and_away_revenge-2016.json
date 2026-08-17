@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_home_and_away_revenge_2016",
+  "title": "Home and Away: Revenge",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28043063",
+    "imdb": "tt6677802",
+    "tmdb": 939056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

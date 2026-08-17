@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aya_wal_bahr_2016",
+  "title": "Aya wal bahr",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61856785",
+    "imdb": "tt5461382",
+    "tmdb": 416283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-05",
+  "runtime_minutes": 17
+}

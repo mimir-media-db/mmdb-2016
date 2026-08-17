@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_hunting_2016",
+  "title": "Happy Hunting",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964311",
+    "imdb": "tt5189770",
+    "tmdb": 412762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-21"
+}

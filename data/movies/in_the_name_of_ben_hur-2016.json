@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_name_of_ben_hur_2016",
+  "title": "In the Name of Ben Hur",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64578027",
+    "imdb": "tt5582876",
+    "tmdb": 401697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-02",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_11th_grade_2016",
+  "title": "The 11th Grade",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22945833",
+    "imdb": "tt5420878",
+    "tmdb": 433230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-29",
+  "runtime_minutes": 84
+}

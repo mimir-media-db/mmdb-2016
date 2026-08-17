@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_audrie_daisy_2016",
+  "title": "Audrie & Daisy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22343547",
+    "imdb": "tt5278460",
+    "tmdb": 376228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-25",
+  "runtime_minutes": 95
+}

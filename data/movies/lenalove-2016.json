@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lenalove_2016",
+  "title": "LenaLove",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646289",
+    "imdb": "tt3203502",
+    "tmdb": 410924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-17",
+  "runtime_minutes": 95
+}

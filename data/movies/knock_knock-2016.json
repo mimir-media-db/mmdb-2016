@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knock_knock_2016",
+  "title": "Knock Knock",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18151446",
+    "imdb": "tt3605418",
+    "tmdb": 263472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-07",
+  "runtime_minutes": 99
+}

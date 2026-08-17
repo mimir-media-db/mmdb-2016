@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_no_problem_2016",
+  "title": "Mr No Problem",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28088075",
+    "imdb": "tt6128782",
+    "tmdb": 418383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

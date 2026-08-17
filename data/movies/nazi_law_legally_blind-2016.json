@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nazi_law_legally_blind_2016",
+  "title": "Nazi Law: Legally Blind",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643466",
+    "imdb": "tt10549012",
+    "tmdb": 784820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

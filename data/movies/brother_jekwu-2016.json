@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brother_jekwu_2016",
+  "title": "Brother Jekwu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113186040",
+    "imdb": "tt8857316",
+    "tmdb": 860098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 103
+}

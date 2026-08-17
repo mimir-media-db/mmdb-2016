@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_athirah_2016",
+  "title": "Athirah",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27824597",
+    "imdb": "tt5935682",
+    "tmdb": 410658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-29"
+}

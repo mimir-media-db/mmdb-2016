@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ho_amici_in_paradiso_2016",
+  "title": "Ho amici in paradiso",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28671051",
+    "imdb": "tt5813568",
+    "tmdb": 438752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_4th_company_2016",
+  "title": "The 4th Company",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963258",
+    "imdb": "tt2197926",
+    "tmdb": 264402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-06",
+  "runtime_minutes": 109
+}

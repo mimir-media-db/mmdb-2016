@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clase_valiente_el_poder_de_las_palabras_2016",
+  "title": "Clase valiente: El poder de las palabras",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98961442",
+    "imdb": "tt6216198",
+    "tmdb": 462998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-24",
+  "runtime_minutes": 72
+}

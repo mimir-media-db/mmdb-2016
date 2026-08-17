@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_campus_ampasayya_2016",
+  "title": "Campus Ampasayya",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61409231",
+    "imdb": "tt8188682"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_charles_pathe_et_leon_gaumont_premiers_geants_du_cinema_2016",
+  "title": "Charles Pathé et Léon Gaumont, premiers géants du cinéma",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26834165",
+    "imdb": "tt5970960",
+    "tmdb": 469324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 86
+}

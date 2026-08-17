@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_schirkoa_2016",
+  "title": "Schirkoa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44491803",
+    "imdb": "tt5823554",
+    "tmdb": 438554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rebecca_2016",
+  "title": "Rebecca",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28223440",
+    "imdb": "tt4828926",
+    "tmdb": 527570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-22",
+  "runtime_minutes": 85
+}

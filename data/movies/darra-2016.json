@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_darra_2016",
+  "title": "Darra",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958333",
+    "imdb": "tt5926848",
+    "tmdb": 462879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nice_guys_2016",
+  "title": "The Nice Guys",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18415459",
+    "imdb": "tt3799694",
+    "tmdb": 290250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-15",
+  "runtime_minutes": 116
+}

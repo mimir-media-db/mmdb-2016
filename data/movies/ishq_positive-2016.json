@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ishq_positive_2016",
+  "title": "Ishq Positive",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23647099",
+    "imdb": "tt5582336",
+    "tmdb": 407599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-22"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_damocles_2016",
+  "title": "Damoclès",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28496889",
+    "imdb": "tt6081712",
+    "tmdb": 417500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

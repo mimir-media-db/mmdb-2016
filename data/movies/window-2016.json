@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_window_2016",
+  "title": "The Window",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56389198",
+    "imdb": "tt5539350",
+    "tmdb": 656012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-12"
+}

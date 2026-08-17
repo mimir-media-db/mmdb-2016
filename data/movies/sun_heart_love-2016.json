@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_heart_love_2016",
+  "title": "Sun, Heart, Love",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29560852",
+    "imdb": "tt5903708",
+    "tmdb": 419878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 113
+}

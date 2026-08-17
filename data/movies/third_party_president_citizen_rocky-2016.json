@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_third_party_president_citizen_rocky_2016",
+  "title": "Third Party President: Citizen Rocky",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038197",
+    "imdb": "tt1326197",
+    "tmdb": 369576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

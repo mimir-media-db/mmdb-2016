@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_siege_of_jadotville_2016",
+  "title": "The Siege of Jadotville",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27149578",
+    "imdb": "tt3922798",
+    "tmdb": 334517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 108
+}

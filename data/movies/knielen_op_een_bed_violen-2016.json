@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knielen_op_een_bed_violen_2016",
+  "title": "Knielen op een bed violen",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23368842",
+    "imdb": "tt2496758",
+    "tmdb": 371051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-25",
+  "runtime_minutes": 112
+}

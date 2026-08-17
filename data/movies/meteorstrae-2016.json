@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_meteorstrae_2016",
+  "title": "Meteorstraße",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719399"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

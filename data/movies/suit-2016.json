@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suit_2016",
+  "title": "The Suit",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28451718",
+    "imdb": "tt5713542",
+    "tmdb": 394735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mutiny_of_colours_2016",
+  "title": "Mutiny of Colours",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050756",
+    "imdb": "tt4571726"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

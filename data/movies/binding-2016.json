@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_binding_2016",
+  "title": "The Binding",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121149431",
+    "imdb": "tt4096750",
+    "tmdb": 408755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

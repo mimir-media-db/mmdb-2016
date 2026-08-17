@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_prospero_2016",
+  "title": "PROSPERO",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87126460"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 18
+}

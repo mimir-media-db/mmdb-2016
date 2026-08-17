@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_too_hard_to_handle_2016",
+  "title": "Too Hard to Handle",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23794225",
+    "imdb": "tt4321804",
+    "tmdb": 367839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-12",
+  "runtime_minutes": 111
+}

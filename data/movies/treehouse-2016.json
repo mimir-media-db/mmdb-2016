@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_treehouse_2016",
+  "title": "Treehouse",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19881532",
+    "imdb": "tt1791681",
+    "tmdb": 286372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-14"
+}

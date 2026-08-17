@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_retake_2016",
+  "title": "Retake",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116200952",
+    "imdb": "tt4327510",
+    "tmdb": 399636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-21",
+  "runtime_minutes": 98
+}

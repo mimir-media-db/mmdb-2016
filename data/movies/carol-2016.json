@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carol_2016",
+  "title": "Carol",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15963780",
+    "imdb": "tt2402927",
+    "tmdb": 258480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-11",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_ocaso_de_las_diosas_2016",
+  "title": "El Ocaso de las Diosas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043714",
+    "imdb": "tt5929868",
+    "tmdb": 437356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

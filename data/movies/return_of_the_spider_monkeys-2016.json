@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_return_of_the_spider_monkeys_2016",
+  "title": "Return of the Spider Monkeys",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116789762",
+    "imdb": "tt5931924"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

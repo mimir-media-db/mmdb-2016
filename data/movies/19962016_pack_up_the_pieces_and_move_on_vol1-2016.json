@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_19962016_pack_up_the_pieces_and_move_on_vol1_2016",
+  "title": "1996-2016: Pack Up the Pieces and Move on Vol.1",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056726",
+    "imdb": "tt5361862",
+    "tmdb": 757241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 74
+}

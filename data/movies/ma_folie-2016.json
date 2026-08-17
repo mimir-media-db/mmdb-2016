@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_folie_2016",
+  "title": "Ma folie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31271514",
+    "imdb": "tt2946942",
+    "tmdb": 407701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-21",
+  "runtime_minutes": 99
+}

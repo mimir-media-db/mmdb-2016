@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wherever_your_heart_beats_2016",
+  "title": "Wherever Your Heart Beats",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056918",
+    "imdb": "tt5942604",
+    "tmdb": 801959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 58
+}

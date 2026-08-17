@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_armenia_my_love_2016",
+  "title": "Armenia, My Love...",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28147148",
+    "imdb": "tt3633084",
+    "tmdb": 1224710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-14",
+  "runtime_minutes": 101
+}

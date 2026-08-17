@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_departure_2016",
+  "title": "Departure",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23541383",
+    "imdb": "tt2248739",
+    "tmdb": 361475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-26",
+  "runtime_minutes": 109
+}

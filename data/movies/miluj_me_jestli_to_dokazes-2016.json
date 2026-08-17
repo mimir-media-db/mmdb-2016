@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miluj_me_jestli_to_dokazes_2016",
+  "title": "Miluj me, jestli to dokázes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27685253",
+    "imdb": "tt7940656",
+    "tmdb": 609257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-08",
+  "runtime_minutes": 63
+}

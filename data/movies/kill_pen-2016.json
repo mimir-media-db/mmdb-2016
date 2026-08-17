@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_pen_2016",
+  "title": "Kill Pen",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042074",
+    "imdb": "tt4604246",
+    "tmdb": 624012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 76
+}

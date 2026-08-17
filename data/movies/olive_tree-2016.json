@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_olive_tree_2016",
+  "title": "The Olive Tree",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26262106",
+    "imdb": "tt3655972",
+    "tmdb": 366505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-25",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thodari_2016",
+  "title": "Thodari",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28164282",
+    "imdb": "tt5959700",
+    "tmdb": 376446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02",
+  "runtime_minutes": 168
+}

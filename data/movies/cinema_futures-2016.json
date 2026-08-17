@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinema_futures_2016",
+  "title": "Cinema Futures",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26830598",
+    "imdb": "tt6002238",
+    "tmdb": 416813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02",
+  "runtime_minutes": 126
+}

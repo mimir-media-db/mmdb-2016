@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attack_of_the_lederhosen_zombies_2016",
+  "title": "Attack of the Lederhosen Zombies",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27891405",
+    "imdb": "tt3569970",
+    "tmdb": 383788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-04",
+  "runtime_minutes": 78
+}

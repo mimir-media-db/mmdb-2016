@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arabian_nights_volume_1_the_restless_one_2016",
+  "title": "Arabian Nights: Volume 1 - The Restless One",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26269985",
+    "imdb": "tt3284178",
+    "tmdb": 254736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-28",
+  "runtime_minutes": 125
+}

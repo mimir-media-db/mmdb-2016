@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maigrets_dead_man_2016",
+  "title": "Maigret's Dead Man",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110740256",
+    "imdb": "tt5017060",
+    "tmdb": 1700793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_camera_basic_instinct_2016",
+  "title": "Hidden Camera: Basic Instinct",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24858207",
+    "tmdb": 472915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-09"
+}

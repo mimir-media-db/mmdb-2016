@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fair_haven_2016",
+  "title": "Fair Haven",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31070036",
+    "imdb": "tt3520216",
+    "tmdb": 397992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

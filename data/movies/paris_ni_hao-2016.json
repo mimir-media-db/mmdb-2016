@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_ni_hao_2016",
+  "title": "Paris, Ni Hao",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050684",
+    "imdb": "tt5989526"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 42
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girlfriend_for_hire_2016",
+  "title": "Girlfriend for Hire",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21998202",
+    "imdb": "tt5454552",
+    "tmdb": 382004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-10"
+}

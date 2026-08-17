@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_belfasts_richest_radical_2016",
+  "title": "Belfast's Richest Radical",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051575",
+    "imdb": "tt5771660"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

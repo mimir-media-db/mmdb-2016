@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corniche_kennedy_2016",
+  "title": "Corniche Kennedy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28497163",
+    "imdb": "tt5027116",
+    "tmdb": 425665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 94
+}

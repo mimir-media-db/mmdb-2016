@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_maybe_2016",
+  "title": "Love Maybe",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26856862",
+    "imdb": "tt5720938",
+    "tmdb": 466476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-30",
+  "runtime_minutes": 86
+}

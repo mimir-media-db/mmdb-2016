@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_onde_eu_te_vejo_2016",
+  "title": "De Onde Eu Te Vejo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30277459",
+    "imdb": "tt4183372",
+    "tmdb": 291211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 108
+}

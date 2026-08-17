@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lea_and_mira_2016",
+  "title": "Lea and Mira",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100347231",
+    "imdb": "tt6151632",
+    "tmdb": 681636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01",
+  "runtime_minutes": 52
+}

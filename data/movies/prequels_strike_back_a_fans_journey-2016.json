@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prequels_strike_back_a_fans_journey_2016",
+  "title": "The Prequels Strike Back: A Fan's Journey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26864002",
+    "imdb": "tt5973220",
+    "tmdb": 415103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-14",
+  "runtime_minutes": 80
+}

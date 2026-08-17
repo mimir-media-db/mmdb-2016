@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_father_2016",
+  "title": "Our Father",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958413",
+    "imdb": "tt4466358",
+    "tmdb": 408205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-05",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iitatemura_no_kaachantachi_tsuchi_to_tomo_ni_2016",
+  "title": "Iitatemura no kaachantachi: Tsuchi to tomo ni",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056800",
+    "imdb": "tt5538062",
+    "tmdb": 661561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

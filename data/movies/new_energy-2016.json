@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_new_energy_2016",
+  "title": "New Energy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26824151",
+    "imdb": "tt4397106"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 58
+}

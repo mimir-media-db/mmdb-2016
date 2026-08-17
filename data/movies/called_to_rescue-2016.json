@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_called_to_rescue_2016",
+  "title": "Called to Rescue",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057149",
+    "imdb": "tt5136156",
+    "tmdb": 532614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 65
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belle_de_nuit_griselidis_real_self_portraits_2016",
+  "title": "Belle de nuit: Grisélidis Real, Self Portraits",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043367",
+    "imdb": "tt5969756",
+    "tmdb": 435125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 74
+}

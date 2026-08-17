@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_some_had_crocodiles_2016",
+  "title": "Some Had Crocodiles",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23069601",
+    "imdb": "tt5396622",
+    "tmdb": 425410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-19",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seule_2016",
+  "title": "Seule",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055407",
+    "imdb": "tt5691128",
+    "tmdb": 836108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 9
+}

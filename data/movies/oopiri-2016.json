@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oopiri_2016",
+  "title": "Oopiri",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19899083",
+    "imdb": "tt5039054",
+    "tmdb": 369925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-26"
+}

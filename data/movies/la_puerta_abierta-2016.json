@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_puerta_abierta_2016",
+  "title": "La puerta abierta",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28703754",
+    "imdb": "tt3584954",
+    "tmdb": 387536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02",
+  "runtime_minutes": 82
+}

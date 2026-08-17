@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_se_nos_armo_la_gorda_al_doble_mision_las_vegas_2016",
+  "title": "Se Nos Armó la Gorda Al Doble Misión Las Vegas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64374206",
+    "imdb": "tt5120120",
+    "tmdb": 421499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

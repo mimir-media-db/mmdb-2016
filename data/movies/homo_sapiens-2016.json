@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_homo_sapiens_2016",
+  "title": "Homo Sapiens",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22813593",
+    "imdb": "tt5450084",
+    "tmdb": 382212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-12",
+  "runtime_minutes": 94
+}

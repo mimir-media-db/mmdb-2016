@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fantastic_beasts_and_where_to_find_them_2016",
+  "title": "Fantastic Beasts and Where to Find Them",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18199330",
+    "imdb": "tt3183660",
+    "tmdb": 259316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-16",
+  "runtime_minutes": 133
+}

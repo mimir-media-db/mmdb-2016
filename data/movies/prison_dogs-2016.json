@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prison_dogs_2016",
+  "title": "Prison Dogs",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536727",
+    "imdb": "tt4243906",
+    "tmdb": 390993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-24"
+}

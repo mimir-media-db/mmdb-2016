@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perhosen_kohtalo_tv_movie_2016_2016",
+  "title": "Perhosen kohtalo (TV Movie 2016)",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113382448",
+    "imdb": "tt6176788",
+    "tmdb": 1378816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-17",
+  "runtime_minutes": 66
+}

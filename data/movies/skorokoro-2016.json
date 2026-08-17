@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_skorokoro_2016",
+  "title": "Skorokoro",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29832149",
+    "imdb": "tt5338278",
+    "tmdb": 744781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

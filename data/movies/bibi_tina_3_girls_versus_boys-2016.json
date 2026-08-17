@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bibi_tina_3_girls_versus_boys_2016",
+  "title": "Bibi & Tina 3: Girls Versus Boys",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21682622",
+    "imdb": "tt4997398",
+    "tmdb": 369860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-21",
+  "runtime_minutes": 110
+}

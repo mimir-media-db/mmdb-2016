@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trust_fund_2016",
+  "title": "Trust Fund",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64285608",
+    "imdb": "tt3969208",
+    "tmdb": 332996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-08",
+  "runtime_minutes": 107
+}

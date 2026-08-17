@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_howard_lovecraft_and_the_frozen_kingdom_2016",
+  "title": "Howard Lovecraft and The Frozen Kingdom",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24278828",
+    "imdb": "tt4768656",
+    "tmdb": 409307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01"
+}

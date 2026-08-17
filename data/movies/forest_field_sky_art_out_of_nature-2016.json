@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forest_field_sky_art_out_of_nature_2016",
+  "title": "Forest, Field & Sky: Art Out of Nature",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039286",
+    "imdb": "tt5706326",
+    "tmdb": 580460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 59
+}

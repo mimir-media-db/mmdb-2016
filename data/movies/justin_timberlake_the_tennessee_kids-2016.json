@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_justin_timberlake_the_tennessee_kids_2016",
+  "title": "Justin Timberlake + the Tennessee Kids",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038005",
+    "imdb": "tt5001772",
+    "tmdb": 408619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

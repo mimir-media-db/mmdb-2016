@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_jews_from_breslau_2016",
+  "title": "We are Jews from Breslau",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27678473",
+    "imdb": "tt6209590",
+    "tmdb": 428962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-06",
+  "runtime_minutes": 113
+}

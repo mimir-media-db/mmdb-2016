@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_byomkesh_pawrbo_2016",
+  "title": "Byomkesh Pawrbo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958460",
+    "imdb": "tt6396296",
+    "tmdb": 453059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-16"
+}

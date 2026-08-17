@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amityville_playhouse_2016",
+  "title": "The Amityville Playhouse",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19801734",
+    "imdb": "tt4086116",
+    "tmdb": 335753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-15",
+  "runtime_minutes": 103
+}

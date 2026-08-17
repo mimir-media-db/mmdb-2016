@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_hallows_eve_2016",
+  "title": "All Hallows' Eve",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959561",
+    "imdb": "tt4906686",
+    "tmdb": 416261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-27"
+}

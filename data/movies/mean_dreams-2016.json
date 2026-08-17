@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mean_dreams_2016",
+  "title": "Mean Dreams",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755528",
+    "imdb": "tt5160928",
+    "tmdb": 393732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-15",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_benidorm_mon_amour_2016",
+  "title": "Benidorm mon amour",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115269881",
+    "imdb": "tt4741466",
+    "tmdb": 421893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 93
+}

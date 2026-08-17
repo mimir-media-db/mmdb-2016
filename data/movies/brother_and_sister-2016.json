@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brother_and_sister_2016",
+  "title": "Brother and Sister",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27674705",
+    "imdb": "tt5851030",
+    "tmdb": 425193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-27",
+  "runtime_minutes": 89
+}

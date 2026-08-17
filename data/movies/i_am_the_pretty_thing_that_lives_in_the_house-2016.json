@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_the_pretty_thing_that_lives_in_the_house_2016",
+  "title": "I Am the Pretty Thing That Lives in the House",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963352",
+    "imdb": "tt5059406",
+    "tmdb": 407559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-10",
+  "runtime_minutes": 89
+}

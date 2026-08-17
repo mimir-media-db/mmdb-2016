@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sled_dogs_2016",
+  "title": "Sled Dogs",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674475",
+    "imdb": "tt5086046",
+    "tmdb": 459366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

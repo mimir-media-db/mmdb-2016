@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmoose_story_2016",
+  "title": "A Christmoose Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20724499",
+    "imdb": "tt2389456",
+    "tmdb": 218267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-01",
+  "runtime_minutes": 85
+}

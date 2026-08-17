@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chitrokar_2016",
+  "title": "Chitrokar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132132986",
+    "imdb": "tt6509992",
+    "tmdb": 430894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-22"
+}

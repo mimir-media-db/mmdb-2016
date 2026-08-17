@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friends_mom_2016",
+  "title": "My Friend's Mom",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840806",
+    "imdb": "tt7360646",
+    "tmdb": 423502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-12"
+}

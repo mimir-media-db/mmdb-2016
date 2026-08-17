@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sakaling_hindi_makarating_2016",
+  "title": "Sakaling Hindi Makarating",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807309",
+    "imdb": "tt5586322",
+    "tmdb": 388296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-19"
+}

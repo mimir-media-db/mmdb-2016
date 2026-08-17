@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_opening_night_2016",
+  "title": "Opening Night",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30555900",
+    "imdb": "tt4156972",
+    "tmdb": 311764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lot_lizard_2016",
+  "title": "Lot Lizard",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27052125",
+    "imdb": "tt5882370",
+    "tmdb": 469476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moulin_2016",
+  "title": "The Moulin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28416060",
+    "imdb": "tt5151568",
+    "tmdb": 380069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-14",
+  "runtime_minutes": 161
+}

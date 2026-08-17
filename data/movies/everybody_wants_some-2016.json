@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_wants_some_2016",
+  "title": "Everybody Wants Some!!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18324869",
+    "imdb": "tt2937696",
+    "tmdb": 295699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-11",
+  "runtime_minutes": 116
+}

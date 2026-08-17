@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_our_youth_2016",
+  "title": "The End of Our Youth",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124287157",
+    "tmdb": 640843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-30",
+  "runtime_minutes": 30
+}

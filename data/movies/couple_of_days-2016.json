@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_couple_of_days_2016",
+  "title": "Couple of Days",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100148079",
+    "imdb": "tt9741588",
+    "tmdb": 475943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-05"
+}

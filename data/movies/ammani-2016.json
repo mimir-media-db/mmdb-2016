@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ammani_2016",
+  "title": "Ammani",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536753",
+    "imdb": "tt6262750",
+    "tmdb": 371075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-14"
+}

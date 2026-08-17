@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_look_whos_back_2016",
+  "title": "Look Who's Back",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21065355",
+    "imdb": "tt4176826",
+    "tmdb": 318917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-06",
+  "runtime_minutes": 116
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bittersweet_days_2016",
+  "title": "Bittersweet Days",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131317943",
+    "imdb": "tt5541794",
+    "tmdb": 404209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

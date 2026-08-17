@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_vyhraty_vse_2016",
+  "title": "Vyhraty vse",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574033",
+    "imdb": "tt38820108"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-17"
+}

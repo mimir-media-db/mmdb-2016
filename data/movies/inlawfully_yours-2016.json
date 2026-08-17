@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inlawfully_yours_2016",
+  "title": "In-Lawfully Yours",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51916335",
+    "imdb": "tt4286666",
+    "tmdb": 412518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-06",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pyromaniac_2016",
+  "title": "Pyromaniac",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27902415",
+    "imdb": "tt4637598",
+    "tmdb": 390358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-22",
+  "runtime_minutes": 98
+}

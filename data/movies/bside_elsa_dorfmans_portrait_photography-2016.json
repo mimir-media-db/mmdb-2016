@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bside_elsa_dorfmans_portrait_photography_2016",
+  "title": "The B-Side: Elsa Dorfman's Portrait Photography",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26824857",
+    "imdb": "tt5952468",
+    "tmdb": 411011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 76
+}

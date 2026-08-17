@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_american_bikini_car_wash_2016",
+  "title": "All American Bikini Car Wash",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23793845",
+    "imdb": "tt3820450",
+    "tmdb": 364708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-07"
+}

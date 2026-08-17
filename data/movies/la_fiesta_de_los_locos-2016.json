@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fiesta_de_los_locos_2016",
+  "title": "La fiesta de los locos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27989937",
+    "imdb": "tt6120782"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

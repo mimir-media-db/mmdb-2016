@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ideal_home_2016",
+  "title": "Ideal Home",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959441",
+    "imdb": "tt5460880",
+    "tmdb": 399725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 91
+}

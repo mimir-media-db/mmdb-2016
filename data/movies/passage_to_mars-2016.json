@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passage_to_mars_2016",
+  "title": "Passage to Mars",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129677675",
+    "imdb": "tt3190158",
+    "tmdb": 399623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_54321_2016",
+  "title": "54321",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24211257",
+    "imdb": "tt4340756",
+    "tmdb": 412410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-01"
+}

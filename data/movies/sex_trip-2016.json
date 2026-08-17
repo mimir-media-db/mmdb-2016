@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_trip_2016",
+  "title": "The Sex Trip",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35852884",
+    "imdb": "tt4357714",
+    "tmdb": 405815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

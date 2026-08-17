@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_road_to_black_belt_2016",
+  "title": "The Road to Black Belt",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057323",
+    "imdb": "tt5530568"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 7
+}

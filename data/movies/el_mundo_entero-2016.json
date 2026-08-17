@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_mundo_entero_2016",
+  "title": "El mundo entero",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139379182",
+    "imdb": "tt6049420",
+    "tmdb": 645658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 30
+}

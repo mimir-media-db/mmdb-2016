@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everest_the_summit_of_the_gods_2016",
+  "title": "Everest: The Summit of the Gods",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93946897",
+    "imdb": "tt4368038",
+    "tmdb": 415781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-12",
+  "runtime_minutes": 123
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_games_2016",
+  "title": "Dirty Games",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24112369",
+    "imdb": "tt5068818",
+    "tmdb": 393718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-02",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_i_need_2016",
+  "title": "All I Need",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121982879",
+    "imdb": "tt2370228",
+    "tmdb": 340197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 79
+}

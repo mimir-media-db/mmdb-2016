@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pumpkin_pie_wars_2016",
+  "title": "Pumpkin Pie Wars",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60854378",
+    "imdb": "tt6076802",
+    "tmdb": 413440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

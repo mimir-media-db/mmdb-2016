@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kiriti_o_kalo_bhromor_2016",
+  "title": "Kiriti O Kalo Bhromor",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963260",
+    "imdb": "tt8982716",
+    "tmdb": 545512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_sweet_lonely_girl_2016",
+  "title": "Sweet, Sweet Lonely Girl",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27981615",
+    "imdb": "tt5207320",
+    "tmdb": 407757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-22",
+  "runtime_minutes": 76
+}

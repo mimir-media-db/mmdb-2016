@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_ones_2016",
+  "title": "The Lost Ones",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31212884",
+    "imdb": "tt5750608",
+    "tmdb": 1666270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-25",
+  "runtime_minutes": 100
+}

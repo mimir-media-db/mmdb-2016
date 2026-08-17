@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brning_2_2016",
+  "title": "Børning 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27158930",
+    "imdb": "tt4956984",
+    "tmdb": 417503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-12",
+  "runtime_minutes": 98
+}

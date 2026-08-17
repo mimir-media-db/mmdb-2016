@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teacher_2016",
+  "title": "The Teacher",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16963172",
+    "imdb": "tt5061162",
+    "tmdb": 406000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-04",
+  "runtime_minutes": 95
+}

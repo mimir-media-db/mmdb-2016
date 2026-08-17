@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haripad_bandwala_2016",
+  "title": "Haripad Bandwala",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27963127",
+    "imdb": "tt6786690",
+    "tmdb": 452403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-23"
+}

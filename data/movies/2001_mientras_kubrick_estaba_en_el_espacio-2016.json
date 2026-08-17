@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2001_mientras_kubrick_estaba_en_el_espacio_2016",
+  "title": "2001: mientras Kubrick estaba en el espacio",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115627141",
+    "imdb": "tt6278982",
+    "tmdb": 470078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-08",
+  "runtime_minutes": 77
+}

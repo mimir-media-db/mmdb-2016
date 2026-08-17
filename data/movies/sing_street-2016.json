@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sing_street_2016",
+  "title": "Sing Street",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21819857",
+    "imdb": "tt3544112",
+    "tmdb": 369557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-24",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cherrys_in_season_2016",
+  "title": "Cherry's in Season",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26908769",
+    "imdb": "tt4956122",
+    "tmdb": 754020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 74
+}

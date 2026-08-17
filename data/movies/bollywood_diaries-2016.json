@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bollywood_diaries_2016",
+  "title": "Bollywood Diaries",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646188",
+    "imdb": "tt5216810",
+    "tmdb": 415106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-05"
+}

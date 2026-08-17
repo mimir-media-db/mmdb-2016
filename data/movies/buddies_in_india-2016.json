@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buddies_in_india_2016",
+  "title": "Buddies in India",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24278853",
+    "imdb": "tt6152908",
+    "tmdb": 435863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-24",
+  "runtime_minutes": 99
+}

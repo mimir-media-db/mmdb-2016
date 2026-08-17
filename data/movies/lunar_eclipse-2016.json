@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lunar_eclipse_2016",
+  "title": "The Lunar Eclipse",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28464845",
+    "imdb": "tt6275148"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

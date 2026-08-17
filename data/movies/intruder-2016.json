@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intruder_2016",
+  "title": "Intruder",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959502",
+    "imdb": "tt3014556",
+    "tmdb": 403130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-24",
+  "runtime_minutes": 88
+}

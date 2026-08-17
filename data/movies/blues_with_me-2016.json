@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_blues_with_me_2016",
+  "title": "Blues with Me",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105993",
+    "tmdb": 1537400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

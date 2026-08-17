@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marauders_2016",
+  "title": "Marauders",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21527851",
+    "imdb": "tt3963816",
+    "tmdb": 359412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-01",
+  "runtime_minutes": 107
+}

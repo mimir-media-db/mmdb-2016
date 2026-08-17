@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_raider_marching_band_2016",
+  "title": "The Red Raider Marching Band",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050527",
+    "imdb": "tt5226544"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 45
+}

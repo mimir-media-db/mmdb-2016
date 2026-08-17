@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sut_2016",
+  "title": "Sút",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130413677",
+    "imdb": "tt6254630",
+    "tmdb": 692703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_grandpa_2016",
+  "title": "Dirty Grandpa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18669866",
+    "imdb": "tt1860213",
+    "tmdb": 291870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-11",
+  "runtime_minutes": 102
+}

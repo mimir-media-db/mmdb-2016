@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charnel_house_2016",
+  "title": "The Charnel House",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738711",
+    "imdb": "tt4633662",
+    "tmdb": 347127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-04"
+}

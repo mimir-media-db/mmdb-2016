@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cedric_the_entertainer_live_from_the_ville_2016",
+  "title": "Cedric the Entertainer: Live from the Ville",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100360",
+    "imdb": "tt5753806",
+    "tmdb": 416290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-16"
+}

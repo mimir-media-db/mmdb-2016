@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yugo_lala_3_2016",
+  "title": "Yugo & Lala 3",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26456460",
+    "imdb": "tt6467214",
+    "tmdb": 462901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-29"
+}

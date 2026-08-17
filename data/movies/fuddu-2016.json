@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fuddu_2016",
+  "title": "Fuddu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905400",
+    "imdb": "tt3862004",
+    "tmdb": 418621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-14"
+}

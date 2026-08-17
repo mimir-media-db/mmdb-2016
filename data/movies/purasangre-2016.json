@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_purasangre_2016",
+  "title": "Purasangre",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28445673",
+    "imdb": "tt4835926",
+    "tmdb": 387840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 104
+}

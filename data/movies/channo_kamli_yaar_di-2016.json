@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_channo_kamli_yaar_di_2016",
+  "title": "Channo Kamli Yaar Di",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22074955",
+    "imdb": "tt5313414",
+    "tmdb": 383271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-19"
+}

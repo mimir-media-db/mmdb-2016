@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_christmas_2016",
+  "title": "Red Christmas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42947761",
+    "imdb": "tt5120400",
+    "tmdb": 399372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-17"
+}

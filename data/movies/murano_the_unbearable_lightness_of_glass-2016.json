@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_murano_the_unbearable_lightness_of_glass_2016",
+  "title": "Murano The Unbearable Lightness of Glass",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043549",
+    "imdb": "tt5932060"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 57
+}

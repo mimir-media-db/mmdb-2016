@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thierry_henry_my_france_my_euros_2016",
+  "title": "Thierry Henry: My France, My Euros",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050984",
+    "imdb": "tt5788730",
+    "tmdb": 857761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 59
+}

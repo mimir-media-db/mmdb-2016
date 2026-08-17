@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_byomkesh_o_chiriyakhana_2016",
+  "title": "Byomkesh O Chiriyakhana",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963158",
+    "imdb": "tt6139026",
+    "tmdb": 437743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01"
+}

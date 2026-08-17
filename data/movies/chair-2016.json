@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chair_2016",
+  "title": "The Chair",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107631053",
+    "imdb": "tt3400932",
+    "tmdb": 336010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

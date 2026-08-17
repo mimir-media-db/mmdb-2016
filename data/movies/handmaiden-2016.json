@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_handmaiden_2016",
+  "title": "The Handmaiden",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20444585",
+    "imdb": "tt4016934",
+    "tmdb": 290098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-14",
+  "runtime_minutes": 145
+}

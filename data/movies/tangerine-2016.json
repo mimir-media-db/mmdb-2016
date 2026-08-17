@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tangerine_2016",
+  "title": "Tangerine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19263995",
+    "imdb": "tt3824458",
+    "tmdb": 308084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-07",
+  "runtime_minutes": 88
+}

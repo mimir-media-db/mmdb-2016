@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hockeys_lost_boy_the_rise_and_fall_of_george_patterson_2016",
+  "title": "Hockey's Lost Boy: The Rise and Fall of George Patterson",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043515",
+    "imdb": "tt5491746",
+    "tmdb": 1583231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

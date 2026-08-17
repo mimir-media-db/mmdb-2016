@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_bride_2016",
+  "title": "Devil's Bride",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27243409",
+    "imdb": "tt4771956",
+    "tmdb": 408194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-09",
+  "runtime_minutes": 110
+}

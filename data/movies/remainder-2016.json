@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remainder_2016",
+  "title": "Remainder",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22000894",
+    "imdb": "tt1847672",
+    "tmdb": 362699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-12",
+  "runtime_minutes": 103
+}

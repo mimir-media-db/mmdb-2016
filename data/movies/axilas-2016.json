@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_axilas_2016",
+  "title": "Axilas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25444873",
+    "imdb": "tt4840098",
+    "tmdb": 384388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-05",
+  "runtime_minutes": 87
+}

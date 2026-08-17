@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_scared_stiff_2016",
+  "title": "Scared Stiff",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126001775"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-06"
+}

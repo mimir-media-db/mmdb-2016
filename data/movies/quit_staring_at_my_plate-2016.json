@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quit_staring_at_my_plate_2016",
+  "title": "Quit Staring at My Plate",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536912",
+    "imdb": "tt5791884",
+    "tmdb": 408436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freaky_ali_2016",
+  "title": "Freaky Ali",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26250367",
+    "imdb": "tt5943306",
+    "tmdb": 414276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-09",
+  "runtime_minutes": 120
+}

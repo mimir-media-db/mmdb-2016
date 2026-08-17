@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_righteous_2016",
+  "title": "The Righteous",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63385684",
+    "imdb": "tt5506888",
+    "tmdb": 418356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-19",
+  "runtime_minutes": 94
+}

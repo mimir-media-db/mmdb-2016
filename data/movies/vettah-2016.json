@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vettah_2016",
+  "title": "Vettah",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24904867",
+    "imdb": "tt5324456",
+    "tmdb": 385238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-26"
+}

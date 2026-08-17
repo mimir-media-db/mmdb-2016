@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dragonheart_2016",
+  "title": "Dragonheart",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85757625",
+    "imdb": "tt6126328",
+    "tmdb": 1021748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-01",
+  "runtime_minutes": 80
+}

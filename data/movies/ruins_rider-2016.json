@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ruins_rider_2016",
+  "title": "Ruins Rider",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51471930",
+    "imdb": "tt6626408",
+    "tmdb": 498295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 49
+}

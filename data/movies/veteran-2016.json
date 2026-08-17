@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_veteran_2016",
+  "title": "Veteran",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19939990",
+    "imdb": "tt4768764",
+    "tmdb": 346646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-10",
+  "runtime_minutes": 124
+}

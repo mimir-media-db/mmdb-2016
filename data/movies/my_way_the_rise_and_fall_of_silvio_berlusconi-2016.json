@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_way_the_rise_and_fall_of_silvio_berlusconi_2016",
+  "title": "My Way: The Rise and Fall of Silvio Berlusconi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50408302",
+    "imdb": "tt5159024",
+    "tmdb": 436769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

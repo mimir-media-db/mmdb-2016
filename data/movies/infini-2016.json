@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_infini_2016",
+  "title": "Infini",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19874606",
+    "imdb": "tt3327624",
+    "tmdb": 301728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-03",
+  "runtime_minutes": 110
+}

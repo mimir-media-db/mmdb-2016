@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bir_bikram_2016",
+  "title": "Bir Bikram",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30067999",
+    "imdb": "tt6568628",
+    "tmdb": 494716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-19"
+}

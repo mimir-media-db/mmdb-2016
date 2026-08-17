@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chiisana_machi_no_chiisana_eigakan_2016",
+  "title": "Chiisana machi no chiisana eigakan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051961",
+    "imdb": "tt5350758"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_atlas_2016",
+  "title": "Dark Atlas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26835893",
+    "imdb": "tt5210346",
+    "tmdb": 1430497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

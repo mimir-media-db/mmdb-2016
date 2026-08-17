@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_floating_2016",
+  "title": "Floating!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21680742",
+    "imdb": "tt3886372",
+    "tmdb": 322465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-07",
+  "runtime_minutes": 87
+}

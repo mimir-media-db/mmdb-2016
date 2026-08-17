@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parched_2016",
+  "title": "Parched",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20751336",
+    "imdb": "tt3043252",
+    "tmdb": 352205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-27"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_province_an_intelligence_officer_in_vietnam_2016",
+  "title": "The Province: An Intelligence Officer in Vietnam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050659",
+    "imdb": "tt5817976",
+    "tmdb": 736090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raymond_roussel_le_jour_de_gloire_2016",
+  "title": "Raymond Roussel: Le Jour de Gloire",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135267324",
+    "imdb": "tt6814110",
+    "tmdb": 787975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

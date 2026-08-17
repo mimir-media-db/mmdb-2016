@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_infused_the_story_of_rock_n_art_fusion_2016",
+  "title": "Infused: The Story of Rock N' Art Fusion",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051832",
+    "imdb": "tt4853356"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muzeon_stefan_ramniceanu_2016",
+  "title": "Muzeon: Stefan Râmniceanu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042650",
+    "imdb": "tt5448008"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

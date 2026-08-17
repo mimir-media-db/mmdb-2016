@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pitbull_tough_women_2016",
+  "title": "Pitbull: Tough Women",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27996942",
+    "imdb": "tt6212346",
+    "tmdb": 425961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-11"
+}

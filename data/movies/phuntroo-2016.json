@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phuntroo_2016",
+  "title": "Phuntroo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24514723",
+    "imdb": "tt5494840",
+    "tmdb": 387094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-11",
+  "runtime_minutes": 142
+}

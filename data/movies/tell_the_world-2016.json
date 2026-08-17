@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tell_the_world_2016",
+  "title": "Tell the World",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115164336",
+    "imdb": "tt2624344",
+    "tmdb": 422212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-19",
+  "runtime_minutes": 154
+}

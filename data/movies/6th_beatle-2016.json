@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_6th_beatle_2016",
+  "title": "The 6th Beatle",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884077",
+    "imdb": "tt5952364",
+    "tmdb": 411006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

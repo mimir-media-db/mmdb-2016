@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paradise_gowns_2016",
+  "title": "Paradise Gowns",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057032",
+    "imdb": "tt5657654",
+    "tmdb": 476235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

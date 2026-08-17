@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunspring_2016",
+  "title": "Sunspring",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807047",
+    "imdb": "tt5794766",
+    "tmdb": 401387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-09"
+}

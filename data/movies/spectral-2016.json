@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spectral_2016",
+  "title": "Spectral",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17763215",
+    "imdb": "tt2106651",
+    "tmdb": 324670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-09",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_across_the_waters_2016",
+  "title": "Across the Waters",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27572673",
+    "imdb": "tt4838486",
+    "tmdb": 433082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-27",
+  "runtime_minutes": 90
+}

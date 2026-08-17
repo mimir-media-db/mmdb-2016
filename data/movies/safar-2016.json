@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_safar_2016",
+  "title": "Safar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30602710",
+    "imdb": "tt6091496",
+    "tmdb": 496960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

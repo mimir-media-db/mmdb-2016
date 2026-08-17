@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_actor_2016",
+  "title": "THE GREAT ACTOR",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22973480",
+    "imdb": "tt6449626",
+    "tmdb": 393380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-30"
+}

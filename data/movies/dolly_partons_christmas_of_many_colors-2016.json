@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dolly_partons_christmas_of_many_colors_2016",
+  "title": "Dolly Parton's Christmas of Many Colors",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27890239",
+    "imdb": "tt5713426",
+    "tmdb": 426670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-30",
+  "runtime_minutes": 85
+}

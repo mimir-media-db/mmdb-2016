@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amores_santos_2016",
+  "title": "Amores Santos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26914815",
+    "imdb": "tt5817772",
+    "tmdb": 364780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

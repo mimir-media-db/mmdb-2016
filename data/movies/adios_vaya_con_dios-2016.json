@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adios_vaya_con_dios_2016",
+  "title": "Adios Vaya Con Dios",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23999861",
+    "imdb": "tt3411556",
+    "tmdb": 396554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-19"
+}

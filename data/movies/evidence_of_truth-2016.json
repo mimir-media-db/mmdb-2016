@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evidence_of_truth_2016",
+  "title": "Evidence of Truth",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28499075",
+    "imdb": "tt4867024",
+    "tmdb": 400252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

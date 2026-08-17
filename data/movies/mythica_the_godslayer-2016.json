@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mythica_the_godslayer_2016",
+  "title": "Mythica: The Godslayer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807166",
+    "imdb": "tt5327922",
+    "tmdb": 401689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01"
+}

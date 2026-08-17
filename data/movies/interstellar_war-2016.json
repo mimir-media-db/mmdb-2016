@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_interstellar_war_2016",
+  "title": "Interstellar War",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42895876",
+    "imdb": "tt5083736",
+    "tmdb": 398188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-12",
+  "runtime_minutes": 83
+}

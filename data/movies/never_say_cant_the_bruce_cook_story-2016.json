@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_never_say_cant_the_bruce_cook_story_2016",
+  "title": "Never Say Can't: The Bruce Cook Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042813",
+    "imdb": "tt5973838",
+    "tmdb": 954870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

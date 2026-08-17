@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prem_ki_bujhini_2016",
+  "title": "Prem Ki Bujhini",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999262",
+    "imdb": "tt5928448",
+    "tmdb": 621411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-07",
+  "runtime_minutes": 140
+}

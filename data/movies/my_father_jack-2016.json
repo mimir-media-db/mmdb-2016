@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_father_jack_2016",
+  "title": "My Father Jack",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303066",
+    "imdb": "tt5735554",
+    "tmdb": 393870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

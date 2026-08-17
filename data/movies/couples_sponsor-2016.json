@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_couples_sponsor_2016",
+  "title": "The Couple's Sponsor",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27952950",
+    "tmdb": 471564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-09"
+}

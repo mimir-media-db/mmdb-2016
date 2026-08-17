@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_papusza_2016",
+  "title": "Papusza",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15207077",
+    "imdb": "tt2719094",
+    "tmdb": 205865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-01",
+  "runtime_minutes": 131
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_j_beyond_flamenco_2016",
+  "title": "J: Beyond Flamenco",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963343",
+    "imdb": "tt4557512",
+    "tmdb": 411681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

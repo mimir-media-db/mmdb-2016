@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lighthouse_of_the_orcas_2016",
+  "title": "The Lighthouse of the Orcas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28464794",
+    "imdb": "tt4944658",
+    "tmdb": 430161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 110
+}

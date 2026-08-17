@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bond_for_life_how_james_bond_changed_my_life_2016",
+  "title": "A Bond for Life: How James Bond Changed My Life",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26864007",
+    "imdb": "tt4796414"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 125
+}

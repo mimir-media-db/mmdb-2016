@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hadj_nacereddine_dinet_2016",
+  "title": "Hadj Nacereddine Dinet",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057369",
+    "imdb": "tt5483570",
+    "tmdb": 1460604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

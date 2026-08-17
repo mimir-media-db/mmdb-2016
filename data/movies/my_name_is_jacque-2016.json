@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_name_is_jacque_2016",
+  "title": "My Name Is Jacque",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26916269",
+    "imdb": "tt5529726",
+    "tmdb": 397162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

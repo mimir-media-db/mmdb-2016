@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_world_2016",
+  "title": "The Free World",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22251947",
+    "imdb": "tt3517044",
+    "tmdb": 371446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-26",
+  "runtime_minutes": 100
+}

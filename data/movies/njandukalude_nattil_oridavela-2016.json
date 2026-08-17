@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_njandukalude_nattil_oridavela_2016",
+  "title": "Njandukalude Nattil Oridavela",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536580",
+    "imdb": "tt6096884",
+    "tmdb": 468848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01"
+}

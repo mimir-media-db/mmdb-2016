@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vichy_la_memoire_empoisonnee_2016",
+  "title": "Vichy, la mémoire empoisonnée",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050362",
+    "imdb": "tt5726602",
+    "tmdb": 512459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_herberg_van_het_geheugen_2016",
+  "title": "Herberg van het geheugen",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61718143",
+    "imdb": "tt5921698",
+    "tmdb": 437684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-30",
+  "runtime_minutes": 75
+}

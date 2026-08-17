@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_death_and_life_of_otto_bloom_2016",
+  "title": "The Death and Life of Otto Bloom",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905864",
+    "imdb": "tt4079332",
+    "tmdb": 405653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-28"
+}

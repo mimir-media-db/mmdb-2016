@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hiya_2016",
+  "title": "Hiya",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21060902",
+    "imdb": "tt5558792",
+    "tmdb": 387777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-10"
+}

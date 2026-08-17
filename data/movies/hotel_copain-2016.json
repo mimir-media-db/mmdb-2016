@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_copain_2016",
+  "title": "Hotel Copain",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109602060",
+    "imdb": "tt4146378",
+    "tmdb": 382844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_storia_semplice_2016",
+  "title": "Una storia semplice",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30890821",
+    "imdb": "tt6075506",
+    "tmdb": 1238236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 51
+}

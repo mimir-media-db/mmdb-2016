@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_boars_are_wild_2016",
+  "title": "The Boars Are Wild",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051472",
+    "imdb": "tt5462064"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

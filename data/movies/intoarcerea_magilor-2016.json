@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_intoarcerea_magilor_2016",
+  "title": "Întoarcerea magilor",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44866878",
+    "imdb": "tt6255800",
+    "tmdb": 1026206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

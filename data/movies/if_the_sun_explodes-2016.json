@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_if_the_sun_explodes_2016",
+  "title": "If the Sun Explodes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64692941",
+    "imdb": "tt5240390",
+    "tmdb": 423914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-31"
+}

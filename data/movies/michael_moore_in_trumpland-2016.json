@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_michael_moore_in_trumpland_2016",
+  "title": "Michael Moore in TrumpLand",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27461479",
+    "imdb": "tt6163356",
+    "tmdb": 421851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-18",
+  "runtime_minutes": 73
+}

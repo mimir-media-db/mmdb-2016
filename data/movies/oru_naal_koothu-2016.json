@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_naal_koothu_2016",
+  "title": "Oru Naal Koothu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814682",
+    "imdb": "tt5795286",
+    "tmdb": 367179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-10"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rebellious_flower_2016",
+  "title": "Rebellious Flower",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22074996",
+    "imdb": "tt4659548",
+    "tmdb": 400485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-15"
+}

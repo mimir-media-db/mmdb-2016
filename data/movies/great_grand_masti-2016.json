@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_grand_masti_2016",
+  "title": "Great Grand Masti",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649396",
+    "imdb": "tt4675030",
+    "tmdb": 403862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-15"
+}

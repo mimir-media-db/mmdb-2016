@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taste_of_cherry_2016",
+  "title": "Taste of Cherry",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q794178",
+    "imdb": "tt0120265",
+    "tmdb": 30020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-31",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nightlife_2016",
+  "title": "Nightlife",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26251879",
+    "imdb": "tt5769238",
+    "tmdb": 405265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-06",
+  "runtime_minutes": 85
+}

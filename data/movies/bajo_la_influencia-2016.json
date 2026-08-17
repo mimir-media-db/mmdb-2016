@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bajo_la_influencia_2016",
+  "title": "Bajo la influencia",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123483066",
+    "tmdb": 542541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

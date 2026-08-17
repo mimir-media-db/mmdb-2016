@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oswald_the_minsk_mystery_2016",
+  "title": "Oswald. The Minsk Mystery",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92921737",
+    "imdb": "tt27611342",
+    "tmdb": 1440444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 39
+}

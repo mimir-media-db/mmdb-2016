@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ilami_2016",
+  "title": "Ilami",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27981641",
+    "imdb": "tt6354178",
+    "tmdb": 429548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-25"
+}

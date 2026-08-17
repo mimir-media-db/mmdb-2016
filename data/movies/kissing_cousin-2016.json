@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kissing_cousin_2016",
+  "title": "Kissing Cousin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24000316",
+    "imdb": "tt5820916",
+    "tmdb": 399166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-12"
+}

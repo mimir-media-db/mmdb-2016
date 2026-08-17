@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_horde_2016",
+  "title": "The Horde",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113976067",
+    "imdb": "tt3924782",
+    "tmdb": 395797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

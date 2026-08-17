@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_campus_diary_2016",
+  "title": "Campus Diary",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999809",
+    "imdb": "tt6301256",
+    "tmdb": 466846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01"
+}

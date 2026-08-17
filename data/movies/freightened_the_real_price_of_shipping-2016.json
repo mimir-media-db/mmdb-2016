@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freightened_the_real_price_of_shipping_2016",
+  "title": "Freightened: The Real Price of Shipping",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26835631",
+    "imdb": "tt5759068",
+    "tmdb": 395802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

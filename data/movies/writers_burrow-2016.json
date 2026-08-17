@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_writers_burrow_2016",
+  "title": "The writer's burrow",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27887640",
+    "imdb": "tt3431782",
+    "tmdb": 421580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-02",
+  "runtime_minutes": 102
+}

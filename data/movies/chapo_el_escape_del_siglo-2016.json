@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chapo_el_escape_del_siglo_2016",
+  "title": "Chapo: el escape del siglo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703687",
+    "imdb": "tt5344086",
+    "tmdb": 377670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

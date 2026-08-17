@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_side_raju_2016",
+  "title": "Wrong Side Raju",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26683704",
+    "imdb": "tt5979920",
+    "tmdb": 447839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-09",
+  "runtime_minutes": 130
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_looking_at_the_stars_2016",
+  "title": "Looking at the Stars",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039250",
+    "imdb": "tt3519048",
+    "tmdb": 403940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

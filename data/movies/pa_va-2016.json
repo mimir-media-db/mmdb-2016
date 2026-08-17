@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pa_va_2016",
+  "title": "Pa Va",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807025",
+    "imdb": "tt5611416",
+    "tmdb": 418770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-22"
+}

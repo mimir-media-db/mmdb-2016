@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_insane_2016",
+  "title": "Insane",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20944971",
+    "imdb": "tt5572720",
+    "tmdb": 393070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-07",
+  "runtime_minutes": 91
+}

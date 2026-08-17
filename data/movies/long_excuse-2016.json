@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_excuse_2016",
+  "title": "The Long Excuse",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24869569",
+    "imdb": "tt4837062",
+    "tmdb": 391804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-14",
+  "runtime_minutes": 124
+}

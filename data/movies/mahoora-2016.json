@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mahoora_2016",
+  "title": "Mahoora",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56360978",
+    "imdb": "tt7901840",
+    "tmdb": 580484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

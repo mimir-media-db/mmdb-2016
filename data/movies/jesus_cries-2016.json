@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jesus_cries_2016",
+  "title": "Jesus Cries",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23652371",
+    "imdb": "tt3425336",
+    "tmdb": 504674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-31"
+}

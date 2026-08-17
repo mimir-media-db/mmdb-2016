@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reunion_3_2016",
+  "title": "The Reunion 3",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29017147",
+    "imdb": "tt4959548",
+    "tmdb": 416361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-06",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dum_2016",
+  "title": "Dum",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25223613",
+    "imdb": "tt5833824",
+    "tmdb": 429782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-26"
+}

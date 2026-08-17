@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wexford_plaza_2016",
+  "title": "Wexford Plaza",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47500728",
+    "imdb": "tt5806472",
+    "tmdb": 428143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

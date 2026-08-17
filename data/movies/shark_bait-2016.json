@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shark_bait_2016",
+  "title": "Shark Bait",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043750",
+    "imdb": "tt5904252"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 50
+}

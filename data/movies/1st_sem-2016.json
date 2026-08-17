@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1st_sem_2016",
+  "title": "1st Sem",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25218989",
+    "imdb": "tt5585374",
+    "tmdb": 388278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-16"
+}

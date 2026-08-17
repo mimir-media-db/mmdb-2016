@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pattathaari_2016",
+  "title": "Pattathaari",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671509",
+    "imdb": "tt14053386",
+    "tmdb": 430620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-25"
+}

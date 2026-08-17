@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_beauty_salon_2016",
+  "title": "Hollywood Beauty Salon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038302",
+    "imdb": "tt4722650",
+    "tmdb": 408153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

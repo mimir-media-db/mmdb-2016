@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blessed_are_the_children_2016",
+  "title": "Blessed Are the Children",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303309",
+    "imdb": "tt5622770",
+    "tmdb": 434385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

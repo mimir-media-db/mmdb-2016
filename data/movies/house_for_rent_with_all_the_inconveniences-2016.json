@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_for_rent_with_all_the_inconveniences_2016",
+  "title": "A House for Rent with All the Inconveniences",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108677829",
+    "imdb": "tt6144532",
+    "tmdb": 440179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-13",
+  "runtime_minutes": 91
+}

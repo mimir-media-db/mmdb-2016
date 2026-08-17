@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_sindrome_di_antonio_2016",
+  "title": "La sindrome di Antonio",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303187",
+    "imdb": "tt4181732",
+    "tmdb": 422026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

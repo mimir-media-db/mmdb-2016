@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jon_a_guitar_2016",
+  "title": "Jon, a guitar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27052111",
+    "imdb": "tt5728504"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 4
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_owls_mice_2016",
+  "title": "Owls & Mice",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42798546",
+    "imdb": "tt6012754",
+    "tmdb": 414969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

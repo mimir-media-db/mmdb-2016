@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_in_tokyo_2016",
+  "title": "Winter In Tokyo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25469788",
+    "imdb": "tt7599864",
+    "tmdb": 405045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-11",
+  "runtime_minutes": 103
+}

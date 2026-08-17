@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prema_geema_jaane_do_2016",
+  "title": "Prema Geema Jaane Do",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905454",
+    "imdb": "tt6035564",
+    "tmdb": 865235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02"
+}

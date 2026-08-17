@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_not_yet_dark_2016",
+  "title": "It's Not Yet Dark",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57902605",
+    "imdb": "tt5433330",
+    "tmdb": 433078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 77
+}

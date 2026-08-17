@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_adventure_of_the_gandul_diary_of_a_shipwreck_2016",
+  "title": "The Last Adventure of the Gandul: Diary of a Shipwreck",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303208",
+    "imdb": "tt6394244",
+    "tmdb": 618164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

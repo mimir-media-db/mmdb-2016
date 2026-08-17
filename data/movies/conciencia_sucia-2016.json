@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_conciencia_sucia_2016",
+  "title": "Conciencia sucia",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123483048",
+    "imdb": "tt15228922"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

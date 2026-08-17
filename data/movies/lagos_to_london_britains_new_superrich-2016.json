@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lagos_to_london_britains_new_superrich_2016",
+  "title": "Lagos to London: Britain's New Super-Rich",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043726",
+    "imdb": "tt5805006"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 47
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oscuro_animal_2016",
+  "title": "Oscuro Animal",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963255",
+    "imdb": "tt4123876",
+    "tmdb": 376086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-29",
+  "runtime_minutes": 107
+}

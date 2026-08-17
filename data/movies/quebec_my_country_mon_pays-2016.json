@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quebec_my_country_mon_pays_2016",
+  "title": "Quebec My Country Mon Pays",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26910877",
+    "imdb": "tt5754510",
+    "tmdb": 395422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 89
+}

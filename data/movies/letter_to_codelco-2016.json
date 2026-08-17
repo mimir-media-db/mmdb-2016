@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_letter_to_codelco_2016",
+  "title": "Letter to Codelco",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051706",
+    "imdb": "tt6031170",
+    "tmdb": 1045753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abdullah_takeshi_2016",
+  "title": "Abdullah & Takeshi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25470149",
+    "tmdb": 441499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-24",
+  "runtime_minutes": 87
+}

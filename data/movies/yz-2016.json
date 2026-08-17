@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yz_2016",
+  "title": "YZ",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25209318",
+    "imdb": "tt5780076",
+    "tmdb": 436548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-12"
+}

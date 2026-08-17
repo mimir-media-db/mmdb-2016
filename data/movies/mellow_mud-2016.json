@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mellow_mud_2016",
+  "title": "Mellow Mud",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22980306",
+    "imdb": "tt4356104",
+    "tmdb": 382913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-26",
+  "runtime_minutes": 106
+}

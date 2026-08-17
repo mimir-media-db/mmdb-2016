@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_listeners_2016",
+  "title": "The Listeners",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26835938",
+    "imdb": "tt5675544",
+    "tmdb": 879176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 65
+}

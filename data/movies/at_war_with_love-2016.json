@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_at_war_with_love_2016",
+  "title": "At War with Love",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590337",
+    "imdb": "tt5263116",
+    "tmdb": 403450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 99
+}

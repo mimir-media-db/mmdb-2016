@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trollie_home_sweet_home_2016",
+  "title": "Trollie: Home Sweet Home",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112679692",
+    "imdb": "tt6240850",
+    "tmdb": 925957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 86
+}

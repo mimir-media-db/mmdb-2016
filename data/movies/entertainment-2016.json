@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_entertainment_2016",
+  "title": "Entertainment",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19816596",
+    "imdb": "tt3343784",
+    "tmdb": 246133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-15",
+  "runtime_minutes": 102
+}

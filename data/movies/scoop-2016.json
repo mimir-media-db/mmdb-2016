@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoop_2016",
+  "title": "Scoop!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27133740",
+    "imdb": "tt5194226",
+    "tmdb": 409550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01",
+  "runtime_minutes": 120
+}

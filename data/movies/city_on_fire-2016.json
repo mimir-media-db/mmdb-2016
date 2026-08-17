@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_on_fire_2016",
+  "title": "City on Fire",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042640",
+    "imdb": "tt6083088",
+    "tmdb": 417683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 44
+}

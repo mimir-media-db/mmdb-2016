@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_paisa_paisa_2016",
+  "title": "Paisa Paisa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959335",
+    "imdb": "tt5847334"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-20"
+}

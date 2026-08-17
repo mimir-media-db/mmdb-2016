@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_way_ticket_2016",
+  "title": "One Way Ticket",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115668987",
+    "imdb": "tt5321044",
+    "tmdb": 778064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-23"
+}

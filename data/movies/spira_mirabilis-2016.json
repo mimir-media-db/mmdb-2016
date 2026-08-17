@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spira_mirabilis_2016",
+  "title": "Spira Mirabilis",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26856814",
+    "imdb": "tt5917932",
+    "tmdb": 408545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 121
+}

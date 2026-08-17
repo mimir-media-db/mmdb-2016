@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rodrigo_y_gabriela_at_baloise_session_2016",
+  "title": "Rodrigo Y Gabriela at Baloise Session",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112869234",
+    "tmdb": 472624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 57
+}

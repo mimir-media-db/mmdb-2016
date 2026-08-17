@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_heritiers_2016",
+  "title": "Les héritiers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039075",
+    "imdb": "tt5573818",
+    "tmdb": 594594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

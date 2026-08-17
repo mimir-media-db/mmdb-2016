@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_with_the_jackals_4_2016",
+  "title": "Dance with the Jackals 4",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28841509",
+    "imdb": "tt6273998",
+    "tmdb": 435246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-25",
+  "runtime_minutes": 110
+}

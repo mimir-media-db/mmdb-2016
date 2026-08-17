@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghostbusters_2016",
+  "title": "Ghostbusters",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20120108",
+    "imdb": "tt1289401",
+    "tmdb": 43074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-15",
+  "runtime_minutes": 117
+}

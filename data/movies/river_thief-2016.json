@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_river_thief_2016",
+  "title": "The River Thief",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30688348",
+    "imdb": "tt5664502",
+    "tmdb": 414779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jem_and_the_holograms_2016",
+  "title": "Jem and the Holograms",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16987989",
+    "imdb": "tt3614530",
+    "tmdb": 266639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-28",
+  "runtime_minutes": 118
+}

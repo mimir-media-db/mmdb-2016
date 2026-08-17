@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_devil_and_the_white_prince_2016",
+  "title": "The Black Devil and the White Prince",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111524364",
+    "imdb": "tt5179576",
+    "tmdb": 401917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-27",
+  "runtime_minutes": 93
+}

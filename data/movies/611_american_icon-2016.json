@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_611_american_icon_2016",
+  "title": "611: American Icon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26912704",
+    "imdb": "tt5745222",
+    "tmdb": 858300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 83
+}

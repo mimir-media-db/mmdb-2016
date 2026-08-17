@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_high_strung_2016",
+  "title": "High Strung",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24276071",
+    "imdb": "tt3451230",
+    "tmdb": 382399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-14",
+  "runtime_minutes": 96
+}

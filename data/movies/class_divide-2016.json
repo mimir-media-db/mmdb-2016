@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_class_divide_2016",
+  "title": "Class Divide",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26832568",
+    "imdb": "tt5617554",
+    "tmdb": 381399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 74
+}

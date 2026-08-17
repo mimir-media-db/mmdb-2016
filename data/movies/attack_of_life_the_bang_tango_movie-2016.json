@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attack_of_life_the_bang_tango_movie_2016",
+  "title": "Attack of Life: The Bang Tango Movie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26869146",
+    "imdb": "tt2249438",
+    "tmdb": 523388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-15",
+  "runtime_minutes": 83
+}

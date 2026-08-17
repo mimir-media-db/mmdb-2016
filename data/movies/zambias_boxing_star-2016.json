@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_zambias_boxing_star_2016",
+  "title": "Zambia's Boxing Star",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042338",
+    "imdb": "tt5978956"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

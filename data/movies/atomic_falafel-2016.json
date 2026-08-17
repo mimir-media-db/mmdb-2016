@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atomic_falafel_2016",
+  "title": "Atomic Falafel",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25490363",
+    "imdb": "tt3830312",
+    "tmdb": 359298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-14",
+  "runtime_minutes": 99
+}

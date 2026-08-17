@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_the_matter_2016",
+  "title": "The heART Of The Matter",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26911213",
+    "imdb": "tt5912670",
+    "tmdb": 410201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 89
+}

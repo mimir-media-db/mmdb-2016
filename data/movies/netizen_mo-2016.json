@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_netizen_mo_2016",
+  "title": "Netizen Mo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043488",
+    "imdb": "tt4325856",
+    "tmdb": 885285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 67
+}

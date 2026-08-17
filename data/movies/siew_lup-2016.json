@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_siew_lup_2016",
+  "title": "Siew Lup",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61111380",
+    "imdb": "tt6550794",
+    "tmdb": 443801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 82
+}

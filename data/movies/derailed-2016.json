@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_derailed_2016",
+  "title": "Derailed",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27866539",
+    "imdb": "tt6173644",
+    "tmdb": 428639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-30"
+}

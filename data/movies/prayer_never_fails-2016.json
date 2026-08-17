@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prayer_never_fails_2016",
+  "title": "Prayer Never Fails",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q103165294",
+    "imdb": "tt4575782",
+    "tmdb": 377625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

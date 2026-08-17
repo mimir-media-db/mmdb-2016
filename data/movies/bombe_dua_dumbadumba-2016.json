@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bombe_dua_dumbadumba_2016",
+  "title": "Bombe' Dua : Dumba'-Dumba'",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28724576",
+    "tmdb": 500000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-25",
+  "runtime_minutes": 90
+}

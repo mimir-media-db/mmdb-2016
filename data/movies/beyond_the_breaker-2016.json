@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_breaker_2016",
+  "title": "Beyond the Breaker",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26882972",
+    "imdb": "tt3835166"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

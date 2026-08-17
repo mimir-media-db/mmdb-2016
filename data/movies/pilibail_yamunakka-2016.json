@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_pilibail_yamunakka_2016",
+  "title": "Pilibail Yamunakka",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24897634",
+    "imdb": "tt38737395"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01"
+}

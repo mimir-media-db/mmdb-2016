@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_games_2016",
+  "title": "Love Games",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23013708",
+    "imdb": "tt5518128",
+    "tmdb": 391774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-08"
+}

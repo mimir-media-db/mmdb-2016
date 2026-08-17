@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_past_life_2016",
+  "title": "Past Life",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28465062",
+    "imdb": "tt5787384",
+    "tmdb": 412205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 109
+}

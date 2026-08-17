@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_troublefete_2016",
+  "title": "Trouble-fête",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095949",
+    "imdb": "tt4966266",
+    "tmdb": 362555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-25",
+  "runtime_minutes": 90
+}

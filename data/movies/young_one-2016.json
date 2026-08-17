@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_one_2016",
+  "title": "The Young One",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26714904",
+    "imdb": "tt4613576",
+    "tmdb": 406516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-10",
+  "runtime_minutes": 83
+}

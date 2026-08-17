@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amityville_no_escape_2016",
+  "title": "Amityville: No Escape",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26684588",
+    "imdb": "tt5448998",
+    "tmdb": 409281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-05",
+  "runtime_minutes": 78
+}

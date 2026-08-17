@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_approaching_the_unknown_2016",
+  "title": "Approaching the Unknown",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24034612",
+    "imdb": "tt2674430",
+    "tmdb": 328429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-03",
+  "runtime_minutes": 90
+}

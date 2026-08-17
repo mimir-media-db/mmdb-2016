@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_5_women_2016",
+  "title": "5 Women",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29579010",
+    "imdb": "tt5651272",
+    "tmdb": 402844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-30",
+  "runtime_minutes": 98
+}

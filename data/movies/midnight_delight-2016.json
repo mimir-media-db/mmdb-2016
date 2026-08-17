@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_delight_2016",
+  "title": "Midnight Delight",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15070792",
+    "imdb": "tt3136146",
+    "tmdb": 354601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-21"
+}

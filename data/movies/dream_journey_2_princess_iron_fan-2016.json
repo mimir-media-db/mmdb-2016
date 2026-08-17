@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dream_journey_2_princess_iron_fan_2016",
+  "title": "Dream Journey 2: Princess Iron Fan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65262262",
+    "imdb": "tt5782090",
+    "tmdb": 581142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-20"
+}

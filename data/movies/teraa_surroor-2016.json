@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teraa_surroor_2016",
+  "title": "Teraa Surroor",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21998267",
+    "imdb": "tt5056470",
+    "tmdb": 395339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-11",
+  "runtime_minutes": 106
+}

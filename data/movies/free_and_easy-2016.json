@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_and_easy_2016",
+  "title": "Free and Easy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28936736",
+    "imdb": "tt6244730",
+    "tmdb": 428481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-05",
+  "runtime_minutes": 99
+}

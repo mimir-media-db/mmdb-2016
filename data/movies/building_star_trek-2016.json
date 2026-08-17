@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_building_star_trek_2016",
+  "title": "Building Star Trek",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038148",
+    "imdb": "tt6071476",
+    "tmdb": 414260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-04",
+  "runtime_minutes": 92
+}

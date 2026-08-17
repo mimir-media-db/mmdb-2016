@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_patrol_2016",
+  "title": "Ghost Patrol",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47469594",
+    "imdb": "tt6111628",
+    "tmdb": 422229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 47
+}

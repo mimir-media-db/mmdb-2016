@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ganguro_gals_riot_2016",
+  "title": "Ganguro Gals Riot",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30935333",
+    "imdb": "tt5225082",
+    "tmdb": 538119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-30",
+  "runtime_minutes": 75
+}

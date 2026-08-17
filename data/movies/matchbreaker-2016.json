@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_matchbreaker_2016",
+  "title": "The Matchbreaker",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28312345",
+    "imdb": "tt4269746",
+    "tmdb": 413417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-07"
+}

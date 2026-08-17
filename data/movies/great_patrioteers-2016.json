@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_patrioteers_2016",
+  "title": "Great Patrioteers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28699258",
+    "imdb": "tt6449738",
+    "tmdb": 426419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-08"
+}

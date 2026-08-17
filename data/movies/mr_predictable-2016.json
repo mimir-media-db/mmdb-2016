@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_predictable_2016",
+  "title": "Mr Predictable",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52837155",
+    "imdb": "tt5680160",
+    "tmdb": 395930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 103
+}

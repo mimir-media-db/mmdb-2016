@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_servant_or_slave_2016",
+  "title": "Servant or Slave",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039088",
+    "imdb": "tt5242100",
+    "tmdb": 409152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 58
+}

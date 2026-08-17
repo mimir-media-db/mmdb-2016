@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_odyssey_2016",
+  "title": "The Odyssey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009254",
+    "imdb": "tt1659619",
+    "tmdb": 332794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-23",
+  "runtime_minutes": 122
+}

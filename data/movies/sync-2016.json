@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sync_2016",
+  "title": "Sync",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042059",
+    "imdb": "tt5760164",
+    "tmdb": 1064054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

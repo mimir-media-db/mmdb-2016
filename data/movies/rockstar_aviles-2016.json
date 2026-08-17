@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rockstar_aviles_2016",
+  "title": "Rockstar Avilés",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123483044",
+    "imdb": "tt6449970",
+    "tmdb": 887361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

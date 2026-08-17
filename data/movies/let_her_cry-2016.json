@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_her_cry_2016",
+  "title": "Let Her Cry",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25209294",
+    "imdb": "tt6271820",
+    "tmdb": 438215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-13"
+}

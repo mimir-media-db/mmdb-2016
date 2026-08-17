@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pixi_post_the_gift_bringers_2016",
+  "title": "Pixi Post & the Gift Bringers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98667928",
+    "imdb": "tt6287174",
+    "tmdb": 431296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-23",
+  "runtime_minutes": 90
+}

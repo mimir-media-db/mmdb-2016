@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_and_the_beast_xxx_2016",
+  "title": "Beauty and the Beast XXX",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55864849",
+    "imdb": "tt5366174",
+    "tmdb": 520252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-07",
+  "runtime_minutes": 96
+}

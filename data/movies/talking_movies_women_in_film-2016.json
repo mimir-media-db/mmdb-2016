@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_talking_movies_women_in_film_2016",
+  "title": "Talking Movies: Women in Film",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057614",
+    "imdb": "tt5920112"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

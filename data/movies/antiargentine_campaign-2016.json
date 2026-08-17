@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antiargentine_campaign_2016",
+  "title": "Anti-Argentine Campaign",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124958300",
+    "imdb": "tt5135854",
+    "tmdb": 447830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

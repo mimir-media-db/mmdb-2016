@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boye_2016",
+  "title": "Boye",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039205",
+    "imdb": "tt5541026",
+    "tmdb": 405616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 140
+}

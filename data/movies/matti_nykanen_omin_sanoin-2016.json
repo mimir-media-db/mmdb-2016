@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_matti_nykanen_omin_sanoin_2016",
+  "title": "Matti Nykänen – omin sanoin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26885246",
+    "imdb": "tt1591031"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-12",
+  "runtime_minutes": 90
+}

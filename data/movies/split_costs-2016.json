@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_split_costs_2016",
+  "title": "Split Costs",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51756433",
+    "imdb": "tt5350992"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-16"
+}

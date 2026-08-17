@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_the_people_20_2016",
+  "title": "We the People 2.0",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26835637",
+    "imdb": "tt2128701",
+    "tmdb": 396124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

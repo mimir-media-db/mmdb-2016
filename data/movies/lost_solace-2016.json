@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_solace_2016",
+  "title": "Lost Solace",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65247492",
+    "imdb": "tt4010848",
+    "tmdb": 386825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-04"
+}

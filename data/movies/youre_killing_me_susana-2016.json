@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youre_killing_me_susana_2016",
+  "title": "You're Killing Me Susana",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28154702",
+    "imdb": "tt2538222",
+    "tmdb": 264418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

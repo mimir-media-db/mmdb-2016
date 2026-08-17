@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_pop_went_epic_the_crazy_world_of_the_concept_album_2016",
+  "title": "When Pop Went Epic: The Crazy World of the Concept Album",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26908503",
+    "imdb": "tt5704344",
+    "tmdb": 912565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 59
+}

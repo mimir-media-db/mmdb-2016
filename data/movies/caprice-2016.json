@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caprice_2016",
+  "title": "Caprice",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824594",
+    "imdb": "tt3612984",
+    "tmdb": 334299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-03",
+  "runtime_minutes": 100
+}

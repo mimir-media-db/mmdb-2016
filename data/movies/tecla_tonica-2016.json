@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tecla_tonica_2016",
+  "title": "Tecla Tónica",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043423",
+    "imdb": "tt6082156",
+    "tmdb": 450911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunshine_music_tours_travels_2016",
+  "title": "Sunshine Music Tours & Travels",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26683665",
+    "imdb": "tt5994822",
+    "tmdb": 414440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02"
+}

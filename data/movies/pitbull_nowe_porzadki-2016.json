@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pitbull_nowe_porzadki_2016",
+  "title": "Pitbull. Nowe porządki",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21498241",
+    "imdb": "tt5377604",
+    "tmdb": 382155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-22",
+  "runtime_minutes": 133
+}

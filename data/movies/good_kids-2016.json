@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_kids_2016",
+  "title": "Good Kids",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899738",
+    "imdb": "tt2170427",
+    "tmdb": 352186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-21",
+  "runtime_minutes": 83
+}

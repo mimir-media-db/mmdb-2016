@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_30_2016",
+  "title": "Dirty 30",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959643",
+    "imdb": "tt5521550",
+    "tmdb": 377492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-23",
+  "runtime_minutes": 86
+}

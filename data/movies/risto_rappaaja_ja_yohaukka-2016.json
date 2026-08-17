@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_risto_rappaaja_ja_yohaukka_2016",
+  "title": "Risto Räppääjä ja yöhaukka",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23040725",
+    "imdb": "tt4641730",
+    "tmdb": 410917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-19",
+  "runtime_minutes": 71
+}

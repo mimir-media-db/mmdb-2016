@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oppam_2016",
+  "title": "Oppam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23647126",
+    "imdb": "tt5548032",
+    "tmdb": 404665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-01"
+}

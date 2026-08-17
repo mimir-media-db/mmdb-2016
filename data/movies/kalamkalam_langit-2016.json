@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalamkalam_langit_2016",
+  "title": "Kalam-Kalam Langit",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27704864",
+    "tmdb": 1014824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-01",
+  "runtime_minutes": 100
+}

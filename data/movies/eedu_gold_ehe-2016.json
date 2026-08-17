@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eedu_gold_ehe_2016",
+  "title": "Eedu Gold Ehe",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27230217",
+    "imdb": "tt6255734",
+    "tmdb": 422579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-07"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memories_of_the_sword_2016",
+  "title": "Memories of the Sword",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16256348",
+    "imdb": "tt3054798",
+    "tmdb": 348689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-29",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_exodus_2016",
+  "title": "Soul Exodus",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77864703",
+    "imdb": "tt6214958",
+    "tmdb": 580302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

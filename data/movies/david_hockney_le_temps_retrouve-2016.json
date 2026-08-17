@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_david_hockney_le_temps_retrouve_2016",
+  "title": "David Hockney, le temps retrouvé",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134732270",
+    "imdb": "tt11718074",
+    "tmdb": 675248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 53
+}

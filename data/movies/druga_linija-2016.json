@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_druga_linija_2016",
+  "title": "Druga linija",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043346",
+    "imdb": "tt5843434",
+    "tmdb": 409488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 108
+}

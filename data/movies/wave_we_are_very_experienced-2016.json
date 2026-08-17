@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wave_we_are_very_experienced_2016",
+  "title": "WAVE: We Are Very Experienced",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051871",
+    "imdb": "tt5710360"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

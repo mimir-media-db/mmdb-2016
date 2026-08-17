@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_affair_2016",
+  "title": "Affair",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105668",
+    "imdb": "tt19115626",
+    "tmdb": 408418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

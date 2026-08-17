@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_deuxieme_nuit_2016",
+  "title": "La deuxième nuit",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042882",
+    "imdb": "tt5501166",
+    "tmdb": 420049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

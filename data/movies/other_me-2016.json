@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_other_me_2016",
+  "title": "The Other Me",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56084826",
+    "imdb": "tt5221894",
+    "tmdb": 421365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-07",
+  "runtime_minutes": 101
+}

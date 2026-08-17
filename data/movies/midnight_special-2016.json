@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_special_2016",
+  "title": "Midnight Special",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17025594",
+    "imdb": "tt2649554",
+    "tmdb": 245703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-12",
+  "runtime_minutes": 112
+}

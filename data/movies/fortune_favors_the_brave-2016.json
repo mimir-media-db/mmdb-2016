@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fortune_favors_the_brave_2016",
+  "title": "Fortune Favors the Brave",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25927244",
+    "imdb": "tt4917564",
+    "tmdb": 383560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-15",
+  "runtime_minutes": 92
+}

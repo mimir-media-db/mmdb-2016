@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_best_fake_friends_2016",
+  "title": "Best Fake Friends",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96373454",
+    "imdb": "tt4796366",
+    "tmdb": 493831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

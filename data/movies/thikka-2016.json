@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thikka_2016",
+  "title": "Thikka",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25302972",
+    "imdb": "tt6001942",
+    "tmdb": 411629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-13"
+}

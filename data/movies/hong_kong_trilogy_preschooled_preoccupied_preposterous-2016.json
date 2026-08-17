@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hong_kong_trilogy_preschooled_preoccupied_preposterous_2016",
+  "title": "Hong Kong Trilogy: Preschooled Preoccupied Preposterous",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720621",
+    "imdb": "tt4819804",
+    "tmdb": 356898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-15",
+  "runtime_minutes": 90
+}

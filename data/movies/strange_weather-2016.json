@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strange_weather_2016",
+  "title": "Strange Weather",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958182",
+    "imdb": "tt5205210",
+    "tmdb": 364223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-13",
+  "runtime_minutes": 92
+}

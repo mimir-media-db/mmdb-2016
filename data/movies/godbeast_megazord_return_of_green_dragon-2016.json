@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_godbeast_megazord_return_of_green_dragon_2016",
+  "title": "Godbeast Megazord: Return of Green Dragon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963339",
+    "imdb": "tt6448438",
+    "tmdb": 443837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-15"
+}

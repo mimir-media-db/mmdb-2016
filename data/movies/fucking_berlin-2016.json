@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fucking_berlin_2016",
+  "title": "Fucking Berlin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28869783",
+    "imdb": "tt4024814",
+    "tmdb": 376969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-06",
+  "runtime_minutes": 96
+}

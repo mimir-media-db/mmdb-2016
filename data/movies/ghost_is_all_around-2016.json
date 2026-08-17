@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_is_all_around_2016",
+  "title": "Ghost Is All Around",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55082976",
+    "imdb": "tt5579668",
+    "tmdb": 421504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-31",
+  "runtime_minutes": 99
+}

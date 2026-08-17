@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrath_of_a_great_white_serial_killer_2016",
+  "title": "Wrath of a Great White Serial Killer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26913609",
+    "imdb": "tt5215470",
+    "tmdb": 707090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 44
+}

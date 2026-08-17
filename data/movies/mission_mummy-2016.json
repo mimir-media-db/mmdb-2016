@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_mummy_2016",
+  "title": "Mission Mummy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964648",
+    "imdb": "tt6147548"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01"
+}

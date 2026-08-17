@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_krishna_gaadi_veera_prema_gaadha_2016",
+  "title": "Krishna Gaadi Veera Prema Gaadha",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22251981",
+    "imdb": "tt5457840",
+    "tmdb": 384420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-12"
+}

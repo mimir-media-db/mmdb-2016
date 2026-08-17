@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rem_rem_koolhaas_documentary_2016",
+  "title": "REM: Rem Koolhaas Documentary",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038234",
+    "imdb": "tt2216494"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

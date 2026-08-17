@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sculpture_romain_de_souza_2016",
+  "title": "Sculpture Romain de Souza",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043644",
+    "imdb": "tt5603232"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

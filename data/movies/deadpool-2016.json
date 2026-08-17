@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deadpool_2016",
+  "title": "Deadpool",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19347291",
+    "imdb": "tt1431045",
+    "tmdb": 293660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-10",
+  "runtime_minutes": 108
+}

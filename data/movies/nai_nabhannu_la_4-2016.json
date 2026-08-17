@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nai_nabhannu_la_4_2016",
+  "title": "Nai Nabhannu La 4",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56274687",
+    "imdb": "tt8677400"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_irpinia_zero_2016",
+  "title": "Irpinia Zero",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050030",
+    "imdb": "tt5964504"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 50
+}

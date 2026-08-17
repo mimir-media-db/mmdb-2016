@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_late_summer_2016",
+  "title": "Late Summer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56407154",
+    "imdb": "tt4182064",
+    "tmdb": 402100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 72
+}

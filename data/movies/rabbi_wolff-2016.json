@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rabbi_wolff_2016",
+  "title": "Rabbi Wolff",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23440175",
+    "imdb": "tt5735560",
+    "tmdb": 451670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-14",
+  "runtime_minutes": 90
+}

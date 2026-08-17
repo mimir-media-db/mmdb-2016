@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_musical_or_the_way_to_happiness_2016",
+  "title": "The Musical, or The Way to Happiness",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20977047",
+    "imdb": "tt5048688",
+    "tmdb": 381241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-14",
+  "runtime_minutes": 85
+}

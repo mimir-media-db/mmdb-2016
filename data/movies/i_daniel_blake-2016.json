@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_daniel_blake_2016",
+  "title": "I, Daniel Blake",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23823458",
+    "imdb": "tt5168192",
+    "tmdb": 374473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-21",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_guam_the_wiggy_movie_2016",
+  "title": "Guam: The Wiggy Movie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042596"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

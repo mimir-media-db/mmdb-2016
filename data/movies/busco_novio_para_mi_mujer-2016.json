@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_busco_novio_para_mi_mujer_2016",
+  "title": "Busco novio para mi mujer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22903403",
+    "imdb": "tt5321942",
+    "tmdb": 345912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-12",
+  "runtime_minutes": 96
+}

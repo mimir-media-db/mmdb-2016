@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_donkey_2016",
+  "title": "Mr. Donkey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27778641",
+    "imdb": "tt6167014",
+    "tmdb": 421742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-28",
+  "runtime_minutes": 111
+}

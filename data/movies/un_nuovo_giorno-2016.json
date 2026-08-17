@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_nuovo_giorno_2016",
+  "title": "Un nuovo giorno",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56573757",
+    "imdb": "tt5593210",
+    "tmdb": 602460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 102
+}

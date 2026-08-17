@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comic_8_casino_kings_part_2_2016",
+  "title": "Comic 8: Casino Kings Part 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27554884",
+    "imdb": "tt5065314",
+    "tmdb": 381148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-03",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuttikalundu_sookshikkuka_2016",
+  "title": "Kuttikalundu Sookshikkuka",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536505",
+    "imdb": "tt6208132",
+    "tmdb": 466967
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-02"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joe_dirt_2_beautiful_loser_2016",
+  "title": "Joe Dirt 2: Beautiful Loser",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703157",
+    "imdb": "tt4126340",
+    "tmdb": 335970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-14",
+  "runtime_minutes": 106
+}

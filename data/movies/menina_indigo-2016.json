@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_menina_indigo_2016",
+  "title": "A Menina Índigo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65164233",
+    "imdb": "tt4959972",
+    "tmdb": 480486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_frasi_pou_den_teleiose_2016",
+  "title": "I Frasi pou den Teleiose",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051760",
+    "imdb": "tt5570438"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 99
+}

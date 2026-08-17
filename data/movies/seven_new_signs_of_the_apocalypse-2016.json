@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_new_signs_of_the_apocalypse_2016",
+  "title": "The Seven New Signs of the Apocalypse",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26828163",
+    "imdb": "tt5320190",
+    "tmdb": 410298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 86
+}

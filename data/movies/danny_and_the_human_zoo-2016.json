@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_danny_and_the_human_zoo_2016",
+  "title": "Danny and the Human Zoo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17104391",
+    "imdb": "tt4653556",
+    "tmdb": 357183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-07",
+  "runtime_minutes": 90
+}

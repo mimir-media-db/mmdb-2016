@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_selling_the_future_2016",
+  "title": "Selling the Future",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042526",
+    "imdb": "tt4201856"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

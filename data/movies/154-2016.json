@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_154_2016",
+  "title": "1:54",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27864184",
+    "imdb": "tt5834036",
+    "tmdb": 415665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-13",
+  "runtime_minutes": 106
+}

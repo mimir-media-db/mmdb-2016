@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marshland_2016",
+  "title": "Marshland",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18145311",
+    "imdb": "tt3253930",
+    "tmdb": 236735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-04",
+  "runtime_minutes": 105
+}

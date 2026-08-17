@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_fireflies_2016",
+  "title": "The Diary of Fireflies",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55119158",
+    "imdb": "tt9766610",
+    "tmdb": 451436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-02"
+}

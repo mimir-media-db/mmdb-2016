@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angry_indian_goddesses_2016",
+  "title": "Angry Indian Goddesses",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814436",
+    "imdb": "tt3368222",
+    "tmdb": 358893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-16",
+  "runtime_minutes": 115
+}
