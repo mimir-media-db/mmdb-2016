@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_naagini",
+  "title": "Naagini",
+  "start_year": 2016,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q39071850",
+    "imdb": "tt14140444",
+    "tmdb": 241635
+  },
+  "last_updated": "2026-08-17"
+}

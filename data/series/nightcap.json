@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nightcap",
+  "title": "Nightcap",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28443715",
+    "imdb": "tt5507340",
+    "tmdb": 67833
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

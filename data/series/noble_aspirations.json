@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_noble_aspirations",
+  "title": "Noble Aspirations",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19854294",
+    "imdb": "tt6284026",
+    "tmdb": 67814
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 73
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_night_manager",
+  "title": "The Night Manager",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19865538",
+    "imdb": "tt1399664",
+    "tmdb": 61859
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

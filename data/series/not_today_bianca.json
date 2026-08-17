@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_not_today_bianca",
+  "title": "Not Today Bianca",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q112980973",
+    "imdb": "tt6339238",
+    "tmdb": 113792
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

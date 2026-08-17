@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nelly_and_sherihan",
+  "title": "Nelly and Sherihan",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24659182",
+    "imdb": "tt6221482",
+    "tmdb": 84334
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

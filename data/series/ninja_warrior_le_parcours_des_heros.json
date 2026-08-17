@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ninja_warrior_le_parcours_des_heros",
+  "title": "Ninja warrior, le parcours des héros",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24931796",
+    "imdb": "tt7143414",
+    "tmdb": 67051
+  },
+  "last_updated": "2026-08-17"
+}

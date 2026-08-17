@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_never_ever_say_goodbye",
+  "title": "Never Ever Say Goodbye",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q24514637",
+    "imdb": "tt6848452",
+    "tmdb": 220545
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

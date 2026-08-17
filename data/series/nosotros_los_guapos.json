@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nosotros_los_guapos",
+  "title": "Nosotros los guapos",
+  "start_year": 2016,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q29391726",
+    "imdb": "tt7112114",
+    "tmdb": 67872
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 31
+}

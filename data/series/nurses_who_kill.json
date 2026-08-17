@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nurses_who_kill",
+  "title": "Nurses Who Kill",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47538836",
+    "imdb": "tt6264964",
+    "tmdb": 73213
+  },
+  "last_updated": "2026-08-17"
+}
