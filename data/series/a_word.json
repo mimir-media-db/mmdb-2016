@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_a_word",
+  "title": "The A Word",
+  "start_year": 2016,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q23647016",
+    "imdb": "tt5311790",
+    "tmdb": 65978
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_atlanta",
+  "title": "Atlanta",
+  "start_year": 2016,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q23016639",
+    "imdb": "tt4288182",
+    "tmdb": 65495
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 41
+}

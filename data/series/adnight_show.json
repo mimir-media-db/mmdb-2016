@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_adnight_show",
+  "title": "Adnight Show",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25990585",
+    "imdb": "tt5971630"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ambar",
+  "title": "Ámbar",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q26508081",
+    "imdb": "tt6512962",
+    "tmdb": 68908
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 158
+}

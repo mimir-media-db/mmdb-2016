@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_angie_tribeca",
+  "title": "Angie Tribeca",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q18352354",
+    "imdb": "tt3597790",
+    "tmdb": 61969
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 30
+}

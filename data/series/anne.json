@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_anne",
+  "title": "Anne",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28457677",
+    "imdb": "tt6132758",
+    "tmdb": 68569
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 33
+}

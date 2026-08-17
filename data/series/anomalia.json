@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_anomalia",
+  "title": "Anomalia",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23199387",
+    "imdb": "tt2677216",
+    "tmdb": 65802
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

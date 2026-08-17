@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amanda",
+  "title": "Amanda",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q27901859",
+    "imdb": "tt6323362",
+    "tmdb": 90487
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 170
+}
