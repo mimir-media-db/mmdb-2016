@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_be_single_2016",
+  "title": "How to Be Single",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19880527",
+    "imdb": "tt1292566",
+    "tmdb": 259694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

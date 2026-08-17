@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_her_infidelity_2016",
+  "title": "Her Infidelity",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25441270",
+    "imdb": "tt3905756",
+    "tmdb": 336960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hillsborough_2016",
+  "title": "Hillsborough",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24060244",
+    "imdb": "tt5698100",
+    "tmdb": 264759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 121
+}

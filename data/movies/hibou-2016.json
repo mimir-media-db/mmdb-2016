@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hibou_2016",
+  "title": "Hibou",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25397557",
+    "imdb": "tt5058358",
+    "tmdb": 400148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 82
+}

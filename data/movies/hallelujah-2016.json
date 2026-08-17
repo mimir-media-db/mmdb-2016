@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hallelujah_2016",
+  "title": "Hallelujah!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044503",
+    "imdb": "tt5932440",
+    "tmdb": 594133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

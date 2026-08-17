@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_housefull_3_2016",
+  "title": "Housefull 3",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814562",
+    "imdb": "tt4559046",
+    "tmdb": 391779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 140
+}

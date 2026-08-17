@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hit_it_hard_2016",
+  "title": "Hit It Hard",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706770",
+    "imdb": "tt5448436",
+    "tmdb": 381047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

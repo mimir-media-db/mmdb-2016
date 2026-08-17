@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_god_2016",
+  "title": "Holy God",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044841",
+    "imdb": "tt5947284",
+    "tmdb": 437995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 25
+}
