@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pericle_il_nero_2016",
+  "title": "Pericle Il Nero",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23838441",
+    "imdb": "tt4017052",
+    "tmdb": 392816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

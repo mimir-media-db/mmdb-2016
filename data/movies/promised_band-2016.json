@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_promised_band_2016",
+  "title": "The Promised Band",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705264",
+    "imdb": "tt3551450",
+    "tmdb": 417477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 89
+}

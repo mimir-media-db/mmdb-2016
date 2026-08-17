@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_pedicab_nation_2016",
+  "title": "Pedicab Nation",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044575",
+    "imdb": "tt2316965"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

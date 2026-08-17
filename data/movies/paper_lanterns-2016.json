@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paper_lanterns_2016",
+  "title": "Paper Lanterns",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24659672",
+    "imdb": "tt5569122",
+    "tmdb": 517573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

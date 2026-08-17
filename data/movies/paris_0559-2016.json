@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_0559_2016",
+  "title": "Paris 05:59",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21998244",
+    "imdb": "tt5096628",
+    "tmdb": 382892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 97
+}

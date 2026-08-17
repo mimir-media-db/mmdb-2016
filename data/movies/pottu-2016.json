@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pottu_2016",
+  "title": "Pottu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25203651",
+    "imdb": "tt7943424",
+    "tmdb": 409157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

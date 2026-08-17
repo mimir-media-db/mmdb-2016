@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pelerinaxes_2016",
+  "title": "Pelerinaxes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044788",
+    "imdb": "tt5874862",
+    "tmdb": 428122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 74
+}

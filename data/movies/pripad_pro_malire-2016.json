@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pripad_pro_malire_2016",
+  "title": "Prípad pro malíre",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17516207",
+    "imdb": "tt3803120",
+    "tmdb": 580024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_purno_doirgho_prem_kahini_2_2016",
+  "title": "Purno Doirgho Prem Kahini 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18603041",
+    "imdb": "tt4070204",
+    "tmdb": 1035634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

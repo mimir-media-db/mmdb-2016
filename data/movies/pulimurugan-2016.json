@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pulimurugan_2016",
+  "title": "Pulimurugan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814704",
+    "imdb": "tt5297256",
+    "tmdb": 353501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

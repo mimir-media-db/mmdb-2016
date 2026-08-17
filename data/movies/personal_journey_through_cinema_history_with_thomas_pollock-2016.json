@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_personal_journey_through_cinema_history_with_thomas_pollock_2016",
+  "title": "A Personal Journey Through Cinema History with Thomas Pollock",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044483",
+    "imdb": "tt5883336",
+    "tmdb": 402012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}
