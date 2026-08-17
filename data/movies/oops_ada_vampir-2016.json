@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oops_ada_vampir_2016",
+  "title": "Oops!! Ada Vampir",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110322079",
+    "tmdb": 455948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-31",
+  "runtime_minutes": 93
+}

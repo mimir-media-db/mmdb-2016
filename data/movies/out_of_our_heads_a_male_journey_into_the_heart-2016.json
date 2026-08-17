@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_our_heads_a_male_journey_into_the_heart_2016",
+  "title": "Out of Our Heads: A Male Journey into the Heart",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057331",
+    "imdb": "tt4535458",
+    "tmdb": 870224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 43
+}

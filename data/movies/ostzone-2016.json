@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ostzone_2016",
+  "title": "Ostzone",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31271500",
+    "imdb": "tt4541494",
+    "tmdb": 458474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

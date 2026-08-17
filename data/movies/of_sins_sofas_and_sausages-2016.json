@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_of_sins_sofas_and_sausages_2016",
+  "title": "Of Sins, Sofas and Sausages",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051557",
+    "imdb": "tt5544278",
+    "tmdb": 425680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 79
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_old_hag_syndrome_2016",
+  "title": "The Old Hag Syndrome",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814830",
+    "imdb": "tt3567546",
+    "tmdb": 502110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-31"
+}

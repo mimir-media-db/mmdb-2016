@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ovni_2016",
+  "title": "Ovni",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119441605",
+    "imdb": "tt5637852",
+    "tmdb": 418517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 93
+}

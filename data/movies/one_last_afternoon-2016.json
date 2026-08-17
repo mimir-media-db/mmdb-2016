@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_last_afternoon_2016",
+  "title": "One Last Afternoon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80655243",
+    "imdb": "tt6204184",
+    "tmdb": 417695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 81
+}

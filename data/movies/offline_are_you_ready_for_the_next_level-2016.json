@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_offline_are_you_ready_for_the_next_level_2016",
+  "title": "Offline: Are You Ready for the Next Level?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27037975",
+    "imdb": "tt5351044",
+    "tmdb": 442133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_inferno_3d_2016",
+  "title": "Out of Inferno 3D",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14946061",
+    "imdb": "tt2957680",
+    "tmdb": 244339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-22",
+  "runtime_minutes": 107
+}

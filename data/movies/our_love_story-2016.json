@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_our_love_story_2016",
+  "title": "Our Love Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28698776",
+    "imdb": "tt6129730",
+    "tmdb": 417758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

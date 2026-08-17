@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_sight_stop_the_stigma_start_a_conversation_2016",
+  "title": "Out of Sight: Stop the Stigma, Start a Conversation",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26832717",
+    "imdb": "tt2780220",
+    "tmdb": 382559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 68
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_muthassi_gada_2016",
+  "title": "Oru Muthassi Gada",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23762921",
+    "imdb": "tt5458448",
+    "tmdb": 417977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-14"
+}

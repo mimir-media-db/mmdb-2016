@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_of_ink_and_blood_2016",
+  "title": "Of Ink and Blood",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055367",
+    "imdb": "tt5909112",
+    "tmdb": 429824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 83
+}

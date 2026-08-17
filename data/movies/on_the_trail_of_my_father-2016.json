@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_trail_of_my_father_2016",
+  "title": "On the Trail of My Father",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29034200",
+    "imdb": "tt6141468",
+    "tmdb": 418223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

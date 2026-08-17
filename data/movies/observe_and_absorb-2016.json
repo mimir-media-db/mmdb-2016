@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_observe_and_absorb_2016",
+  "title": "Observe and Absorb",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44069978",
+    "tmdb": 410150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-24",
+  "runtime_minutes": 71
+}

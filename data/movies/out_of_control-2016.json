@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_control_2016",
+  "title": "Out of Control",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25206700",
+    "imdb": "tt5567494",
+    "tmdb": 567581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01"
+}

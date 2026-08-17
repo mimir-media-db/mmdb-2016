@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oh_quina_joia_2016",
+  "title": "Oh, quina joia!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115939924",
+    "imdb": "tt5677406",
+    "tmdb": 429554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}
