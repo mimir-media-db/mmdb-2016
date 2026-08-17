@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_diesel_brothers",
+  "title": "Diesel Brothers",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q27536675",
+    "imdb": "tt5320618",
+    "tmdb": 65623
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

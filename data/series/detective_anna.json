@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_detective_anna",
+  "title": "Detective Anna",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28032656",
+    "imdb": "tt6226710",
+    "tmdb": 70218
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

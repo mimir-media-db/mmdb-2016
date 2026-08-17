@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_de_ludwigs",
+  "title": "De Ludwigs",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q26203807",
+    "imdb": "tt5715140",
+    "tmdb": 125613
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 150
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dear_translator",
+  "title": "Dear Translator",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q24837697",
+    "imdb": "tt6096940",
+    "tmdb": 68043
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 46
+}

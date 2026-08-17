@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dirk_gentlys_holistic_detective_agency",
+  "title": "Dirk Gently's Holistic Detective Agency",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q25396458",
+    "imdb": "tt4047038",
+    "tmdb": 67773
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

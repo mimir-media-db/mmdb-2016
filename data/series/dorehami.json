@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dorehami",
+  "title": "Dorehami",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25425109",
+    "imdb": "tt6609270",
+    "tmdb": 83933
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 84
+}

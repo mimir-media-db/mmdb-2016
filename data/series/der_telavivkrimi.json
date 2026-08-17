@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_der_telavivkrimi",
+  "title": "Der Tel-Aviv-Krimi",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q23714156",
+    "imdb": "tt5483334",
+    "tmdb": 65793
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

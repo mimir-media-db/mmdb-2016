@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dear_my_friends",
+  "title": "Dear My Friends",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23766008",
+    "imdb": "tt5689030",
+    "tmdb": 66434
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}
