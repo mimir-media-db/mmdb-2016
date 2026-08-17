@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sprawl_propaganda_about_propaganda_2016",
+  "title": "The Sprawl: Propaganda About Propaganda",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24731326",
+    "imdb": "tt5432984",
+    "tmdb": 397397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 70
+}

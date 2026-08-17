@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_swimming_with_byron_2016",
+  "title": "Swimming with Byron",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044768",
+    "imdb": "tt4799860"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seer_a_portrait_of_wendell_berry_2016",
+  "title": "The Seer: A Portrait of Wendell Berry",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24613032",
+    "imdb": "tt2335444",
+    "tmdb": 381026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 82
+}

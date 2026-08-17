@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sushi_sauce_piquante_the_life_music_of_gerry_mcgee_2016",
+  "title": "Sushi & Sauce Piquante: The Life & Music of Gerry McGee",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27045016",
+    "imdb": "tt2554758",
+    "tmdb": 435339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 83
+}

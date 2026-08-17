@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_songs_we_sang_2016",
+  "title": "The Songs We Sang",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23763213",
+    "imdb": "tt5589158",
+    "tmdb": 426902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 128
+}

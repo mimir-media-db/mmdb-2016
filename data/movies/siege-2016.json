@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_siege_2016",
+  "title": "The Siege",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24707951",
+    "imdb": "tt5556282",
+    "tmdb": 410937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

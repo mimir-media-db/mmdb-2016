@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_straight_outta_dudleyville_the_legacy_of_the_dudley_boyz_2016",
+  "title": "Straight Outta Dudleyville: The Legacy of the Dudley Boyz",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705335",
+    "imdb": "tt5323824",
+    "tmdb": 387945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

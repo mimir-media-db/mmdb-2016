@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sylvia_tracing_blood_2016",
+  "title": "Sylvia: Tracing Blood",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24686364",
+    "imdb": "tt5717944",
+    "tmdb": 482953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

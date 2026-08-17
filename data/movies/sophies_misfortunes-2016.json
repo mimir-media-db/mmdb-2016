@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sophies_misfortunes_2016",
+  "title": "Sophie's Misfortunes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427590",
+    "imdb": "tt4428740",
+    "tmdb": 369784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 107
+}

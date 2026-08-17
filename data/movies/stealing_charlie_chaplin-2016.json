@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stealing_charlie_chaplin_2016",
+  "title": "Stealing Charlie Chaplin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26899502",
+    "imdb": "tt5466112",
+    "tmdb": 471237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 72
+}

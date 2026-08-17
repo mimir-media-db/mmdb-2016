@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_space_in_between_marina_abramovic_and_brazil_2016",
+  "title": "The Space in Between: Marina Abramovic and Brazil",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24605992",
+    "imdb": "tt4093700",
+    "tmdb": 381027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 86
+}

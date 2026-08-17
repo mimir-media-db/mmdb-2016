@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sick_to_death_2016",
+  "title": "Sick to Death!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24708045",
+    "imdb": "tt5127396",
+    "tmdb": 533742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

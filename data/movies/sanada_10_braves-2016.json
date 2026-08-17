@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sanada_10_braves_2016",
+  "title": "Sanada 10 Braves",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22125926",
+    "imdb": "tt5456436",
+    "tmdb": 449455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}
