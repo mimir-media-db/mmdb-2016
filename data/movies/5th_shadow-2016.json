@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_5th_shadow_2016",
+  "title": "The 5th Shadow",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600151",
+    "imdb": "tt1858788",
+    "tmdb": 1322554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

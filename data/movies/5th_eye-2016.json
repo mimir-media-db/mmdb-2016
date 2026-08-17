@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_5th_eye_2016",
+  "title": "The 5th Eye",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043769",
+    "imdb": "tt6032100",
+    "tmdb": 403405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 112
+}
