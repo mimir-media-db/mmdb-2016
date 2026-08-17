@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garbage_helicopter_2016",
+  "title": "The Garbage Helicopter",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46028619",
+    "imdb": "tt4446200",
+    "tmdb": 370479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-27",
+  "runtime_minutes": 100
+}

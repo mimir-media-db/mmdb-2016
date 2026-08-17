@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gilberts_grim_revenge_2016",
+  "title": "Gilbert's Grim Revenge",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32939328",
+    "imdb": "tt4920312",
+    "tmdb": 413828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-16",
+  "runtime_minutes": 90
+}

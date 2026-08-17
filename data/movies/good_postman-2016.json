@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_postman_2016",
+  "title": "The Good Postman",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30605531",
+    "imdb": "tt6254144",
+    "tmdb": 428566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

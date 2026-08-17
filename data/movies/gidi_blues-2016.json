@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gidi_blues_2016",
+  "title": "Gidi Blues",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113144168",
+    "imdb": "tt8973654",
+    "tmdb": 1415114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

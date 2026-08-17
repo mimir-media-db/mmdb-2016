@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_georgettans_pooram_2016",
+  "title": "Georgettan's Pooram",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536706",
+    "imdb": "tt6188518",
+    "tmdb": 442622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-23"
+}

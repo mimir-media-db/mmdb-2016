@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_unbound_2016",
+  "title": "Girl Unbound",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884215",
+    "imdb": "tt4902216",
+    "tmdb": 411017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

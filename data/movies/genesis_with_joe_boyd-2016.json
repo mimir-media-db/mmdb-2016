@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_genesis_with_joe_boyd_2016",
+  "title": "Genesis with Joe Boyd",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050817",
+    "imdb": "tt5954626"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

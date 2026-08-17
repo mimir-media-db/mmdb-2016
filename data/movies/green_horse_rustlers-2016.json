@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_horse_rustlers_2016",
+  "title": "Green Horse Rustlers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21198070",
+    "imdb": "tt4971382",
+    "tmdb": 437729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-08",
+  "runtime_minutes": 90
+}

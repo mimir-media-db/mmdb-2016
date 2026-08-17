@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_genesee_2016",
+  "title": "Genesee",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55760607",
+    "imdb": "tt8268064",
+    "tmdb": 520629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-10"
+}

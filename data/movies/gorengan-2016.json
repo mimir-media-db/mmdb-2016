@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gorengan_2016",
+  "title": "Gorengan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057008",
+    "imdb": "tt3376822"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

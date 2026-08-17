@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_back_2016",
+  "title": "Get Back",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133854154",
+    "imdb": "tt1843283",
+    "tmdb": 411457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

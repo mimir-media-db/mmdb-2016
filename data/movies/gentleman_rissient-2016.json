@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gentleman_rissient_2016",
+  "title": "Gentleman Rissient",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884931",
+    "imdb": "tt5721752",
+    "tmdb": 593923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 77
+}

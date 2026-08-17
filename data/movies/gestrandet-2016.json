@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gestrandet_2016",
+  "title": "Gestrandet",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23434942",
+    "imdb": "tt5627196",
+    "tmdb": 391239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-07",
+  "runtime_minutes": 78
+}

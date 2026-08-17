@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_genis_aile_2_her_turlu_2016",
+  "title": "Genis Aile 2: Her Türlü",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31271509",
+    "imdb": "tt6266984",
+    "tmdb": 435241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_plumber_2016",
+  "title": "The Good Plumber",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20428001",
+    "imdb": "tt4757160",
+    "tmdb": 447053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01",
+  "runtime_minutes": 85
+}

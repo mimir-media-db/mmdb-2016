@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_greetings_from_fukushima_2016",
+  "title": "Greetings from Fukushima",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646655",
+    "imdb": "tt4667788",
+    "tmdb": 377852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-10",
+  "runtime_minutes": 104
+}

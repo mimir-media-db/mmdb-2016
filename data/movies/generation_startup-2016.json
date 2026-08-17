@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_generation_startup_2016",
+  "title": "Generation Startup",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26824592",
+    "imdb": "tt5535726",
+    "tmdb": 411701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 93
+}

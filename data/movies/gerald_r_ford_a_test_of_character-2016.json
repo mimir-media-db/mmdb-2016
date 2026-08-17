@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gerald_r_ford_a_test_of_character_2016",
+  "title": "Gerald R. Ford: A Test of Character",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26914746",
+    "imdb": "tt5801530",
+    "tmdb": 1296732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

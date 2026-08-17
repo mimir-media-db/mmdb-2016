@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_is_gold_2016",
+  "title": "Green is Gold",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45827787",
+    "imdb": "tt5143704",
+    "tmdb": 404279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

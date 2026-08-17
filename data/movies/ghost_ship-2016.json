@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_ship_2016",
+  "title": "Ghost Ship",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56692143",
+    "imdb": "tt6259364",
+    "tmdb": 399934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-16",
+  "runtime_minutes": 67
+}
