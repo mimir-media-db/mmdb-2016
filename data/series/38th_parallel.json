@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_38th_parallel",
+  "title": "The 38th Parallel",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24832647",
+    "imdb": "tt7317040",
+    "tmdb": 88556
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 38
+}

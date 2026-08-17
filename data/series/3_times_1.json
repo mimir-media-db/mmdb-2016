@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_3_times_1",
+  "title": "3 Times 1",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23977800",
+    "imdb": "tt7773930",
+    "tmdb": 118969
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 56
+}
