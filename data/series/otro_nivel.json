@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_otro_nivel",
+  "title": "A otro nivel",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23723575"
+  },
+  "last_updated": "2026-08-17"
+}

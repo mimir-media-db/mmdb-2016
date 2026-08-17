@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ossans_love",
+  "title": "Ossan's Love",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q52306415",
+    "imdb": "tt8295962",
+    "tmdb": 80051
+  },
+  "last_updated": "2026-08-17"
+}

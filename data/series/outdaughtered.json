@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_outdaughtered",
+  "title": "OutDaughtered",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24514650",
+    "imdb": "tt6215600",
+    "tmdb": 66461
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 74
+}

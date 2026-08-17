@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_one_more_happy_ending",
+  "title": "One More Happy Ending",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21651167",
+    "imdb": "tt5445338",
+    "tmdb": 65187
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}
