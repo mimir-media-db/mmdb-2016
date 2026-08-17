@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_28_moons",
+  "title": "28 Moons",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65121736",
+    "imdb": "tt10145322",
+    "tmdb": 67740
+  },
+  "last_updated": "2026-08-17"
+}
