@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_719_2016",
+  "title": "7:19",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963256",
+    "imdb": "tt5979312",
+    "tmdb": 387805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-01",
+  "runtime_minutes": 93
+}
