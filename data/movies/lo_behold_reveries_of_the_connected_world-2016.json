@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lo_behold_reveries_of_the_connected_world_2016",
+  "title": "Lo & Behold, Reveries of the Connected World",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21816277",
+    "imdb": "tt5275828",
+    "tmdb": 360030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

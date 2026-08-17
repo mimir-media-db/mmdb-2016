@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_eat_2016",
+  "title": "Let's Eat!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22774118",
+    "imdb": "tt5356490",
+    "tmdb": 428186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

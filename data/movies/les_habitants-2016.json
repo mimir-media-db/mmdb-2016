@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_habitants_2016",
+  "title": "Les habitants",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24660679",
+    "imdb": "tt4857622",
+    "tmdb": 393710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

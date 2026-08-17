@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_tuche_2_2016",
+  "title": "Les Tuche 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21428079",
+    "imdb": "tt4926538",
+    "tmdb": 369776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 99
+}

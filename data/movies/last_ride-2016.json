@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_ride_2016",
+  "title": "The Last Ride",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22974615",
+    "imdb": "tt6448982",
+    "tmdb": 388619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

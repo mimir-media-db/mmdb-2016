@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_derniers_survivants_2016",
+  "title": "Les Derniers Survivants",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21008313",
+    "imdb": "tt1813458",
+    "tmdb": 1210186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

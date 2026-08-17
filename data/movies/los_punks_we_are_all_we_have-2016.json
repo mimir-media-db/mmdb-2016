@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_punks_we_are_all_we_have_2016",
+  "title": "Los Punks: We Are All We Have",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24661917",
+    "imdb": "tt4934152",
+    "tmdb": 392091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 79
+}

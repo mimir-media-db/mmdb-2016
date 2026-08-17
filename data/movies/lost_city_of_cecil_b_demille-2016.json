@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_city_of_cecil_b_demille_2016",
+  "title": "The Lost City of Cecil B. DeMille",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706647",
+    "imdb": "tt2507306",
+    "tmdb": 471268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

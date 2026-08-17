@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_off_grid_2016",
+  "title": "Life off grid",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24614187",
+    "imdb": "tt4235130",
+    "tmdb": 339356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 86
+}

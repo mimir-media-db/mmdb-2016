@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_crazy_2016",
+  "title": "Like Crazy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22340123",
+    "imdb": "tt4621872",
+    "tmdb": 380225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 118
+}

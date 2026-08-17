@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_luft_gangster_memoirs_of_a_second_class_hero_2016",
+  "title": "The Luft Gangster: Memoirs of a Second Class Hero",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705538",
+    "imdb": "tt4056156"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 50
+}

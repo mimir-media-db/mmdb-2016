@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_nueva_medellin_2016",
+  "title": "La nueva Medellín",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044700",
+    "imdb": "tt5539404",
+    "tmdb": 569135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

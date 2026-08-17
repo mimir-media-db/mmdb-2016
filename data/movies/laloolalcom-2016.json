@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_laloolalcom_2016",
+  "title": "Laloolal.com",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24882722",
+    "imdb": "tt5769916",
+    "tmdb": 556823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

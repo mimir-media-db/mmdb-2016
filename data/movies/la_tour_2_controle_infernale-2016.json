@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_tour_2_controle_infernale_2016",
+  "title": "La Tour 2 contrôle infernale",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19951676",
+    "imdb": "tt4515544",
+    "tmdb": 369779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

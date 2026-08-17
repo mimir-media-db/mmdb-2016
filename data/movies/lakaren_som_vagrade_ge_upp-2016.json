@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lakaren_som_vagrade_ge_upp_2016",
+  "title": "Läkaren som vägrade ge upp",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24659968",
+    "imdb": "tt5687082"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 112
+}
