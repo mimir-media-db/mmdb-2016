@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assassination_classroom_the_movie_365_days_2016",
+  "title": "Assassination Classroom the Movie: 365 Days",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56070922",
+    "imdb": "tt6475250",
+    "tmdb": 431808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-19",
+  "runtime_minutes": 92
+}

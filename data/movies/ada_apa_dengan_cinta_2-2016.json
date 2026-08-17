@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ada_apa_dengan_cinta_2_2016",
+  "title": "Ada Apa Dengan Cinta? 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24026015",
+    "imdb": "tt5687416",
+    "tmdb": 394496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-28",
+  "runtime_minutes": 123
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abcs_of_death_25_2016",
+  "title": "ABCs of Death 2.5",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28840390",
+    "imdb": "tt5647758",
+    "tmdb": 248781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-20",
+  "runtime_minutes": 85
+}

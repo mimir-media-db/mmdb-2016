@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alone_2016",
+  "title": "ALONE",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27954162",
+    "imdb": "tt5494382",
+    "tmdb": 363764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-24"
+}

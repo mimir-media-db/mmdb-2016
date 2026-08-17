@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arrowhead_2016",
+  "title": "Arrowhead",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28219637",
+    "imdb": "tt3013160",
+    "tmdb": 360799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

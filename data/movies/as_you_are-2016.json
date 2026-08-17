@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_you_are_2016",
+  "title": "As You Are",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22251884",
+    "imdb": "tt4444438",
+    "tmdb": 371445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-25",
+  "runtime_minutes": 110
+}

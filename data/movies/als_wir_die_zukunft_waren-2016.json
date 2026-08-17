@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_als_wir_die_zukunft_waren_2016",
+  "title": "Als wir die Zukunft waren",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22671173",
+    "imdb": "tt5752508",
+    "tmdb": 388083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-25"
+}

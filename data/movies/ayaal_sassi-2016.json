@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ayaal_sassi_2016",
+  "title": "Ayaal Sassi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31703948",
+    "imdb": "tt6231840",
+    "tmdb": 462522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

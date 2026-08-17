@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_achamindri_2016",
+  "title": "Achamindri",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905506",
+    "imdb": "tt6385806",
+    "tmdb": 410617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-30"
+}

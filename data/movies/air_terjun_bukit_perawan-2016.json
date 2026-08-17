@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_air_terjun_bukit_perawan_2016",
+  "title": "Air Terjun Bukit Perawan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25469765",
+    "tmdb": 553243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28",
+  "runtime_minutes": 89
+}

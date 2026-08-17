@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_autism_life_after_diagnosis_2016",
+  "title": "Autism Life After Diagnosis",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051477",
+    "imdb": "tt5237988"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

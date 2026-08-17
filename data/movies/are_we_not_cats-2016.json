@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_are_we_not_cats_2016",
+  "title": "Are We Not Cats",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245122",
+    "imdb": "tt5325492",
+    "tmdb": 395948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 77
+}

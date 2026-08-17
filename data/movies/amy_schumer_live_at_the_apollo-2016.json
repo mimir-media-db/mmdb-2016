@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amy_schumer_live_at_the_apollo_2016",
+  "title": "Amy Schumer: Live at the Apollo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29469301",
+    "imdb": "tt4909348",
+    "tmdb": 355178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

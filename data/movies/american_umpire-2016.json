@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_umpire_2016",
+  "title": "American Umpire",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038105",
+    "imdb": "tt4419506",
+    "tmdb": 429404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 58
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adult_life_skills_2016",
+  "title": "Adult Life Skills",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18915037",
+    "imdb": "tt4211044",
+    "tmdb": 390592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-17",
+  "runtime_minutes": 96
+}

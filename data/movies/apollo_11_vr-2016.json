@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_apollo_11_vr_2016",
+  "title": "Apollo 11 VR",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042942",
+    "imdb": "tt5616994"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_audaz_se_eleva_2016",
+  "title": "Audaz se eleva",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043093",
+    "imdb": "tt5649022",
+    "tmdb": 1560662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 107
+}

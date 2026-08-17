@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_i_see_is_you_2016",
+  "title": "All I See Is You",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022601",
+    "imdb": "tt4486986",
+    "tmdb": 345923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-01",
+  "runtime_minutes": 110
+}

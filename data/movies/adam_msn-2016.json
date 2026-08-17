@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adam_msn_2016",
+  "title": "Adam Mısın!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27887425",
+    "imdb": "tt6248178",
+    "tmdb": 608436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abu_shanab_2016",
+  "title": "Abu Shanab",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25463767",
+    "imdb": "tt5744102",
+    "tmdb": 445239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-05",
+  "runtime_minutes": 114
+}

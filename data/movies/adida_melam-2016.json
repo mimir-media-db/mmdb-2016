@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adida_melam_2016",
+  "title": "Adida Melam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6810928",
+    "imdb": "tt6262700",
+    "tmdb": 391429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alvin_and_the_chipmunks_the_road_chip_2016",
+  "title": "Alvin and the Chipmunks: The Road Chip",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19801728",
+    "imdb": "tt2974918",
+    "tmdb": 258509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-21",
+  "runtime_minutes": 92
+}

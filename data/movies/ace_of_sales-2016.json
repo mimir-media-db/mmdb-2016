@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ace_of_sales_2016",
+  "title": "Ace of Sales",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28410146",
+    "imdb": "tt6121536",
+    "tmdb": 435709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aviatrix_the_katherine_sui_fun_cheung_story_2016",
+  "title": "Aviatrix: The Katherine Sui Fun Cheung Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26828695",
+    "imdb": "tt3704420"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 40
+}

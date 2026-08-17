@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_art_of_moving_2016",
+  "title": "The Art of Moving",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65660837",
+    "imdb": "tt6185646",
+    "tmdb": 480925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-01",
+  "runtime_minutes": 89
+}

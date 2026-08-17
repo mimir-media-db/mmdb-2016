@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alles_andere_zeigt_die_zeit_2016",
+  "title": "Alles andere zeigt die Zeit",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22037758",
+    "imdb": "tt7227308",
+    "tmdb": 495723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_al_massira_the_green_march_2016",
+  "title": "Al Massira: The Green March",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25396487",
+    "imdb": "tt5613022",
+    "tmdb": 394980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-27"
+}

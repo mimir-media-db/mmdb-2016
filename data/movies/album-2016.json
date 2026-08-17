@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_album_2016",
+  "title": "Album",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925073",
+    "imdb": "tt4909984",
+    "tmdb": 393518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-12",
+  "runtime_minutes": 105
+}

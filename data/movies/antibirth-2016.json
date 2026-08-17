@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antibirth_2016",
+  "title": "Antibirth",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22350709",
+    "imdb": "tt3333870",
+    "tmdb": 332285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-25",
+  "runtime_minutes": 94
+}

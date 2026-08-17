@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abbraccialo_per_me_2016",
+  "title": "Abbraccialo per me",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28670979",
+    "imdb": "tt4984866",
+    "tmdb": 393859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 103
+}

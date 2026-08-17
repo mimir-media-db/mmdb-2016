@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_afterthought_2016",
+  "title": "Afterthought",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19847491",
+    "imdb": "tt4614560",
+    "tmdb": 336196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-02",
+  "runtime_minutes": 105
+}

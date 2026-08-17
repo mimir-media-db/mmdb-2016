@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_african_who_wanted_to_fly_2016",
+  "title": "The African Who Wanted to Fly",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245237",
+    "imdb": "tt5812614",
+    "tmdb": 476449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

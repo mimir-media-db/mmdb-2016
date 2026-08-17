@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_avec_lamour_2016",
+  "title": "Avec l'amour",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051633",
+    "imdb": "tt5759506",
+    "tmdb": 470796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 66
+}

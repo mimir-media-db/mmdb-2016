@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_annabelle_hooper_and_the_ghosts_of_nantucket_2016",
+  "title": "Annabelle Hooper and the Ghosts of Nantucket",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47538580",
+    "imdb": "tt3032060",
+    "tmdb": 410284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

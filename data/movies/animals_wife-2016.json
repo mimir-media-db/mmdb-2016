@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_animals_wife_2016",
+  "title": "The Animal's Wife",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26684443",
+    "imdb": "tt4335804",
+    "tmdb": 412199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-01",
+  "runtime_minutes": 120
+}

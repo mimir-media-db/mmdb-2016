@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aharon_appelfeld_le_kaddish_des_orphelins_2016",
+  "title": "Aharon Appelfeld, le kaddish des orphelins",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051688",
+    "imdb": "tt6016332",
+    "tmdb": 788031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aloys_2016",
+  "title": "Aloys",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22251880",
+    "imdb": "tt5065810",
+    "tmdb": 378813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-13",
+  "runtime_minutes": 91
+}

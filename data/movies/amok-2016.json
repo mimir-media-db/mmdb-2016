@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amok_2016",
+  "title": "Amok",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24255532",
+    "imdb": "tt5337986",
+    "tmdb": 389357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-31",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abhimaan_2016",
+  "title": "Abhimaan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25302934",
+    "imdb": "tt8682052",
+    "tmdb": 579409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01"
+}

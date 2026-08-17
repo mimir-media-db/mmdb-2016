@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aya_2016",
+  "title": "AYA",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95573098",
+    "imdb": "tt6374414",
+    "tmdb": 752717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 9
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assault_to_freedom_2016",
+  "title": "Assault to Freedom",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26909223",
+    "imdb": "tt3445074",
+    "tmdb": 874959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 79
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antonio_ihm_schmeckts_nicht_2016",
+  "title": "Antonio, ihm schmeckt's nicht!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23793873",
+    "imdb": "tt4766112",
+    "tmdb": 389358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-18",
+  "runtime_minutes": 95
+}

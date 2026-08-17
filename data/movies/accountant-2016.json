@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_accountant_2016",
+  "title": "The Accountant",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18883455",
+    "imdb": "tt2140479",
+    "tmdb": 302946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-10",
+  "runtime_minutes": 128
+}

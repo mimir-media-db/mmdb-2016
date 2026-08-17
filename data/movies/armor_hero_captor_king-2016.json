@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_armor_hero_captor_king_2016",
+  "title": "Armor Hero Captor King",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536637",
+    "imdb": "tt6450046",
+    "tmdb": 938859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-02"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aozora_yell_2016",
+  "title": "Aozora Yell",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959204",
+    "imdb": "tt5261644",
+    "tmdb": 438524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-20",
+  "runtime_minutes": 126
+}

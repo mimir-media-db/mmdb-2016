@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_story_2016",
+  "title": "Alien Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33060702",
+    "imdb": "tt5438302"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-25"
+}

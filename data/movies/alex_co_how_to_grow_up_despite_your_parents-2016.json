@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alex_co_how_to_grow_up_despite_your_parents_2016",
+  "title": "Alex & Co: How to Grow Up Despite Your Parents",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28000912",
+    "imdb": "tt6284414",
+    "tmdb": 425703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_argentina_2016",
+  "title": "Argentina",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21404528",
+    "imdb": "tt4483460",
+    "tmdb": 359641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-07",
+  "runtime_minutes": 85
+}
