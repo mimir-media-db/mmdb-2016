@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gutbuster_2016",
+  "title": "Gutbuster",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24679456",
+    "imdb": "tt4422544",
+    "tmdb": 416986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_day_to_die_hoka_hey_2016",
+  "title": "A Good Day to Die, Hoka Hey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24642837",
+    "imdb": "tt3766432",
+    "tmdb": 469798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}
