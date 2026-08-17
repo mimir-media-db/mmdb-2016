@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ultraman_orb",
+  "title": "Ultraman Orb",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23908745",
+    "imdb": "tt5678870",
+    "tmdb": 67904
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

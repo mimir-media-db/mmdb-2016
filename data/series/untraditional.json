@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_untraditional",
+  "title": "Untraditional",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28670440",
+    "imdb": "tt7321526",
+    "tmdb": 68583
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

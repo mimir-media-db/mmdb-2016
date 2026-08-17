@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_uncle_buck",
+  "title": "Uncle Buck",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20088887",
+    "imdb": "tt4424758",
+    "tmdb": 66722
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

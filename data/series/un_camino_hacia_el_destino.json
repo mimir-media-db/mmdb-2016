@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_un_camino_hacia_el_destino",
+  "title": "Un camino hacia el destino",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21780601",
+    "imdb": "tt5345792",
+    "tmdb": 66886
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 125
+}
