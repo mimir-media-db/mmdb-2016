@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_vertical_love_documetary_2016",
+  "title": "Vertical Love Documetary",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044381",
+    "imdb": "tt5591258"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

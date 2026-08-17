@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vizhithiru_2016",
+  "title": "Vizhithiru",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7938013",
+    "imdb": "tt7539190",
+    "tmdb": 260658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

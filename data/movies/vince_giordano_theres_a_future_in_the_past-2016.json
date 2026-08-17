@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vince_giordano_theres_a_future_in_the_past_2016",
+  "title": "Vince Giordano: There's a Future in the Past",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705165",
+    "imdb": "tt4322510",
+    "tmdb": 434684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}
