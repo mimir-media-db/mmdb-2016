@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swing_away_2016",
+  "title": "Swing Away",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121623513",
+    "imdb": "tt4653950",
+    "tmdb": 477906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

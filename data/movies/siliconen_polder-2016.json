@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_siliconen_polder_2016",
+  "title": "Siliconen Polder",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27041786",
+    "imdb": "tt6030294"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 46
+}

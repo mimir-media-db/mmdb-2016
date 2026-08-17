@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skips_stones_for_fudge_2016",
+  "title": "Skips Stones for Fudge",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050320",
+    "imdb": "tt5163074",
+    "tmdb": 555661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

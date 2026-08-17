@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seasons_2016",
+  "title": "Seasons",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22696311",
+    "imdb": "tt4283358",
+    "tmdb": 352342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-27",
+  "runtime_minutes": 97
+}

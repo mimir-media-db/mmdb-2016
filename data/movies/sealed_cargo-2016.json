@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sealed_cargo_2016",
+  "title": "Sealed Cargo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26991331",
+    "imdb": "tt2565982",
+    "tmdb": 264387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-05",
+  "runtime_minutes": 107
+}

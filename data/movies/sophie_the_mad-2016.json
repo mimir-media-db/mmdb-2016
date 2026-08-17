@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sophie_the_mad_2016",
+  "title": "Sophie & the Mad",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28713062",
+    "imdb": "tt6275138"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

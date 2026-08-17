@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_speed_sisters_2016",
+  "title": "Speed Sisters",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21203360",
+    "imdb": "tt4154728",
+    "tmdb": 339744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-25",
+  "runtime_minutes": 78
+}

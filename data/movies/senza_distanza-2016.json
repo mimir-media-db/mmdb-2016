@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_senza_distanza_2016",
+  "title": "Senza Distanza",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051351",
+    "imdb": "tt4816884",
+    "tmdb": 575175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 73
+}

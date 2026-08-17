@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sea_tomorrow_2016",
+  "title": "Sea Tomorrow",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038296",
+    "imdb": "tt4870814",
+    "tmdb": 437429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

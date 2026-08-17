@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strike_a_pose_2016",
+  "title": "Strike a Pose",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22674233",
+    "imdb": "tt5477402",
+    "tmdb": 381649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-15",
+  "runtime_minutes": 83
+}

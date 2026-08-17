@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shockvalue_the_savage_high_story_2016",
+  "title": "Shockvalue: The Savage High Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039097",
+    "imdb": "tt8000558"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

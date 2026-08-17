@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sense_of_wonder_2016",
+  "title": "The Sense of Wonder",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646521",
+    "imdb": "tt4084056",
+    "tmdb": 369770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-10",
+  "runtime_minutes": 100
+}

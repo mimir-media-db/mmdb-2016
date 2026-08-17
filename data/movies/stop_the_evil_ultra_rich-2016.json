@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stop_the_evil_ultra_rich_2016",
+  "title": "Stop the Evil Ultra Rich",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051108",
+    "imdb": "tt5975930"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 123
+}

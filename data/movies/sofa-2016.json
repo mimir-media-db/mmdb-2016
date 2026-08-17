@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sofa_2016",
+  "title": "Sofa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28464816",
+    "imdb": "tt6213964",
+    "tmdb": 1021020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_su_nombre_es_fujimori_2016",
+  "title": "Su nombre es Fujimori",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105980782",
+    "tmdb": 822508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

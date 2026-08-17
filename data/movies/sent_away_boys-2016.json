@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sent_away_boys_2016",
+  "title": "Sent Away Boys",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590970",
+    "imdb": "tt5603928"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sharkansas_womens_prison_massacre_2016",
+  "title": "Sharkansas Women's Prison Massacre",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30126703",
+    "imdb": "tt3403194",
+    "tmdb": 335409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-03"
+}

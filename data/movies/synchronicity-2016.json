@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_synchronicity_2016",
+  "title": "Synchronicity",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20949974",
+    "imdb": "tt2049543",
+    "tmdb": 347945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-22",
+  "runtime_minutes": 100
+}

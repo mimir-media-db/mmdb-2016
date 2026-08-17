@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sommerkalte_2016",
+  "title": "Sommerkälte",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135678568",
+    "imdb": "tt5268790",
+    "tmdb": 663004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 37
+}

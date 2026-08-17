@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sam_kinison_the_scream_continues_2016",
+  "title": "Sam Kinison: The Scream Continues",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042192",
+    "imdb": "tt6069058",
+    "tmdb": 744395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 29
+}

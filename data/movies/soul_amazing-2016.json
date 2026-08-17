@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_amazing_2016",
+  "title": "Soul Amazing",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043730",
+    "imdb": "tt5949460"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 97
+}

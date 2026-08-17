@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_same_old_same_old_2016",
+  "title": "Same Old, Same Old",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65284312",
+    "imdb": "tt6135420",
+    "tmdb": 422954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

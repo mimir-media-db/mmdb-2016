@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_of_swordsman_deadly_assassin_2016",
+  "title": "The Shadow of Swordsman: Deadly Assassin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55737031",
+    "imdb": "tt5507146",
+    "tmdb": 968498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

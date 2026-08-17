@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_souffler_plus_fort_que_la_mer_2016",
+  "title": "Souffler plus fort que la mer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101207556",
+    "imdb": "tt5132598",
+    "tmdb": 421055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

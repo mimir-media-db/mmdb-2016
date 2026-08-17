@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soju_2016",
+  "title": "Soju",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051819",
+    "imdb": "tt6018950",
+    "tmdb": 738527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

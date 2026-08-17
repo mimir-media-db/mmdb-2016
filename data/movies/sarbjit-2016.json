@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sarbjit_2016",
+  "title": "Sarbjit",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23013811",
+    "imdb": "tt5120640",
+    "tmdb": 393421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-20",
+  "runtime_minutes": 131
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snarky_puppy_family_dinner_volume_two_2016",
+  "title": "Snarky Puppy Family Dinner Volume Two",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051512",
+    "imdb": "tt5672344",
+    "tmdb": 411941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 94
+}

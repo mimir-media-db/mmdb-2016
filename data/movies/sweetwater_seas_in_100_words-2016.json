@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweetwater_seas_in_100_words_2016",
+  "title": "The Sweetwater Seas in 100 Words",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050572",
+    "imdb": "tt5866840"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 3
+}

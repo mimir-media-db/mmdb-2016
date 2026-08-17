@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_and_the_silver_gays_2016",
+  "title": "Sex and the Silver Gays",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038243",
+    "imdb": "tt5357328",
+    "tmdb": 511342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 70
+}

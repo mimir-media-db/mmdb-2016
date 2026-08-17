@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swallow_2016",
+  "title": "The Swallow",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120825043",
+    "imdb": "tt3716308",
+    "tmdb": 444814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-21",
+  "runtime_minutes": 102
+}

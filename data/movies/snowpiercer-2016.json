@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snowpiercer_2016",
+  "title": "Snowpiercer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q492908",
+    "imdb": "tt1706620",
+    "tmdb": 110415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-27",
+  "runtime_minutes": 126
+}

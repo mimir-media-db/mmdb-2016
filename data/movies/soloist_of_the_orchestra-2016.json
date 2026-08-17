@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soloist_of_the_orchestra_2016",
+  "title": "The Soloist of the Orchestra",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051234",
+    "imdb": "tt5461796"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 25
+}

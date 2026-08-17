@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shared_rooms_2016",
+  "title": "Shared rooms",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124378266",
+    "imdb": "tt5106400",
+    "tmdb": 426576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

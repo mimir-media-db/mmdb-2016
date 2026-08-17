@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_shaitan_ka_bachcha_2016",
+  "title": "Shaitan Ka Bachcha",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963233",
+    "tmdb": 474116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sophie_and_the_rising_sun_2016",
+  "title": "Sophie and the Rising Sun",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958242",
+    "imdb": "tt4532818",
+    "tmdb": 371743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-22",
+  "runtime_minutes": 105
+}

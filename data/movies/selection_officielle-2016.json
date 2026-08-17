@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_selection_officielle_2016",
+  "title": "Sélection officielle",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28375657",
+    "imdb": "tt1894487",
+    "tmdb": 451681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

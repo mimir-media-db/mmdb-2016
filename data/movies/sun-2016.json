@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_2016",
+  "title": "The Sun",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60996443",
+    "imdb": "tt4444446",
+    "tmdb": 382254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-23"
+}

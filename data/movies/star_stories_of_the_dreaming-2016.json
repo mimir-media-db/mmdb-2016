@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_star_stories_of_the_dreaming_2016",
+  "title": "Star Stories of the Dreaming",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27052131",
+    "imdb": "tt5811900",
+    "tmdb": 1725234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

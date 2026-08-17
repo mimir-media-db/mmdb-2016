@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seethamma_andalu_ramayya_sitralu_2016",
+  "title": "Seethamma Andalu Ramayya Sitralu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22674214",
+    "imdb": "tt5597870",
+    "tmdb": 400763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-29"
+}

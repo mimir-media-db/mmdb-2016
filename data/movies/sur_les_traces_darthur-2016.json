@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sur_les_traces_darthur_2016",
+  "title": "Sur les traces d'Arthur",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055318",
+    "imdb": "tt6171970",
+    "tmdb": 422284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

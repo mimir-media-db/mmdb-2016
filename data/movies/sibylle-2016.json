@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sibylle_2016",
+  "title": "Sibylle",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22337701",
+    "imdb": "tt4211916",
+    "tmdb": 311768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-04",
+  "runtime_minutes": 87
+}

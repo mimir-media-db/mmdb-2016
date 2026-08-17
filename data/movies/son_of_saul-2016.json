@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_son_of_saul_2016",
+  "title": "Son of Saul",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19816400",
+    "imdb": "tt3808342",
+    "tmdb": 336050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-10",
+  "runtime_minutes": 107
+}

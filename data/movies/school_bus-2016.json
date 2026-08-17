@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_school_bus_2016",
+  "title": "School Bus",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23647148",
+    "imdb": "tt5454534",
+    "tmdb": 401947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-27"
+}

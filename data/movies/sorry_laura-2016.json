@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorry_laura_2016",
+  "title": "Sorry Laura",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62080129",
+    "imdb": "tt5478866",
+    "tmdb": 652196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

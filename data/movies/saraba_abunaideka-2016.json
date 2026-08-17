@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saraba_abunaideka_2016",
+  "title": "Saraba abunaideka",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21396319",
+    "imdb": "tt4426130",
+    "tmdb": 409202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-30",
+  "runtime_minutes": 118
+}

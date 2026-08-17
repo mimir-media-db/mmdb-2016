@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_signature_series_barnstormers_2016",
+  "title": "Signature Series: Barnstormers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26911207",
+    "imdb": "tt5786630"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

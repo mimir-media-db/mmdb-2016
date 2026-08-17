@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sworn_virgin_2016",
+  "title": "Sworn Virgin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18959341",
+    "imdb": "tt3646344",
+    "tmdb": 319998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28",
+  "runtime_minutes": 90
+}

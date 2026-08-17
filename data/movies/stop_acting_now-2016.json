@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stop_acting_now_2016",
+  "title": "Stop Acting Now",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61718147",
+    "imdb": "tt5038508",
+    "tmdb": 378482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-03",
+  "runtime_minutes": 82
+}

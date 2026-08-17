@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shelley_2016",
+  "title": "Shelley",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20496116",
+    "imdb": "tt5013688",
+    "tmdb": 381767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-14",
+  "runtime_minutes": 90
+}
