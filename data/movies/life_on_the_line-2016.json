@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_on_the_line_2016",
+  "title": "Life on the Line",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27204740",
+    "imdb": "tt3727202",
+    "tmdb": 398289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-18",
+  "runtime_minutes": 97
+}

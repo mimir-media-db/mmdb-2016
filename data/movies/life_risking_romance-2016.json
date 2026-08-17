@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_risking_romance_2016",
+  "title": "Life Risking Romance",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22973774",
+    "imdb": "tt6343000",
+    "tmdb": 431251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-14",
+  "runtime_minutes": 103
+}

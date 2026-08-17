@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_life_flows_on_2016",
+  "title": "Life Flows On",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39061027",
+    "imdb": "tt6275770"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_light_up_the_night_2016",
+  "title": "Light Up the Night",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138809105",
+    "imdb": "tt3457488",
+    "tmdb": 414560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-23"
+}

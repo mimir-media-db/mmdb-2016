@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lipstick_under_my_burkha_2016",
+  "title": "Lipstick Under My Burkha",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536760",
+    "imdb": "tt4807830",
+    "tmdb": 418235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-02",
+  "runtime_minutes": 117
+}
