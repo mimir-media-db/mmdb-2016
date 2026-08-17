@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_he_who_has_two_souls_2016",
+  "title": "He Who Has Two Souls",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30727304",
+    "imdb": "tt5983248",
+    "tmdb": 392080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 16
+}

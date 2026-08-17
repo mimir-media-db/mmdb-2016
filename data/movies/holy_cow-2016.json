@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_cow_2016",
+  "title": "Holy Cow",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21898369",
+    "imdb": "tt5245130",
+    "tmdb": 387471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-18",
+  "runtime_minutes": 77
+}

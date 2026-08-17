@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_horror_stories_3_2016",
+  "title": "Horror Stories 3",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24000753",
+    "imdb": "tt6449358",
+    "tmdb": 400990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-02",
+  "runtime_minutes": 94
+}

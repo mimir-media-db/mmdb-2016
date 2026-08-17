@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hija_unica_2016",
+  "title": "Hija única",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52512418",
+    "imdb": "tt6243218",
+    "tmdb": 438642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

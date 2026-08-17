@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_history_of_the_hands_2016",
+  "title": "The History of the Hands",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573939",
+    "imdb": "tt6216310",
+    "tmdb": 804094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-24",
+  "runtime_minutes": 105
+}

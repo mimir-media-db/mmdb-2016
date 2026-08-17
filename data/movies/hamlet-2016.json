@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hamlet_2016",
+  "title": "Hamlet",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112158107",
+    "imdb": "tt5104954",
+    "tmdb": 431067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-23"
+}

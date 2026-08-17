@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hartenstrijd_2016",
+  "title": "Hartenstrijd",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27922439",
+    "imdb": "tt5876318",
+    "tmdb": 409041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-27",
+  "runtime_minutes": 90
+}

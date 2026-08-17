@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harmonia_2016",
+  "title": "Harmonia",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52837222",
+    "imdb": "tt5143744",
+    "tmdb": 413687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 97
+}

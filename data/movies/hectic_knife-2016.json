@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hectic_knife_2016",
+  "title": "Hectic Knife",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55394514",
+    "imdb": "tt3106878",
+    "tmdb": 273370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

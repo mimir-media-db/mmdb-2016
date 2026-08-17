@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hubert_und_staller_unter_wolfen_2016",
+  "title": "Hubert und Staller - Unter Wölfen",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59315737",
+    "imdb": "tt4626906",
+    "tmdb": 378782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-21",
+  "runtime_minutes": 88
+}

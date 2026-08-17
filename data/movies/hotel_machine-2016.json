@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_machine_2016",
+  "title": "Hotel Machine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26910900",
+    "imdb": "tt5506106",
+    "tmdb": 594591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 67
+}

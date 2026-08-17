@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_i_am_david_2016",
+  "title": "Hello I Am David!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21693762",
+    "imdb": "tt3904986",
+    "tmdb": 364877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-21",
+  "runtime_minutes": 105
+}

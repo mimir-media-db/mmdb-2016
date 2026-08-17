@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_target_2_2016",
+  "title": "Hard Target 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26684425",
+    "imdb": "tt5241578",
+    "tmdb": 402331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-06",
+  "runtime_minutes": 104
+}

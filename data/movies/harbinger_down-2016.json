@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harbinger_down_2016",
+  "title": "Harbinger Down",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251026",
+    "imdb": "tt3397918",
+    "tmdb": 296130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-29",
+  "runtime_minutes": 82
+}

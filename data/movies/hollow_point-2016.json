@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hollow_point_2016",
+  "title": "The Hollow Point",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27942964",
+    "imdb": "tt2918606",
+    "tmdb": 262982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-16",
+  "runtime_minutes": 97
+}

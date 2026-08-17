@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harry_benson_shoot_first_2016",
+  "title": "Harry Benson: Shoot First",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884721",
+    "imdb": "tt3319844",
+    "tmdb": 407803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

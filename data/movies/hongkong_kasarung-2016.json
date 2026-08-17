@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hongkong_kasarung_2016",
+  "title": "Hongkong Kasarung",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28724788",
+    "imdb": "tt11656662",
+    "tmdb": 511877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

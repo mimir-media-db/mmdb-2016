@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_high_sun_2016",
+  "title": "The High Sun",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824702",
+    "imdb": "tt4593108",
+    "tmdb": 336206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-30",
+  "runtime_minutes": 123
+}

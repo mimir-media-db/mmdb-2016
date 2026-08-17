@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happiness_is_a_fourletter_word_2016",
+  "title": "Happiness is a Four-letter Word",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23042159",
+    "imdb": "tt5174974",
+    "tmdb": 506677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-19",
+  "runtime_minutes": 92
+}

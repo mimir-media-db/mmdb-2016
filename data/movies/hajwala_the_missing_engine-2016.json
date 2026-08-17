@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hajwala_the_missing_engine_2016",
+  "title": "Hajwala: The Missing Engine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47358935",
+    "imdb": "tt6200274",
+    "tmdb": 476794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 96
+}

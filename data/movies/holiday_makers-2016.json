@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holiday_makers_2016",
+  "title": "Holiday Makers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54970121",
+    "imdb": "tt5732522",
+    "tmdb": 532295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 121
+}

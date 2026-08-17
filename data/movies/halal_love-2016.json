@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_halal_love_2016",
+  "title": "Halal Love",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21993415",
+    "imdb": "tt5105218",
+    "tmdb": 371461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-07",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_on_willow_street_2016",
+  "title": "House on Willow Street",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35160663",
+    "imdb": "tt4961380",
+    "tmdb": 404584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-26",
+  "runtime_minutes": 86
+}

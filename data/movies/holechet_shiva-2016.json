@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holechet_shiva_2016",
+  "title": "Holechet Shiva",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97958942",
+    "imdb": "tt9257662",
+    "tmdb": 608571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

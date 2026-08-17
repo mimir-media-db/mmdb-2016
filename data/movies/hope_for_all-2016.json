@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hope_for_all_2016",
+  "title": "Hope for All",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23892494",
+    "imdb": "tt5614414",
+    "tmdb": 373475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-12",
+  "runtime_minutes": 100
+}

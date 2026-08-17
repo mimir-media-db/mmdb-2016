@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_kisses_2016",
+  "title": "Hidden Kisses",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28016972",
+    "imdb": "tt5572566",
+    "tmdb": 401698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

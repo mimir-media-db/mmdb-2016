@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_housemaid_2016",
+  "title": "The Housemaid",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q485782",
+    "imdb": "tt1314652",
+    "tmdb": 45202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-04",
+  "runtime_minutes": 106
+}
