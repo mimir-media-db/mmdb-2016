@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enishi_the_bride_of_izumo_2016",
+  "title": "Enishi: The Bride of Izumo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20043350",
+    "imdb": "tt4946660",
+    "tmdb": 355440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

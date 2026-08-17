@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_knows_elizabeth_murray_2016",
+  "title": "Everybody Knows... Elizabeth Murray",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705102",
+    "imdb": "tt5619142",
+    "tmdb": 390775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

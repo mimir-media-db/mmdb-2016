@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_epic_mile_2016",
+  "title": "The Epic Mile",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27055216",
+    "imdb": "tt5555598",
+    "tmdb": 400405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 112
+}

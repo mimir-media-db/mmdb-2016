@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_extraordinary_case_of_alex_lewis_2016",
+  "title": "The Extraordinary Case of Alex Lewis",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24730796",
+    "imdb": "tt5689644",
+    "tmdb": 498825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_chapo_sean_penn_bungle_in_the_jungle_2016",
+  "title": "El Chapo & Sean Penn: Bungle in the Jungle",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706284",
+    "imdb": "tt5519702",
+    "tmdb": 385851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

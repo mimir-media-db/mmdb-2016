@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ee_british_academy_film_awards_2016",
+  "title": "The EE British Academy Film Awards",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24613955",
+    "imdb": "tt5448304"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_engrenage_la_france_face_au_terrorisme_2016",
+  "title": "Engrenage, la France face au terrorisme",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056280",
+    "imdb": "tt5324048"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}
