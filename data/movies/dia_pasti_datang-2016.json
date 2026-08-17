@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dia_pasti_datang_2016",
+  "title": "Dia Pasti Datang",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110320253",
+    "tmdb": 718017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-18",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deadly_intent_2016",
+  "title": "Deadly Intent",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38542140",
+    "imdb": "tt3003980",
+    "tmdb": 396011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-11",
+  "runtime_minutes": 86
+}

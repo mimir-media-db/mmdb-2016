@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_der_maler_franz_xaver_winterhalter_2016",
+  "title": "Der Maler Franz Xaver Winterhalter",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042870",
+    "imdb": "tt5507578"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

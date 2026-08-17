@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_man_tells_his_own_tale_2016",
+  "title": "Dead Man Tells His Own Tale",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30522311",
+    "imdb": "tt5773298",
+    "tmdb": 444102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

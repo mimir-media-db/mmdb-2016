@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dream_2016",
+  "title": "Dream",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31193324",
+    "imdb": "tt5636334",
+    "tmdb": 573689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-21",
+  "runtime_minutes": 106
+}

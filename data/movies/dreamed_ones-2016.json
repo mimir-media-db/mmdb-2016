@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreamed_ones_2016",
+  "title": "The Dreamed Ones",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22986668",
+    "imdb": "tt5463370",
+    "tmdb": 383254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-13",
+  "runtime_minutes": 89
+}

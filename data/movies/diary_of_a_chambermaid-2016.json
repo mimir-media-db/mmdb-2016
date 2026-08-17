@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_a_chambermaid_2016",
+  "title": "Diary of a Chambermaid",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3186820",
+    "imdb": "tt2711898",
+    "tmdb": 320003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-07",
+  "runtime_minutes": 95
+}

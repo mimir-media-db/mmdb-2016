@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_double_feluda_2016",
+  "title": "Double Feluda",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25345025",
+    "imdb": "tt6376380",
+    "tmdb": 512005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-16",
+  "runtime_minutes": 116
+}

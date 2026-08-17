@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dana_carvey_straight_white_male_60_2016",
+  "title": "Dana Carvey: Straight White Male, 60",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100382",
+    "imdb": "tt6217368",
+    "tmdb": 423122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

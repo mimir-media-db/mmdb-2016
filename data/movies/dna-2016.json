@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dna_2016",
+  "title": "DNA",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104660367",
+    "imdb": "tt7465418",
+    "tmdb": 420753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

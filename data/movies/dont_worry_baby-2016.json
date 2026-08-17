@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_worry_baby_2016",
+  "title": "Don't Worry Baby",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958191",
+    "imdb": "tt3252594",
+    "tmdb": 397242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-22",
+  "runtime_minutes": 88
+}

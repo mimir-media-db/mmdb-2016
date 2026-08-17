@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dearest_brother_2016",
+  "title": "Dearest Brother",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30738053",
+    "imdb": "tt5481024",
+    "tmdb": 444983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-26",
+  "runtime_minutes": 98
+}

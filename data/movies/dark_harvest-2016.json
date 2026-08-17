@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_harvest_2016",
+  "title": "Dark Harvest",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672659",
+    "imdb": "tt2939114",
+    "tmdb": 500270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02",
+  "runtime_minutes": 90
+}

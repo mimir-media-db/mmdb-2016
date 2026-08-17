@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_die_kleinste_armee_der_welt_2016",
+  "title": "Die kleinste Armee der Welt",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26971136",
+    "imdb": "tt4565776"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-06"
+}

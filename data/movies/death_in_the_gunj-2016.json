@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_in_the_gunj_2016",
+  "title": "A Death In The Gunj",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23707690",
+    "imdb": "tt5918074",
+    "tmdb": 408624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-10",
+  "runtime_minutes": 110
+}

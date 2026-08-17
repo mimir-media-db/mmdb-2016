@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_darkest_dawn_2016",
+  "title": "The Darkest Dawn",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51879616",
+    "imdb": "tt6017594",
+    "tmdb": 423733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 76
+}

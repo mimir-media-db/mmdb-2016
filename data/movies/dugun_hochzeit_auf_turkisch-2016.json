@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dugun_hochzeit_auf_turkisch_2016",
+  "title": "Dügün – Hochzeit auf Türkisch",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26695942",
+    "imdb": "tt5689680",
+    "tmdb": 414220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-05",
+  "runtime_minutes": 89
+}

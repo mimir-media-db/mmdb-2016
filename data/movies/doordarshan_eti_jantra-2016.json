@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doordarshan_eti_jantra_2016",
+  "title": "Doordarshan Eti Jantra",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26710935",
+    "imdb": "tt8191102",
+    "tmdb": 552222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-02"
+}

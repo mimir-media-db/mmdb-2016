@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_camp_2016",
+  "title": "Dance Camp",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30704605",
+    "imdb": "tt5017928",
+    "tmdb": 382400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 83
+}

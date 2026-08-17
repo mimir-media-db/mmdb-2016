@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demolition_2016",
+  "title": "Demolition",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18149188",
+    "imdb": "tt1172049",
+    "tmdb": 303991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-16",
+  "runtime_minutes": 100
+}

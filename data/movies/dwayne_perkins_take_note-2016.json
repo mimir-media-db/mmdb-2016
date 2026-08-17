@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dwayne_perkins_take_note_2016",
+  "title": "Dwayne Perkins: Take Note",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26831002",
+    "imdb": "tt5857874",
+    "tmdb": 405325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 68
+}

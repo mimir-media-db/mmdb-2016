@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_danny_2016",
+  "title": "Danny",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59391568",
+    "imdb": "tt4206464",
+    "tmdb": 426433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-18"
+}

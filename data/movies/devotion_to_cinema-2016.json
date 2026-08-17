@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devotion_to_cinema_2016",
+  "title": "Devotion to Cinema",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30749988",
+    "imdb": "tt5433194",
+    "tmdb": 441184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

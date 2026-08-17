@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dikchow_banat_palaax_2016",
+  "title": "Dikchow Banat Palaax",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95703837",
+    "imdb": "tt34400118"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-11"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_breathe_2016",
+  "title": "Don't Breathe",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21450470",
+    "imdb": "tt4160708",
+    "tmdb": 300669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-12",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_in_a_life_2016_lp_low_res_2016",
+  "title": "Day in a Life 2016 LP Low Res",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27052080",
+    "imdb": "tt5665694"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 49
+}

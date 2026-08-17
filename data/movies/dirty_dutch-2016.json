@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_dutch_2016",
+  "title": "The Dirty Dutch",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25938192",
+    "imdb": "tt4809458",
+    "tmdb": 397582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-07"
+}

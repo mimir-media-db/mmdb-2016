@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_duel_final_round_2016",
+  "title": "Duel: Final Round",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27951987",
+    "imdb": "tt6448178",
+    "tmdb": 419619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-22"
+}

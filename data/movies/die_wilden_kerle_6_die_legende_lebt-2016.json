@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_wilden_kerle_6_die_legende_lebt_2016",
+  "title": "Die Wilden Kerle 6 - Die Legende lebt",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647348",
+    "imdb": "tt5126792",
+    "tmdb": 370575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-11",
+  "runtime_minutes": 96
+}

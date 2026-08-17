@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dustur_2016",
+  "title": "Dustur",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28821037",
+    "imdb": "tt5528274",
+    "tmdb": 460027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 74
+}

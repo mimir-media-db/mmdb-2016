@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_a_lagos_girl_2016",
+  "title": "Diary of a Lagos Girl",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59725660",
+    "imdb": "tt6579986",
+    "tmdb": 518790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-05"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daffedar_2016",
+  "title": "Daffedar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27890247",
+    "imdb": "tt6099884",
+    "tmdb": 450311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-21"
+}

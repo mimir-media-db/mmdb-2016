@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_djihad_les_contrefeux_2016",
+  "title": "Djihad, les contre-feux",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042828",
+    "imdb": "tt5751340",
+    "tmdb": 1295039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

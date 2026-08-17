@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dada_data_2016",
+  "title": "Dada Data",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30749156",
+    "imdb": "tt9111290"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-05"
+}

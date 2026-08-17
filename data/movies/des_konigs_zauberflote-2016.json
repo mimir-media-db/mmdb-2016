@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_des_konigs_zauberflote_2016",
+  "title": "Des Königs Zauberflöte",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25538745"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-03"
+}
