@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_2_penkuttikal_2016",
+  "title": "2 Penkuttikal",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22674060",
+    "imdb": "tt4594194",
+    "tmdb": 422134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}
