@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rescued_from_hell_2016",
+  "title": "Rescued from Hell",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042262",
+    "imdb": "tt5907692",
+    "tmdb": 1028395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_romansa_gending_cinta_di_tanah_turki_2016",
+  "title": "Romansa: Gending Cinta di Tanah Turki",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28724590",
+    "imdb": "tt10173670",
+    "tmdb": 703261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-17",
+  "runtime_minutes": 87
+}

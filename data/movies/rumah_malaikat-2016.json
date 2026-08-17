@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rumah_malaikat_2016",
+  "title": "Rumah Malaikat",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28725341",
+    "imdb": "tt6333264",
+    "tmdb": 428512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

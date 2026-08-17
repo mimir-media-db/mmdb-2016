@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robin_mark_richard_iii_2016",
+  "title": "Robin & Mark & Richard III",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26917438",
+    "imdb": "tt5676740",
+    "tmdb": 392658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 58
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_rubber_coated_steel_2016",
+  "title": "Rubber Coated Steel",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50379278"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

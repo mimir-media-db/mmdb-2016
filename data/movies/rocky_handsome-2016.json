@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rocky_handsome_2016",
+  "title": "Rocky Handsome",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170349",
+    "imdb": "tt3410408",
+    "tmdb": 376873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-25",
+  "runtime_minutes": 119
+}

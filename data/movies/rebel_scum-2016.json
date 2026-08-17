@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rebel_scum_2016",
+  "title": "Rebel Scum",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65679582",
+    "imdb": "tt6322542",
+    "tmdb": 675515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-09"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_royal_treasure_2016",
+  "title": "Royal Treasure",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23013800",
+    "imdb": "tt5465996",
+    "tmdb": 387949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-15",
+  "runtime_minutes": 102
+}

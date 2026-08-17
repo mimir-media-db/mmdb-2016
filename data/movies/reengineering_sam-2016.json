@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reengineering_sam_2016",
+  "title": "Reengineering SAM",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042023",
+    "imdb": "tt4770770",
+    "tmdb": 419731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

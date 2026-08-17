@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revealing_marie_saint_pierre_2016",
+  "title": "Revealing Marie Saint Pierre",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27052289",
+    "imdb": "tt5861348",
+    "tmdb": 1639408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 38
+}

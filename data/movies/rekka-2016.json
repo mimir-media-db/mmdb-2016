@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rekka_2016",
+  "title": "Rekka",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806805",
+    "imdb": "tt6126312",
+    "tmdb": 407540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-07",
+  "runtime_minutes": 141
+}

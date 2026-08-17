@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reindeer_in_my_saami_heart_2016",
+  "title": "Reindeer in my Saami Heart",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043370",
+    "imdb": "tt4620382",
+    "tmdb": 1424379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 76
+}

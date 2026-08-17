@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_red_2016",
+  "title": "Red",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959648",
+    "imdb": "tt5049304"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-01"
+}

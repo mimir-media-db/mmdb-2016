@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rangaa_patangaa_2016",
+  "title": "Rangaa Patangaa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39060190",
+    "imdb": "tt5344452",
+    "tmdb": 604269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rolling_stones_havana_moon_2016",
+  "title": "The Rolling Stones Havana Moon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27019989",
+    "imdb": "tt5929796",
+    "tmdb": 416499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-22",
+  "runtime_minutes": 116
+}

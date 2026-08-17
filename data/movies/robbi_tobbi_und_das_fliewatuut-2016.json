@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robbi_tobbi_und_das_fliewatuut_2016",
+  "title": "Robbi, Tobbi und das Fliewatüüt",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21696029",
+    "imdb": "tt5700626",
+    "tmdb": 394823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01",
+  "runtime_minutes": 101
+}

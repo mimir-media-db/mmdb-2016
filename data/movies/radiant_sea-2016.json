@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_radiant_sea_2016",
+  "title": "Radiant Sea",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22337719",
+    "imdb": "tt4810828",
+    "tmdb": 355719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-04",
+  "runtime_minutes": 79
+}

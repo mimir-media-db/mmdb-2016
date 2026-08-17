@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rivals_forever_the_sneaker_battle_2016",
+  "title": "Rivals Forever - The Sneaker Battle",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29406360",
+    "imdb": "tt4610114",
+    "tmdb": 1357521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

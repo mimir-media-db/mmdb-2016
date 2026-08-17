@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_richie_2016",
+  "title": "Richie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25209439",
+    "imdb": "tt7297586",
+    "tmdb": 410190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-30"
+}

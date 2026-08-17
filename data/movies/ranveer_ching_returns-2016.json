@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ranveer_ching_returns_2016",
+  "title": "Ranveer Ching Returns",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30642739",
+    "imdb": "tt5985494",
+    "tmdb": 1014607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-19"
+}

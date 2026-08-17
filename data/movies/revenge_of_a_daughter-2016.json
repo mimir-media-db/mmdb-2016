@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_revenge_of_a_daughter_2016",
+  "title": "Revenge of a Daughter",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67517423",
+    "imdb": "tt6263900",
+    "tmdb": 418788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

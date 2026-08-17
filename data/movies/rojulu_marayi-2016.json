@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rojulu_marayi_2016",
+  "title": "Rojulu Marayi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130404735",
+    "imdb": "tt8188584",
+    "tmdb": 409213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-01"
+}
