@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_2016",
+  "title": "Inside",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35547853",
+    "imdb": "tt5170810",
+    "tmdb": 365995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-07",
+  "runtime_minutes": 100
+}

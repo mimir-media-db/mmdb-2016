@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_interrogation_2016",
+  "title": "Interrogation",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925070",
+    "imdb": "tt4497338",
+    "tmdb": 414719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-20",
+  "runtime_minutes": 93
+}

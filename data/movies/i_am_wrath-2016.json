@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_wrath_2016",
+  "title": "I Am Wrath",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19880557",
+    "imdb": "tt3212232",
+    "tmdb": 332411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-16",
+  "runtime_minutes": 92
+}

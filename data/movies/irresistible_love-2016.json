@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_irresistible_love_2016",
+  "title": "Irresistible Love",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964613",
+    "imdb": "tt5987992",
+    "tmdb": 407667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-28",
+  "runtime_minutes": 167
+}

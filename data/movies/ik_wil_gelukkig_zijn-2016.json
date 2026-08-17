@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ik_wil_gelukkig_zijn_2016",
+  "title": "Ik wil gelukkig zijn",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051823",
+    "imdb": "tt4880816",
+    "tmdb": 378426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_wish_i_was_that_bird_2016",
+  "title": "I Wish I Was That Bird",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27053307",
+    "imdb": "tt5932296"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 50
+}

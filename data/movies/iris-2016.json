@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iris_2016",
+  "title": "Iris",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27781206",
+    "imdb": "tt5598110",
+    "tmdb": 395763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-16",
+  "runtime_minutes": 99
+}

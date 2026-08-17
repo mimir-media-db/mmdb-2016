@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_idi_inspector_dawood_ibrahim_2016",
+  "title": "IDI - Inspector Dawood Ibrahim",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23762866",
+    "imdb": "tt5606132",
+    "tmdb": 412107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-12"
+}

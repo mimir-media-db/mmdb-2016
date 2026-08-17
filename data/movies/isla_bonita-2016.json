@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_isla_bonita_2016",
+  "title": "Isla Bonita",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22674394",
+    "imdb": "tt4125220",
+    "tmdb": 355594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-24",
+  "runtime_minutes": 101
+}

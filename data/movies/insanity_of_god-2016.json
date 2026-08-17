@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_insanity_of_god_2016",
+  "title": "The Insanity of God",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26820899",
+    "imdb": "tt4273630",
+    "tmdb": 413214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

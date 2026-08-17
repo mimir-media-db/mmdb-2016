@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_mago_mancini_mancini_the_motorcycle_wizard_2016",
+  "title": "Il Mago Mancini (Mancini, the motorcycle wizard)",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042428",
+    "imdb": "tt5902542",
+    "tmdb": 542142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 56
+}

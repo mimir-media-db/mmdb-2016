@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_it_had_to_be_you_2016",
+  "title": "It Had to Be You",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118128884",
+    "imdb": "tt4414438",
+    "tmdb": 383208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-21"
+}

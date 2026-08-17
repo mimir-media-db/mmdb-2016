@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ian_brady_50_years_behind_bars_2016",
+  "title": "Ian Brady: 50 Years Behind Bars",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26916840",
+    "imdb": "tt5701308",
+    "tmdb": 488640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

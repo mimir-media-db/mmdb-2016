@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ill_be_home_for_christmas_2016",
+  "title": "I'll Be Home for Christmas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46298257",
+    "imdb": "tt5860940",
+    "tmdb": 421632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

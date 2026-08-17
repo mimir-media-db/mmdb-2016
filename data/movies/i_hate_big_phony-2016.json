@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_hate_big_phony_2016",
+  "title": "I Hate Big Phony",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051479",
+    "imdb": "tt4495944",
+    "tmdb": 1118948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

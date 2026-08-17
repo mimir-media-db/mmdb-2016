@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_if_there_is_a_reason_to_study_2016",
+  "title": "If There is a Reason to Study",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30638670",
+    "imdb": "tt3022656",
+    "tmdb": 520778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-12"
+}

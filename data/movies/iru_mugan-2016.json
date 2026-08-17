@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iru_mugan_2016",
+  "title": "Iru Mugan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22828894",
+    "imdb": "tt5372466",
+    "tmdb": 391274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-08",
+  "runtime_minutes": 154
+}

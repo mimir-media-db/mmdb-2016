@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ich_wei_wer_du_bist_2016",
+  "title": "Ich weiß, wer Du bist",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056989",
+    "imdb": "tt5570322",
+    "tmdb": 772926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

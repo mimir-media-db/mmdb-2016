@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_independents_day_2016",
+  "title": "Independent's Day",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25367899",
+    "imdb": "tt5720450",
+    "tmdb": 401132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-07",
+  "runtime_minutes": 91
+}

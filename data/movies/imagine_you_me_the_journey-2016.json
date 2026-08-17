@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_imagine_you_me_the_journey_2016",
+  "title": "Imagine You & Me: The Journey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038314",
+    "imdb": "tt5870648"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 41
+}

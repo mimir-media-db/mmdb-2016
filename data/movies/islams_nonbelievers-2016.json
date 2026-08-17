@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_islams_nonbelievers_2016",
+  "title": "Islam's Non-Believers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536886",
+    "imdb": "tt6121442",
+    "tmdb": 430504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

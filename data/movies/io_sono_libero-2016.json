@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_io_sono_libero_2016",
+  "title": "Io sono Libero",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590376",
+    "imdb": "tt6241086",
+    "tmdb": 445526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

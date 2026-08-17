@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intent_2016",
+  "title": "The Intent",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52945526",
+    "imdb": "tt3842614",
+    "tmdb": 408609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 104
+}

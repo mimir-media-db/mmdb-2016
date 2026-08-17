@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_takes_a_village_the_making_of_village_of_the_damned_2016",
+  "title": "It Takes a Village: The Making of Village of the Damned",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26913612",
+    "imdb": "tt5817450",
+    "tmdb": 531771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 49
+}

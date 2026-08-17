@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_imperium_2016",
+  "title": "Imperium",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21527759",
+    "imdb": "tt4781612",
+    "tmdb": 374617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-19",
+  "runtime_minutes": 109
+}

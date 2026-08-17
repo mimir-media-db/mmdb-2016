@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_india_in_a_day_2016",
+  "title": "India in a Day",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24671844",
+    "imdb": "tt5641282",
+    "tmdb": 411021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-14",
+  "runtime_minutes": 86
+}

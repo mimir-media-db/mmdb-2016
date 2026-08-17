@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_hope_2016",
+  "title": "I am Hope",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25470345",
+    "imdb": "tt5931390",
+    "tmdb": 423752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-18",
+  "runtime_minutes": 108
+}

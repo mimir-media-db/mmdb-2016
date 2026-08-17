@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ixcanul_2016",
+  "title": "Ixcanul",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18702255",
+    "imdb": "tt4135844",
+    "tmdb": 320001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-31",
+  "runtime_minutes": 90
+}

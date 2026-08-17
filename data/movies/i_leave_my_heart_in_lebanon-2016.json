@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_leave_my_heart_in_lebanon_2016",
+  "title": "I Leave My Heart In Lebanon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27979460",
+    "imdb": "tt9209468",
+    "tmdb": 428506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-15",
+  "runtime_minutes": 93
+}

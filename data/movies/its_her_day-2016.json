@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_its_her_day_2016",
+  "title": "It's Her Day",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28369560",
+    "imdb": "tt12916126",
+    "tmdb": 731529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-09"
+}
