@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quo_vado_2016",
+  "title": "Quo vado?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21915467",
+    "imdb": "tt5290524",
+    "tmdb": 374416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}
