@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_precious_cargo_2016",
+  "title": "Precious Cargo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23647134",
+    "imdb": "tt4651410",
+    "tmdb": 384737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-22",
+  "runtime_minutes": 90
+}

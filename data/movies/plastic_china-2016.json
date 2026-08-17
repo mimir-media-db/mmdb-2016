@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plastic_china_2016",
+  "title": "Plastic China",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48926493",
+    "imdb": "tt6090264",
+    "tmdb": 428574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

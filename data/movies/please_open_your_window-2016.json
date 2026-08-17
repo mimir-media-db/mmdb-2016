@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_please_open_your_window_2016",
+  "title": "Please Open Your Window",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28409304",
+    "imdb": "tt7441260",
+    "tmdb": 414040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

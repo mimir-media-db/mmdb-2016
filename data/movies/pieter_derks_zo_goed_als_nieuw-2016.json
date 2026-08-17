@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pieter_derks_zo_goed_als_nieuw_2016",
+  "title": "Pieter Derks: Zo goed als nieuw",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056719",
+    "imdb": "tt5803292",
+    "tmdb": 491918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

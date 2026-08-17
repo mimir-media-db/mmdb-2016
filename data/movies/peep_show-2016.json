@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peep_show_2016",
+  "title": "Peep Show",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59719943",
+    "imdb": "tt6114492",
+    "tmdb": 395692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 8
+}

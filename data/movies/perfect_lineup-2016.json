@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_lineup_2016",
+  "title": "Perfect Lineup",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26828658",
+    "imdb": "tt5078858",
+    "tmdb": 467512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 93
+}

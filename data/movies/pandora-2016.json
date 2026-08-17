@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pandora_2016",
+  "title": "Pandora",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27954163",
+    "imdb": "tt6302160",
+    "tmdb": 429450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 136
+}

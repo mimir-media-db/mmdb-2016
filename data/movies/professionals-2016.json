@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_professionals_2016",
+  "title": "The Professionals",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56389271",
+    "imdb": "tt5732630",
+    "tmdb": 419751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-22"
+}

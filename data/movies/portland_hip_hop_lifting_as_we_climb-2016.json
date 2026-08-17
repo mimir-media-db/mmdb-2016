@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_portland_hip_hop_lifting_as_we_climb_2016",
+  "title": "Portland Hip Hop: Lifting as We Climb",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043083",
+    "imdb": "tt5934902"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

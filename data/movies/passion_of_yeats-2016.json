@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_passion_of_yeats_2016",
+  "title": "The Passion of Yeats",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050919",
+    "imdb": "tt5287470"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 30
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parisienne_2016",
+  "title": "Parisienne",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899522",
+    "imdb": "tt4223366",
+    "tmdb": 355234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-10",
+  "runtime_minutes": 120
+}

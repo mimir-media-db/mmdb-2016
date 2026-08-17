@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pargo_michi_2016",
+  "title": "Pargo Michi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884939",
+    "imdb": "tt5136006"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 7
+}

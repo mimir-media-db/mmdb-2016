@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paper_store_2016",
+  "title": "The Paper Store",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24211054",
+    "imdb": "tt3675606",
+    "tmdb": 462006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-26",
+  "runtime_minutes": 99
+}

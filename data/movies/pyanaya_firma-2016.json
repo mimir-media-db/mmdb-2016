@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pyanaya_firma_2016",
+  "title": "Pyanaya firma",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28047510",
+    "imdb": "tt6522986",
+    "tmdb": 427634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-19",
+  "runtime_minutes": 50
+}

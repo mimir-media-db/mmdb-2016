@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_population_zero_2016",
+  "title": "Population Zero",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136543",
+    "imdb": "tt4593196",
+    "tmdb": 408219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-26"
+}

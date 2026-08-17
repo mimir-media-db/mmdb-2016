@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_people_vs_fritz_bauer_2016",
+  "title": "The People vs. Fritz Bauer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21029656",
+    "imdb": "tt4193400",
+    "tmdb": 355065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-24",
+  "runtime_minutes": 105
+}

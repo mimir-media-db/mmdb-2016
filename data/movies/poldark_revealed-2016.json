@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poldark_revealed_2016",
+  "title": "Poldark Revealed",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039303",
+    "imdb": "tt6076986",
+    "tmdb": 692705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

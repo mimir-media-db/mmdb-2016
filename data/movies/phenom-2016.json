@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phenom_2016",
+  "title": "The Phenom",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646849",
+    "imdb": "tt3885524",
+    "tmdb": 390512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-17",
+  "runtime_minutes": 88
+}

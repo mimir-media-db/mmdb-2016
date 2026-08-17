@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prosecutor_the_defender_the_father_and_his_son_2016",
+  "title": "The Prosecutor the Defender the Father and His Son",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31192211",
+    "imdb": "tt3527510",
+    "tmdb": 369974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-05",
+  "runtime_minutes": 102
+}

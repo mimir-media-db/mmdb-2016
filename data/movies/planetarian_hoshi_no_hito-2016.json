@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_planetarian_hoshi_no_hito_2016",
+  "title": "Planetarian: Hoshi no Hito",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23838455",
+    "imdb": "tt6047388",
+    "tmdb": 394326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-03"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_priorat_2016",
+  "title": "Priorat",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98785040",
+    "imdb": "tt6173118",
+    "tmdb": 548400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-26",
+  "runtime_minutes": 68
+}

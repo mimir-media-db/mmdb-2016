@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paa_joe_the_lion_2016",
+  "title": "Paa Joe & The Lion",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26914325",
+    "imdb": "tt5815818",
+    "tmdb": 438507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 74
+}

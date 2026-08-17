@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passion_for_planet_2016",
+  "title": "Passion for Planet",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21711246",
+    "imdb": "tt5138572",
+    "tmdb": 371682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28",
+  "runtime_minutes": 100
+}

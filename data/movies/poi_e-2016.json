@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poi_e_2016",
+  "title": "Poi E",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26863815",
+    "imdb": "tt5459730",
+    "tmdb": 393367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

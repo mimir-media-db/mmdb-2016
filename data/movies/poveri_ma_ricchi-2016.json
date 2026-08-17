@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poveri_ma_ricchi_2016",
+  "title": "Poveri ma ricchi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590356",
+    "imdb": "tt6085872",
+    "tmdb": 427989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-15",
+  "runtime_minutes": 96
+}

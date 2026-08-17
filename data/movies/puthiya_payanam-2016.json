@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_puthiya_payanam_2016",
+  "title": "Puthiya Payanam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39047021",
+    "imdb": "tt6804038",
+    "tmdb": 520911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-03"
+}

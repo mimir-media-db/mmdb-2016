@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_popstar_never_stop_never_stopping_2016",
+  "title": "Popstar: Never Stop Never Stopping",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001462",
+    "imdb": "tt3960412",
+    "tmdb": 341012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-24",
+  "runtime_minutes": 86
+}

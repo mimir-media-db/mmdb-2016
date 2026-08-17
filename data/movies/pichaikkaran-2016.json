@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pichaikkaran_2016",
+  "title": "Pichaikkaran",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649397",
+    "imdb": "tt5523174",
+    "tmdb": 382736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-04"
+}

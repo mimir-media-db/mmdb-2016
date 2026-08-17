@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pokkiri_raja_2016",
+  "title": "Pokkiri Raja",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646864",
+    "imdb": "tt5495258",
+    "tmdb": 369939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-01"
+}

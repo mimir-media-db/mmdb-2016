@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peter_von_bagh_2016",
+  "title": "Peter von Bagh",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051578",
+    "imdb": "tt5743588",
+    "tmdb": 403078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 68
+}

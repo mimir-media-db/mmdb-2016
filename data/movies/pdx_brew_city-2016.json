@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_pdx_brew_city_2016",
+  "title": "PDX: Brew City",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051717",
+    "imdb": "tt5731762"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

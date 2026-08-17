@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_projekt_a_2016",
+  "title": "Projekt A",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22054100",
+    "imdb": "tt5060712",
+    "tmdb": 376084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-04",
+  "runtime_minutes": 88
+}

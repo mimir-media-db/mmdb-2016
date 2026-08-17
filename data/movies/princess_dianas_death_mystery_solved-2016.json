@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_princess_dianas_death_mystery_solved_2016",
+  "title": "Princess Diana's Death: Mystery Solved",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26830645",
+    "imdb": "tt5772402",
+    "tmdb": 1474783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

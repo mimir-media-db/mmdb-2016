@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_petes_dragon_2016",
+  "title": "Pete's Dragon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786473",
+    "imdb": "tt2788732",
+    "tmdb": 294272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-12",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poshter_girl_2016",
+  "title": "Poshter Girl",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22074994",
+    "imdb": "tt5323386",
+    "tmdb": 385453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-12"
+}

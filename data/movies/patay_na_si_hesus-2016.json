@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_patay_na_si_hesus_2016",
+  "title": "Patay na si Hesus",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39048805",
+    "imdb": "tt6166990",
+    "tmdb": 420942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-13"
+}

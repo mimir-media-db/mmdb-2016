@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pulitzer_at_100_2016",
+  "title": "The Pulitzer at 100",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042708",
+    "imdb": "tt5843574",
+    "tmdb": 403927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

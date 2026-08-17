@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_planet_of_the_sharks_2016",
+  "title": "Planet of the Sharks",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64584879",
+    "imdb": "tt5828640",
+    "tmdb": 407620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-27"
+}

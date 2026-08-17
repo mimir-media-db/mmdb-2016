@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_piu_libero_di_prima_2016",
+  "title": "Più libero di prima",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050581",
+    "imdb": "tt3985560",
+    "tmdb": 487263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}
