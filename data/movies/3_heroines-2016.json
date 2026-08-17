@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_heroines_2016",
+  "title": "3 Heroines",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25262002",
+    "imdb": "tt5946974",
+    "tmdb": 404773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-04"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_pilihan_hidup_2016",
+  "title": "3 Pilihan Hidup",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25470443",
+    "tmdb": 410657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-18",
+  "runtime_minutes": 90
+}
