@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_fair_lady",
+  "title": "My Fair Lady",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q27605862",
+    "imdb": "tt6234398",
+    "tmdb": 68653
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

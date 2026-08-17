@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_little_baby",
+  "title": "My Little Baby",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22773704",
+    "imdb": "tt5546516",
+    "tmdb": 65791
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

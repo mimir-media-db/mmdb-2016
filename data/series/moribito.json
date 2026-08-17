@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_moribito",
+  "title": "Moribito",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q106705902",
+    "imdb": "tt4333966",
+    "tmdb": 70934
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

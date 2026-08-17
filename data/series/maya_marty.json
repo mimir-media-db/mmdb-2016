@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maya_marty",
+  "title": "Maya & Marty",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22906794",
+    "imdb": "tt5543284",
+    "tmdb": 66623
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

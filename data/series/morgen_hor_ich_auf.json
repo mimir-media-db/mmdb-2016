@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_morgen_hor_ich_auf",
+  "title": "Morgen hör ich auf",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22240097",
+    "imdb": "tt4368698",
+    "tmdb": 65134
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

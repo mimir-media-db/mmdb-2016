@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_moon",
+  "title": "Miss Moon",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q27536792",
+    "imdb": "tt5653332",
+    "tmdb": 86746
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

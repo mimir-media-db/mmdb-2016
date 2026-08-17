@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_missing",
+  "title": "The Missing",
+  "start_year": 2016,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q24073910",
+    "imdb": "tt5685486",
+    "tmdb": 67712
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 100
+}
