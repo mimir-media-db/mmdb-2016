@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zoology_2016",
+  "title": "Zoology",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25446290",
+    "imdb": "tt5133392",
+    "tmdb": 405670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-10",
+  "runtime_minutes": 83
+}

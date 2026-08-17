@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zhaleika_2016",
+  "title": "Zhaleika",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24616139",
+    "imdb": "tt5360804",
+    "tmdb": 383539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-17",
+  "runtime_minutes": 92
+}

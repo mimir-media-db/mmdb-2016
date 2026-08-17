@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zaineb_hates_the_snow_2016",
+  "title": "Zaineb Hates the Snow",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56307795",
+    "imdb": "tt6041330",
+    "tmdb": 455162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-21"
+}

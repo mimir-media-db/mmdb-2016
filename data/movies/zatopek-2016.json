@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zatopek_2016",
+  "title": "Zátopek",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104897480",
+    "imdb": "tt10562582",
+    "tmdb": 624495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}
