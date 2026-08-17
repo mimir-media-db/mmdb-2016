@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_woman_with_a_suitcase",
+  "title": "Woman with a Suitcase",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q26381967",
+    "imdb": "tt5994434",
+    "tmdb": 67781
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

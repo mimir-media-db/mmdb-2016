@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wynonna_earp",
+  "title": "Wynonna Earp",
+  "start_year": 2016,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q22909835",
+    "imdb": "tt4878326",
+    "tmdb": 65988
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 49
+}

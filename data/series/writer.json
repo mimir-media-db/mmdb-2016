@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_writer",
+  "title": "The Writer",
+  "start_year": 2016,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q25491595",
+    "imdb": "tt6483304",
+    "tmdb": 87881
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

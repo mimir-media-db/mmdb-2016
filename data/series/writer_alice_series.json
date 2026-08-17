@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_writer_alice_series",
+  "title": "Writer Alice Series",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11385352"
+  },
+  "last_updated": "2026-08-17"
+}

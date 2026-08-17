@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_windsors",
+  "title": "The Windsors",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24083604",
+    "imdb": "tt5692740",
+    "tmdb": 66437
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 6
+}

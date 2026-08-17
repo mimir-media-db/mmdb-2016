@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_weird_but_true",
+  "title": "Weird But True!",
+  "start_year": 2016,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q104804171",
+    "imdb": "tt6057106",
+    "tmdb": 104287
+  },
+  "last_updated": "2026-08-17"
+}

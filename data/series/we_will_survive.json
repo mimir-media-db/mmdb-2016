@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_we_will_survive",
+  "title": "We Will Survive",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23013873",
+    "imdb": "tt6795740",
+    "tmdb": 220840
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 97
+}
