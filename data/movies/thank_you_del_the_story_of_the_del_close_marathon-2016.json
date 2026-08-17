@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thank_you_del_the_story_of_the_del_close_marathon_2016",
+  "title": "Thank You, Del: The Story of the Del Close Marathon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24661046",
+    "imdb": "tt5431044",
+    "tmdb": 381062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

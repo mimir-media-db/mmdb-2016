@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tuff_boys_2016",
+  "title": "Tuff Boys",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26899159",
+    "imdb": "tt5603920"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 31
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_troppo_napoletano_2016",
+  "title": "Troppo napoletano",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23773162",
+    "imdb": "tt5654282",
+    "tmdb": 392664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

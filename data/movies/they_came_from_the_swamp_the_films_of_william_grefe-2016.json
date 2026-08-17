@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_they_came_from_the_swamp_the_films_of_william_grefe_2016",
+  "title": "They Came from the Swamp: The Films of William Grefé",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24740680",
+    "imdb": "tt5613322",
+    "tmdb": 396706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 126
+}

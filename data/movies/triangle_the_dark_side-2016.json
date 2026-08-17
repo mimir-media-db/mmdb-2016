@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_triangle_the_dark_side_2016",
+  "title": "Triangle the Dark Side",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25471409",
+    "imdb": "tt5693776",
+    "tmdb": 410654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ten_commandments_the_movie_2016",
+  "title": "The Ten Commandments: The Movie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22672405",
+    "imdb": "tt5431016",
+    "tmdb": 372519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 120
+}

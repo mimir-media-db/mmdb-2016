@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_temporar_esprit_2016",
+  "title": "Temporär Esprit",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25834120",
+    "imdb": "tt8963616"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

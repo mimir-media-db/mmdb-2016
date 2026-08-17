@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_soft_things_two_hard_things_2016",
+  "title": "Two Soft Things, Two Hard Things",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24192020",
+    "imdb": "tt5503490",
+    "tmdb": 399640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 71
+}

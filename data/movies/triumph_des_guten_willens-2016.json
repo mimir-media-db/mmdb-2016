@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_triumph_des_guten_willens_2016",
+  "title": "Triumph des guten Willens",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24739990",
+    "imdb": "tt5595822",
+    "tmdb": 425195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

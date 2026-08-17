@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trip_to_unicorn_island_2016",
+  "title": "A Trip to Unicorn Island",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22905777",
+    "imdb": "tt5333882",
+    "tmdb": 382213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

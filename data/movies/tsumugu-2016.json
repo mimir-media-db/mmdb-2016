@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tsumugu_2016",
+  "title": "TSUMUGU",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24868413",
+    "imdb": "tt5217178",
+    "tmdb": 533198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}
