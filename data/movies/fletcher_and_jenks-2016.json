@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fletcher_and_jenks_2016",
+  "title": "Fletcher and Jenks",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28146958",
+    "imdb": "tt5986896",
+    "tmdb": 437142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-08",
+  "runtime_minutes": 7
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ferien_2016",
+  "title": "Ferien",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26269690",
+    "imdb": "tt5332942",
+    "tmdb": 393414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-07",
+  "runtime_minutes": 89
+}

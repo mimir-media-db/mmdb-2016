@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friday_2016",
+  "title": "Friday",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29015042",
+    "imdb": "tt5311004",
+    "tmdb": 390880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-26",
+  "runtime_minutes": 87
+}

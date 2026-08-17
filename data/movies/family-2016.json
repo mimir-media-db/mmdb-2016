@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_family_2016",
+  "title": "The Family",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26912034",
+    "imdb": "tt5939770",
+    "tmdb": 406561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

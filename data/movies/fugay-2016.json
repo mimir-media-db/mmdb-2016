@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fugay_2016",
+  "title": "Fugay",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536707",
+    "imdb": "tt6522352",
+    "tmdb": 538321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01"
+}

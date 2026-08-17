@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flower_of_aleppo_2016",
+  "title": "The Flower of Aleppo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26825486",
+    "imdb": "tt5448246",
+    "tmdb": 413928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-28",
+  "runtime_minutes": 94
+}

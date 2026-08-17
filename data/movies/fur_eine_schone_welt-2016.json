@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fur_eine_schone_welt_2016",
+  "title": "Für eine schöne Welt",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050433",
+    "imdb": "tt5991528",
+    "tmdb": 881083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 74
+}

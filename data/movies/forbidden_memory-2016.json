@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forbidden_memory_2016",
+  "title": "Forbidden Memory",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964651",
+    "imdb": "tt6263312",
+    "tmdb": 425953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-14"
+}

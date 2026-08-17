@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fc_polska_2016",
+  "title": "FC Polska",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042642",
+    "imdb": "tt5427380"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 51
+}

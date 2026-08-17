@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finest_hours_2016",
+  "title": "The Finest Hours",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18031184",
+    "imdb": "tt2025690",
+    "tmdb": 300673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-29",
+  "runtime_minutes": 118
+}

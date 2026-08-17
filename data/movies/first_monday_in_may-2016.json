@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_monday_in_may_2016",
+  "title": "The First Monday in May",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24034514",
+    "imdb": "tt5519566",
+    "tmdb": 384573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-13",
+  "runtime_minutes": 90
+}

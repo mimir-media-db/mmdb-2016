@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_femmes_du_chaos_venezuelien_2016",
+  "title": "Femmes du chaos vénézuélien",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102117251",
+    "imdb": "tt6498064",
+    "tmdb": 513219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_francis_pray_for_me_2016",
+  "title": "Francis: Pray for me",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20992384",
+    "imdb": "tt3165636",
+    "tmdb": 349105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-07",
+  "runtime_minutes": 100
+}

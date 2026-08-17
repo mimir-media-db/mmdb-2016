@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freeheld_2016",
+  "title": "Freeheld",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18210299",
+    "imdb": "tt1658801",
+    "tmdb": 306745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-07",
+  "runtime_minutes": 103
+}

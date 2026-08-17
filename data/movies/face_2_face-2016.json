@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_face_2_face_2016",
+  "title": "Face 2 Face",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55639695",
+    "imdb": "tt4835940",
+    "tmdb": 470901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

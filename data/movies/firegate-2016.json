@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_firegate_2016",
+  "title": "Firegate",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28096383",
+    "imdb": "tt5811242",
+    "tmdb": 410645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-03",
+  "runtime_minutes": 113
+}

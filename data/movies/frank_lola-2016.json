@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frank_lola_2016",
+  "title": "Frank & Lola",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22079425",
+    "imdb": "tt1290138",
+    "tmdb": 316021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-27",
+  "runtime_minutes": 88
+}

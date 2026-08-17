@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_family_weekend_2016",
+  "title": "Family Weekend",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22815076",
+    "imdb": "tt4195148",
+    "tmdb": 381052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-18",
+  "runtime_minutes": 84
+}

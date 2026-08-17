@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_florence_foster_jenkins_2016",
+  "title": "Florence Foster Jenkins",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19955874",
+    "imdb": "tt4136084",
+    "tmdb": 315664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-23",
+  "runtime_minutes": 110
+}

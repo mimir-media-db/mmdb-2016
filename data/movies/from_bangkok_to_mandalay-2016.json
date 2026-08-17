@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_bangkok_to_mandalay_2016",
+  "title": "From Bangkok to Mandalay",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29173075",
+    "imdb": "tt6357504",
+    "tmdb": 467362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-27",
+  "runtime_minutes": 120
+}

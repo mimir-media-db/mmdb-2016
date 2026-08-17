@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flying_jatt_2016",
+  "title": "A Flying Jatt",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001840",
+    "imdb": "tt5235880",
+    "tmdb": 396643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-25",
+  "runtime_minutes": 151
+}

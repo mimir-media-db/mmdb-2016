@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farming_boys_2016",
+  "title": "Farming Boys",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057017",
+    "imdb": "tt6089670",
+    "tmdb": 466390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

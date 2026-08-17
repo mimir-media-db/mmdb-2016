@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fix_everything_2016",
+  "title": "Fix Everything",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28667142",
+    "imdb": "tt15576878",
+    "tmdb": 394541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fathers_will_2016",
+  "title": "A Father's Will",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26934467",
+    "imdb": "tt5886718",
+    "tmdb": 416596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-25",
+  "runtime_minutes": 112
+}

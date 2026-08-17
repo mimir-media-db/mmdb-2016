@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fanfreluches_et_idees_noires_2016",
+  "title": "Fanfreluches et idées noires",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134294964",
+    "imdb": "tt5657426",
+    "tmdb": 387936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 27
+}

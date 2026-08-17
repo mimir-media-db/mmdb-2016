@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_functional_fitness_2016",
+  "title": "Functional Fitness",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47011613",
+    "imdb": "tt6302260",
+    "tmdb": 496378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}
