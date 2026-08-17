@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oggi_insieme_domani_anche_2016",
+  "title": "Oggi insieme, domani anche",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611725",
+    "imdb": "tt5830242",
+    "tmdb": 398184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

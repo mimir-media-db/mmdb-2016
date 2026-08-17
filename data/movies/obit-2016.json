@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_obit_2016",
+  "title": "Obit",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24659917",
+    "imdb": "tt4820284",
+    "tmdb": 390747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 93
+}

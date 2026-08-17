@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oleg_and_strange_arts_2016",
+  "title": "Oleg and Strange Arts",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705754",
+    "imdb": "tt5489948",
+    "tmdb": 394166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_osterreich_land_der_neider_2016",
+  "title": "Österreich: Land der Neider?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044632",
+    "imdb": "tt5596326"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_other_kids_2016",
+  "title": "The Other Kids",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26898934",
+    "imdb": "tt3779858",
+    "tmdb": 643836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

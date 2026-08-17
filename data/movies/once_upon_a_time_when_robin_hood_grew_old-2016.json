@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_when_robin_hood_grew_old_2016",
+  "title": "Once Upon a Time When Robin Hood Grew Old",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056490",
+    "imdb": "tt5783672",
+    "tmdb": 842705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

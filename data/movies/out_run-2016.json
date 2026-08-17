@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_out_run_2016",
+  "title": "Out Run",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706044",
+    "imdb": "tt4906148",
+    "tmdb": 398791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}
