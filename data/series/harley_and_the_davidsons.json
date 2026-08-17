@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_harley_and_the_davidsons",
+  "title": "Harley and the Davidsons",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q26963212",
+    "imdb": "tt5111414",
+    "tmdb": 67673
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

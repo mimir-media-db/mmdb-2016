@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_holnap_tali",
+  "title": "Holnap Tali!",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q31092614",
+    "imdb": "tt6736832",
+    "tmdb": 205940
+  },
+  "last_updated": "2026-08-17"
+}

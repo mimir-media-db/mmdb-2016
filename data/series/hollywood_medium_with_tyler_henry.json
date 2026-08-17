@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hollywood_medium_with_tyler_henry",
+  "title": "Hollywood Medium With Tyler Henry",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q26158101",
+    "imdb": "tt5271054",
+    "tmdb": 65940
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

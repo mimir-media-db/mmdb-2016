@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hangimiz_sevmedik",
+  "title": "Hangimiz Sevmedik",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q61072039",
+    "imdb": "tt6263656",
+    "tmdb": 68605
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

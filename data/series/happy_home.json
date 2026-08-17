@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_happy_home",
+  "title": "Happy Home",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21824764",
+    "imdb": "tt5347176",
+    "tmdb": 65714
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 51
+}

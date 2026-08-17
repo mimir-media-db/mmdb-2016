@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_home_adventures_with_tip_oh",
+  "title": "Home: Adventures with Tip & Oh",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q24278824",
+    "imdb": "tt5759196",
+    "tmdb": 67242
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

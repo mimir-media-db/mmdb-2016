@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_mr_right",
+  "title": "Hello Mr. Right",
+  "start_year": 2016,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q128214264",
+    "tmdb": 85613
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}
