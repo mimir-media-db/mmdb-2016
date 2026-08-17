@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1962_my_country_land_2016",
+  "title": "1962 My Country Land",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115627000",
+    "imdb": "tt5879420"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-18",
+  "runtime_minutes": 106
+}

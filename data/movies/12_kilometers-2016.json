@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_12_kilometers_2016",
+  "title": "12 Kilometers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128657917",
+    "imdb": "tt3959450",
+    "tmdb": 396717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-16"
+}

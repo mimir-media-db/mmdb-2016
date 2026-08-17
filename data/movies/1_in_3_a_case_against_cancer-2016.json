@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1_in_3_a_case_against_cancer_2016",
+  "title": "1 in 3: A Case Against Cancer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26882825",
+    "imdb": "tt5666146"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

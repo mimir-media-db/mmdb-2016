@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_131_dagur_a_sjo_2016",
+  "title": "1+31 dagur á sjó",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056753",
+    "imdb": "tt5988708"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 54
+}

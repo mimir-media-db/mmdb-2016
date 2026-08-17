@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1802_lepopee_guadeloupeenne_2016",
+  "title": "1802, l'épopée guadeloupéenne",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64400634",
+    "imdb": "tt0417386",
+    "tmdb": 574818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-10"
+}

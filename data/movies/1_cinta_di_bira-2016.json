@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1_cinta_di_bira_2016",
+  "title": "1 Cinta di Bira",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110333995",
+    "tmdb": 523453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-26",
+  "runtime_minutes": 83
+}

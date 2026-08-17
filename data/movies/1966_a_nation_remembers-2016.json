@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1966_a_nation_remembers_2016",
+  "title": "1966: A Nation Remembers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051586",
+    "imdb": "tt5924358",
+    "tmdb": 680733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

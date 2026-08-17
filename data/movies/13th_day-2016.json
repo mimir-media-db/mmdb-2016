@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_13th_day_2016",
+  "title": "The 13th Day",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9086662",
+    "imdb": "tt1615865",
+    "tmdb": 31367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-13",
+  "runtime_minutes": 85
+}

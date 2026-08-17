@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_16_kyz_2016",
+  "title": "16 kyz",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111734284",
+    "imdb": "tt4719164",
+    "tmdb": 447946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-03",
+  "runtime_minutes": 120
+}
