@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quiet_place_2016",
+  "title": "A Quiet Place",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29580847",
+    "imdb": "tt5348068",
+    "tmdb": 384154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

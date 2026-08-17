@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quiet_hour_2016",
+  "title": "The Quiet Hour",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786681",
+    "imdb": "tt2645188",
+    "tmdb": 293941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-24",
+  "runtime_minutes": 85
+}
