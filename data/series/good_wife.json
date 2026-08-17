@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_wife",
+  "title": "The Good Wife",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q24043019",
+    "imdb": "tt5786676",
+    "tmdb": 66781
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

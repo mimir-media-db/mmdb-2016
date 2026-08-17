@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_indoors",
+  "title": "The Great Indoors",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q24729509",
+    "imdb": "tt5485566",
+    "tmdb": 67157
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

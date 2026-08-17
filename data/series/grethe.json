@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_grethe",
+  "title": "Grethe",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q30126966",
+    "imdb": "tt6350734",
+    "tmdb": 69261
+  },
+  "last_updated": "2026-08-17"
+}

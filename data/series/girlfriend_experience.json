@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_girlfriend_experience",
+  "title": "The Girlfriend Experience",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21714983",
+    "imdb": "tt3846642",
+    "tmdb": 64387
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 37
+}

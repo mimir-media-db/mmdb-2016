@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_minds_with_dan_harmon",
+  "title": "Great Minds with Dan Harmon",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q25349421",
+    "imdb": "tt5533758",
+    "tmdb": 66033
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

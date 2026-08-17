@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grand_tour",
+  "title": "The Grand Tour",
+  "start_year": 2016,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q21980653",
+    "imdb": "tt5712554",
+    "tmdb": 67557
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 46
+}
