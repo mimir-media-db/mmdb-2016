@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_eva_la_trailera",
+  "title": "Eva la Trailera",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21780559",
+    "imdb": "tt5191206",
+    "tmdb": 83205
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 118
+}

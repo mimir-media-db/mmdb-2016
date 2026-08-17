@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_escape_the_night",
+  "title": "Escape the Night",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q25631079",
+    "imdb": "tt5838282",
+    "tmdb": 67235
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

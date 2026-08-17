@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_employable_me",
+  "title": "Employable Me",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112686936",
+    "imdb": "tt7779966",
+    "tmdb": 76959
+  },
+  "last_updated": "2026-08-17"
+}
