@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yeh_hai_lollipop_2016",
+  "title": "Yeh Hai Lollipop",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768451",
+    "imdb": "tt6231998",
+    "tmdb": 569046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

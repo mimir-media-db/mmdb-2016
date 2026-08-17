@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yesterday_was_everything_2016",
+  "title": "Yesterday Was Everything",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26830369",
+    "imdb": "tt5981732",
+    "tmdb": 461544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

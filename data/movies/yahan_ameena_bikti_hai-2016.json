@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yahan_ameena_bikti_hai_2016",
+  "title": "Yahan Ameena Bikti Hai",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536721",
+    "imdb": "tt6259146",
+    "tmdb": 429606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 78
+}

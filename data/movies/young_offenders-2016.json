@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_offenders_2016",
+  "title": "The Young Offenders",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963304",
+    "imdb": "tt4714568",
+    "tmdb": 408159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-16",
+  "runtime_minutes": 85
+}

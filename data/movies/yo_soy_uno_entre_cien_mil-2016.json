@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yo_soy_uno_entre_cien_mil_2016",
+  "title": "Yo soy uno entre cien mil",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039142",
+    "imdb": "tt6078296",
+    "tmdb": 713913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 45
+}
