@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belle_sebastian_the_adventure_continues_2016",
+  "title": "Belle & Sebastian: The Adventure Continues",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18578232",
+    "imdb": "tt4083850",
+    "tmdb": 334304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28",
+  "runtime_minutes": 98
+}

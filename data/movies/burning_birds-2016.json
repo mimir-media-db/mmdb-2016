@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_birds_2016",
+  "title": "Burning Birds",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28859264",
+    "imdb": "tt4502426",
+    "tmdb": 432800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-08",
+  "runtime_minutes": 84
+}

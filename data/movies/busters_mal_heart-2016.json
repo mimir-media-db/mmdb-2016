@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_busters_mal_heart_2016",
+  "title": "Buster's Mal Heart",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24259334",
+    "imdb": "tt5173032",
+    "tmdb": 367147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-11",
+  "runtime_minutes": 96
+}

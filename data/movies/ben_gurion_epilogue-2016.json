@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ben_gurion_epilogue_2016",
+  "title": "Ben Gurion, Epilogue",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27041781",
+    "imdb": "tt5934542",
+    "tmdb": 443079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 61
+}

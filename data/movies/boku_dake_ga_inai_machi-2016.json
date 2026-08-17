@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boku_dake_ga_inai_machi_2016",
+  "title": "Boku Dake ga Inai Machi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23022901",
+    "imdb": "tt4882964",
+    "tmdb": 379300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-19",
+  "runtime_minutes": 120
+}

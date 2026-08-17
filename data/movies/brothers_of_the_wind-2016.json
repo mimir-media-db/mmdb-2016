@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brothers_of_the_wind_2016",
+  "title": "Brothers of the Wind",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21682648",
+    "imdb": "tt3532278",
+    "tmdb": 378373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28",
+  "runtime_minutes": 94
+}

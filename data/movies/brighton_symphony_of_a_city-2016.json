@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brighton_symphony_of_a_city_2016",
+  "title": "Brighton: Symphony of a City",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056909",
+    "imdb": "tt6089976"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 48
+}

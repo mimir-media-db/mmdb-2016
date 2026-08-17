@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bir_baba_hindu_2016",
+  "title": "Bir Baba Hindu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647443",
+    "imdb": "tt5608972",
+    "tmdb": 419530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-29"
+}

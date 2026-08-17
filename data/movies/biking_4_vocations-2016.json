@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_biking_4_vocations_2016",
+  "title": "Biking 4 Vocations",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050620",
+    "imdb": "tt5862336"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

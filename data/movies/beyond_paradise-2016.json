@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_paradise_2016",
+  "title": "Beyond Paradise",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959555",
+    "imdb": "tt1937340",
+    "tmdb": 366675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 101
+}

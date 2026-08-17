@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_by_any_means_2016",
+  "title": "By Any Means",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30611825",
+    "imdb": "tt4741768",
+    "tmdb": 461375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

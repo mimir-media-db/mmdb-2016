@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brew_hampshire_2016",
+  "title": "Brew Hampshire",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050667",
+    "imdb": "tt3668602",
+    "tmdb": 877743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 107
+}

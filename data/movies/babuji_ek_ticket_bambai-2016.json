@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_babuji_ek_ticket_bambai_2016",
+  "title": "Babuji Ek Ticket Bambai",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26252682",
+    "imdb": "tt7881528"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-26"
+}

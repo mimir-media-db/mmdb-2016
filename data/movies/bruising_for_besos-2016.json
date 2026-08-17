@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bruising_for_besos_2016",
+  "title": "Bruising for Besos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28912787",
+    "imdb": "tt5126986",
+    "tmdb": 399635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-19"
+}

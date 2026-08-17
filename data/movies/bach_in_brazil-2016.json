@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bach_in_brazil_2016",
+  "title": "Bach in Brazil",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646405",
+    "imdb": "tt4715290",
+    "tmdb": 388921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-17"
+}

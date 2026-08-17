@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blair_witch_2016",
+  "title": "Blair Witch",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24760080",
+    "imdb": "tt1540011",
+    "tmdb": 351211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-22",
+  "runtime_minutes": 89
+}

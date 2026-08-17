@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_lens_a_pce_story_2016",
+  "title": "Behind the Lens: A PC&E Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038247",
+    "imdb": "tt5843636"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 50
+}

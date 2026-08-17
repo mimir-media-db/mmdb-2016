@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brasserie_valentine_2016",
+  "title": "Brasserie Valentine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29035540",
+    "imdb": "tt4463762",
+    "tmdb": 378378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28",
+  "runtime_minutes": 102
+}

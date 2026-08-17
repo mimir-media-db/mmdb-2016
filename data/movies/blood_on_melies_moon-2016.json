@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_on_melies_moon_2016",
+  "title": "Blood on Méliès' Moon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30889869",
+    "imdb": "tt4791844",
+    "tmdb": 335346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 111
+}

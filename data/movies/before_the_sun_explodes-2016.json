@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_before_the_sun_explodes_2016",
+  "title": "Before the Sun Explodes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55450636",
+    "imdb": "tt5116644",
+    "tmdb": 381003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-14"
+}

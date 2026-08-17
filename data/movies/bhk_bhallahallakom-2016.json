@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhk_bhallahallakom_2016",
+  "title": "BHK Bhalla@Halla.Kom",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22074950",
+    "imdb": "tt5288766",
+    "tmdb": 417920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-05"
+}

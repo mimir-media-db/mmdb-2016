@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_the_birdieman_2016",
+  "title": "Bad & the Birdieman",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050178",
+    "imdb": "tt6077094"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

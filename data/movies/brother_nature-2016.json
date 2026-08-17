@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brother_nature_2016",
+  "title": "Brother Nature",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12962338",
+    "imdb": "tt4000956",
+    "tmdb": 292834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-09",
+  "runtime_minutes": 97
+}

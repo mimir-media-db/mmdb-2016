@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boost_2016",
+  "title": "Boost",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674394",
+    "imdb": "tt5308240",
+    "tmdb": 427049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 103
+}

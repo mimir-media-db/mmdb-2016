@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_of_their_dreams_2016",
+  "title": "Beauty of Their Dreams",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051366",
+    "imdb": "tt5812150"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

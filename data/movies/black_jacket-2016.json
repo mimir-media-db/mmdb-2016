@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_jacket_2016",
+  "title": "The Black Jacket",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26835871",
+    "imdb": "tt5804076",
+    "tmdb": 407955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

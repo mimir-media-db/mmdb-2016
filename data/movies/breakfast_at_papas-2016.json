@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breakfast_at_papas_2016",
+  "title": "Breakfast at Papa's",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26250785",
+    "imdb": "tt5505334",
+    "tmdb": 400216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 96
+}

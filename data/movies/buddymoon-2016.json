@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buddymoon_2016",
+  "title": "Buddymoon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24278879",
+    "imdb": "tt5243424",
+    "tmdb": 387889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-23",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bud_spencer_zu_gast_im_ramada_hotel_in_berlin_2016",
+  "title": "Bud Spencer zu Gast im Ramada Hotel in Berlin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050678",
+    "imdb": "tt5577392",
+    "tmdb": 640727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 183
+}

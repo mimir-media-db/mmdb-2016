@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beginners_guide_to_snuff_2016",
+  "title": "A Beginner's Guide to Snuff",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38463138",
+    "imdb": "tt4058122",
+    "tmdb": 386826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

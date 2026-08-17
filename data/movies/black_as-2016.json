@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_as_2016",
+  "title": "Black As",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26913109",
+    "imdb": "tt5994458"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 4
+}

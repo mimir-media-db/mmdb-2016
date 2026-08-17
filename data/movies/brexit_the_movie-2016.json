@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brexit_the_movie_2016",
+  "title": "Brexit: The Movie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24596410",
+    "imdb": "tt5724616",
+    "tmdb": 397403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-11",
+  "runtime_minutes": 70
+}

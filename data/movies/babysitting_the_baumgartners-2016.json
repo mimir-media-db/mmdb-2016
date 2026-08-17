@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babysitting_the_baumgartners_2016",
+  "title": "Babysitting The Baumgartners",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28727098",
+    "imdb": "tt5938888",
+    "tmdb": 492418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 242
+}

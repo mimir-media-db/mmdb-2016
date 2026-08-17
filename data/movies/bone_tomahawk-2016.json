@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bone_tomahawk_2016",
+  "title": "Bone Tomahawk",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18198599",
+    "imdb": "tt2494362",
+    "tmdb": 294963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-30",
+  "runtime_minutes": 132
+}

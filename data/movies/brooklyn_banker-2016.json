@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brooklyn_banker_2016",
+  "title": "The Brooklyn Banker",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125716892",
+    "imdb": "tt3758564",
+    "tmdb": 408289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-05",
+  "runtime_minutes": 95
+}

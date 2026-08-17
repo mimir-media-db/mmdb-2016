@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beiimaan_love_2016",
+  "title": "Beiimaan Love",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20646924",
+    "imdb": "tt5227468",
+    "tmdb": 407547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-30"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbie_her_sisters_in_a_puppy_chase_2016",
+  "title": "Barbie & Her Sisters in a Puppy Chase",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48838328",
+    "imdb": "tt5888384",
+    "tmdb": 417047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

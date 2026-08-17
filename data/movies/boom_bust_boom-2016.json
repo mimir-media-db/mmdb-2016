@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boom_bust_boom_2016",
+  "title": "Boom Bust Boom",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905134",
+    "imdb": "tt3332308",
+    "tmdb": 367197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-11",
+  "runtime_minutes": 70
+}

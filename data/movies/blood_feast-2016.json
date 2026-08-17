@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_feast_2016",
+  "title": "Blood Feast",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50280691",
+    "imdb": "tt4847546",
+    "tmdb": 353058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

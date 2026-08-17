@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_banjo_2016",
+  "title": "Banjo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22674088",
+    "imdb": "tt5755606",
+    "tmdb": 403517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-23",
+  "runtime_minutes": 137
+}

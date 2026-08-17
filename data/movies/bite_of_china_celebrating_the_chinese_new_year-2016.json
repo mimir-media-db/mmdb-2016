@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bite_of_china_celebrating_the_chinese_new_year_2016",
+  "title": "A Bite of China: Celebrating the Chinese New Year",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22101538",
+    "imdb": "tt5356308",
+    "tmdb": 377969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-07",
+  "runtime_minutes": 88
+}

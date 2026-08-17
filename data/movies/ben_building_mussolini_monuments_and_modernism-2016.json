@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ben_building_mussolini_monuments_and_modernism_2016",
+  "title": "Ben Building: Mussolini, Monuments and Modernism",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042278",
+    "imdb": "tt5772648",
+    "tmdb": 402301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

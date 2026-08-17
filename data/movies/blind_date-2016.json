@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_date_2016",
+  "title": "Blind Date",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19885807",
+    "imdb": "tt4466936",
+    "tmdb": 334878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-29",
+  "runtime_minutes": 88
+}

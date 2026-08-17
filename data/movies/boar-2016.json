@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boar_2016",
+  "title": "Boar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136849",
+    "imdb": "tt4158594",
+    "tmdb": 416724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-01",
+  "runtime_minutes": 96
+}

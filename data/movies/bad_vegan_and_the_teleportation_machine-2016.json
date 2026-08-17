@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_vegan_and_the_teleportation_machine_2016",
+  "title": "Bad Vegan and the Teleportation Machine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54895013",
+    "imdb": "tt4205426",
+    "tmdb": 589172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-01"
+}

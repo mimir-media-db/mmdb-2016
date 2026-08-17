@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bastu_shaap_2016",
+  "title": "Bastu Shaap",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22251897",
+    "imdb": "tt5352898",
+    "tmdb": 431372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-15"
+}

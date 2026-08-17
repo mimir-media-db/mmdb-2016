@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burn_your_maps_2016",
+  "title": "Burn Your Maps",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20735768",
+    "imdb": "tt4882548",
+    "tmdb": 352504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-09",
+  "runtime_minutes": 102
+}

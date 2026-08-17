@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_girl_2016",
+  "title": "Bad Girl",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111493759",
+    "imdb": "tt3598108",
+    "tmdb": 405050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

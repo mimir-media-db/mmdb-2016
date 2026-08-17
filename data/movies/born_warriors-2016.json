@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_warriors_2016",
+  "title": "Born Warriors",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043452",
+    "imdb": "tt3961188",
+    "tmdb": 1184785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 26
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bollywood_made_in_spain_2016",
+  "title": "Bollywood Made in Spain",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98755199",
+    "imdb": "tt4649820",
+    "tmdb": 438589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-23",
+  "runtime_minutes": 84
+}

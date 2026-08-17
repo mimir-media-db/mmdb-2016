@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_before_we_arrive_the_story_of_the_weber_brothers_2016",
+  "title": "Before We Arrive: The Story of the Weber Brothers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042899",
+    "imdb": "tt4789166"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

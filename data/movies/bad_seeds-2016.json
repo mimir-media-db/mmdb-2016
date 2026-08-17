@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_seeds_2016",
+  "title": "Bad Seeds",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28430998",
+    "imdb": "tt5456706",
+    "tmdb": 388222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

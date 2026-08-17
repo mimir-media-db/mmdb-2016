@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_britains_pompeii_a_village_lost_in_time_2016",
+  "title": "Britain's Pompeii: A Village Lost in Time",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26914804",
+    "imdb": "tt5941620",
+    "tmdb": 512682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 59
+}

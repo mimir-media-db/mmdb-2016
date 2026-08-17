@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_britains_brainiest_school_2016",
+  "title": "Britain's Brainiest School",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056901",
+    "imdb": "tt5492064"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

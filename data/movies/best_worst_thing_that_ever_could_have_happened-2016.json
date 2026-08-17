@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_worst_thing_that_ever_could_have_happened_2016",
+  "title": "Best Worst Thing That Ever Could Have Happened",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703215",
+    "imdb": "tt3282712",
+    "tmdb": 413579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-09",
+  "runtime_minutes": 95
+}

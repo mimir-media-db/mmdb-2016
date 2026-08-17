@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_is_blood_2016",
+  "title": "Blood is Blood",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963157",
+    "imdb": "tt3538666",
+    "tmdb": 418327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-01"
+}

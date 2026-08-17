@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bhujanga_2016",
+  "title": "Bhujanga",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21998183",
+    "imdb": "tt13231658"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-15"
+}
