@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tree_house_kids",
+  "title": "Tree House Kids",
+  "start_year": 2016,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q30527725",
+    "imdb": "tt12098700",
+    "tmdb": 83609
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 60
+}

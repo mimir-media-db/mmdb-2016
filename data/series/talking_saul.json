@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_talking_saul",
+  "title": "Talking Saul",
+  "start_year": 2016,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q28966572",
+    "imdb": "tt5461692",
+    "tmdb": 65664
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

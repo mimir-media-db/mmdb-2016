@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_truth_seekers",
+  "title": "The Truth Seekers",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21979578",
+    "imdb": "tt7131694",
+    "tmdb": 81024
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 23
+}

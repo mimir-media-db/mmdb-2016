@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tomorrow_when_the_war_began",
+  "title": "Tomorrow, When the War Began",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21152166",
+    "imdb": "tt4716164",
+    "tmdb": 65919
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tsentralnaya_bolnitsa",
+  "title": "Tsentralnaya bolnitsa",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25984219",
+    "imdb": "tt9445336"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 60
+}

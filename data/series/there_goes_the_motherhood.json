@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_there_goes_the_motherhood",
+  "title": "There Goes the Motherhood",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q24034524",
+    "imdb": "tt4715766",
+    "tmdb": 66294
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

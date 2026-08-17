@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_te_doy_la_vida",
+  "title": "Te Doy La Vida",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23000442",
+    "imdb": "tt5794312",
+    "tmdb": 195446
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 158
+}

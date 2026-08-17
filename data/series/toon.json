@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_toon",
+  "title": "Toon",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28723540",
+    "imdb": "tt5698140",
+    "tmdb": 81679
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

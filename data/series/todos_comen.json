@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_todos_comen",
+  "title": "Todos comen",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q107172009",
+    "imdb": "tt38608930"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

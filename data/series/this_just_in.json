@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_this_just_in",
+  "title": "This Just In",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28443723",
+    "imdb": "tt6283584",
+    "tmdb": 69509
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}
