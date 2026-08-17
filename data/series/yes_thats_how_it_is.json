@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_yes_thats_how_it_is",
+  "title": "Yes, That’s How It Is",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21575742",
+    "imdb": "tt5520342",
+    "tmdb": 65612
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 54
+}

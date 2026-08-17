@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_youth_over_flowers",
+  "title": "Youth Over Flowers",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q17375272",
+    "imdb": "tt6283472",
+    "tmdb": 68876
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 25
+}

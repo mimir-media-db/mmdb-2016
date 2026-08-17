@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_you_are_a_gift",
+  "title": "You Are a Gift",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q24248027",
+    "imdb": "tt6898470",
+    "tmdb": 68426
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 111
+}
