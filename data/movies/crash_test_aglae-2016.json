@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crash_test_aglae_2016",
+  "title": "Crash Test Aglaé",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21010850",
+    "imdb": "tt5037626",
+    "tmdb": 456768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

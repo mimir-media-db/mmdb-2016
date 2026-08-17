@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cezanne_and_i_2016",
+  "title": "Cézanne and I",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21008124",
+    "imdb": "tt5078354",
+    "tmdb": 382509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 117
+}

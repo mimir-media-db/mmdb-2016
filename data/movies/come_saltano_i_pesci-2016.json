@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_come_saltano_i_pesci_2016",
+  "title": "Come saltano i pesci",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24263035",
+    "imdb": "tt5327832",
+    "tmdb": 390673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 110
+}

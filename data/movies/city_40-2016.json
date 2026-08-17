@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_40_2016",
+  "title": "City 40",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24597382",
+    "imdb": "tt2721744",
+    "tmdb": 395479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

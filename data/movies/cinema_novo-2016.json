@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinema_novo_2016",
+  "title": "Cinema Novo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24678745",
+    "imdb": "tt5721734",
+    "tmdb": 398488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

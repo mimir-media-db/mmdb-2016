@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chennai_singapore_2016",
+  "title": "Chennai Singapore",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18111115",
+    "imdb": "tt7055824",
+    "tmdb": 492891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

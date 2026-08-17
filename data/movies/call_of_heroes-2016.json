@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_call_of_heroes_2016",
+  "title": "Call of Heroes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649726",
+    "imdb": "tt5842624",
+    "tmdb": 413198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 120
+}

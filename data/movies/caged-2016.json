@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caged_2016",
+  "title": "Caged",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24717093",
+    "imdb": "tt4201918",
+    "tmdb": 1401541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

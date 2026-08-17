@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cafe_nagler_2016",
+  "title": "Café Nagler",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24237561",
+    "imdb": "tt5143016",
+    "tmdb": 401735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 59
+}

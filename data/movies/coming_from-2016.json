@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coming_from_2016",
+  "title": "Coming From",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056017",
+    "imdb": "tt5684640"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 79
+}
