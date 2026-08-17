@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_corazon_roto_no_es_como_un_jarron_roto_o_un_florero_2016",
+  "title": "Un corazón roto no es como un jarrón roto o un florero",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23901791",
+    "imdb": "tt5028672",
+    "tmdb": 398979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 11
+}

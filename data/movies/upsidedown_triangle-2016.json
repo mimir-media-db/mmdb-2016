@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_upsidedown_triangle_2016",
+  "title": "The Upside-down Triangle",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24034573",
+    "imdb": "tt16292836",
+    "tmdb": 430697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

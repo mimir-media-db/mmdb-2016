@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_paese_di_calabria_2016",
+  "title": "Un Paese di Calabria",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24734730",
+    "imdb": "tt5745990",
+    "tmdb": 440418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 91
+}

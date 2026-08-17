@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_unexpected_refugee_2016",
+  "title": "The Unexpected Refugee",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044383",
+    "imdb": "tt5679712"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}
