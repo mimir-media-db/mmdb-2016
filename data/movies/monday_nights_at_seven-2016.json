@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monday_nights_at_seven_2016",
+  "title": "Monday Nights at Seven",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47063911",
+    "imdb": "tt3025198",
+    "tmdb": 735761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-08"
+}

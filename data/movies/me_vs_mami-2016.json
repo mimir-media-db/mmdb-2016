@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_me_vs_mami_2016",
+  "title": "Me vs Mami",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28724785",
+    "imdb": "tt6684436",
+    "tmdb": 416518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-20"
+}

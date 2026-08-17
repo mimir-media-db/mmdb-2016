@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_milos_forman_what_doesnt_kill_you_2016",
+  "title": "Milos Forman – What Doesn’t Kill You",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26970873",
+    "imdb": "tt1427689",
+    "tmdb": 420510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-06",
+  "runtime_minutes": 56
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meen_khuzhambum_mann_paanaiyum_2016",
+  "title": "Meen Khuzhambum Mann Paanaiyum",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806749",
+    "imdb": "tt6264438",
+    "tmdb": 410627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-11"
+}

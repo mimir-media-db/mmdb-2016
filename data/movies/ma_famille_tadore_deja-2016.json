@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_famille_tadore_deja_2016",
+  "title": "Ma famille t'adore déjà !",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27887438",
+    "imdb": "tt4787478",
+    "tmdb": 392140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-09",
+  "runtime_minutes": 85
+}

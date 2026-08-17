@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mississippi_grind_2016",
+  "title": "Mississippi Grind",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16982089",
+    "imdb": "tt2349144",
+    "tmdb": 309242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friends_wife_2_2016",
+  "title": "My Friend's Wife 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124259486",
+    "tmdb": 481939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-29"
+}

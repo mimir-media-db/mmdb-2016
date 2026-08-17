@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marion_13_ans_pour_toujours_2016",
+  "title": "Marion, 13 ans pour toujours",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28494182",
+    "imdb": "tt5769002",
+    "tmdb": 418308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-27",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magal_and_the_ants_2016",
+  "title": "Magal and the Ants",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703411",
+    "imdb": "tt5639362",
+    "tmdb": 430150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-08",
+  "runtime_minutes": 110
+}

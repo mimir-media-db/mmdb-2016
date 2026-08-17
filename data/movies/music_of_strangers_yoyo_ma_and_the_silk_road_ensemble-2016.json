@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_music_of_strangers_yoyo_ma_and_the_silk_road_ensemble_2016",
+  "title": "The Music of Strangers: Yo-Yo Ma and the Silk Road Ensemble",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26736186",
+    "imdb": "tt3549206",
+    "tmdb": 358923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-22",
+  "runtime_minutes": 96
+}

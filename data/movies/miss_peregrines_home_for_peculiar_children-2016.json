@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_peregrines_home_for_peculiar_children_2016",
+  "title": "Miss Peregrine's Home for Peculiar Children",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19321019",
+    "imdb": "tt1935859",
+    "tmdb": 283366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-25",
+  "runtime_minutes": 127
+}

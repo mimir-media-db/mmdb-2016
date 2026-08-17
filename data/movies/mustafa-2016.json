@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mustafa_2016",
+  "title": "Mustafa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575969",
+    "imdb": "tt6358000",
+    "tmdb": 952709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-28",
+  "runtime_minutes": 90
+}
