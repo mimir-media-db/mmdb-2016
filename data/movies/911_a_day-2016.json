@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_911_a_day_2016",
+  "title": "A 9/11 a Day",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26915769",
+    "imdb": "tt5509328"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 50
+}
