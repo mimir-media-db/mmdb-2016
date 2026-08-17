@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revolution_wont_be_televised_2016",
+  "title": "The Revolution Won't Be Televised",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705532",
+    "imdb": "tt5490440",
+    "tmdb": 382907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 110
+}

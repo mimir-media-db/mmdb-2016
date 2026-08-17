@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_restoring_tomorrow_2016",
+  "title": "Restoring Tomorrow",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706448",
+    "imdb": "tt3249794",
+    "tmdb": 522482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rouges_etaient_les_lilas_2016",
+  "title": "Rouges étaient les lilas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899218",
+    "imdb": "tt5562190",
+    "tmdb": 593975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_dog_true_blue_2016",
+  "title": "Red Dog: True Blue",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25437113",
+    "imdb": "tt3567194",
+    "tmdb": 403570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

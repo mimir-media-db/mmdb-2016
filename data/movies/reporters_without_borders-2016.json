@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reporters_without_borders_2016",
+  "title": "Reporters without Borders",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27055858",
+    "imdb": "tt6019594"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 260
+}

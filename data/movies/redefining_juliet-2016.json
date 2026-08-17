@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_redefining_juliet_2016",
+  "title": "Redefining Juliet",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24659602",
+    "imdb": "tt5604272",
+    "tmdb": 395722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

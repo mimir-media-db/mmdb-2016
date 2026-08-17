@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rich_kids_go_shopping_2016",
+  "title": "Rich Kids Go Shopping",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26885404",
+    "imdb": "tt5326940"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

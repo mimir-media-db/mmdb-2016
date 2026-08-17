@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_room_full_of_spoons_2016",
+  "title": "Room Full of Spoons",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24608003",
+    "imdb": "tt4177972",
+    "tmdb": 385933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 113
+}
