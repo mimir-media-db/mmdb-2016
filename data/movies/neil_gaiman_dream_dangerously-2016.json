@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neil_gaiman_dream_dangerously_2016",
+  "title": "Neil Gaiman: Dream Dangerously",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26831251",
+    "imdb": "tt5758302",
+    "tmdb": 408234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-02"
+}

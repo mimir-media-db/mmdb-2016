@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_niyoti_2016",
+  "title": "Niyoti",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21998237",
+    "imdb": "tt5925180",
+    "tmdb": 519612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-10"
+}

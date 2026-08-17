@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nubes_rojas_2016",
+  "title": "Nubes Rojas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28561566",
+    "imdb": "tt6167392",
+    "tmdb": 464132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-18",
+  "runtime_minutes": 64
+}

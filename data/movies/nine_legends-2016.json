@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nine_legends_2016",
+  "title": "Nine Legends",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22905736",
+    "imdb": "tt5563984",
+    "tmdb": 380054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nowa_amerika_2016",
+  "title": "Nowa Amerika",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29604796",
+    "imdb": "tt6234836"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_natural_born_pranksters_2016",
+  "title": "Natural Born Pranksters",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42048885",
+    "imdb": "tt3671086",
+    "tmdb": 383524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_never_back_down_no_surrender_2016",
+  "title": "Never Back Down: No Surrender",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25338393",
+    "imdb": "tt4790268",
+    "tmdb": 391757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-07",
+  "runtime_minutes": 102
+}

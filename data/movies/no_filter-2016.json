@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_filter_2016",
+  "title": "No Filter",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22000346",
+    "imdb": "tt4843012",
+    "tmdb": 379220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-07"
+}

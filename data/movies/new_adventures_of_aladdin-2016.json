@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_adventures_of_aladdin_2016",
+  "title": "The New Adventures of Aladdin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17633156",
+    "imdb": "tt4466864",
+    "tmdb": 344268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-06",
+  "runtime_minutes": 107
+}

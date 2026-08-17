@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_next_skin_2016",
+  "title": "The Next Skin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30141553",
+    "imdb": "tt4034208",
+    "tmdb": 348555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-21",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nypd_biggest_gang_in_new_york_2016",
+  "title": "NYPD: Biggest Gang in New York?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038264",
+    "imdb": "tt5956792",
+    "tmdb": 408202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 43
+}

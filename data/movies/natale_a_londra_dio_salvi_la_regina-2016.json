@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_natale_a_londra_dio_salvi_la_regina_2016",
+  "title": "Natale a Londra – Dio salvi la regina",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27990695",
+    "imdb": "tt6095722",
+    "tmdb": 419508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

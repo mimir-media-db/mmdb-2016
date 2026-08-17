@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_candies_from_heaven_2016",
+  "title": "No Candies from Heaven",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050751",
+    "imdb": "tt4224828",
+    "tmdb": 380239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 73
+}

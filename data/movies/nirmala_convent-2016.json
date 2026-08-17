@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nirmala_convent_2016",
+  "title": "Nirmala Convent",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26683473",
+    "imdb": "tt6066012",
+    "tmdb": 419560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-21"
+}

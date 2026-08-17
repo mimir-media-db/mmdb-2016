@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nil_battey_sannata_2016",
+  "title": "Nil Battey Sannata",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22905735",
+    "imdb": "tt5005684",
+    "tmdb": 361249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-22",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nest_of_the_turtledove_2016",
+  "title": "The Nest of the Turtledove",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16696502",
+    "imdb": "tt3806596",
+    "tmdb": 407861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-12",
+  "runtime_minutes": 102
+}

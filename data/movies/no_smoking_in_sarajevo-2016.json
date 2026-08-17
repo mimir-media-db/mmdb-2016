@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_smoking_in_sarajevo_2016",
+  "title": "No Smoking in Sarajevo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56452599",
+    "imdb": "tt6818592",
+    "tmdb": 1109701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

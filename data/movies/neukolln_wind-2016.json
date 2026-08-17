@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neukolln_wind_2016",
+  "title": "Neukölln Wind",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21931778",
+    "imdb": "tt5235796",
+    "tmdb": 496716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-07"
+}

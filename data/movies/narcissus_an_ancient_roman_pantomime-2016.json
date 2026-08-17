@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_narcissus_an_ancient_roman_pantomime_2016",
+  "title": "Narcissus: An Ancient Roman Pantomime",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056962",
+    "imdb": "tt5861520"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

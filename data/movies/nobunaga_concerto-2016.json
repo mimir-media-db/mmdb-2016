@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nobunaga_concerto_2016",
+  "title": "Nobunaga Concerto",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28453106",
+    "imdb": "tt4122254",
+    "tmdb": 361358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-23",
+  "runtime_minutes": 126
+}

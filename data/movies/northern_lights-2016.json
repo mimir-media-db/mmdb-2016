@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_northern_lights_2016",
+  "title": "Northern Lights",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52151362",
+    "imdb": "tt5592228",
+    "tmdb": 445064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

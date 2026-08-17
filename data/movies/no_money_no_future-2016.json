@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_money_no_future_2016",
+  "title": "No Money, No Future",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28699486",
+    "imdb": "tt8312066",
+    "tmdb": 415460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nuestros_heroes_2016",
+  "title": "A nuestros héroes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135689107",
+    "imdb": "tt3465910",
+    "tmdb": 670997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

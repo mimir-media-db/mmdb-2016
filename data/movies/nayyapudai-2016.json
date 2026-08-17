@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nayyapudai_2016",
+  "title": "Nayyapudai",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21998234",
+    "imdb": "tt5500400",
+    "tmdb": 373908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-26"
+}

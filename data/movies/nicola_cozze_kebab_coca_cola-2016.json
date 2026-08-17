@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nicola_cozze_kebab_coca_cola_2016",
+  "title": "Nicola: Cozze, Kebab & Coca Cola",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050536",
+    "imdb": "tt5327328",
+    "tmdb": 1153803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}
