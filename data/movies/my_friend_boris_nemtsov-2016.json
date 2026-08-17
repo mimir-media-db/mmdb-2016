@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friend_boris_nemtsov_2016",
+  "title": "My Friend Boris Nemtsov",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25442245",
+    "imdb": "tt5997682",
+    "tmdb": 432815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 72
+}

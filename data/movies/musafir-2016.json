@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_musafir_2016",
+  "title": "Musafir",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824795",
+    "imdb": "tt5643942",
+    "tmdb": 405021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 148
+}

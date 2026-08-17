@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_church_2016",
+  "title": "Mr. Church",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703104",
+    "imdb": "tt4196848",
+    "tmdb": 374461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_macadam_stories_2016",
+  "title": "Macadam Stories",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19543842",
+    "imdb": "tt4357368",
+    "tmdb": 336199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_michael_jacksons_journey_from_motown_to_off_the_wall_2016",
+  "title": "Michael Jackson's Journey from Motown to Off the Wall",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22079453",
+    "imdb": "tt5275844",
+    "tmdb": 373451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 93
+}

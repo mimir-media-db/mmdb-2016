@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minimalism_a_documentary_about_the_important_things_2016",
+  "title": "Minimalism: A Documentary About the Important Things",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24592092",
+    "imdb": "tt3810760",
+    "tmdb": 392553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 79
+}

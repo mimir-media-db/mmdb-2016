@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mechanic_resurrection_2016",
+  "title": "Mechanic: Resurrection",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18552037",
+    "imdb": "tt3522806",
+    "tmdb": 278924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

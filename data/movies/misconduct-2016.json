@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_misconduct_2016",
+  "title": "Misconduct",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19867192",
+    "imdb": "tt3658772",
+    "tmdb": 373314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 106
+}

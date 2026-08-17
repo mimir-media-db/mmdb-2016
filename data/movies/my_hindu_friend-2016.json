@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_hindu_friend_2016",
+  "title": "My Hindu Friend",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899112",
+    "imdb": "tt4400360",
+    "tmdb": 362314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 113
+}

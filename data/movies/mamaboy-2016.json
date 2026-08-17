@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mamaboy_2016",
+  "title": "Mamaboy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22058439",
+    "imdb": "tt4818168",
+    "tmdb": 388256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

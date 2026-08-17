@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maximum_impact_2016",
+  "title": "Maximum Impact",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24934518",
+    "imdb": "tt4921370",
+    "tmdb": 489013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 110
+}
