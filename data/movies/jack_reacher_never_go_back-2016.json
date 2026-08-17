@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_reacher_never_go_back_2016",
+  "title": "Jack Reacher: Never Go Back",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21168538",
+    "imdb": "tt3393786",
+    "tmdb": 343611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 118
+}

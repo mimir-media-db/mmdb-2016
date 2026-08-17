@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joneses_2016",
+  "title": "The Joneses",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706465",
+    "imdb": "tt4360484",
+    "tmdb": 392180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

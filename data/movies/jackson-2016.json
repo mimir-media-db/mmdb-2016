@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jackson_2016",
+  "title": "Jackson",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24606486",
+    "imdb": "tt5069136",
+    "tmdb": 411978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}
