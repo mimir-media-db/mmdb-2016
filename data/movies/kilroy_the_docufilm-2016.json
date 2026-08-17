@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kilroy_the_docufilm_2016",
+  "title": "Kilroy the Docu-film",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051152",
+    "imdb": "tt4841820"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

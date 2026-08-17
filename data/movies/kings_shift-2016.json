@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kings_shift_2016",
+  "title": "Kings' Shift",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22905709",
+    "imdb": "tt5664042",
+    "tmdb": 390554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-09",
+  "runtime_minutes": 90
+}

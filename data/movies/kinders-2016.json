@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kinders_2016",
+  "title": "Kinders",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53709912",
+    "imdb": "tt5135100",
+    "tmdb": 504782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-11",
+  "runtime_minutes": 95
+}

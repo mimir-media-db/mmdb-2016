@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kiji_pheasants_in_new_jersey_2016",
+  "title": "Kiji: Pheasants in New Jersey",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057454",
+    "imdb": "tt5905266"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 78
+}

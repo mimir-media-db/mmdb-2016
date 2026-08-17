@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_punjabi_2016",
+  "title": "Killer Punjabi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24211074",
+    "imdb": "tt5117152",
+    "tmdb": 666365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-13"
+}

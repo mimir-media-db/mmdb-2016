@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuttram_23_2016",
+  "title": "Kuttram 23",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24514662",
+    "imdb": "tt6594758",
+    "tmdb": 402780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01"
+}

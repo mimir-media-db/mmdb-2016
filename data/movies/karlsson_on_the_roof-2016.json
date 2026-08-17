@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karlsson_on_the_roof_2016",
+  "title": "Karlsson on the Roof",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1242727",
+    "imdb": "tt0073227",
+    "tmdb": 30576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-25",
+  "runtime_minutes": 99
+}

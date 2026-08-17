@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killjoys_psycho_circus_2016",
+  "title": "Killjoy's Psycho Circus",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127694585",
+    "imdb": "tt4933506",
+    "tmdb": 422514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

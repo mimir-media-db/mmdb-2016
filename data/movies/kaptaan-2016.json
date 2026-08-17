@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaptaan_2016",
+  "title": "Kaptaan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925025",
+    "imdb": "tt5595240",
+    "tmdb": 393170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-20"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kasaba_2016",
+  "title": "Kasaba",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25210998",
+    "imdb": "tt5642720",
+    "tmdb": 406781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-07"
+}

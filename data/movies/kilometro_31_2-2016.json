@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kilometro_31_2_2016",
+  "title": "Kilómetro 31 - 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27640424",
+    "imdb": "tt2718028",
+    "tmdb": 269588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

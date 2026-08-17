@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kacma_birader_2016",
+  "title": "Kaçma Birader",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755171",
+    "imdb": "tt5478632",
+    "tmdb": 386579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-04"
+}

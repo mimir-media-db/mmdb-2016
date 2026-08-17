@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kome_urue_the_children_of_the_jungle_2016",
+  "title": "Kome Urue. The Children of the Jungle",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057448",
+    "imdb": "tt4694926"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

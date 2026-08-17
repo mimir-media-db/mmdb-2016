@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krishnashtami_2016",
+  "title": "Krishnashtami",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22251985",
+    "imdb": "tt5572890",
+    "tmdb": 413572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-19",
+  "runtime_minutes": 160
+}

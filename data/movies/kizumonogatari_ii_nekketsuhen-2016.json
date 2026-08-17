@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kizumonogatari_ii_nekketsuhen_2016",
+  "title": "Kizumonogatari II: Nekketsu-hen",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720465",
+    "imdb": "tt5084196",
+    "tmdb": 362584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 68
+}

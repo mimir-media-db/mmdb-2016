@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kings_highway_2016",
+  "title": "The King's Highway",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884084",
+    "imdb": "tt5909140",
+    "tmdb": 456697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 109
+}

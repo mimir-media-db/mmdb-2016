@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kali_2016",
+  "title": "Kali",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23013663",
+    "imdb": "tt5335128",
+    "tmdb": 391036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-26",
+  "runtime_minutes": 115
+}

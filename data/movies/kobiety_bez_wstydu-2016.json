@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kobiety_bez_wstydu_2016",
+  "title": "Kobiety bez wstydu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108881527",
+    "imdb": "tt5893480",
+    "tmdb": 413086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-22",
+  "runtime_minutes": 110
+}

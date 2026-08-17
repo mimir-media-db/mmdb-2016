@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamp_holland_2016",
+  "title": "Kamp Holland",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105710029",
+    "imdb": "tt4845026",
+    "tmdb": 391773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-22"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kl24_zombies_2016",
+  "title": "KL24 Zombies",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108833811",
+    "imdb": "tt6508770",
+    "tmdb": 440085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

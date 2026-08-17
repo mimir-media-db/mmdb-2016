@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kolumittayi_2016",
+  "title": "Kolumittayi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27890250",
+    "imdb": "tt6198840",
+    "tmdb": 466962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-28"
+}

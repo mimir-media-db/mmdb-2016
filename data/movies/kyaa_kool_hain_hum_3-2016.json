@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kyaa_kool_hain_hum_3_2016",
+  "title": "Kyaa Kool Hain Hum 3",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18740722",
+    "imdb": "tt5290620",
+    "tmdb": 376884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-22"
+}

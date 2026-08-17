@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamiyado_suwan_2016",
+  "title": "Kamiyado suwan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110662418",
+    "imdb": "tt5847060",
+    "tmdb": 975501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-11"
+}
