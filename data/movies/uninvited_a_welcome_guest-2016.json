@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_uninvited_a_welcome_guest_2016",
+  "title": "The Uninvited - A Welcome Guest",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27953347",
+    "tmdb": 418689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-29"
+}

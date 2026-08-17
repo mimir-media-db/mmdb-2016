@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_pyramid_2016",
+  "title": "Under the Pyramid",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80177256",
+    "imdb": "tt4168248",
+    "tmdb": 377200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-05"
+}

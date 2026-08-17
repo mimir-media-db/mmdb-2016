@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_up_the_hills_down_the_valley_2016",
+  "title": "Up the Hills: Down the Valley",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051078",
+    "imdb": "tt5529854"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 18
+}

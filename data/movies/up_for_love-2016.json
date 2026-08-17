@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_up_for_love_2016",
+  "title": "Up for Love",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23823652",
+    "imdb": "tt4699388",
+    "tmdb": 366514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-04",
+  "runtime_minutes": 98
+}

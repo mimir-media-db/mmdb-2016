@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_trou_dans_la_jambe_2016",
+  "title": "Un trou dans la jambe",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055412",
+    "imdb": "tt10953682",
+    "tmdb": 491494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 5
+}

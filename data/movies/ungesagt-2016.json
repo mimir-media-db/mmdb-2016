@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ungesagt_2016",
+  "title": "Ungesagt",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27862446",
+    "imdb": "tt6236222",
+    "tmdb": 511358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-17",
+  "runtime_minutes": 95
+}

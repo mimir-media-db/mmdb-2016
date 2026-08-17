@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ultima_carta_desde_la_revolucion_2016",
+  "title": "Última carta desde la revolución",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52241940",
+    "imdb": "tt6254454",
+    "tmdb": 1091447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

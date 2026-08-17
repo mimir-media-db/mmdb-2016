@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_gallo_con_muchos_huevos_2016",
+  "title": "Un gallo con muchos huevos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16643775",
+    "imdb": "tt4643580",
+    "tmdb": 264419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-07",
+  "runtime_minutes": 97
+}

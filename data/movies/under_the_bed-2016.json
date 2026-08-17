@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_bed_2016",
+  "title": "Under the Bed",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23044968",
+    "imdb": "tt6230014",
+    "tmdb": 457472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-11"
+}
