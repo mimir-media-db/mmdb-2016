@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_programa_do_porchat",
+  "title": "Programa do Porchat",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25963946",
+    "imdb": "tt5963332"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 438
+}

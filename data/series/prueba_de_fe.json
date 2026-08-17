@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_prueba_de_fe",
+  "title": "Prueba de Fe",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30911625",
+    "imdb": "tt6196192",
+    "tmdb": 136962
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}
