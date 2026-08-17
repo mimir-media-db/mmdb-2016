@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_always_shine_2016",
+  "title": "Always Shine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925072",
+    "imdb": "tt4392770",
+    "tmdb": 385737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alone_man_2016",
+  "title": "Alone Man",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23817422",
+    "imdb": "tt4421802",
+    "tmdb": 286258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 94
+}

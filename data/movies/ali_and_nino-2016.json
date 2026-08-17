@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ali_and_nino_2016",
+  "title": "Ali and Nino",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19404573",
+    "imdb": "tt4072326",
+    "tmdb": 371741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

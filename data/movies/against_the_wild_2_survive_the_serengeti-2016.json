@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_against_the_wild_2_survive_the_serengeti_2016",
+  "title": "Against the Wild 2: Survive the Serengeti",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24233653",
+    "imdb": "tt4519312",
+    "tmdb": 388259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_annemin_yaras_2016",
+  "title": "Annemin Yarası",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22342315",
+    "imdb": "tt4994736",
+    "tmdb": 386591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

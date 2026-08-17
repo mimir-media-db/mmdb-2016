@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_sunrise_2016",
+  "title": "Almost Sunrise",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24630960",
+    "imdb": "tt5118024",
+    "tmdb": 466401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 110
+}

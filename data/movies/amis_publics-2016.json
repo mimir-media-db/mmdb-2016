@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amis_publics_2016",
+  "title": "Amis publics",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20724305",
+    "imdb": "tt4625516",
+    "tmdb": 369781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

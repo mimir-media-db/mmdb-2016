@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attenborough_and_the_giant_dinosaur_2016",
+  "title": "Attenborough and the Giant Dinosaur",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24642562",
+    "imdb": "tt5336784",
+    "tmdb": 379393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 58
+}

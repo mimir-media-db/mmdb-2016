@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amazon_obhijaan_2016",
+  "title": "Amazon Obhijaan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25588373",
+    "imdb": "tt5125414",
+    "tmdb": 496681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 140
+}

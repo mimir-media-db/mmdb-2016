@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attack_of_the_killer_dragons_2016",
+  "title": "Attack of the Killer Dragons",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24630172",
+    "imdb": "tt5731672",
+    "tmdb": 1016867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}
