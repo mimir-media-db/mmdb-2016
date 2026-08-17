@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_villaviciosa_de_la_esquina_2016",
+  "title": "Villaviciosa de la esquina",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27927646",
+    "imdb": "tt5674842",
+    "tmdb": 375868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-02",
+  "runtime_minutes": 90
+}

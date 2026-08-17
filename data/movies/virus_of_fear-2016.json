@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_virus_of_fear_2016",
+  "title": "Virus of Fear",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59619323",
+    "imdb": "tt4288134",
+    "tmdb": 355944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-13",
+  "runtime_minutes": 75
+}

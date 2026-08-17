@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voyage_of_time_2016",
+  "title": "Voyage of Time",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23707679",
+    "imdb": "tt1945228",
+    "tmdb": 86822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-07",
+  "runtime_minutes": 90
+}

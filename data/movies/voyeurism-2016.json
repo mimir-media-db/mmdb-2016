@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voyeurism_2016",
+  "title": "Voyeurism",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22972821",
+    "imdb": "tt12625310",
+    "tmdb": 386871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-25"
+}

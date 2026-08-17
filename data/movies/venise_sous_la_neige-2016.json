@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_venise_sous_la_neige_2016",
+  "title": "Venise Sous La Neige",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48754337",
+    "imdb": "tt4629028",
+    "tmdb": 451045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

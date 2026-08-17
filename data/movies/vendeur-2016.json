@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vendeur_2016",
+  "title": "Vendeur",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24007982",
+    "imdb": "tt4400086",
+    "tmdb": 384586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-04",
+  "runtime_minutes": 89
+}

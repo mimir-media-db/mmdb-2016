@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viaggio_nel_cinema_in_3d_una_storia_vintage_2016",
+  "title": "Viaggio nel Cinema in 3D: Una Storia Vintage",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042408",
+    "imdb": "tt6059394",
+    "tmdb": 503980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 57
+}

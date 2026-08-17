@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_volhynia_2016",
+  "title": "Volhynia",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27149954",
+    "imdb": "tt6068960",
+    "tmdb": 406449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-23",
+  "runtime_minutes": 150
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vampariah_2016",
+  "title": "Vampariah",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56596749",
+    "imdb": "tt3552316",
+    "tmdb": 508817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

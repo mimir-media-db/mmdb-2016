@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vivir_y_otras_ficciones_2016",
+  "title": "Vivir y otras ficciones",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140290988",
+    "imdb": "tt6067104",
+    "tmdb": 450745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voices_of_violence_2016",
+  "title": "Voices of Violence",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647388",
+    "imdb": "tt11957864",
+    "tmdb": 391086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-10"
+}

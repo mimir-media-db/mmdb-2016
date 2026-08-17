@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vieni_a_vivere_a_napoli_2016",
+  "title": "Vieni a vivere a Napoli!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28668770",
+    "imdb": "tt5568314",
+    "tmdb": 448920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

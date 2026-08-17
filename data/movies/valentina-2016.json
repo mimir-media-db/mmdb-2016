@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valentina_2016",
+  "title": "Valentina",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26910780",
+    "imdb": "tt5291702",
+    "tmdb": 384157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

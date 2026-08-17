@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_violin_player_2016",
+  "title": "The Violin Player",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52442624",
+    "imdb": "tt4643520",
+    "tmdb": 372844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 72
+}

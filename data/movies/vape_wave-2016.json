@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vape_wave_2016",
+  "title": "Vape Wave",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56301905",
+    "imdb": "tt5860860",
+    "tmdb": 418635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

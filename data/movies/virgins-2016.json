@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virgins_2016",
+  "title": "The Virgins",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25212181",
+    "imdb": "tt5897230",
+    "tmdb": 873338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-01"
+}

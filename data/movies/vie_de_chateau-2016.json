@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vie_de_chateau_2016",
+  "title": "Vie de Chateau",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057304",
+    "imdb": "tt5568734"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

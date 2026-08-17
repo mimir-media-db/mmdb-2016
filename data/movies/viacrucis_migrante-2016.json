@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viacrucis_migrante_2016",
+  "title": "Viacrucis Migrante",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043486",
+    "imdb": "tt5298196",
+    "tmdb": 437244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 61
+}
