@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_falta_de_cha",
+  "title": "Falta de Chá",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30930282",
+    "imdb": "tt6350270",
+    "tmdb": 158606
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_follow_the_money",
+  "title": "Follow the Money",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22247603",
+    "imdb": "tt3638488",
+    "tmdb": 64726
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

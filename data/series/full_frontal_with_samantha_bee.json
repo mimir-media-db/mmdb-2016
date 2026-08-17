@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_full_frontal_with_samantha_bee",
+  "title": "Full Frontal with Samantha Bee",
+  "start_year": 2016,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q22022577",
+    "imdb": "tt5323988",
+    "tmdb": 65592
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 178
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fire_up",
+  "title": "Fire Up",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q24237670",
+    "tmdb": 125254
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

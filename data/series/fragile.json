@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fragile",
+  "title": "Fragile",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q104924918",
+    "imdb": "tt4971904",
+    "tmdb": 66696
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

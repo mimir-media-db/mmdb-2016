@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_flikken_rotterdam",
+  "title": "Flikken Rotterdam",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22041677",
+    "imdb": "tt5247586",
+    "tmdb": 64175
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_frontier",
+  "title": "Frontier",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q21998199",
+    "imdb": "tt4686698",
+    "tmdb": 64555
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

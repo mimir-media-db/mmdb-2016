@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_first_love_again",
+  "title": "First Love Again",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q27094480",
+    "imdb": "tt6444736",
+    "tmdb": 68880
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 104
+}

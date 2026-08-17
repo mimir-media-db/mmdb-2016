@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_five_children",
+  "title": "Five Children",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21059232",
+    "imdb": "tt5511992",
+    "tmdb": 65631
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}
