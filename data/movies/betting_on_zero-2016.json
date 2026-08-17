@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_betting_on_zero_2016",
+  "title": "Betting on Zero",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24661115",
+    "imdb": "tt3762912",
+    "tmdb": 385805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_key_2016",
+  "title": "The Broken Key",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21187932",
+    "imdb": "tt4656810",
+    "tmdb": 477278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 120
+}

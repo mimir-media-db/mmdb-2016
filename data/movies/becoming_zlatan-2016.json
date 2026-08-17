@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_becoming_zlatan_2016",
+  "title": "Becoming Zlatan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24211107",
+    "imdb": "tt5280626",
+    "tmdb": 379998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 96
+}

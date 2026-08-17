@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boone_2016",
+  "title": "Boone",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706296",
+    "imdb": "tt5457602",
+    "tmdb": 386132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

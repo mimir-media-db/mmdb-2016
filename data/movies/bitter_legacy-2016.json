@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bitter_legacy_2016",
+  "title": "A Bitter Legacy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24730819",
+    "imdb": "tt5086244",
+    "tmdb": 1009205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 70
+}

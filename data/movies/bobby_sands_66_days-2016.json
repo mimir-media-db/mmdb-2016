@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bobby_sands_66_days_2016",
+  "title": "Bobby Sands: 66 Days",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26683544",
+    "imdb": "tt5931144",
+    "tmdb": 395395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

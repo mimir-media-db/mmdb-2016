@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_balu_mahi_2016",
+  "title": "Balu Mahi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22674087",
+    "imdb": "tt5370442",
+    "tmdb": 438783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

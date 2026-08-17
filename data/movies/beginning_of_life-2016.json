@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beginning_of_life_2016",
+  "title": "The Beginning of Life",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24604892",
+    "imdb": "tt5140248",
+    "tmdb": 397093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 120
+}

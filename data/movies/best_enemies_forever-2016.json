@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_enemies_forever_2016",
+  "title": "Best Enemies Forever",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24020986",
+    "imdb": "tt5662556",
+    "tmdb": 392832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

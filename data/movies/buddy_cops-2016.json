@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buddy_cops_2016",
+  "title": "Buddy Cops",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4185397",
+    "imdb": "tt5617254",
+    "tmdb": 394495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 102
+}

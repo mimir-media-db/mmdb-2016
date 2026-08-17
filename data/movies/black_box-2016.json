@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_box_2016",
+  "title": "The Black Box",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24835168",
+    "imdb": "tt6137132",
+    "tmdb": 597496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

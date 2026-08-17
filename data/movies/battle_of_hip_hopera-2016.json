@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_of_hip_hopera_2016",
+  "title": "Battle Of Hip Hopera",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21017072",
+    "imdb": "tt7893546",
+    "tmdb": 1247918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

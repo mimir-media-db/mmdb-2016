@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barbershop_the_next_cut_2016",
+  "title": "Barbershop: The Next Cut",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001218",
+    "imdb": "tt3628584",
+    "tmdb": 326423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

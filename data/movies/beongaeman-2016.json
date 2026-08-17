@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beongaeman_2016",
+  "title": "beongaeman",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22973927",
+    "imdb": "tt6447556",
+    "tmdb": 396303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

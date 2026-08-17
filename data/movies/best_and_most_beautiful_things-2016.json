@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_and_most_beautiful_things_2016",
+  "title": "Best and Most Beautiful Things",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24675090",
+    "imdb": "tt4875456",
+    "tmdb": 381021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}
