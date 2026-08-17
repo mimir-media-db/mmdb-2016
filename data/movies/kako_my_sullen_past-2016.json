@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kako_my_sullen_past_2016",
+  "title": "Kako: My Sullen Past",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24876301",
+    "imdb": "tt5214744",
+    "tmdb": 400885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

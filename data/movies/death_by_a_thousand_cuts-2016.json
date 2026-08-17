@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_by_a_thousand_cuts_2016",
+  "title": "Death by a Thousand Cuts",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24685134",
+    "imdb": "tt5580250",
+    "tmdb": 395923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 73
+}

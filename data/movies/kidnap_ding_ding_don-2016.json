@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kidnap_ding_ding_don_2016",
+  "title": "Kidnap Ding Ding Don",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25259036",
+    "imdb": "tt6292874",
+    "tmdb": 401704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 97
+}

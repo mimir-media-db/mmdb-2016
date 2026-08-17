@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_illegitimate_2016",
+  "title": "Illegitimate",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22813584",
+    "imdb": "tt5002394",
+    "tmdb": 381318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stone_appears_2016",
+  "title": "A Stone Appears",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905157",
+    "imdb": "tt5502412",
+    "tmdb": 414066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 15
+}

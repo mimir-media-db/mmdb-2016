@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gleason_2016",
+  "title": "Gleason",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24641200",
+    "imdb": "tt4632316",
+    "tmdb": 373446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 110
+}

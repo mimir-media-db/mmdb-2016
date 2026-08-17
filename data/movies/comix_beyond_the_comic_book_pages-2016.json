@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comix_beyond_the_comic_book_pages_2016",
+  "title": "COMIX: Beyond the Comic Book Pages",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24686351",
+    "imdb": "tt4106028",
+    "tmdb": 350175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

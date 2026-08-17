@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rachel_area_51_as_a_town_2016",
+  "title": "Rachel: Area 51 as a Town",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24740133",
+    "imdb": "tt3640692"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

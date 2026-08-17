@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_malaria_2016",
+  "title": "Malaria",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25433019",
+    "imdb": "tt6047852",
+    "tmdb": 400509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 86
+}

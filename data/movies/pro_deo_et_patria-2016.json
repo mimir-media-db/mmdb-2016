@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pro_deo_et_patria_2016",
+  "title": "Pro Deo Et Patria",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044350",
+    "imdb": "tt5808956"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 14
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_cameos_2016",
+  "title": "Three Cameos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056367",
+    "imdb": "tt5561630"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 58
+}

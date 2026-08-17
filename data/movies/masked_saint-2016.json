@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_masked_saint_2016",
+  "title": "The Masked Saint",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646644",
+    "imdb": "tt3103166",
+    "tmdb": 370464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

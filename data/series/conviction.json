@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_conviction",
+  "title": "Conviction",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q24054627",
+    "imdb": "tt5396572",
+    "tmdb": 67118
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

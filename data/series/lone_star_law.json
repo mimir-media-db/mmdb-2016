@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lone_star_law",
+  "title": "Lone Star Law",
+  "start_year": 2016,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q24806971",
+    "imdb": "tt5796728",
+    "tmdb": 67095
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 89
+}

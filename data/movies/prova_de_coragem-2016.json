@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prova_de_coragem_2016",
+  "title": "Prova de Coragem",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23709810",
+    "imdb": "tt5552352",
+    "tmdb": 431175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

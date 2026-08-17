@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_path",
+  "title": "The Path",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q20758225",
+    "imdb": "tt4789576",
+    "tmdb": 65227
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khawadjat_2016",
+  "title": "Khawadjat",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24744566",
+    "imdb": "tt5207932"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 4
+}

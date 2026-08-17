@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beyhadh",
+  "title": "Beyhadh",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q24211297",
+    "imdb": "tt6193550",
+    "tmdb": 68344
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 273
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dare_to_be_different_2016",
+  "title": "Dare to Be Different",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24707938",
+    "imdb": "tt5742950"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 59
+}

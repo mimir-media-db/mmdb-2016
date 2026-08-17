@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_awakened_2016",
+  "title": "Awakened",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24734837",
+    "imdb": "tt4983912"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

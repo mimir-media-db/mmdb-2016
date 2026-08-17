@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_andrea_doria_are_the_passengers_saved_2016",
+  "title": "Andrea Doria: Are the passengers Saved?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26885126",
+    "imdb": "tt4624646"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

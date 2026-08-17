@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cruise_mode",
+  "title": "Cruise Mode",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q26158094"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

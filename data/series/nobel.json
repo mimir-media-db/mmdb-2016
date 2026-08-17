@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nobel",
+  "title": "Nobel",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q27518274",
+    "imdb": "tt4591834",
+    "tmdb": 67894
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

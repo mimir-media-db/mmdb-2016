@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_dads_army_the_hatton_garden_heist_2016",
+  "title": "Bad Dads' Army: The Hatton Garden Heist",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24642263",
+    "imdb": "tt5737736",
+    "tmdb": 1052379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

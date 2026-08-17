@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_veerappan_2016",
+  "title": "Killing Veerappan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649149",
+    "imdb": "tt4897890",
+    "tmdb": 392567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 151
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_helicopter_er",
+  "title": "Helicopter ER",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107011420",
+    "imdb": "tt13839898",
+    "tmdb": 82382
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manhattan_night_2016",
+  "title": "Manhattan Night",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925071",
+    "imdb": "tt3100274",
+    "tmdb": 311667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 113
+}

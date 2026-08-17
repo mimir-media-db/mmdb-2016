@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_missile_2016",
+  "title": "Missile",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646725"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

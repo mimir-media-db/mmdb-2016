@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_real_oneals",
+  "title": "The Real O'Neals",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19866736",
+    "imdb": "tt4422756",
+    "tmdb": 62856
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 29
+}

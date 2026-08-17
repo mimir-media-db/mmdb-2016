@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bandit_2016",
+  "title": "The Bandit",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24611809",
+    "imdb": "tt4819738",
+    "tmdb": 381044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

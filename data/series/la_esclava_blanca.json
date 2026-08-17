@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_esclava_blanca",
+  "title": "La esclava blanca",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22227196",
+    "imdb": "tt5458128",
+    "tmdb": 73640
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 61
+}

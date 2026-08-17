@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_donde_estas_negro_2016",
+  "title": "¿Dónde estás, Negro?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044345",
+    "imdb": "tt5663218",
+    "tmdb": 592042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 82
+}

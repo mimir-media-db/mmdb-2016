@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leslie_howard_the_man_who_gave_a_damn_2016",
+  "title": "Leslie Howard: The Man Who Gave a Damn",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705240",
+    "imdb": "tt2033298",
+    "tmdb": 375342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

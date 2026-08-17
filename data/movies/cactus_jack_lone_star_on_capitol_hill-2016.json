@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cactus_jack_lone_star_on_capitol_hill_2016",
+  "title": "Cactus Jack: Lone Star on Capitol Hill",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24743960",
+    "imdb": "tt5345576",
+    "tmdb": 1139232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 56
+}

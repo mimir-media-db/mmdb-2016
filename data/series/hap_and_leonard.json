@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hap_and_leonard",
+  "title": "Hap and Leonard",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q20715692",
+    "imdb": "tt3729898",
+    "tmdb": 64835
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 15
+}

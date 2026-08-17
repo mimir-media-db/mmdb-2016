@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_world_of_the_wild",
+  "title": "World of the Wild",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q104906805",
+    "imdb": "tt8120998",
+    "tmdb": 68149
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whos_gonna_love_me_now_2016",
+  "title": "Who's Gonna Love Me Now?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23013879",
+    "imdb": "tt5486818",
+    "tmdb": 384321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

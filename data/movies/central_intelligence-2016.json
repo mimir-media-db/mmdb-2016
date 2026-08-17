@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_central_intelligence_2016",
+  "title": "Central Intelligence",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19867575",
+    "imdb": "tt1489889",
+    "tmdb": 302699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 107
+}

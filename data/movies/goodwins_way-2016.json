@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodwins_way_2016",
+  "title": "Goodwin's Way",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056504",
+    "imdb": "tt5317290",
+    "tmdb": 1162539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 56
+}

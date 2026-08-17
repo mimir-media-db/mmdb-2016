@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_run_away_or_get_married_2016",
+  "title": "Run Away Or Get Married",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23710193",
+    "imdb": "tt5497822",
+    "tmdb": 474006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

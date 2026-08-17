@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jamie_lynn_spears_when_the_lights_go_out_2016",
+  "title": "Jamie Lynn Spears: When the Lights Go Out",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24676219",
+    "imdb": "tt5763006",
+    "tmdb": 404729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

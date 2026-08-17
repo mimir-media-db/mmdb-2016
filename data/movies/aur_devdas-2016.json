@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aur_devdas_2016",
+  "title": "Aur Devdas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4822033",
+    "imdb": "tt4979110",
+    "tmdb": 363189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

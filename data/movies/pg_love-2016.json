@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pg_love_2016",
+  "title": "PG Love",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22892083",
+    "imdb": "tt6423408",
+    "tmdb": 428473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

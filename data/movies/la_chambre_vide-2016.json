@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_chambre_vide_2016",
+  "title": "La chambre vide",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24744354",
+    "imdb": "tt5752468",
+    "tmdb": 447803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

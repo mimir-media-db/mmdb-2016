@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sambar_movie_2016",
+  "title": "Sambar movie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905184",
+    "tmdb": 396877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

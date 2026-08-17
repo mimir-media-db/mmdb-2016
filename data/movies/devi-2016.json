@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devi_2016",
+  "title": "Devi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925031",
+    "imdb": "tt6114940",
+    "tmdb": 408475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

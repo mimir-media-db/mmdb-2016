@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_class_of_her_own_2016",
+  "title": "Class of Her Own",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17514177",
+    "imdb": "tt4698886",
+    "tmdb": 1157684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

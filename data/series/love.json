@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love",
+  "title": "Love",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q18643718",
+    "imdb": "tt4061080",
+    "tmdb": 53606
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 34
+}

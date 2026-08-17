@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roxette_diaries_2016",
+  "title": "Roxette Diaries",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26885420",
+    "imdb": "tt5479528",
+    "tmdb": 423698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

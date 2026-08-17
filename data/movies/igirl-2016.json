@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_igirl_2016",
+  "title": "iGirl",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23055256",
+    "imdb": "tt5474132",
+    "tmdb": 409160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

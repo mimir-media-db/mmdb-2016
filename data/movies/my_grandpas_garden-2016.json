@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_grandpas_garden_2016",
+  "title": "My Grandpa's Garden",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705952",
+    "imdb": "tt5435740",
+    "tmdb": 399048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 76
+}

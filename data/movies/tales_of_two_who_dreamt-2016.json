@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tales_of_two_who_dreamt_2016",
+  "title": "Tales of Two Who Dreamt",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24562625",
+    "imdb": "tt6716094",
+    "tmdb": 383615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

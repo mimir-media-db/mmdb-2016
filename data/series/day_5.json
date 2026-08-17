@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_day_5",
+  "title": "Day 5",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30609071",
+    "imdb": "tt5707408",
+    "tmdb": 66819
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

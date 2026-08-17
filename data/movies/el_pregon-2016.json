@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_pregon_2016",
+  "title": "El pregón",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23822706",
+    "imdb": "tt4866712",
+    "tmdb": 378087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

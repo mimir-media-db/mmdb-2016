@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gigolo_2_2016",
+  "title": "The Gigolo 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22099989",
+    "imdb": "tt5474114",
+    "tmdb": 378462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 96
+}

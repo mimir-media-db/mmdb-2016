@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bayam_oru_payanam_2016",
+  "title": "Bayam Oru Payanam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806755",
+    "imdb": "tt6001856",
+    "tmdb": 412171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

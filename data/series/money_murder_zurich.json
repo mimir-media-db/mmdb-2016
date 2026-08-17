@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_money_murder_zurich",
+  "title": "Money. Murder. Zurich.",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q76877618",
+    "imdb": "tt5700562",
+    "tmdb": 295884
+  },
+  "last_updated": "2026-08-17"
+}

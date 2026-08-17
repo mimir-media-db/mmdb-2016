@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parkinsons_a_long_way_to_nowhere_2016",
+  "title": "The Parkinsons: A Long Way to Nowhere",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24759895",
+    "imdb": "tt5641916",
+    "tmdb": 525980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

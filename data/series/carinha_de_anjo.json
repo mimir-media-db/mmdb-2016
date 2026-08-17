@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_carinha_de_anjo",
+  "title": "Carinha de Anjo",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q26989383",
+    "imdb": "tt6267820",
+    "tmdb": 95532
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 403
+}

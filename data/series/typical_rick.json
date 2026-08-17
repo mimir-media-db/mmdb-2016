@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_typical_rick",
+  "title": "Typical Rick",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q39056652",
+    "imdb": "tt6282620",
+    "tmdb": 81360
+  },
+  "last_updated": "2026-08-17"
+}

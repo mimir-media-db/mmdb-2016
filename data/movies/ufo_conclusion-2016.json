@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ufo_conclusion_2016",
+  "title": "The UFO Conclusion",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24708058",
+    "imdb": "tt4807552",
+    "tmdb": 575350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

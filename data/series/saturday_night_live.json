@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_saturday_night_live",
+  "title": "Saturday Night Live",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q23039888",
+    "imdb": "tt5293078",
+    "tmdb": 65597
+  },
+  "last_updated": "2026-08-17"
+}

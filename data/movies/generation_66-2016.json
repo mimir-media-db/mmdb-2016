@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_generation_66_2016",
+  "title": "Generation '66",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27045055",
+    "imdb": "tt5949106",
+    "tmdb": 1273198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

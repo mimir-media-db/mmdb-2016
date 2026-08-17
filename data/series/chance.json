@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chance",
+  "title": "Chance",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q22907155",
+    "imdb": "tt5620076",
+    "tmdb": 66912
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

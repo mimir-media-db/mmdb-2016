@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_la_voix_junior",
+  "title": "La Voix Junior",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138157279"
+  },
+  "last_updated": "2026-08-17"
+}

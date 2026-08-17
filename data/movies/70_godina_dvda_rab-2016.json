@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_70_godina_dvda_rab_2016",
+  "title": "70 godina DVD-a Rab",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27055861",
+    "imdb": "tt5859166"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_botched_by_nature",
+  "title": "Botched by Nature",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q24207137",
+    "imdb": "tt5190550",
+    "tmdb": 67369
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

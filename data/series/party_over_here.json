@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_party_over_here",
+  "title": "Party Over Here",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23058622",
+    "imdb": "tt5459976",
+    "tmdb": 65877
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

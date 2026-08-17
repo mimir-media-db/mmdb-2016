@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cuba_libre_story",
+  "title": "The Cuba Libre Story",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28003795",
+    "imdb": "tt5319838",
+    "tmdb": 65867
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

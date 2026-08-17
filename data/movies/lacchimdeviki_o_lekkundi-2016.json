@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lacchimdeviki_o_lekkundi_2016",
+  "title": "Lacchimdeviki O Lekkundi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646631",
+    "imdb": "tt5389902",
+    "tmdb": 400721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tum_bin_2_2016",
+  "title": "Tum Bin 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23762915",
+    "imdb": "tt5717110",
+    "tmdb": 426785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

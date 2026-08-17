@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mordparta",
+  "title": "Mordparta",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q26932966",
+    "imdb": "tt6314992",
+    "tmdb": 76792
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

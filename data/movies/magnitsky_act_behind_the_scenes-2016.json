@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magnitsky_act_behind_the_scenes_2016",
+  "title": "The Magnitsky Act. Behind the Scenes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26899532",
+    "imdb": "tt6028446",
+    "tmdb": 414642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 147
+}

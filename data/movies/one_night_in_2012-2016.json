@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_in_2012_2016",
+  "title": "One Night in 2012",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26898263",
+    "imdb": "tt5849880",
+    "tmdb": 406987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

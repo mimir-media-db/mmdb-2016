@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alameti_kiyamet_2016",
+  "title": "Alamet-i Kiyamet",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25477361",
+    "imdb": "tt5534122",
+    "tmdb": 459341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

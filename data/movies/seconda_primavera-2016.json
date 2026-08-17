@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seconda_primavera_2016",
+  "title": "Seconda primavera",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22078265",
+    "imdb": "tt3222818",
+    "tmdb": 381161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 108
+}

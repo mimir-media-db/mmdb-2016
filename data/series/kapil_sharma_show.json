@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kapil_sharma_show",
+  "title": "The Kapil Sharma Show.",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23001956",
+    "imdb": "tt5747326",
+    "tmdb": 66465
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 130
+}

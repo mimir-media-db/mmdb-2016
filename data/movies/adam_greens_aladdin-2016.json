@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adam_greens_aladdin_2016",
+  "title": "Adam Green's Aladdin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001033",
+    "imdb": "tt3982118",
+    "tmdb": 392961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

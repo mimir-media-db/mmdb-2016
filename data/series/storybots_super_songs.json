@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_storybots_super_songs",
+  "title": "StoryBots Super Songs",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q27536845",
+    "imdb": "tt6163070",
+    "tmdb": 103520
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

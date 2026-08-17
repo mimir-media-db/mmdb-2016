@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_french_2016",
+  "title": "In the French",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706359",
+    "imdb": "tt5553318",
+    "tmdb": 451873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

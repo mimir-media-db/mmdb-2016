@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khel_toh_ab_shuru_hoga_2016",
+  "title": "Khel Toh Ab Shuru Hoga",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925065",
+    "imdb": "tt6656806",
+    "tmdb": 430118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

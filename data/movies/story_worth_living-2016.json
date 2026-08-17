@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_story_worth_living_2016",
+  "title": "A Story Worth Living",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24627835",
+    "imdb": "tt5722272",
+    "tmdb": 427370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

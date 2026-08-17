@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_23_the_forgotten_boys_of_brazil_2016",
+  "title": "Boy 23: The Forgotten Boys of Brazil",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25440993",
+    "imdb": "tt3121724",
+    "tmdb": 371961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

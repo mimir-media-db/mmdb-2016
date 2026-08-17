@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carrossel_2_o_sumico_de_maria_joaquina_2016",
+  "title": "Carrossel 2: O Sumiço de Maria Joaquina",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899114",
+    "imdb": "tt5804126",
+    "tmdb": 352431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 93
+}

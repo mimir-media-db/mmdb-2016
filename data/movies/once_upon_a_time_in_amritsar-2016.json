@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_amritsar_2016",
+  "title": "Once Upon A Time In Amritsar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23762930",
+    "imdb": "tt5610172",
+    "tmdb": 391749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

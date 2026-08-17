@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vino_el_amor",
+  "title": "Vino el amor",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q24278992",
+    "imdb": "tt5919474",
+    "tmdb": 83582
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 141
+}

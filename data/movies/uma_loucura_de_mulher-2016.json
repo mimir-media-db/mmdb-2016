@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uma_loucura_de_mulher_2016",
+  "title": "Uma Loucura de Mulher",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23999753",
+    "imdb": "tt4924082",
+    "tmdb": 381725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

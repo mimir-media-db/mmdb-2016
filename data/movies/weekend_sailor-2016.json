@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weekend_sailor_2016",
+  "title": "The Weekend Sailor",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24662035",
+    "imdb": "tt4880942",
+    "tmdb": 399390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 74
+}

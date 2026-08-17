@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_iliski_durumu_karsk",
+  "title": "İlişki Durumu: Karışık",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21528371",
+    "imdb": "tt4875520",
+    "tmdb": 87504
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

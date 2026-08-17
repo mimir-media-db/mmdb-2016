@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nothing_left_unsaid_gloria_vanderbilt_anderson_cooper_2016",
+  "title": "Nothing Left Unsaid: Gloria Vanderbilt & Anderson Cooper",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24603402",
+    "imdb": "tt5275872",
+    "tmdb": 376523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 108
+}

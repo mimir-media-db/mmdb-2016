@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_of_the_wild",
+  "title": "Love of the Wild",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q38780342",
+    "imdb": "tt6160948",
+    "tmdb": 277859
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 108
+}

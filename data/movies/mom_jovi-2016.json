@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mom_jovi_2016",
+  "title": "Mom Jovi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24733216",
+    "imdb": "tt5239674"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 83
+}

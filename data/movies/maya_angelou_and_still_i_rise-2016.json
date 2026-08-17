@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maya_angelou_and_still_i_rise_2016",
+  "title": "Maya Angelou and Still I Rise",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24618870",
+    "imdb": "tt5142750",
+    "tmdb": 376519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 114
+}

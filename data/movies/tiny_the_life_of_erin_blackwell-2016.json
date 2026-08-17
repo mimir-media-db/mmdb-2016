@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiny_the_life_of_erin_blackwell_2016",
+  "title": "TINY: The Life of Erin Blackwell",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24602158",
+    "imdb": "tt3505094",
+    "tmdb": 399464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

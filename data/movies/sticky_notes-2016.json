@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sticky_notes_2016",
+  "title": "Sticky Notes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21528076",
+    "imdb": "tt3784042",
+    "tmdb": 274165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

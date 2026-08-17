@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_homeland_2016",
+  "title": "Homeland",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705803",
+    "imdb": "tt5714824",
+    "tmdb": 393747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 15
+}

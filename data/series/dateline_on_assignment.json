@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_dateline_on_assignment",
+  "title": "Dateline: On Assignment",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135651390"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sticky_a_self_love_story_2016",
+  "title": "Sticky: A (Self) Love Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24616771",
+    "imdb": "tt1326264",
+    "tmdb": 407371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_place",
+  "title": "The Good Place",
+  "start_year": 2016,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q22908690",
+    "imdb": "tt4955642",
+    "tmdb": 66573
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 53
+}

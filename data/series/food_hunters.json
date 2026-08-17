@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_food_hunters",
+  "title": "Food Hunters",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q27973001",
+    "imdb": "tt7808486",
+    "tmdb": 108091
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

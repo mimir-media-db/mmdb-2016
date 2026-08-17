@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_daddy_cool",
+  "title": "Daddy Cool",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q78151048",
+    "imdb": "tt5544180",
+    "tmdb": 127191
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 46
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alive_and_kicking_2016",
+  "title": "Alive and Kicking",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24659693",
+    "imdb": "tt4329394",
+    "tmdb": 381020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

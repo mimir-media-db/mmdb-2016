@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vetrivel_2016",
+  "title": "Vetrivel",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925013",
+    "imdb": "tt5655954",
+    "tmdb": 391059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

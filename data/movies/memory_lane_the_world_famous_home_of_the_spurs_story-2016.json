@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_memory_lane_the_world_famous_home_of_the_spurs_story_2016",
+  "title": "Memory Lane: The world famous home of the Spurs Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24659955",
+    "imdb": "tt5759584"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

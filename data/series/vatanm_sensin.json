@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vatanm_sensin",
+  "title": "Vatanım Sensin",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q27832214",
+    "imdb": "tt6132720",
+    "tmdb": 69459
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 59
+}

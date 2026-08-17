@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dead_of_summer",
+  "title": "Dead of Summer",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23809289",
+    "imdb": "tt5210998",
+    "tmdb": 66489
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

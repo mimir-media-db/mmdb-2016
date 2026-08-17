@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_spring_the_tamaki_family_2016",
+  "title": "After Spring, the Tamaki Family...",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705070",
+    "imdb": "tt5764826",
+    "tmdb": 419389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 130
+}

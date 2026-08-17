@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_astrosamantha_the_space_record_woman_2016",
+  "title": "Astrosamantha, the Space Record Woman",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24719125",
+    "imdb": "tt4921474",
+    "tmdb": 385673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 83
+}

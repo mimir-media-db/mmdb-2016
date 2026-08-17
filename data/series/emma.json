@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_emma",
+  "title": "Emma",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28496880",
+    "imdb": "tt6096030",
+    "tmdb": 68125
+  },
+  "last_updated": "2026-08-17"
+}

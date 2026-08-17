@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_robert_irvine_show",
+  "title": "The Robert Irvine Show",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q27536509",
+    "imdb": "tt6086050"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}

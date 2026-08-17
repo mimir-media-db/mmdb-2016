@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hepta_the_last_lecture_2016",
+  "title": "Hepta: The Last Lecture",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25462805",
+    "imdb": "tt5240732",
+    "tmdb": 395815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 120
+}

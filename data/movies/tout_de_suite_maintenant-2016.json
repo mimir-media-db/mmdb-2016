@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tout_de_suite_maintenant_2016",
+  "title": "Tout de suite maintenant",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755183",
+    "imdb": "tt4494706",
+    "tmdb": 392124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

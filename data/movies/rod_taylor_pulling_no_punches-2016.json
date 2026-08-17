@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rod_taylor_pulling_no_punches_2016",
+  "title": "Rod Taylor: Pulling No Punches",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706087",
+    "imdb": "tt3301004",
+    "tmdb": 508281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

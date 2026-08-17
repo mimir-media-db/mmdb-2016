@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_go_north_2016",
+  "title": "Go North",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20949920",
+    "imdb": "tt4960764",
+    "tmdb": 430306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

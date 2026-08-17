@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sao_sebastiao_do_rio_de_janeiro_a_formacao_de_uma_cidade_2016",
+  "title": "São Sebastião do Rio de Janeiro, a Formação de uma Cidade",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706235",
+    "imdb": "tt5593770",
+    "tmdb": 422192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 93
+}

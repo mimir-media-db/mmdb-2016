@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_hombre_de_tu_vida",
+  "title": "El hombre de tu vida",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q25414127",
+    "imdb": "tt5096734",
+    "tmdb": 66582
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bodrum_masal",
+  "title": "Bodrum Masalı",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q25479540",
+    "imdb": "tt5994796",
+    "tmdb": 69460
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 42
+}

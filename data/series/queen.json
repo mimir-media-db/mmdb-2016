@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_queen",
+  "title": "The Queen",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21979573",
+    "tmdb": 116048
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

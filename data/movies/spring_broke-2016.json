@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spring_broke_2016",
+  "title": "Spring Broke",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24628773",
+    "imdb": "tt5437148",
+    "tmdb": 388235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 78
+}

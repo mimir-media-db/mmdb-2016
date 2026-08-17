@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_brake_for_gringos_2016",
+  "title": "I Brake for Gringos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16577131",
+    "imdb": "tt2381213",
+    "tmdb": 267800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

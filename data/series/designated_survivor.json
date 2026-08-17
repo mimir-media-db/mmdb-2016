@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_designated_survivor",
+  "title": "Designated Survivor",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q22662417",
+    "imdb": "tt5296406",
+    "tmdb": 67026
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 53
+}

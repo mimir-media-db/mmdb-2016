@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_coffin_2016",
+  "title": "White Coffin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23712183",
+    "imdb": "tt5767182",
+    "tmdb": 399615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

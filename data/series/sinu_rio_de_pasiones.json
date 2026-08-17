@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sinu_rio_de_pasiones",
+  "title": "Sinú, rio de pasiones",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21703028",
+    "imdb": "tt5678016",
+    "tmdb": 105499
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 61
+}

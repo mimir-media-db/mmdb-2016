@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rank_the_prank",
+  "title": "Rank the Prank",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q25303463",
+    "imdb": "tt7050890",
+    "tmdb": 68306
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_50_kilos_of_sour_cherries_2016",
+  "title": "50 Kilos of Sour Cherries",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5732797",
+    "imdb": "tt5689610",
+    "tmdb": 461088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

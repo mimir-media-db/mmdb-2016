@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gary_numan_android_in_la_la_land_2016",
+  "title": "Gary Numan: Android in La La Land",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24677240",
+    "imdb": "tt5378224",
+    "tmdb": 381083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

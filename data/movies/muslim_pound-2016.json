@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muslim_pound_2016",
+  "title": "The Muslim Pound",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26885389",
+    "imdb": "tt5856114",
+    "tmdb": 405268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 29
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_iruvar_ullam_2016",
+  "title": "Iruvar Ullam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15613894",
+    "imdb": "tt8267152",
+    "tmdb": 270776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

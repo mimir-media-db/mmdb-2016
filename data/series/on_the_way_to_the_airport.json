@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_on_the_way_to_the_airport",
+  "title": "On the Way to the Airport",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q26834340",
+    "imdb": "tt6013404",
+    "tmdb": 67276
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

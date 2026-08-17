@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_there_will_be_no_stay_2016",
+  "title": "There Will Be No Stay",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755329",
+    "imdb": "tt2723788",
+    "tmdb": 326265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 71
+}

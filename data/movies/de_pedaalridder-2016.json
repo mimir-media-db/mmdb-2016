@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_pedaalridder_2016",
+  "title": "De Pedaalridder",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056193",
+    "imdb": "tt5362434",
+    "tmdb": 381638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 50
+}

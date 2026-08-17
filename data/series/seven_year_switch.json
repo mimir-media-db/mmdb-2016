@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_seven_year_switch",
+  "title": "Seven Year Switch",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24211047",
+    "imdb": "tt6696750"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

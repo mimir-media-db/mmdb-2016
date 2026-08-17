@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uyire_uyire_2016",
+  "title": "Uyire Uyire",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255038",
+    "imdb": "tt4439194",
+    "tmdb": 280156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

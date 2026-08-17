@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ode_to_joy",
+  "title": "Ode to Joy",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q24836988",
+    "imdb": "tt5704228",
+    "tmdb": 66370
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 42
+}

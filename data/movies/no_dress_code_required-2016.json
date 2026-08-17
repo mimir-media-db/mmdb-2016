@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_dress_code_required_2016",
+  "title": "No Dress Code Required",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27055224",
+    "imdb": "tt5952720",
+    "tmdb": 387912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

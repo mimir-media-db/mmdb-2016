@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_valleem_thetti_pulleem_thetti_2016",
+  "title": "Valleem Thetti Pulleem Thetti",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24904948",
+    "imdb": "tt5370488",
+    "tmdb": 406157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

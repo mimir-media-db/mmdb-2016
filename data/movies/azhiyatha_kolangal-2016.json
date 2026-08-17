@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_azhiyatha_kolangal_2016",
+  "title": "Azhiyatha Kolangal",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22251891",
+    "imdb": "tt7023682",
+    "tmdb": 413135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

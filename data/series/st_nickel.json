@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_st_nickel",
+  "title": "St. Nickel",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q26962999",
+    "imdb": "tt5203758",
+    "tmdb": 66637
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

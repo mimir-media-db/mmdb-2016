@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_xv_beyond_the_try_line_2016",
+  "title": "XV Beyond the Try Line",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705878",
+    "imdb": "tt5254198",
+    "tmdb": 434452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 91
+}

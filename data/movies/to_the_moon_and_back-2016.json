@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_the_moon_and_back_2016",
+  "title": "To the Moon and Back",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26898250",
+    "imdb": "tt4506728",
+    "tmdb": 446002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

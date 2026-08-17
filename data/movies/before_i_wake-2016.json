@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_i_wake_2016",
+  "title": "Before I Wake",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17082319",
+    "imdb": "tt3174376",
+    "tmdb": 301804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zorawar_2016",
+  "title": "Zorawar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17089253",
+    "imdb": "tt3721462",
+    "tmdb": 391751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

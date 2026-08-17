@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_netflix_presents_the_characters",
+  "title": "Netflix Presents: The Characters",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22907249",
+    "imdb": "tt5228026",
+    "tmdb": 65977
+  },
+  "last_updated": "2026-08-17"
+}

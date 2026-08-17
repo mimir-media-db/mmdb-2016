@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garam_2016",
+  "title": "Garam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21539886",
+    "imdb": "tt5998016",
+    "tmdb": 847995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

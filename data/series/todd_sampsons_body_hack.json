@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_todd_sampsons_body_hack",
+  "title": "Todd Sampson's Body Hack",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q26158091",
+    "imdb": "tt6170980",
+    "tmdb": 68113
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

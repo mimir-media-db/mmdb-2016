@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caveman_of_atomic_city_2016",
+  "title": "The Caveman of Atomic City",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24719009",
+    "imdb": "tt1817260"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 79
+}

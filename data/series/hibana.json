@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hibana",
+  "title": "Hibana",
+  "start_year": 2016,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q24731127",
+    "imdb": "tt5301958",
+    "tmdb": 66660
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zipi_y_zape_y_la_isla_del_capitan_2016",
+  "title": "Zipi y Zape y la isla del capitán",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26304735",
+    "imdb": "tt4110400",
+    "tmdb": 366499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

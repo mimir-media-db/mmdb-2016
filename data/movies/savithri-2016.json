@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_savithri_2016",
+  "title": "Savithri",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649810",
+    "imdb": "tt5597202",
+    "tmdb": 406784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

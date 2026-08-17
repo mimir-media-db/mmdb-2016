@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lucifer",
+  "title": "Lucifer",
+  "start_year": 2016,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q19520525",
+    "imdb": "tt4052886",
+    "tmdb": 63174
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 93
+}

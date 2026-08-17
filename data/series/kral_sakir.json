@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kral_sakir",
+  "title": "Kral Şakir",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24238429",
+    "imdb": "tt7639726",
+    "tmdb": 204990
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 283
+}

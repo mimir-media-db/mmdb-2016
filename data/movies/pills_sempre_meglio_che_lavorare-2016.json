@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pills_sempre_meglio_che_lavorare_2016",
+  "title": "The Pills: Sempre meglio che lavorare",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21328809",
+    "imdb": "tt4676140",
+    "tmdb": 378570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

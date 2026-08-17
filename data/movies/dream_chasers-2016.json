@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dream_chasers_2016",
+  "title": "Dream Chasers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705497",
+    "imdb": "tt4572320",
+    "tmdb": 808867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 44
+}

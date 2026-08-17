@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sur_quel_pied_danser_2016",
+  "title": "Sur quel pied danser",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24937079",
+    "imdb": "tt4875774",
+    "tmdb": 395599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

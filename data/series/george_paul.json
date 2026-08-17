@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_george_paul",
+  "title": "George & Paul",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q128601256",
+    "imdb": "tt6950674",
+    "tmdb": 119913
+  },
+  "last_updated": "2026-08-17"
+}

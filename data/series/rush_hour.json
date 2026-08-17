@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rush_hour",
+  "title": "Rush Hour",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18483020",
+    "imdb": "tt4085584",
+    "tmdb": 65367
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

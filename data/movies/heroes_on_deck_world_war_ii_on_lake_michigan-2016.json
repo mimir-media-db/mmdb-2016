@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heroes_on_deck_world_war_ii_on_lake_michigan_2016",
+  "title": "Heroes on Deck: World War II on Lake Michigan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24659957",
+    "imdb": "tt5346538",
+    "tmdb": 407209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 56
+}

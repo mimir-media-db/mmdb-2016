@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_new_years_eve_of_old_lee_2016",
+  "title": "The New Year's Eve of Old Lee",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22100115",
+    "imdb": "tt5515022",
+    "tmdb": 382054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

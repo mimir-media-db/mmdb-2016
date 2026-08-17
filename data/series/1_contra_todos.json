@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_1_contra_todos",
+  "title": "1 Contra Todos",
+  "start_year": 2016,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q28456289",
+    "imdb": "tt5822138",
+    "tmdb": 67158
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

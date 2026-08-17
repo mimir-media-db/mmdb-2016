@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_em_nome_da_lei_2016",
+  "title": "Em Nome da Lei",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25336861",
+    "imdb": "tt4612304",
+    "tmdb": 359806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 115
+}

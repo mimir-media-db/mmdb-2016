@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kidnapped_in_romania_2016",
+  "title": "Kidnapped in Romania",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25401340",
+    "imdb": "tt3849370",
+    "tmdb": 405075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 83
+}

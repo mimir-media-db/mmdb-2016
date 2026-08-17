@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leaving_vogue_moran_2016",
+  "title": "Leaving Vogue Moran",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705945",
+    "imdb": "tt5778588",
+    "tmdb": 400043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 45
+}

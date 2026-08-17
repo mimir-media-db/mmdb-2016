@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_big_night_out",
+  "title": "Big Night Out",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30633875"
+  },
+  "last_updated": "2026-08-17"
+}

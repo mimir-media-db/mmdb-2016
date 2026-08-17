@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angaar_2016",
+  "title": "Angaar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21780545",
+    "imdb": "tt5988222",
+    "tmdb": 502538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

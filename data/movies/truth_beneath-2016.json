@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_truth_beneath_2016",
+  "title": "The Truth Beneath",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22974017",
+    "imdb": "tt5768474",
+    "tmdb": 401133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 102
+}

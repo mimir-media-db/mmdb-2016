@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_politics_instructions_manual_2016",
+  "title": "Politics, Instructions Manual",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24296969",
+    "imdb": "tt5756058",
+    "tmdb": 400536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 115
+}

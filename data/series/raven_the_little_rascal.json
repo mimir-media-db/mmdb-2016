@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_raven_the_little_rascal",
+  "title": "Raven, the Little Rascal",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q28131595",
+    "imdb": "tt5717900",
+    "tmdb": 82067
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

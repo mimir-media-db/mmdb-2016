@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_inside_politics_weekday",
+  "title": "Inside Politics Weekday",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125819405",
+    "imdb": "tt32236688"
+  },
+  "last_updated": "2026-08-17"
+}

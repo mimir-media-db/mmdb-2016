@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ride_with_norman_reedus",
+  "title": "Ride with Norman Reedus",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24807125",
+    "imdb": "tt5547946",
+    "tmdb": 66402
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 24
+}

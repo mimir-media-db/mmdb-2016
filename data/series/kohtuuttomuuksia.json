@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kohtuuttomuuksia",
+  "title": "Kohtuuttomuuksia",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q23045157",
+    "imdb": "tt5518152",
+    "tmdb": 125486
+  },
+  "last_updated": "2026-08-17"
+}

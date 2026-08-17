@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alleen_op_de_wereld",
+  "title": "Alleen Op De Wereld",
+  "start_year": 2016,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q131522604",
+    "imdb": "tt5709316",
+    "tmdb": 75891
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 19
+}

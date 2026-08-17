@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_solange_and_the_living_2016",
+  "title": "Solange and the Living",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18736633",
+    "imdb": "tt4023430",
+    "tmdb": 386794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 67
+}

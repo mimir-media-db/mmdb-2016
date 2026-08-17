@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_race_for_the_white_house",
+  "title": "Race for the White House",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23762864",
+    "imdb": "tt5194802",
+    "tmdb": 65811
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

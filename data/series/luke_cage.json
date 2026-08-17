@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_luke_cage",
+  "title": "Luke Cage",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q20646602",
+    "imdb": "tt3322314",
+    "tmdb": 62126
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lights_out_2016",
+  "title": "Lights Out",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649307",
+    "imdb": "tt4786282",
+    "tmdb": 345911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 81
+}

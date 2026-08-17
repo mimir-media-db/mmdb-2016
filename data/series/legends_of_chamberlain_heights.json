@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_legends_of_chamberlain_heights",
+  "title": "Legends of Chamberlain Heights",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q26812646",
+    "imdb": "tt5126414",
+    "tmdb": 67761
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_prof_t",
+  "title": "Prof T.",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q48757354",
+    "imdb": "tt5816814",
+    "tmdb": 70687
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

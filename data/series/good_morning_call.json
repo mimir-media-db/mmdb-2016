@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_good_morning_call",
+  "title": "Good Morning Call",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q47349037",
+    "imdb": "tt5520732",
+    "tmdb": 65693
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_this_is_us",
+  "title": "This Is Us",
+  "start_year": 2016,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q24068191",
+    "imdb": "tt5555260",
+    "tmdb": 67136
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 106
+}

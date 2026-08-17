@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_chant_du_merle_2016",
+  "title": "Le chant du merle",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23021486",
+    "imdb": "tt4495846",
+    "tmdb": 388738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

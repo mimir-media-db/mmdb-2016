@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salir_de_casa_2016",
+  "title": "Salir de casa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24763734",
+    "imdb": "tt5461870",
+    "tmdb": 427844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

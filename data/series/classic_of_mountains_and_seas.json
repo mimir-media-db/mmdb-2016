@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_classic_of_mountains_and_seas",
+  "title": "The Classic of Mountains and Seas",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18383090",
+    "tmdb": 70603
+  },
+  "last_updated": "2026-08-17"
+}

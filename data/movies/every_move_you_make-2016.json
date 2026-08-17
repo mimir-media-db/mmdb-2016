@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_every_move_you_make_2016",
+  "title": "Every Move You Make",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705766",
+    "imdb": "tt2366041",
+    "tmdb": 377146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

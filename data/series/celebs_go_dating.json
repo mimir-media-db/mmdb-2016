@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_celebs_go_dating",
+  "title": "Celebs Go Dating",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q26963146",
+    "imdb": "tt5993484",
+    "tmdb": 67775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 119
+}

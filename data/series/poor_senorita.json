@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_poor_senorita",
+  "title": "Poor Señorita",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22674200",
+    "imdb": "tt5582928",
+    "tmdb": 220788
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 79
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ela_sti_thesi_mou",
+  "title": "Ela sti thesi mou",
+  "start_year": 2016,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q31942212",
+    "imdb": "tt6353592",
+    "tmdb": 87215
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 934
+}

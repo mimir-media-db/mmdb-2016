@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_def_comedy",
+  "title": "All Def Comedy",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q42301944",
+    "imdb": "tt7411686",
+    "tmdb": 75499
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

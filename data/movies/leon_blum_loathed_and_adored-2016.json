@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_leon_blum_loathed_and_adored_2016",
+  "title": "Léon Blum, Loathed and Adored",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24730401",
+    "imdb": "tt5717296"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 58
+}

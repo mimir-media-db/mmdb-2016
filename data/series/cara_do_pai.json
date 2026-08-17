@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cara_do_pai",
+  "title": "A Cara do Pai",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28680117",
+    "imdb": "tt6331660",
+    "tmdb": 203048
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

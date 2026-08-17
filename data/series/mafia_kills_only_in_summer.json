@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mafia_kills_only_in_summer",
+  "title": "The Mafia Kills Only in Summer",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q27910104",
+    "imdb": "tt6246232",
+    "tmdb": 68796
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_through_french_cinema_2016",
+  "title": "Journey Through French Cinema",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24675341",
+    "imdb": "tt5652594",
+    "tmdb": 798143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 190
+}

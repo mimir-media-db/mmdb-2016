@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amor_em_sampa_2016",
+  "title": "Amor em Sampa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19607526",
+    "imdb": "tt3411572",
+    "tmdb": 361781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 102
+}

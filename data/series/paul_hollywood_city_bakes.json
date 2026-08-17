@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_paul_hollywood_city_bakes",
+  "title": "Paul Hollywood City Bakes",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q97191252",
+    "imdb": "tt7446914",
+    "tmdb": 118763
+  },
+  "last_updated": "2026-08-17"
+}

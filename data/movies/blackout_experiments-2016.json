@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blackout_experiments_2016",
+  "title": "The Blackout Experiments",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24514712",
+    "imdb": "tt5222646",
+    "tmdb": 376502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_top_10_architecture",
+  "title": "Top 10 Architecture",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104906918",
+    "imdb": "tt6767882",
+    "tmdb": 90384
+  },
+  "last_updated": "2026-08-17"
+}

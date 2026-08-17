@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_10_anos_con_bebe_2016",
+  "title": "10 años con Bebe",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706100",
+    "imdb": "tt5268896",
+    "tmdb": 428937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

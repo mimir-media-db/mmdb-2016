@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bachaana_2016",
+  "title": "Bachaana",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20311909",
+    "imdb": "tt5350584",
+    "tmdb": 364007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

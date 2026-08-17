@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_doc_esser_der_gesundheitscheck",
+  "title": "Doc Esser – Der Gesundheits-Check",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q91201007"
+  },
+  "last_updated": "2026-08-17"
+}

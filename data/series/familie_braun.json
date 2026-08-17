@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_familie_braun",
+  "title": "Familie Braun",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22808277",
+    "imdb": "tt5460924",
+    "tmdb": 65608
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

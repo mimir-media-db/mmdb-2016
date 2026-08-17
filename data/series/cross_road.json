@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cross_road",
+  "title": "Cross Road",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22952277",
+    "tmdb": 108106
+  },
+  "last_updated": "2026-08-17"
+}

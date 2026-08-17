@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_thunderbolt_fantasy",
+  "title": "Thunderbolt Fantasy",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24554280",
+    "imdb": "tt6765658",
+    "tmdb": 67345
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 3
+}

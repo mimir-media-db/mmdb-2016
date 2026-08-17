@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_yago_pasion_y_venganza",
+  "title": "Yago, pasión y venganza",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22252070",
+    "imdb": "tt5473006",
+    "tmdb": 66517
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 65
+}

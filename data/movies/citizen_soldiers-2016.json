@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_citizen_soldiers_2016",
+  "title": "The Citizen Soldiers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705687",
+    "imdb": "tt5426506"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

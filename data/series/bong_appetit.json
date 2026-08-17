@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bong_appetit",
+  "title": "Bong Appétit",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118900868",
+    "imdb": "tt6834076",
+    "tmdb": 69117
+  },
+  "last_updated": "2026-08-17"
+}

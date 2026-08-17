@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_ladder_the_art_of_cai_guoqiang_2016",
+  "title": "Sky Ladder: The Art of Cai Guo-Qiang",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24660088",
+    "imdb": "tt5278930",
+    "tmdb": 376389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 76
+}

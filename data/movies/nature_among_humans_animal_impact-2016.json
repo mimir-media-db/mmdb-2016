@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nature_among_humans_animal_impact_2016",
+  "title": "Nature Among Humans: Animal Impact",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26899541",
+    "imdb": "tt5248428"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

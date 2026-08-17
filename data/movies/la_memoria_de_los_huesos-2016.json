@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_memoria_de_los_huesos_2016",
+  "title": "La memoria de los huesos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24746483",
+    "imdb": "tt5642332",
+    "tmdb": 486158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 78
+}

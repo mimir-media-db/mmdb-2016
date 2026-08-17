@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_dona",
+  "title": "La Doña",
+  "start_year": 2016,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q20656867",
+    "imdb": "tt5663590",
+    "tmdb": 68878
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 195
+}

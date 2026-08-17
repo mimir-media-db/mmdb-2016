@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_super_dancer",
+  "title": "Super Dancer",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24211291",
+    "imdb": "tt10370866",
+    "tmdb": 85278
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

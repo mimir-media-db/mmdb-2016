@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_conversations_with_alan_ladd_jr_its_always_about_the_story_2016",
+  "title": "Conversations with Alan Ladd, Jr.: It's Always About the Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24707858",
+    "imdb": "tt4557646",
+    "tmdb": 491238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 50
+}

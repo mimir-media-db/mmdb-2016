@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_our_fathers_relations_2016",
+  "title": "All Our Father's Relations",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24733768",
+    "imdb": "tt3722618",
+    "tmdb": 1101789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

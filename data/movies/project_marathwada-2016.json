@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_project_marathwada_2016",
+  "title": "Project Marathwada",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905512",
+    "imdb": "tt5714802",
+    "tmdb": 692851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

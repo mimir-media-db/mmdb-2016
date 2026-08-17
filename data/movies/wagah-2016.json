@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wagah_2016",
+  "title": "Wagah",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20650030",
+    "imdb": "tt5958304",
+    "tmdb": 353415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_private_eyes",
+  "title": "Private Eyes",
+  "start_year": 2016,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q24586565",
+    "imdb": "tt5722298",
+    "tmdb": 66599
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 60
+}

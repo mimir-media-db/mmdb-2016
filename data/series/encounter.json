@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_encounter",
+  "title": "The Encounter",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28443755",
+    "imdb": "tt6208084",
+    "tmdb": 217467
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

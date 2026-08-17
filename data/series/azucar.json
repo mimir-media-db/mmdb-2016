@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_azucar",
+  "title": "Azúcar",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23046171",
+    "imdb": "tt5873850",
+    "tmdb": 107156
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 88
+}

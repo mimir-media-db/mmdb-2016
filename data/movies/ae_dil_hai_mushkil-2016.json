@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ae_dil_hai_mushkil_2016",
+  "title": "Ae Dil Hai Mushkil",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646028",
+    "imdb": "tt4559006",
+    "tmdb": 393445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 157
+}

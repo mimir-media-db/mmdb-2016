@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_spring_flower",
+  "title": "Spring Flower",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q22078647",
+    "imdb": "tt30841367",
+    "tmdb": 232464
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_on_the_mountain_2016",
+  "title": "Blood on the Mountain",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705193",
+    "imdb": "tt3458118",
+    "tmdb": 418688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 76
+}

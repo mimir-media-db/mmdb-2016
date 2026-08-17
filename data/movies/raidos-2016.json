@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raidos_2016",
+  "title": "Raídos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24718496",
+    "imdb": "tt5642216",
+    "tmdb": 407570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

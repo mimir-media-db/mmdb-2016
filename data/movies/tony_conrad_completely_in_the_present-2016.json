@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tony_conrad_completely_in_the_present_2016",
+  "title": "Tony Conrad: Completely in the Present",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705270",
+    "imdb": "tt4637434",
+    "tmdb": 400471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_marriage_contract",
+  "title": "Marriage Contract",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21824909",
+    "imdb": "tt5525778",
+    "tmdb": 65728
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

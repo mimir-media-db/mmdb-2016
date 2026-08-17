@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_way_to_the_ocean_2016",
+  "title": "All the Way to the Ocean",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23838474",
+    "imdb": "tt4287618",
+    "tmdb": 404356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

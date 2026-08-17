@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prazdniny_v_provence_2016",
+  "title": "Prazdniny v Provence",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20428185",
+    "imdb": "tt3847656",
+    "tmdb": 409149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

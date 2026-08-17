@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cook_representative",
+  "title": "Cook Representative",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22813187",
+    "tmdb": 72767
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

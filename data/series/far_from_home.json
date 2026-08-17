@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_far_from_home",
+  "title": "Far from Home",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28493993",
+    "imdb": "tt6082710",
+    "tmdb": 67803
+  },
+  "last_updated": "2026-08-17"
+}

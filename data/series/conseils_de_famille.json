@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_conseils_de_famille",
+  "title": "Conseils de famille",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30739042",
+    "imdb": "tt6952532",
+    "tmdb": 83967
+  },
+  "last_updated": "2026-08-17"
+}

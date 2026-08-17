@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_meteorite",
+  "title": "Meteorite",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q116788599",
+    "imdb": "tt5006480",
+    "tmdb": 65331
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

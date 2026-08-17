@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nerve_2016",
+  "title": "Nerve",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19865410",
+    "imdb": "tt3531824",
+    "tmdb": 328387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 96
+}

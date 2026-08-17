@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peewees_big_holiday_2016",
+  "title": "Pee-wee's Big Holiday",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19866175",
+    "imdb": "tt0837156",
+    "tmdb": 347689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

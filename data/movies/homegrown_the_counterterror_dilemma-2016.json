@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_homegrown_the_counterterror_dilemma_2016",
+  "title": "Homegrown: The Counter-Terror Dilemma",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24631153",
+    "imdb": "tt5497132",
+    "tmdb": 380694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 89
+}

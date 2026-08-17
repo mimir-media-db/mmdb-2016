@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yoga_hosers_2016",
+  "title": "Yoga Hosers",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18168157",
+    "imdb": "tt3838992",
+    "tmdb": 290825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tattooing_in_iran_2016",
+  "title": "Tattooing in Iran",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27055891",
+    "imdb": "tt5831732"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 121
+}

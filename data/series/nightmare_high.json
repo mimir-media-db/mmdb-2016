@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nightmare_high",
+  "title": "Nightmare High",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23995009",
+    "imdb": "tt6209442",
+    "tmdb": 67842
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

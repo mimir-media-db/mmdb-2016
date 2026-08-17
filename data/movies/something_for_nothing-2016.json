@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_something_for_nothing_2016",
+  "title": "Something for nothing",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26708982",
+    "imdb": "tt6103592",
+    "tmdb": 587612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 22
+}

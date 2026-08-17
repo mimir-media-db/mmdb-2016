@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belmondo_par_belmondo_2016",
+  "title": "Belmondo par Belmondo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24660140",
+    "imdb": "tt5311536",
+    "tmdb": 444269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

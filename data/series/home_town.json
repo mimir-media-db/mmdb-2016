@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_home_town",
+  "title": "Home Town",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30600612",
+    "imdb": "tt6666966",
+    "tmdb": 71359
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 56
+}

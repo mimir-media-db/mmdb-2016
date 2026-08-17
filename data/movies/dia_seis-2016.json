@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dia_seis_2016",
+  "title": "Día Seis",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21572946",
+    "imdb": "tt4810318",
+    "tmdb": 671757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

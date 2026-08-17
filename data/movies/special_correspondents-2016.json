@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_special_correspondents_2016",
+  "title": "Special Correspondents",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022664",
+    "imdb": "tt4181052",
+    "tmdb": 355008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

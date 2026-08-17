@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sardaarji_2_2016",
+  "title": "Sardaarji 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095451",
+    "imdb": "tt5701172",
+    "tmdb": 391763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 145
+}

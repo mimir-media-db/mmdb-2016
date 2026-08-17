@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hell_below",
+  "title": "Hell Below",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q28232752",
+    "imdb": "tt5730102",
+    "tmdb": 67137
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

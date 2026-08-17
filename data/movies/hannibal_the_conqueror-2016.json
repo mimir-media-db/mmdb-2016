@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hannibal_the_conqueror_2016",
+  "title": "Hannibal the Conqueror",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1777497",
+    "imdb": "tt0382731"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

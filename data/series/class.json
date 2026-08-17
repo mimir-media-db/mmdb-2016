@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_class",
+  "title": "Class",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23647041",
+    "imdb": "tt5079788",
+    "tmdb": 64073
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

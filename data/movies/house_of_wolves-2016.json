@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_wolves_2016",
+  "title": "House of Wolves",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21869425",
+    "imdb": "tt5445444",
+    "tmdb": 400384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

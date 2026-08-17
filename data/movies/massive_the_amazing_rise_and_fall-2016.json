@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_massive_the_amazing_rise_and_fall_2016",
+  "title": "Massive: The Amazing Rise and Fall",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26885538",
+    "imdb": "tt5011872",
+    "tmdb": 1351710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

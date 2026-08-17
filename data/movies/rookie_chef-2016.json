@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rookie_chef_2016",
+  "title": "Rookie Chef",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22100104",
+    "imdb": "tt5600444",
+    "tmdb": 379359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 119
+}

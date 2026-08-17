@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sanam_re_2016",
+  "title": "Sanam Re",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19263959",
+    "imdb": "tt4262516",
+    "tmdb": 382717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 116
+}

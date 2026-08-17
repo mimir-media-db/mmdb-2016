@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_signal",
+  "title": "Signal",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19854621",
+    "imdb": "tt5332206",
+    "tmdb": 64840
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

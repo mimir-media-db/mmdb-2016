@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chouf_2016",
+  "title": "Chouf",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25396653",
+    "imdb": "tt5078274",
+    "tmdb": 394259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 108
+}

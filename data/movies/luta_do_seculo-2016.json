@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luta_do_seculo_2016",
+  "title": "A Luta do Século",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21999957",
+    "imdb": "tt8201726",
+    "tmdb": 417484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 78
+}

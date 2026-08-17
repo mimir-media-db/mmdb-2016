@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_hell_2016",
+  "title": "Holy Hell",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21979394",
+    "imdb": "tt5278464",
+    "tmdb": 373472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

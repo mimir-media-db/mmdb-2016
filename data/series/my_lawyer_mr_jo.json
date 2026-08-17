@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_lawyer_mr_jo",
+  "title": "My Lawyer, Mr. Jo",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22261476",
+    "imdb": "tt5616430",
+    "tmdb": 65895
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_state_of_jones_2016",
+  "title": "Free State of Jones",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19730988",
+    "imdb": "tt1124037",
+    "tmdb": 316152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 139
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wanted",
+  "title": "Wanted",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q21450493",
+    "imdb": "tt5193358",
+    "tmdb": 65628
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

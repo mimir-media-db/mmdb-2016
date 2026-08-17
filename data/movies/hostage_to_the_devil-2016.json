@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hostage_to_the_devil_2016",
+  "title": "Hostage to the Devil",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24641756",
+    "imdb": "tt2652948",
+    "tmdb": 407767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

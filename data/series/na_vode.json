@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_na_vode",
+  "title": "Na vode",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22810321",
+    "imdb": "tt5486644",
+    "tmdb": 80038
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

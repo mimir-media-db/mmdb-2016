@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_woman_scorned",
+  "title": "A Woman Scorned",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q28127266",
+    "imdb": "tt6282096",
+    "tmdb": 79893
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 383
+}

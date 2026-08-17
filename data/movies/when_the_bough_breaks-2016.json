@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_bough_breaks_2016",
+  "title": "When the Bough Breaks",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363980",
+    "imdb": "tt1389139",
+    "tmdb": 335791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 107
+}

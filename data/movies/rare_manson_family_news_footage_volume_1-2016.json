@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rare_manson_family_news_footage_volume_1_2016",
+  "title": "Rare Manson Family News Footage: Volume 1",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056119",
+    "imdb": "tt5987222",
+    "tmdb": 412290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 109
+}

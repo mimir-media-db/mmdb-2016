@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_life_of_paul_sneijder_2016",
+  "title": "The New Life of Paul Sneijder",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24937244",
+    "imdb": "tt4720654",
+    "tmdb": 395449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 114
+}

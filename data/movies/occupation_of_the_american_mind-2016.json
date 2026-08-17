@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_occupation_of_the_american_mind_2016",
+  "title": "The Occupation of the American Mind",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24612566",
+    "imdb": "tt5588304",
+    "tmdb": 438267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 82
+}

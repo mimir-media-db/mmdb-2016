@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_dawn_2016",
+  "title": "Before Dawn",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24263770",
+    "imdb": "tt3397160",
+    "tmdb": 391663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

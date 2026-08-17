@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khun_pan_2016",
+  "title": "Khun Pan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25544856",
+    "imdb": "tt3665704",
+    "tmdb": 423033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

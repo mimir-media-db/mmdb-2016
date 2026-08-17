@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_for_your_consideration_buscemi_2016",
+  "title": "For Your Consideration: BUSCEMI",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24718641",
+    "imdb": "tt5285090"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

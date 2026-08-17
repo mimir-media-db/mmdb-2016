@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_genius_by_stephen_hawking",
+  "title": "Genius by Stephen Hawking",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q28401413",
+    "imdb": "tt5593296",
+    "tmdb": 66497
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brutus_2016",
+  "title": "Brutus",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21393705",
+    "imdb": "tt5192510",
+    "tmdb": 640324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_voices_from_the_ruins_2016",
+  "title": "Voices from the Ruins",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044453",
+    "imdb": "tt5947390"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

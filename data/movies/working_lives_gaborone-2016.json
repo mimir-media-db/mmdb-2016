@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_working_lives_gaborone_2016",
+  "title": "Working Lives: Gaborone",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044370",
+    "imdb": "tt6050114"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

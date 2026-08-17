@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enkitta_mothathe_2016",
+  "title": "Enkitta Mothathe",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646383",
+    "imdb": "tt6759208",
+    "tmdb": 372402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

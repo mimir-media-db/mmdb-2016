@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dream_corp_llc",
+  "title": "Dream Corp, LLC",
+  "start_year": 2016,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q24806893",
+    "imdb": "tt5475704",
+    "tmdb": 68380
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_otra_parte_2016",
+  "title": "La Otra Parte",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26899544",
+    "imdb": "tt5093408",
+    "tmdb": 567408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

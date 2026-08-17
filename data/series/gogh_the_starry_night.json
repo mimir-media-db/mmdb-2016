@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gogh_the_starry_night",
+  "title": "Gogh, The Starry Night",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q24211321",
+    "imdb": "tt6058390",
+    "tmdb": 68150
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

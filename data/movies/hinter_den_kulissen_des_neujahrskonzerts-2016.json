@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hinter_den_kulissen_des_neujahrskonzerts_2016",
+  "title": "Hinter den Kulissen des Neujahrskonzerts",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24764177",
+    "imdb": "tt5327440"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 17
+}

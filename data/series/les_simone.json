@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_simone",
+  "title": "Les Simone",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q28494695",
+    "imdb": "tt5835160",
+    "tmdb": 67590
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

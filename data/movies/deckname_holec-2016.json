@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deckname_holec_2016",
+  "title": "Deckname Holec",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20428045",
+    "imdb": "tt4077570",
+    "tmdb": 415038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

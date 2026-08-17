@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eldorado_xxi_2016",
+  "title": "Eldorado XXI",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24707832",
+    "imdb": "tt5592444",
+    "tmdb": 382431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 125
+}

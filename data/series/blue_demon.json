@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_blue_demon",
+  "title": "Blue Demon",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28443767",
+    "imdb": "tt5691656",
+    "tmdb": 69169
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

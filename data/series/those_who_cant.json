@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_those_who_cant",
+  "title": "Those Who Can't",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q22905773",
+    "imdb": "tt4264096",
+    "tmdb": 65574
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

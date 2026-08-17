@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_yevado_okadu_2016",
+  "title": "Yevado Okadu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647324",
+    "tmdb": 370977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_christmas_2016",
+  "title": "Almost Christmas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21450439",
+    "imdb": "tt4649416",
+    "tmdb": 340402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

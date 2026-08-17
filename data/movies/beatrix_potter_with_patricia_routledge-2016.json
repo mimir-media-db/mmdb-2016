@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beatrix_potter_with_patricia_routledge_2016",
+  "title": "Beatrix Potter with Patricia Routledge",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26899638",
+    "imdb": "tt5373304",
+    "tmdb": 597743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 47
+}

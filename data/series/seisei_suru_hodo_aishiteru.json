@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_seisei_suru_hodo_aishiteru",
+  "title": "Seisei suru hodo, Aishiteru",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140439435",
+    "imdb": "tt5757332",
+    "tmdb": 67432
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

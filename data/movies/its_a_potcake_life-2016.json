@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_a_potcake_life_2016",
+  "title": "It's a Potcake Life",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24707928",
+    "imdb": "tt5671404",
+    "tmdb": 1135756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

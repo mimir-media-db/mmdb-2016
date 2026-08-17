@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_itineraire_dun_candide_chapitre_1_2016",
+  "title": "Itinéraire d'un candide Chapitre 1",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24730930",
+    "imdb": "tt5774000"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 54
+}

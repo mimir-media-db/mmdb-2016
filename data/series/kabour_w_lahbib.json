@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kabour_w_lahbib",
+  "title": "Kabour W Lahbib",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25454449",
+    "imdb": "tt15216042",
+    "tmdb": 135226
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 60
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_art_for_the_endangered_landscape_2016",
+  "title": "Art for the Endangered Landscape",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27045035",
+    "imdb": "tt5973480"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 4
+}

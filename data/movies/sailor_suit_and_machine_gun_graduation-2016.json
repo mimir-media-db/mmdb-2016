@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sailor_suit_and_machine_gun_graduation_2016",
+  "title": "Sailor Suit and Machine Gun: Graduation",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095447",
+    "imdb": "tt4807908",
+    "tmdb": 378491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 112
+}

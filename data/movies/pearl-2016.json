@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pearl_2016",
+  "title": "The Pearl",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705559",
+    "imdb": "tt5761268",
+    "tmdb": 386699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 97
+}

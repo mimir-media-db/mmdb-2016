@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_refrigerantes_e_cancoes_de_amor_2016",
+  "title": "Refrigerantes e Canções de Amor",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999997",
+    "imdb": "tt4747848",
+    "tmdb": 373397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

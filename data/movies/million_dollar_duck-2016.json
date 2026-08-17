@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_million_dollar_duck_2016",
+  "title": "The Million Dollar Duck",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705117",
+    "imdb": "tt5372452",
+    "tmdb": 386028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 71
+}

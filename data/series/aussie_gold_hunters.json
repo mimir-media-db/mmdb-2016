@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_aussie_gold_hunters",
+  "title": "Aussie Gold Hunters",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55394275",
+    "imdb": "tt6186672",
+    "tmdb": 71322
+  },
+  "last_updated": "2026-08-17"
+}

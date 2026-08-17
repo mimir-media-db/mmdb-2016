@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_todliche_geheimnisse",
+  "title": "Tödliche Geheimnisse",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q86122084",
+    "imdb": "tt5680454"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

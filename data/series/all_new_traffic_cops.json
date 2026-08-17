@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_new_traffic_cops",
+  "title": "All New Traffic Cops",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137732048",
+    "imdb": "tt6293468",
+    "tmdb": 81440
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 179
+}

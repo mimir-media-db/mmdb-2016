@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harry_styles_my_world_2016",
+  "title": "Harry Styles: My World",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26898701",
+    "imdb": "tt5992160",
+    "tmdb": 589186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_who_is_dervla_murphy_special_edition_2016",
+  "title": "Who Is Dervla Murphy? Special Edition",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24762363",
+    "imdb": "tt5562660"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 73
+}

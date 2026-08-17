@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_us_play_2016",
+  "title": "Let Us Play",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24731279",
+    "imdb": "tt5503366"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 45
+}

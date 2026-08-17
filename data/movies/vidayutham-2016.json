@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vidayutham_2016",
+  "title": "Vidayutham",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16736394",
+    "imdb": "tt5572872",
+    "tmdb": 370067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

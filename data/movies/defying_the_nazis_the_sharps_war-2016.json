@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_defying_the_nazis_the_sharps_war_2016",
+  "title": "Defying the Nazis: The Sharps' War",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24635346",
+    "imdb": "tt1339660",
+    "tmdb": 252451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pied_piper",
+  "title": "Pied Piper",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22099851",
+    "imdb": "tt5524626",
+    "tmdb": 65741
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

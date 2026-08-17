@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_switch",
+  "title": "The Switch",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20204871",
+    "imdb": "tt3096062",
+    "tmdb": 85685
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

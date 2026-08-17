@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_door_gods_2016",
+  "title": "Little Door Gods",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095442",
+    "imdb": "tt4788934",
+    "tmdb": 366644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 103
+}

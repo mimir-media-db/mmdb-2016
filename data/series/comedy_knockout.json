@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_knockout",
+  "title": "Comedy Knockout",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48813617",
+    "imdb": "tt5657014",
+    "tmdb": 228159
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 58
+}

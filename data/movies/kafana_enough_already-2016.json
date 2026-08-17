@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kafana_enough_already_2016",
+  "title": "Kafana (Enough, Already!)",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27045007",
+    "imdb": "tt5788200",
+    "tmdb": 604054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 55
+}

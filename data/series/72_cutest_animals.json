@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_72_cutest_animals",
+  "title": "72 Cutest Animals",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30898095",
+    "imdb": "tt5815824",
+    "tmdb": 73229
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

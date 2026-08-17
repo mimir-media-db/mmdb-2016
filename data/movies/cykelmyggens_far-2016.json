@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cykelmyggens_far_2016",
+  "title": "Cykelmyggens Far",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705887",
+    "imdb": "tt5646174",
+    "tmdb": 936580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 57
+}

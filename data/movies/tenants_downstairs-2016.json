@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tenants_downstairs_2016",
+  "title": "The Tenants Downstairs",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22100334",
+    "imdb": "tt5735582",
+    "tmdb": 403032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 110
+}

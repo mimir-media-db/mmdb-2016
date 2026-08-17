@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_person_who_gives_happiness",
+  "title": "Person Who Gives Happiness",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q27067800",
+    "imdb": "tt6444994",
+    "tmdb": 83191
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 118
+}

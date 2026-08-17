@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cancao_de_lisboa_2016",
+  "title": "A Canção de Lisboa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25445020",
+    "imdb": "tt4125568",
+    "tmdb": 373399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 111
+}

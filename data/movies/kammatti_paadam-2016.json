@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kammatti_paadam_2016",
+  "title": "Kammatti Paadam",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23762919",
+    "imdb": "tt5458088",
+    "tmdb": 398786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 177
+}

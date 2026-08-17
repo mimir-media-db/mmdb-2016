@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_talent_has_hunger_2016",
+  "title": "Talent Has Hunger",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706205",
+    "imdb": "tt5176762",
+    "tmdb": 553838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_norman_lear_just_another_version_of_you_2016",
+  "title": "Norman Lear: Just Another Version of You",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24601819",
+    "imdb": "tt5275866",
+    "tmdb": 373339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 91
+}

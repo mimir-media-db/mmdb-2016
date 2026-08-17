@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_letdown",
+  "title": "The Letdown",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30645599",
+    "imdb": "tt7320300",
+    "tmdb": 75297
+  },
+  "last_updated": "2026-08-17"
+}

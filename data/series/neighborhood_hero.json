@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_neighborhood_hero",
+  "title": "Neighborhood Hero",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21799456",
+    "imdb": "tt5243942",
+    "tmdb": 64801
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

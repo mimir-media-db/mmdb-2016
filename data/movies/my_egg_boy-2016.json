@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_egg_boy_2016",
+  "title": "My Egg Boy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24834900",
+    "imdb": "tt6072662",
+    "tmdb": 418167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

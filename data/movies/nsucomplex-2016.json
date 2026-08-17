@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nsucomplex_2016",
+  "title": "The NSU-Complex",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705668",
+    "imdb": "tt5636536",
+    "tmdb": 392834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 54
+}

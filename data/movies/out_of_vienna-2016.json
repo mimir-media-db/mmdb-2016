@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_vienna_2016",
+  "title": "Out of Vienna",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27056433",
+    "imdb": "tt5680276"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 28
+}

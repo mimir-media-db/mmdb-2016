@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angelita_la_doctora_2016",
+  "title": "Angelita, la doctora",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23999782",
+    "imdb": "tt4018040",
+    "tmdb": 394934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 77
+}

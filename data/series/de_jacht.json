@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_de_jacht",
+  "title": "De Jacht",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24005107",
+    "imdb": "tt5622836",
+    "tmdb": 68416
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

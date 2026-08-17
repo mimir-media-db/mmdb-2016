@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zumbos_just_desserts",
+  "title": "Zumbo's Just Desserts",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25351138",
+    "imdb": "tt7239256",
+    "tmdb": 67855
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

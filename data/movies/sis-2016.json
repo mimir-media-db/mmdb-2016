@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sis_2016",
+  "title": "Sis",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21600140",
+    "imdb": "tt6210082",
+    "tmdb": 575327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

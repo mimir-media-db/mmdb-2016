@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_stark_diary_of_yuriko_busujima",
+  "title": "The Stark Diary of Yuriko Busujima",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23774774",
+    "imdb": "tt5517548",
+    "tmdb": 83955
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jharia_une_vie_en_enfer_2016",
+  "title": "Jharia, une vie en enfer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24708004",
+    "imdb": "tt5471210",
+    "tmdb": 394975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

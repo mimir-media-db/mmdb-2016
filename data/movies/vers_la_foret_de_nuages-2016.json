@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vers_la_foret_de_nuages_2016",
+  "title": "Vers la forêt de nuages",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899225",
+    "imdb": "tt5586680",
+    "tmdb": 594592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

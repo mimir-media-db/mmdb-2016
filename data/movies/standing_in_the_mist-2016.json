@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_standing_in_the_mist_2016",
+  "title": "Standing in the mist",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22348198",
+    "imdb": "tt5463172",
+    "tmdb": 406598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

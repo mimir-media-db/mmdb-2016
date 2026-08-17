@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leonardo_da_vinci_il_genio_a_milano_2016",
+  "title": "Leonardo da Vinci - Il genio a Milano",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24684811",
+    "imdb": "tt5749396",
+    "tmdb": 393663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

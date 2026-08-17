@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_story_of_us",
+  "title": "The Story of Us",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21780599",
+    "imdb": "tt5569644",
+    "tmdb": 220848
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 47
+}

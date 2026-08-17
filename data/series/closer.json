@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_closer",
+  "title": "The Closer",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56273335",
+    "imdb": "tt10580146",
+    "tmdb": 82248
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 144
+}

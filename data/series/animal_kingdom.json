@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_kingdom",
+  "title": "Animal Kingdom",
+  "start_year": 2016,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q22266766",
+    "imdb": "tt5574490",
+    "tmdb": 66025
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hillsong_let_hope_rise_2016",
+  "title": "Hillsong: Let Hope Rise",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720464",
+    "imdb": "tt3850544",
+    "tmdb": 318226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 103
+}

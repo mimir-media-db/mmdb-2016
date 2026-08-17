@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brash_young_turks_2016",
+  "title": "Brash Young Turks",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23707689",
+    "imdb": "tt1996200",
+    "tmdb": 420344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_talents_for_sale",
+  "title": "Talents for Sale",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q24068635",
+    "tmdb": 234111
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 19
+}

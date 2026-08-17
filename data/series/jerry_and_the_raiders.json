@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jerry_and_the_raiders",
+  "title": "Jerry and the Raiders",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28723003",
+    "imdb": "tt6024038"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

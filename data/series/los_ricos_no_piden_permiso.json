@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_los_ricos_no_piden_permiso",
+  "title": "Los ricos no piden permiso",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21751043",
+    "imdb": "tt5303010",
+    "tmdb": 65264
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 225
+}

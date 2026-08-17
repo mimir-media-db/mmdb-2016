@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tickling_giants_2016",
+  "title": "Tickling Giants",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24659787",
+    "imdb": "tt5494396",
+    "tmdb": 390319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 111
+}

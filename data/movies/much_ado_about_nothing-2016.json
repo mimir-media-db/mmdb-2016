@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_much_ado_about_nothing_2016",
+  "title": "Much Ado About Nothing",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22252002",
+    "imdb": "tt4650738",
+    "tmdb": 371465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 94
+}

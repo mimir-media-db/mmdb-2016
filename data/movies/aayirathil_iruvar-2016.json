@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aayirathil_iruvar_2016",
+  "title": "Aayirathil Iruvar",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254039",
+    "imdb": "tt4312690",
+    "tmdb": 280173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

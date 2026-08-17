@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tzomet_miller",
+  "title": "Tzomet Miller",
+  "start_year": 2016,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q25433890",
+    "imdb": "tt5803586",
+    "tmdb": 75690
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 48
+}

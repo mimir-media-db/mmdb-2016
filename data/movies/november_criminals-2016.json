@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_november_criminals_2016",
+  "title": "November Criminals",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19865703",
+    "imdb": "tt3266284",
+    "tmdb": 317091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

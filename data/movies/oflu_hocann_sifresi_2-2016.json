@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oflu_hocann_sifresi_2_2016",
+  "title": "Oflu Hoca’nın Şifresi 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25477268",
+    "imdb": "tt5671310",
+    "tmdb": 394612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

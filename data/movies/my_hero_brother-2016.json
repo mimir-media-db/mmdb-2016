@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_hero_brother_2016",
+  "title": "My Hero Brother",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25489297",
+    "imdb": "tt5924932",
+    "tmdb": 1207466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 78
+}

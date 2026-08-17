@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_whats_in_the_fridge",
+  "title": "What's In The Fridge?",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25350186"
+  },
+  "last_updated": "2026-08-17"
+}

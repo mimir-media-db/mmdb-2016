@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_se_mi_lasci_non_vale_2016",
+  "title": "Se mi lasci non vale",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22752315",
+    "imdb": "tt5458458",
+    "tmdb": 378569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}

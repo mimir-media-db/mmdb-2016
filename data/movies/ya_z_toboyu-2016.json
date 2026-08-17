@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ya_z_toboyu_2016",
+  "title": "Ya z toboyu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25437537",
+    "imdb": "tt6096490",
+    "tmdb": 394655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

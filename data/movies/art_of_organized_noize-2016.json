@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_art_of_organized_noize_2016",
+  "title": "The Art of Organized Noize",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24606764",
+    "imdb": "tt5105736",
+    "tmdb": 381080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

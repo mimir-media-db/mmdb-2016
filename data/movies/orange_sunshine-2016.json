@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_orange_sunshine_2016",
+  "title": "Orange Sunshine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24615980",
+    "imdb": "tt5119260",
+    "tmdb": 381024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

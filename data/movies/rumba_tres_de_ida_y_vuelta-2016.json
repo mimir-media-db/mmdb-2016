@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rumba_tres_de_ida_y_vuelta_2016",
+  "title": "Rumba Tres, de ida y vuelta",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24708113",
+    "imdb": "tt4248044",
+    "tmdb": 393915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

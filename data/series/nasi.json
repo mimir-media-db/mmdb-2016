@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nasi",
+  "title": "Naši",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22035615",
+    "imdb": "tt5823498",
+    "tmdb": 89546
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

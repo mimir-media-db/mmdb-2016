@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_replacements",
+  "title": "Replacements",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18679720",
+    "imdb": "tt4153774",
+    "tmdb": 219301
+  },
+  "last_updated": "2026-08-17"
+}

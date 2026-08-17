@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ride_the_tiger_a_guide_through_the_bipolar_brain_2016",
+  "title": "Ride the Tiger: A Guide Through the Bipolar Brain",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705540",
+    "imdb": "tt5634998",
+    "tmdb": 581848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 57
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wingman",
+  "title": "Wingman",
+  "start_year": 2016,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q28721283",
+    "imdb": "tt6248306",
+    "tmdb": 68773
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

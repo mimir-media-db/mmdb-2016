@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_americano_the_movie_2016",
+  "title": "El Americano: The Movie",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16241878",
+    "imdb": "tt3181400",
+    "tmdb": 265312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

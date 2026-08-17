@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_library_suicides_2016",
+  "title": "The Library Suicides",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25559025",
+    "imdb": "tt5171500",
+    "tmdb": 402771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 87
+}

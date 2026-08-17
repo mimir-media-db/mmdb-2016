@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_on_everyone_2016",
+  "title": "War on Everyone",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19881707",
+    "imdb": "tt3708886",
+    "tmdb": 333663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

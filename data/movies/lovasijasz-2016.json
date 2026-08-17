@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lovasijasz_2016",
+  "title": "A lovasíjász",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24676025",
+    "imdb": "tt5502346",
+    "tmdb": 407965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 115
+}

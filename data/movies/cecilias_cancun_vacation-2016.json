@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cecilias_cancun_vacation_2016",
+  "title": "Cecilia's Cancun Vacation",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24708129",
+    "imdb": "tt5778068"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

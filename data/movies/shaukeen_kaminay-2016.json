@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shaukeen_kaminay_2016",
+  "title": "Shaukeen Kaminay",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806966",
+    "imdb": "tt5478254",
+    "tmdb": 500063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_people_magazine_investigates",
+  "title": "People Magazine Investigates",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q86672455",
+    "imdb": "tt5594440",
+    "tmdb": 76458
+  },
+  "last_updated": "2026-08-17"
+}

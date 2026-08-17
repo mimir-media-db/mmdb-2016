@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_president_obamas_2016_state_of_the_union_address_2016",
+  "title": "President Obama's 2016 State of the Union Address",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24707879",
+    "imdb": "tt5338868"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 61
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thinning_2016",
+  "title": "The Thinning",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905811",
+    "imdb": "tt5254868",
+    "tmdb": 419639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 83
+}

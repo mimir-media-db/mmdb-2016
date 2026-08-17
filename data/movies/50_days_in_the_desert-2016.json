@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_50_days_in_the_desert_2016",
+  "title": "50 Days in the Desert",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706370",
+    "imdb": "tt4379260",
+    "tmdb": 1225285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

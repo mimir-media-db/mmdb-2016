@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chacun_sa_route",
+  "title": "Chacun sa route",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135669527",
+    "imdb": "tt6111062",
+    "tmdb": 89676
+  },
+  "last_updated": "2026-08-17"
+}

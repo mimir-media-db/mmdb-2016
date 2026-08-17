@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_educating_nina",
+  "title": "Educating Nina",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22969998",
+    "imdb": "tt5615072",
+    "tmdb": 68875
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 134
+}

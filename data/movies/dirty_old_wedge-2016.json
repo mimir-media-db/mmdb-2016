@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_old_wedge_2016",
+  "title": "Dirty Old Wedge",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705931",
+    "imdb": "tt5540898",
+    "tmdb": 423588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 62
+}

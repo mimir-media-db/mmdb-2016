@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_de_ferias_com_o_ex",
+  "title": "De Férias com o Ex",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28677598",
+    "imdb": "tt8470764",
+    "tmdb": 68603
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

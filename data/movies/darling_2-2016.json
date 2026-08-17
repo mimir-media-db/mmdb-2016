@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_darling_2_2016",
+  "title": "Darling 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427310",
+    "imdb": "tt5151594",
+    "tmdb": 369936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

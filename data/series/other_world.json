@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_other_world",
+  "title": "The Other World",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q27530984",
+    "imdb": "tt5732464",
+    "tmdb": 69302
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}

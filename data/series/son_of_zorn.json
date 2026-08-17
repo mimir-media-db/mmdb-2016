@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_son_of_zorn",
+  "title": "Son of Zorn",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q24497649",
+    "imdb": "tt4798814",
+    "tmdb": 66844
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_barracuda",
+  "title": "Barracuda",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21561030",
+    "imdb": "tt5482406",
+    "tmdb": 66809
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

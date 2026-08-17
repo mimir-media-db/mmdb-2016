@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vinyl_generation_2016",
+  "title": "Vinyl Generation",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24718572",
+    "imdb": "tt5012094",
+    "tmdb": 1070139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 73
+}

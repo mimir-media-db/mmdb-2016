@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rabenmutter",
+  "title": "Rabenmütter",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q27219222",
+    "imdb": "tt6123508",
+    "tmdb": 96085
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

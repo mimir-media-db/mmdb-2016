@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_onyx_2016",
+  "title": "Onyx",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24000114",
+    "imdb": "tt5136090",
+    "tmdb": 529295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 77
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_actors_of_sound_2016",
+  "title": "Actors of Sound",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24662695",
+    "imdb": "tt5675516",
+    "tmdb": 397885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

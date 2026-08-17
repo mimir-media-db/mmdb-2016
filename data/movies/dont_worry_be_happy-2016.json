@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_worry_be_happy_2016",
+  "title": "Don't Worry Be Happy",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25206881"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

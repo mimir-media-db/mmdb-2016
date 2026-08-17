@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forbidden_shore_2016",
+  "title": "The Forbidden Shore",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24704704",
+    "imdb": "tt5524638"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 96
+}

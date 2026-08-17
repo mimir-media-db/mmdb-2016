@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_gueule_du_loup_2016",
+  "title": "La gueule du loup",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044540",
+    "imdb": "tt5471566",
+    "tmdb": 594644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 80
+}

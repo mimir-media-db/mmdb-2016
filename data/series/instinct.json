@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_instinct",
+  "title": "Instinct",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q22248628",
+    "imdb": "tt5254260",
+    "tmdb": 65138
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

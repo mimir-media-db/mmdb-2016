@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kyiv_day_and_night",
+  "title": "Kyiv Day and Night",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56358129",
+    "imdb": "tt16731880"
+  },
+  "last_updated": "2026-08-17"
+}

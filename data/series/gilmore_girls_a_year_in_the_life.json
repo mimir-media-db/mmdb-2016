@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gilmore_girls_a_year_in_the_life",
+  "title": "Gilmore Girls: A Year in the Life",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q27890248",
+    "imdb": "tt5435008",
+    "tmdb": 68799
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

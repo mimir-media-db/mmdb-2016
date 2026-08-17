@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rock_story",
+  "title": "Rock Story",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q27572844",
+    "imdb": "tt6231970",
+    "tmdb": 104396
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 179
+}

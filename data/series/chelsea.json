@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chelsea",
+  "title": "Chelsea",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q23647040",
+    "imdb": "tt5672036",
+    "tmdb": 66488
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 120
+}

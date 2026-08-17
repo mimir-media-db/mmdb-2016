@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_there_will_be_water_2016",
+  "title": "There Will Be Water",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044393",
+    "imdb": "tt5951522",
+    "tmdb": 814673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 58
+}

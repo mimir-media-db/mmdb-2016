@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_winter_sun",
+  "title": "Winter Sun",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q24001247",
+    "imdb": "tt7180934",
+    "tmdb": 67643
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

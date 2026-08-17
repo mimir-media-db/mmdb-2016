@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vet_life",
+  "title": "The Vet Life",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97657646",
+    "imdb": "tt5864498",
+    "tmdb": 66669
+  },
+  "last_updated": "2026-08-17"
+}

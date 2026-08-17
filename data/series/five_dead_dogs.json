@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_five_dead_dogs",
+  "title": "Five Dead Dogs",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23893694",
+    "imdb": "tt5584648",
+    "tmdb": 76543
+  },
+  "last_updated": "2026-08-17"
+}

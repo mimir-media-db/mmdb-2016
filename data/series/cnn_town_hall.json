@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_cnn_town_hall",
+  "title": "CNN Town Hall",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118295000"
+  },
+  "last_updated": "2026-08-17"
+}

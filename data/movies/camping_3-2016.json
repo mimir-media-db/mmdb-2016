@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camping_3_2016",
+  "title": "Camping 3",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21008082",
+    "imdb": "tt4979860",
+    "tmdb": 375804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

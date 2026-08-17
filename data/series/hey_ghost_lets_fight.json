@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hey_ghost_lets_fight",
+  "title": "Hey Ghost, Let's Fight",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q12604983",
+    "imdb": "tt5768840",
+    "tmdb": 66393
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}
