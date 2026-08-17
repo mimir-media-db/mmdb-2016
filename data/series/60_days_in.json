@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_60_days_in",
+  "title": "60 Days In",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24703701",
+    "imdb": "tt5564124",
+    "tmdb": 65854
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}
