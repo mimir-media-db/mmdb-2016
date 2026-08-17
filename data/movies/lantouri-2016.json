@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lantouri_2016",
+  "title": "Lantouri",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22712627",
+    "imdb": "tt5463510",
+    "tmdb": 382754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-14",
+  "runtime_minutes": 111
+}

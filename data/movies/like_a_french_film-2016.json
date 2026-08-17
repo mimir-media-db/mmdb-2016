@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_like_a_french_film_2016",
+  "title": "Like a French Film",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21825338",
+    "imdb": "tt6867660",
+    "tmdb": 369095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-14"
+}

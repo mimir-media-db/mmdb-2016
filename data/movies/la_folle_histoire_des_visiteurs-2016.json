@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_folle_histoire_des_visiteurs_2016",
+  "title": "La folle histoire des Visiteurs",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051950",
+    "imdb": "tt5860526",
+    "tmdb": 670358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

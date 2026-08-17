@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_piece_2016",
+  "title": "La pièce",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28495133",
+    "imdb": "tt4877258",
+    "tmdb": 413652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

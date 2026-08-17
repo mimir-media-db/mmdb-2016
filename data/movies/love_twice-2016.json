@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_twice_2016",
+  "title": "Love Twice",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26902705",
+    "imdb": "tt4248052",
+    "tmdb": 420015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-06",
+  "runtime_minutes": 115
+}

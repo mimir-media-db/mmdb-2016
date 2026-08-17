@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_the_free_2016",
+  "title": "Land of The free",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33546755",
+    "imdb": "tt6947236",
+    "tmdb": 474400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 91
+}

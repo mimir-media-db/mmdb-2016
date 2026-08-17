@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lou_andreassalome_2016",
+  "title": "Lou Andreas-Salomé",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23818283",
+    "imdb": "tt4976588",
+    "tmdb": 379691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-30",
+  "runtime_minutes": 110
+}

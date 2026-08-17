@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lee_scratch_perrys_vision_of_paradise_2016",
+  "title": "Lee Scratch Perry's Vision of Paradise",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23016189",
+    "imdb": "tt3100904",
+    "tmdb": 337623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-05",
+  "runtime_minutes": 100
+}

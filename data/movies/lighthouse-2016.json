@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lighthouse_2016",
+  "title": "The Lighthouse",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73792207",
+    "imdb": "tt3520714",
+    "tmdb": 426487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

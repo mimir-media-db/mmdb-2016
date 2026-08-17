@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_notte_non_fa_piu_paura_2016",
+  "title": "La notte non fa più paura",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303251",
+    "imdb": "tt6575422",
+    "tmdb": 416371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 65
+}

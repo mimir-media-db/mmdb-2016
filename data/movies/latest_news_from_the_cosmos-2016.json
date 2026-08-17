@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_latest_news_from_the_cosmos_2016",
+  "title": "Latest News from the Cosmos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26834111",
+    "imdb": "tt5786040",
+    "tmdb": 425720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 89
+}

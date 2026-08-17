@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_man_club_2016",
+  "title": "Last Man Club",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39071280",
+    "imdb": "tt4648732",
+    "tmdb": 397512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-27",
+  "runtime_minutes": 95
+}

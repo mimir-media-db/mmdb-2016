@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lathe_joshi_2016",
+  "title": "Lathe Joshi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55616604",
+    "imdb": "tt5599536",
+    "tmdb": 422254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

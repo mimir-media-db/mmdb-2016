@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lumayo_ka_nga_sa_akin_2016",
+  "title": "Lumayo Ka Nga Sa Akin",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21203120",
+    "imdb": "tt5317954",
+    "tmdb": 377332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-13"
+}

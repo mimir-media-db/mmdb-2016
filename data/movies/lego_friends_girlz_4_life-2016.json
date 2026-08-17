@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lego_friends_girlz_4_life_2016",
+  "title": "LEGO Friends: Girlz 4 Life",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64786710",
+    "imdb": "tt5424368",
+    "tmdb": 378858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-03",
+  "runtime_minutes": 79
+}

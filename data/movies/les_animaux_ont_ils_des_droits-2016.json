@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_animaux_ont_ils_des_droits_2016",
+  "title": "Les animaux ont ils des droits?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050400",
+    "imdb": "tt6071688",
+    "tmdb": 441518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lamp_a_ghost_story_2016",
+  "title": "Lamp: A Ghost Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043738",
+    "imdb": "tt5090692",
+    "tmdb": 446317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 17
+}

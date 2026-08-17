@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_rugiada_di_san_giovanni_2016",
+  "title": "La rugiada di San Giovanni",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28668704",
+    "imdb": "tt7165934"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

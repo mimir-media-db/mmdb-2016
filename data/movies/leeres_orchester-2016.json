@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_leeres_orchester_2016",
+  "title": "Leeres Orchester",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057439",
+    "imdb": "tt5643298"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

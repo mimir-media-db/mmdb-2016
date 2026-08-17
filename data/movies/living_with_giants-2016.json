@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_living_with_giants_2016",
+  "title": "Living With Giants",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48760799",
+    "imdb": "tt7592540",
+    "tmdb": 511286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_nights_short_mornings_2016",
+  "title": "Long Nights Short Mornings",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47063596",
+    "imdb": "tt2186712",
+    "tmdb": 381038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-12",
+  "runtime_minutes": 100
+}

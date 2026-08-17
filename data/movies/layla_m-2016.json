@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_layla_m_2016",
+  "title": "Layla M.",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38496522",
+    "imdb": "tt5712152",
+    "tmdb": 411038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-10",
+  "runtime_minutes": 103
+}

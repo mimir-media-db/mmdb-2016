@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_las_tesoros_de_san_antonio_a_westside_story_2016",
+  "title": "Las Tesoros de San Antonio: A Westside Story",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051783",
+    "imdb": "tt5452124",
+    "tmdb": 495039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lucha_playing_the_impossible_2016",
+  "title": "Lucha: Playing the Impossible",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26204112",
+    "imdb": "tt5639784",
+    "tmdb": 461735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 93
+}

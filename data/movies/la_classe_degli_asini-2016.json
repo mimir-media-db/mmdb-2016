@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_classe_degli_asini_2016",
+  "title": "La classe degli asini",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27997228",
+    "imdb": "tt6246432",
+    "tmdb": 425710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

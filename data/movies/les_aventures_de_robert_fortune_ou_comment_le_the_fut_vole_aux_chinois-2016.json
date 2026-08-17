@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_aventures_de_robert_fortune_ou_comment_le_the_fut_vole_aux_chinois_2016",
+  "title": "Les aventures de Robert Fortune: ou comment le thé fut volé aux Chinois",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27057576",
+    "imdb": "tt5320162",
+    "tmdb": 482047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

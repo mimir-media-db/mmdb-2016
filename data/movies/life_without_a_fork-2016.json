@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_life_without_a_fork_2016",
+  "title": "Life Without a Fork",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26830144",
+    "imdb": "tt5848042"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

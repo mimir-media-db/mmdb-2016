@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_last_man_in_vegas_2016",
+  "title": "The Last Man In Vegas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600288",
+    "imdb": "tt4415186"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

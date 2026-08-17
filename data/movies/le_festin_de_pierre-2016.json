@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_festin_de_pierre_2016",
+  "title": "Le festin de Pierre",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27052024",
+    "imdb": "tt5606602",
+    "tmdb": 594584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 84
+}

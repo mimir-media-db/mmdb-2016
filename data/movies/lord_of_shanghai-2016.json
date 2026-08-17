@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lord_of_shanghai_2016",
+  "title": "Lord of Shanghai",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28868420",
+    "imdb": "tt5482570",
+    "tmdb": 447535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_seigneurs_doutre_monde_2016",
+  "title": "Les Seigneurs d'Outre Monde",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55597878",
+    "imdb": "tt5647252",
+    "tmdb": 396002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-22"
+}

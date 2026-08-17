@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_tayos_2016",
+  "title": "The Legend of Tayos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042043",
+    "imdb": "tt3282894",
+    "tmdb": 850042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 86
+}

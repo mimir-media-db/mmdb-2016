@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_louder_than_bombs_2016",
+  "title": "Louder Than Bombs",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18151930",
+    "imdb": "tt2217859",
+    "tmdb": 157827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-07",
+  "runtime_minutes": 105
+}

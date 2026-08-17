@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_isla_2016",
+  "title": "La Isla",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129715435",
+    "imdb": "tt3422490",
+    "tmdb": 450007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

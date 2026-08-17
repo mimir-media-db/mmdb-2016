@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_limit_is_the_sky_2016",
+  "title": "Limit Is the Sky",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120733677",
+    "imdb": "tt7058634",
+    "tmdb": 455178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-26",
+  "runtime_minutes": 100
+}

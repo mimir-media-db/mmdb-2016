@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_senal_2016",
+  "title": "La señal",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123483055",
+    "tmdb": 697647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

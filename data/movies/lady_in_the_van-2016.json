@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_in_the_van_2016",
+  "title": "The Lady in the Van",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18758160",
+    "imdb": "tt3722070",
+    "tmdb": 328589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-14",
+  "runtime_minutes": 104
+}

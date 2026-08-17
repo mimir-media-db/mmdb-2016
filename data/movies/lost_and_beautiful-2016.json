@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_and_beautiful_2016",
+  "title": "Lost and Beautiful",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21733378",
+    "imdb": "tt2188860",
+    "tmdb": 350904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-14",
+  "runtime_minutes": 87
+}

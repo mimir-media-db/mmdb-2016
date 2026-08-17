@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lars_the_life_times_of_a_hollywood_supermodel_2016",
+  "title": "LARS: The Life & Times of a Hollywood Supermodel",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26830866",
+    "imdb": "tt5590946"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 46
+}

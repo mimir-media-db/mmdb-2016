@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_showing_2016",
+  "title": "The Last Showing",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18161368",
+    "imdb": "tt2179239",
+    "tmdb": 222887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-12",
+  "runtime_minutes": 89
+}

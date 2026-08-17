@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_dead_rotting_hood_2016",
+  "title": "Little Dead Rotting Hood",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64584876",
+    "imdb": "tt5113086",
+    "tmdb": 376311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-05",
+  "runtime_minutes": 88
+}

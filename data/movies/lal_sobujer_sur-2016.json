@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lal_sobujer_sur_2016",
+  "title": "Lal Sobujer Sur",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94583201",
+    "imdb": "tt6721410",
+    "tmdb": 537291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

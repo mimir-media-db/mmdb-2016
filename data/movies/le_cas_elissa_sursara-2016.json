@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_cas_elissa_sursara_2016",
+  "title": "Le cas Elissa Sursara",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27050773",
+    "imdb": "tt5951090"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 59
+}

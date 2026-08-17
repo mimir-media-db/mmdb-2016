@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_and_other_catastrophes_2016",
+  "title": "Love and Other Catastrophes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28759114",
+    "imdb": "tt5822766",
+    "tmdb": 416370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-01",
+  "runtime_minutes": 100
+}

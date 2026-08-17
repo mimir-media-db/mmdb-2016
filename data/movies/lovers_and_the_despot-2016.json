@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lovers_and_the_despot_2016",
+  "title": "The Lovers and The Despot",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30941538",
+    "imdb": "tt5278868",
+    "tmdb": 373355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 94
+}

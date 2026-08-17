@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_chupacabras_2016",
+  "title": "The Legend of Chupacabras",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963251",
+    "imdb": "tt5591458",
+    "tmdb": 388045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-14",
+  "runtime_minutes": 82
+}

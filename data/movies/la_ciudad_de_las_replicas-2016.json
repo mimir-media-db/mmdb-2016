@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_ciudad_de_las_replicas_2016",
+  "title": "La ciudad de las réplicas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27052218",
+    "imdb": "tt5661054",
+    "tmdb": 622776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 67
+}

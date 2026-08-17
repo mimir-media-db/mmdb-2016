@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loktak_lairembee_2016",
+  "title": "Loktak Lairembee",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77893991",
+    "imdb": "tt6481402",
+    "tmdb": 423594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luniversale_2016",
+  "title": "L'Universale",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96476077",
+    "imdb": "tt4109382",
+    "tmdb": 392770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-14",
+  "runtime_minutes": 88
+}

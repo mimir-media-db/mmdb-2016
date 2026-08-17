@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_francais_cest_les_autres_2016",
+  "title": "Les français c'est les autres",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26915941",
+    "imdb": "tt5442230"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

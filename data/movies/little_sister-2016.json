@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_sister_2016",
+  "title": "Little Sister",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23647111",
+    "imdb": "tt5434870",
+    "tmdb": 381069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-12",
+  "runtime_minutes": 91
+}
