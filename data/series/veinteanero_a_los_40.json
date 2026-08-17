@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_veinteanero_a_los_40",
+  "title": "Veinteañero a los 40",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21879455",
+    "imdb": "tt5073524",
+    "tmdb": 99226
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 93
+}

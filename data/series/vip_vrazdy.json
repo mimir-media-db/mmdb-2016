@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vip_vrazdy",
+  "title": "V.I.P. vrazdy",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22346024",
+    "imdb": "tt4764478",
+    "tmdb": 129068
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}
