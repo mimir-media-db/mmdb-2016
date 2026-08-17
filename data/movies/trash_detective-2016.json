@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trash_detective_2016",
+  "title": "Trash Detective",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22686357",
+    "imdb": "tt2624790",
+    "tmdb": 365673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-18",
+  "runtime_minutes": 106
+}

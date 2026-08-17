@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_too_young_to_die_wakakushite_shinu_2016",
+  "title": "Too Young To Die! Wakakushite Shinu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24792594",
+    "imdb": "tt4717204",
+    "tmdb": 354380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-25",
+  "runtime_minutes": 125
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terry_kath_experience_2016",
+  "title": "The Terry Kath Experience",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038064",
+    "imdb": "tt5037288",
+    "tmdb": 413836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 89
+}

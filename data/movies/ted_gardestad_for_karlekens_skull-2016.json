@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ted_gardestad_for_karlekens_skull_2016",
+  "title": "Ted Gärdestad – För kärlekens skull",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043815",
+    "imdb": "tt5716338",
+    "tmdb": 524453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 44
+}

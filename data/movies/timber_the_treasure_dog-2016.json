@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_timber_the_treasure_dog_2016",
+  "title": "Timber the Treasure Dog",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96409886",
+    "imdb": "tt4030354",
+    "tmdb": 385760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-17",
+  "runtime_minutes": 89
+}

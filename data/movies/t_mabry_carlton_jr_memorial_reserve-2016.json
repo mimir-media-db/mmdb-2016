@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_t_mabry_carlton_jr_memorial_reserve_2016",
+  "title": "T. Mabry Carlton Jr. Memorial Reserve",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051821",
+    "imdb": "tt5244656"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 43
+}

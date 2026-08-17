@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tagores_natir_puja_the_court_dancer_2016",
+  "title": "Tagore's Natir Puja: The Court Dancer",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042824",
+    "imdb": "tt3526190"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

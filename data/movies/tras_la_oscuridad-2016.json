@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tras_la_oscuridad_2016",
+  "title": "Tras la oscuridad",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123483046",
+    "imdb": "tt6263870",
+    "tmdb": 622435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trip_to_jamaica_2016",
+  "title": "A Trip to Jamaica",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28859268",
+    "imdb": "tt6334740",
+    "tmdb": 487852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-25",
+  "runtime_minutes": 100
+}

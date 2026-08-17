@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taboo_new_sister_2016",
+  "title": "Taboo - New Sister",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25842458",
+    "imdb": "tt18286558",
+    "tmdb": 409282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-16"
+}

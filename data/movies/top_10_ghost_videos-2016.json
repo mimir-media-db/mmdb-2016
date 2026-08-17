@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_top_10_ghost_videos_2016",
+  "title": "Top 10 Ghost Videos",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042955",
+    "imdb": "tt5964568"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 55
+}

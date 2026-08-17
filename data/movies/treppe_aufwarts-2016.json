@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_treppe_aufwarts_2016",
+  "title": "Treppe Aufwärts",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23043609",
+    "imdb": "tt4105260",
+    "tmdb": 347386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-23",
+  "runtime_minutes": 92
+}

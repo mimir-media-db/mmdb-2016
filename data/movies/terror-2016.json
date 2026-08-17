@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_terror_2016",
+  "title": "Terror",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23013830",
+    "imdb": "tt5175168",
+    "tmdb": 407424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-26"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_take_heart_2016",
+  "title": "Take Heart",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043625",
+    "imdb": "tt4976532"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 52
+}

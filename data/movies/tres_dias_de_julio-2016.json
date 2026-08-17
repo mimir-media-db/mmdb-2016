@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tres_dias_de_julio_2016",
+  "title": "Tres días de julio",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52312714"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 54
+}

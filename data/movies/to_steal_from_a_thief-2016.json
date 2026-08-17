@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_steal_from_a_thief_2016",
+  "title": "To Steal from a Thief",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21694499",
+    "imdb": "tt3655414",
+    "tmdb": 351809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-04",
+  "runtime_minutes": 89
+}

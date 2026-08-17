@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_dream_2016",
+  "title": "To Dream",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122674923",
+    "imdb": "tt4377980",
+    "tmdb": 463626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-14",
+  "runtime_minutes": 67
+}

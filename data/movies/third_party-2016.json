@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_third_party_2016",
+  "title": "The Third Party",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959558",
+    "imdb": "tt6088634",
+    "tmdb": 421060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-12"
+}

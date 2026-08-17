@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tom_segura_mostly_stories_2016",
+  "title": "Tom Segura: Mostly Stories",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100463",
+    "imdb": "tt4970632",
+    "tmdb": 376482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-08"
+}

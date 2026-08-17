@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tik_tok_2016",
+  "title": "Tik Tok",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28700669",
+    "imdb": "tt6033150",
+    "tmdb": 388757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-15"
+}

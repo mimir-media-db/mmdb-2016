@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_transfiguration_2016",
+  "title": "The Transfiguration",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136602",
+    "imdb": "tt5039088",
+    "tmdb": 392818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-14",
+  "runtime_minutes": 97
+}

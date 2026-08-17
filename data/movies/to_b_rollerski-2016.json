@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_b_rollerski_2016",
+  "title": "A to B Rollerski",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043466",
+    "imdb": "tt5542888",
+    "tmdb": 518447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

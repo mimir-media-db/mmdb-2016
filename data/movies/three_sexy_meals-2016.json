@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_three_sexy_meals_2016",
+  "title": "Three Sexy Meals",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139838798",
+    "tmdb": 425652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-09"
+}

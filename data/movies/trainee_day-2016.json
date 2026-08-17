@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trainee_day_2016",
+  "title": "Trainee Day",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27679727",
+    "imdb": "tt5141494",
+    "tmdb": 424505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-24",
+  "runtime_minutes": 110
+}

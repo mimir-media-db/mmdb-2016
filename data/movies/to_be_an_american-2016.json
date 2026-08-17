@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_to_be_an_american_2016",
+  "title": "To Be an American",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042583",
+    "imdb": "tt5053240"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 73
+}

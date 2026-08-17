@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tharai_thappattai_2016",
+  "title": "Tharai Thappattai",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254753",
+    "imdb": "tt5340516",
+    "tmdb": 280163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-14"
+}

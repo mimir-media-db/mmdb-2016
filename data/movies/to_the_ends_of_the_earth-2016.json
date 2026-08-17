@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_to_the_ends_of_the_earth_2016",
+  "title": "To the Ends of the Earth",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26832832",
+    "imdb": "tt5951550",
+    "tmdb": 429528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

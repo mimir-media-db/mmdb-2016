@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tout_tout_de_suite_2016",
+  "title": "Tout, tout de suite",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20004245",
+    "imdb": "tt4271910",
+    "tmdb": 418670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-11",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teenage_kicks_2016",
+  "title": "Teenage Kicks",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50280735",
+    "imdb": "tt2375589",
+    "tmdb": 398541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

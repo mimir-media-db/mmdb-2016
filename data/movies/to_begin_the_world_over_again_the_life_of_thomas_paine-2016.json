@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_begin_the_world_over_again_the_life_of_thomas_paine_2016",
+  "title": "To Begin the World Over Again: The Life of Thomas Paine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26830967",
+    "imdb": "tt3826458",
+    "tmdb": 734261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

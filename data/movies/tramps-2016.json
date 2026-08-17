@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tramps_2016",
+  "title": "Tramps",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959211",
+    "imdb": "tt4991512",
+    "tmdb": 412209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-10",
+  "runtime_minutes": 83
+}

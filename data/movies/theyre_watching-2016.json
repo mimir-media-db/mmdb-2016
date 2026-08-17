@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_theyre_watching_2016",
+  "title": "They're Watching",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23013844",
+    "imdb": "tt3096858",
+    "tmdb": 383535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-03-25"
+}

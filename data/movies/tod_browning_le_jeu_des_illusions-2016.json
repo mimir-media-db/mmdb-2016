@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tod_browning_le_jeu_des_illusions_2016",
+  "title": "Tod Browning, le jeu des illusions",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60848040",
+    "imdb": "tt26763135",
+    "tmdb": 576241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

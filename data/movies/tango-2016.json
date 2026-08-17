@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tango_2016",
+  "title": "Tango",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50070964",
+    "imdb": "tt5663254",
+    "tmdb": 543285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

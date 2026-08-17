@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_raid_2016",
+  "title": "Tiger Raid",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28070775",
+    "imdb": "tt4447518",
+    "tmdb": 390587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

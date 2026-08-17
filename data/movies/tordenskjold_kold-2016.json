@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tordenskjold_kold_2016",
+  "title": "Tordenskjold & Kold",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18449411",
+    "imdb": "tt3702758",
+    "tmdb": 329714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28",
+  "runtime_minutes": 93
+}
