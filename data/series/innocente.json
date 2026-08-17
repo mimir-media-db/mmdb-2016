@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_innocente",
+  "title": "Innocente",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q39074297",
+    "imdb": "tt6137888",
+    "tmdb": 68036
+  },
+  "last_updated": "2026-08-17"
+}
