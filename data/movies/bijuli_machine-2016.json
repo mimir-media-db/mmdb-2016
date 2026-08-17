@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bijuli_machine_2016",
+  "title": "Bijuli Machine",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959626",
+    "imdb": "tt6577538",
+    "tmdb": 494723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-02"
+}

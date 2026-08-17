@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_santa_2_2016",
+  "title": "Bad Santa 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22074949",
+    "imdb": "tt1798603",
+    "tmdb": 338964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-15",
+  "runtime_minutes": 92
+}

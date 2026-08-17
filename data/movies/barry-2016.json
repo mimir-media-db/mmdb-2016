@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barry_2016",
+  "title": "Barry",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27907394",
+    "imdb": "tt5477566",
+    "tmdb": 397717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-16",
+  "runtime_minutes": 104
+}

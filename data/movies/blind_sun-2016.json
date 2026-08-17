@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_sun_2016",
+  "title": "Blind Sun",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29025002",
+    "imdb": "tt4568370",
+    "tmdb": 336226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-24",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bogan_2016",
+  "title": "Bogan",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925027",
+    "imdb": "tt6340112",
+    "tmdb": 408921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01"
+}

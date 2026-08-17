@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_believe_2016",
+  "title": "Believe",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964595",
+    "imdb": "tt4700756",
+    "tmdb": 423628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-02",
+  "runtime_minutes": 119
+}
