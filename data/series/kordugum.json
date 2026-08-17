@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kordugum",
+  "title": "Kördüğüm",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q29342372",
+    "imdb": "tt5303668",
+    "tmdb": 65566
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 31
+}

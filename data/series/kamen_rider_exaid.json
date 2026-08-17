@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kamen_rider_exaid",
+  "title": "Kamen Rider Ex-Aid",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q26203725",
+    "imdb": "tt5813014",
+    "tmdb": 262158
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 45
+}

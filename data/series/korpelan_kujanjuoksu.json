@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_korpelan_kujanjuoksu",
+  "title": "Korpelan kujanjuoksu",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q26694354",
+    "imdb": "tt5841866",
+    "tmdb": 74700
+  },
+  "last_updated": "2026-08-17"
+}

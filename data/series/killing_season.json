@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_killing_season",
+  "title": "The Killing Season",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q28229339",
+    "imdb": "tt6064676",
+    "tmdb": 68505
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

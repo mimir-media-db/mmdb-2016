@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_klassen",
+  "title": "Klassen",
+  "start_year": 2016,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q29103254",
+    "imdb": "tt5951488",
+    "tmdb": 74824
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 435
+}
