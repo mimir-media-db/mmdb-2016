@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wer_ist_oda_jaune_2016",
+  "title": "Wer ist Oda Jaune?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24469827",
+    "imdb": "tt5290504",
+    "tmdb": 381451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-23",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_mother_2016",
+  "title": "Wolf Mother",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111177783",
+    "imdb": "tt3225318",
+    "tmdb": 428015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_meteor_shot_across_the_sky_2016",
+  "title": "When the Meteor Shot Across the Sky",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999857",
+    "imdb": "tt6447680",
+    "tmdb": 825888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-17"
+}

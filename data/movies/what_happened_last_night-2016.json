@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_happened_last_night_2016",
+  "title": "What Happened Last Night",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100249779",
+    "imdb": "tt5028822",
+    "tmdb": 422231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

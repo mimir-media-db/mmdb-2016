@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wienerdog_2016",
+  "title": "Wiener-Dog",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20650045",
+    "imdb": "tt4144190",
+    "tmdb": 326094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-28",
+  "runtime_minutes": 90
+}

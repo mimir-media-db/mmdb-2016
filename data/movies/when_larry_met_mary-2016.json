@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_larry_met_mary_2016",
+  "title": "When Larry Met Mary",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999853",
+    "imdb": "tt5562066",
+    "tmdb": 406481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-15"
+}

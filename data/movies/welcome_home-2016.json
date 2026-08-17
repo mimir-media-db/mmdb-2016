@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_home_2016",
+  "title": "Welcome Home",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22066084",
+    "imdb": "tt4485168",
+    "tmdb": 377350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-13",
+  "runtime_minutes": 86
+}

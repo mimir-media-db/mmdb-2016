@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_girl_2016",
+  "title": "White Girl",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22252061",
+    "imdb": "tt4129870",
+    "tmdb": 336011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-23",
+  "runtime_minutes": 88
+}

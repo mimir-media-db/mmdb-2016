@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_make_movies_2016",
+  "title": "We Make Movies",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30689172",
+    "imdb": "tt4136534",
+    "tmdb": 470533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-24"
+}

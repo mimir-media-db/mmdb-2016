@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wir_sind_die_flut_2016",
+  "title": "Wir sind die Flut",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22582319",
+    "imdb": "tt5271906",
+    "tmdb": 381449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-19",
+  "runtime_minutes": 85
+}

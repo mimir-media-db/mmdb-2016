@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_with_or_without_you_2016",
+  "title": "With or Without You",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24861124",
+    "imdb": "tt6867828",
+    "tmdb": 406485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-29"
+}

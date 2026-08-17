@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_ediths_bells_toll_2016",
+  "title": "When Edith's Bells Toll",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27062302",
+    "imdb": "tt6242294",
+    "tmdb": 427799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-27",
+  "runtime_minutes": 100
+}

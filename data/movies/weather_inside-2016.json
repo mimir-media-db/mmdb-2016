@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weather_inside_2016",
+  "title": "The Weather Inside",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21712237",
+    "imdb": "tt3751306",
+    "tmdb": 378331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-28",
+  "runtime_minutes": 100
+}

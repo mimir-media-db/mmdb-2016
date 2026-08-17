@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weekend_2016",
+  "title": "The Weekend",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39072659",
+    "imdb": "tt5521250",
+    "tmdb": 428634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-02"
+}

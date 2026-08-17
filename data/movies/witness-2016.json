@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_witness_2016",
+  "title": "The Witness",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28058810",
+    "imdb": "tt3568002",
+    "tmdb": 356332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-03",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waseskun_2016",
+  "title": "Waseskun",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28550652",
+    "imdb": "tt6109784",
+    "tmdb": 435691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

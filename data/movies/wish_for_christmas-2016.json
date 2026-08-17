@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wish_for_christmas_2016",
+  "title": "Wish for Christmas",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59397636",
+    "imdb": "tt4700190",
+    "tmdb": 424062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

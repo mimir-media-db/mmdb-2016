@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_sun_shines_2016",
+  "title": "When the Sun Shines",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31467107",
+    "imdb": "tt5004198",
+    "tmdb": 716350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-28",
+  "runtime_minutes": 86
+}

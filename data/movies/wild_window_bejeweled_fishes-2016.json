@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_window_bejeweled_fishes_2016",
+  "title": "Wild Window: Bejeweled Fishes",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27051638",
+    "imdb": "tt5845392",
+    "tmdb": 794369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_world_of_us_2016",
+  "title": "The World of Us",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24864462",
+    "imdb": "tt5502816",
+    "tmdb": 384748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-16"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_who_is_estaban_2016",
+  "title": "Who Is Estaban",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27039063",
+    "imdb": "tt5523254",
+    "tmdb": 386730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 65
+}

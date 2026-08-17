@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wasted_times_2016",
+  "title": "The Wasted Times",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25631087",
+    "imdb": "tt4623812",
+    "tmdb": 382572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-01",
+  "runtime_minutes": 125
+}

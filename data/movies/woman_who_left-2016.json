@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_who_left_2016",
+  "title": "The Woman Who Left",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26158148",
+    "imdb": "tt5843990",
+    "tmdb": 408542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-01",
+  "runtime_minutes": 226
+}

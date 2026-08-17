@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_worst_woman_2016",
+  "title": "Worst Woman",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27951700",
+    "imdb": "tt6088370",
+    "tmdb": 398246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 94
+}

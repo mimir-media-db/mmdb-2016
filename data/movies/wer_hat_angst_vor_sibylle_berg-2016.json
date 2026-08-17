@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wer_hat_angst_vor_sibylle_berg_2016",
+  "title": "Wer hat Angst vor Sibylle Berg",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23805009",
+    "imdb": "tt5235666",
+    "tmdb": 395041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-04-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_horses_go_to_die_2016",
+  "title": "Where Horses Go to Die",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28495845",
+    "imdb": "tt3762020",
+    "tmdb": 487612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 67
+}

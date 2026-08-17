@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wajah_tum_ho_2016",
+  "title": "Wajah Tum Ho",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27444410",
+    "imdb": "tt5638474",
+    "tmdb": 430508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-02"
+}

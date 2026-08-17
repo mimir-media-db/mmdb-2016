@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_roommate_2016",
+  "title": "The Wrong Roommate",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32067413",
+    "imdb": "tt5331084",
+    "tmdb": 376296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}

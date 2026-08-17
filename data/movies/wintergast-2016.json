@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wintergast_2016",
+  "title": "Wintergast",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21693818",
+    "imdb": "tt4324464",
+    "tmdb": 365766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-21"
+}

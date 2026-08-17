@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whisky_galore_2016",
+  "title": "Whisky Galore!",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25218267",
+    "imdb": "tt4769214",
+    "tmdb": 399218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-26",
+  "runtime_minutes": 96
+}

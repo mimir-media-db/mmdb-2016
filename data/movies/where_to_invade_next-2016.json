@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_to_invade_next_2016",
+  "title": "Where to Invade Next",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20740043",
+    "imdb": "tt4897822",
+    "tmdb": 352208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-02-25",
+  "runtime_minutes": 120
+}

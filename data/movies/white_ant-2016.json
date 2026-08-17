@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_ant_2016",
+  "title": "White Ant",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28868423",
+    "imdb": "tt6129128",
+    "tmdb": 420687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-10"
+}

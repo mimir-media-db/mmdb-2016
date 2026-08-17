@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waarrior_savitri_2016",
+  "title": "Waarrior Savitri",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19899162",
+    "imdb": "tt4642936",
+    "tmdb": 403790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-25"
+}

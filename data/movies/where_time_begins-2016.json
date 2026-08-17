@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_where_time_begins_2016",
+  "title": "Where Time Begins",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27052779",
+    "imdb": "tt4796286"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

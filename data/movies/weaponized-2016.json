@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weaponized_2016",
+  "title": "Weaponized",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25415561",
+    "imdb": "tt4776564",
+    "tmdb": 383140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 85
+}
