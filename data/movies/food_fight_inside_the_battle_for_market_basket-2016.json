@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_food_fight_inside_the_battle_for_market_basket_2016",
+  "title": "Food Fight: Inside the Battle for Market Basket",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24611343",
+    "imdb": "tt5514008",
+    "tmdb": 400085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 110
+}

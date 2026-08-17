@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foster_shock_2016",
+  "title": "Foster Shock",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26898711",
+    "imdb": "tt5205070",
+    "tmdb": 1316722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 67
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fat_wreck_2016",
+  "title": "A Fat Wreck",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24682895",
+    "imdb": "tt5280980",
+    "tmdb": 392001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 88
+}

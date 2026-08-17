@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flashy_funerals_2016",
+  "title": "Flashy Funerals",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24760068",
+    "imdb": "tt5637970",
+    "tmdb": 837056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 46
+}

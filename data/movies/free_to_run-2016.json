@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_to_run_2016",
+  "title": "Free to Run",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24629895",
+    "imdb": "tt3530882",
+    "tmdb": 394632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fan_2016",
+  "title": "FAN",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17606382",
+    "imdb": "tt3495026",
+    "tmdb": 377985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 138
+}

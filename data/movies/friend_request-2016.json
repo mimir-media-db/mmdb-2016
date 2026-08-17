@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friend_request_2016",
+  "title": "Friend Request",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17014747",
+    "imdb": "tt3352390",
+    "tmdb": 368031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 93
+}

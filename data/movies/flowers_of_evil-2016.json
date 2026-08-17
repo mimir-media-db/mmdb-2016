@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flowers_of_evil_2016",
+  "title": "Flowers of Evil",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26710777",
+    "imdb": "tt5072350",
+    "tmdb": 412437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 105
+}

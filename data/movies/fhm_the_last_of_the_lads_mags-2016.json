@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fhm_the_last_of_the_lads_mags_2016",
+  "title": "FHM: The Last of the Lads' Mags",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706052",
+    "imdb": "tt5326150",
+    "tmdb": 410303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

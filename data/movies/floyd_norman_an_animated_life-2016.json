@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_floyd_norman_an_animated_life_2016",
+  "title": "Floyd Norman: An Animated Life",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705915",
+    "imdb": "tt5507860",
+    "tmdb": 407588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 94
+}

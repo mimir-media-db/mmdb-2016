@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fifty_shades_of_black_2016",
+  "title": "Fifty Shades of Black",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899736",
+    "imdb": "tt4667094",
+    "tmdb": 351819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 92
+}

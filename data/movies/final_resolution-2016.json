@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_final_resolution_2016",
+  "title": "The Final Resolution",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24706301",
+    "imdb": "tt5580680",
+    "tmdb": 628913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_the_love_of_spock_2016",
+  "title": "For the Love of Spock",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23762870",
+    "imdb": "tt4572820",
+    "tmdb": 338544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 100
+}
