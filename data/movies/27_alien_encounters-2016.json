@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_27_alien_encounters_2016",
+  "title": "27 Alien Encounters",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043275",
+    "imdb": "tt5993146",
+    "tmdb": 690240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 67
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_2_batas_waktu_amanah_isa_almasih_2016",
+  "title": "2 Batas Waktu: Amanah Isa Al-Masih",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109433088",
+    "tmdb": 840534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-05-26",
+  "runtime_minutes": 116
+}
