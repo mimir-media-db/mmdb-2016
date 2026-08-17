@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_to_purgatory_2016",
+  "title": "Welcome to Purgatory",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811646",
+    "imdb": "tt1643249",
+    "tmdb": 298025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

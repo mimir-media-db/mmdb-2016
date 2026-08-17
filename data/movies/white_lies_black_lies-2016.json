@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_lies_black_lies_2016",
+  "title": "White Lies, Black Lies",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22100047",
+    "imdb": "tt5077912",
+    "tmdb": 392667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

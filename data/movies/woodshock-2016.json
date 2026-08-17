@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woodshock_2016",
+  "title": "Woodshock",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022692",
+    "imdb": "tt4677924",
+    "tmdb": 396777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

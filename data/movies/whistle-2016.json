@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whistle_2016",
+  "title": "Whistle",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21780605",
+    "imdb": "tt5269754",
+    "tmdb": 618929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

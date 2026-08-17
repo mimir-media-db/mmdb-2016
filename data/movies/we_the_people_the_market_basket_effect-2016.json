@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_the_people_the_market_basket_effect_2016",
+  "title": "We the People: The Market Basket Effect",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24628992",
+    "imdb": "tt4392342",
+    "tmdb": 394341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 76
+}

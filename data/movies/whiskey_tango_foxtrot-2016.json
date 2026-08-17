@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whiskey_tango_foxtrot_2016",
+  "title": "Whiskey Tango Foxtrot",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363883",
+    "imdb": "tt3553442",
+    "tmdb": 279641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 112
+}

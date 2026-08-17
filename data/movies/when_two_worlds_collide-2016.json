@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_two_worlds_collide_2016",
+  "title": "When Two Worlds Collide",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24634993",
+    "imdb": "tt5278932",
+    "tmdb": 373442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 103
+}

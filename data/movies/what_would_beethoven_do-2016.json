@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_would_beethoven_do_2016",
+  "title": "What Would Beethoven Do?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24635328",
+    "imdb": "tt5317382",
+    "tmdb": 389312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 75
+}

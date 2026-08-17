@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_with_love_a_documentary_2016",
+  "title": "With Love: A Documentary",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24762448",
+    "imdb": "tt4650858",
+    "tmdb": 648001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 34
+}

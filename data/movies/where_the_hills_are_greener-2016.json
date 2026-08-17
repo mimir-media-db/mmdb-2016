@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_the_hills_are_greener_2016",
+  "title": "Where the Hills Are Greener",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24211447",
+    "imdb": "tt5719516",
+    "tmdb": 594122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 78
+}
