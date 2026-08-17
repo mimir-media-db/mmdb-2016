@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_creating_saturday_night_live",
+  "title": "Creating Saturday Night Live",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140289245",
+    "imdb": "tt11712986",
+    "tmdb": 234655
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 34
+}

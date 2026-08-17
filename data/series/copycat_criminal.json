@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_copycat_criminal",
+  "title": "The Copycat Criminal",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117428815",
+    "imdb": "tt5849632",
+    "tmdb": 68790
+  },
+  "last_updated": "2026-08-17"
+}

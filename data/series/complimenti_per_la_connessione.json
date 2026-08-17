@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_complimenti_per_la_connessione",
+  "title": "Complimenti per la connessione",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28669817",
+    "imdb": "tt5914514",
+    "tmdb": 67071
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

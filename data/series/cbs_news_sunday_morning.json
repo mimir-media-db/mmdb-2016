@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cbs_news_sunday_morning",
+  "title": "CBS News Sunday Morning",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5009252",
+    "imdb": "tt0165001",
+    "tmdb": 4026
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 38
+}

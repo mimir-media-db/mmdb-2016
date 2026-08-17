@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_callboys",
+  "title": "Callboys",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q27380621",
+    "imdb": "tt4940366",
+    "tmdb": 67779
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

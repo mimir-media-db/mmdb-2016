@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_criminal_minds_beyond_borders",
+  "title": "Criminal Minds: Beyond Borders",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q20053586",
+    "imdb": "tt4364202",
+    "tmdb": 64481
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

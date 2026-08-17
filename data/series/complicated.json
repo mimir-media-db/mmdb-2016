@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_complicated",
+  "title": "Complicated",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q31197588",
+    "imdb": "tt7649872",
+    "tmdb": 118203
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

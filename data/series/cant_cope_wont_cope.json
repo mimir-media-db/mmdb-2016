@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cant_cope_wont_cope",
+  "title": "Can't Cope, Won't Cope",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47119532",
+    "imdb": "tt5674872",
+    "tmdb": 68329
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}
