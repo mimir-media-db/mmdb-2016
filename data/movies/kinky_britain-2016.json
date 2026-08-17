@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kinky_britain_2016",
+  "title": "Kinky Britain",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26899769",
+    "imdb": "tt5915002"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 47
+}
