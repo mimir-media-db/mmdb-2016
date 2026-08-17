@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deux_remi_deux_2016",
+  "title": "Deux Rémi, deux",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899175",
+    "imdb": "tt4783254",
+    "tmdb": 354430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 66
+}

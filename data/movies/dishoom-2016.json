@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dishoom_2016",
+  "title": "Dishoom",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18890293",
+    "imdb": "tt3679060",
+    "tmdb": 393441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

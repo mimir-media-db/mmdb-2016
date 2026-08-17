@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_darling_dont_cheat_2016",
+  "title": "Darling Don't Cheat",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21010852",
+    "imdb": "tt39068899"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

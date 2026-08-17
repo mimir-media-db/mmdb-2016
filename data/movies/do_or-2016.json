@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_do_or_2016",
+  "title": "Do or",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22098741",
+    "imdb": "tt7858840",
+    "tmdb": 1059182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

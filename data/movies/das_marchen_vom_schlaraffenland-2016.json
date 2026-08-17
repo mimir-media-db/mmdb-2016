@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_marchen_vom_schlaraffenland_2016",
+  "title": "Das Märchen vom Schlaraffenland",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24704094",
+    "imdb": "tt6366006",
+    "tmdb": 1067176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 60
+}

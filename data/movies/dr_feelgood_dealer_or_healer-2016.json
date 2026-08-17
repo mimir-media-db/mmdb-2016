@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_feelgood_dealer_or_healer_2016",
+  "title": "Dr. Feelgood: Dealer or Healer?",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26898679",
+    "imdb": "tt5192362",
+    "tmdb": 400931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 81
+}

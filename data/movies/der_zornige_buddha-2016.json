@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_zornige_buddha_2016",
+  "title": "Der zornige Buddha",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23068390",
+    "imdb": "tt5917526",
+    "tmdb": 1242229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 98
+}

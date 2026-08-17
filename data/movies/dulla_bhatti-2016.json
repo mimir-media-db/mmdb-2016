@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dulla_bhatti_2016",
+  "title": "Dulla Bhatti",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23762920",
+    "imdb": "tt5785158",
+    "tmdb": 391758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

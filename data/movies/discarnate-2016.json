@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_discarnate_2016",
+  "title": "Discarnate",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21512465",
+    "imdb": "tt4685940",
+    "tmdb": 513421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

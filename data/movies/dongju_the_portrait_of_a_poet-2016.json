@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dongju_the_portrait_of_a_poet_2016",
+  "title": "Dongju: The Portrait of a Poet",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20444173",
+    "imdb": "tt5799928",
+    "tmdb": 382336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 110
+}
