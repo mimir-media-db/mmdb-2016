@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_ragazzo_della_giudecca_2016",
+  "title": "Il ragazzo della Giudecca",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24263064",
+    "imdb": "tt4198260",
+    "tmdb": 395703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 95
+}

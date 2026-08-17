@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_getting_dark_2016",
+  "title": "It's Getting Dark",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27044760",
+    "imdb": "tt5915078",
+    "tmdb": 953077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01",
+  "runtime_minutes": 48
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_indrajith_2016",
+  "title": "Indrajith",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15712421",
+    "imdb": "tt7088108",
+    "tmdb": 330419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_idhu_namma_aalu_2016",
+  "title": "Idhu Namma Aalu",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254984",
+    "imdb": "tt4983736",
+    "tmdb": 318579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-01-01"
+}
