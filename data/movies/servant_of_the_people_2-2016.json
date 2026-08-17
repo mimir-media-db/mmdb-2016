@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_servant_of_the_people_2_2016",
+  "title": "Servant of the People 2",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29409395",
+    "imdb": "tt6818880",
+    "tmdb": 430266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-23",
+  "runtime_minutes": 100
+}

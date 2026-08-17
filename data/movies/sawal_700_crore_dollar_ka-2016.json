@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sawal_700_crore_dollar_ka_2016",
+  "title": "Sawal 700 Crore Dollar Ka",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905050",
+    "imdb": "tt5720136",
+    "tmdb": 391978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-06",
+  "runtime_minutes": 130
+}

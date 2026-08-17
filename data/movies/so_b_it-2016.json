@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_so_b_it_2016",
+  "title": "So B. It",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814761",
+    "imdb": "tt3663020",
+    "tmdb": 345932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-07"
+}

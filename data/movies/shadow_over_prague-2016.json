@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_over_prague_2016",
+  "title": "The Shadow over Prague",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26684174",
+    "imdb": "tt7284494",
+    "tmdb": 1019906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-20",
+  "runtime_minutes": 13
+}

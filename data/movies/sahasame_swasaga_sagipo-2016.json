@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sahasame_swasaga_sagipo_2016",
+  "title": "Sahasame Swasaga Sagipo",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20900153",
+    "imdb": "tt4980272",
+    "tmdb": 397486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-09"
+}

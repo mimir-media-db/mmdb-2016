@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_sixteen_2016",
+  "title": "Sweet Sixteen",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25208962",
+    "imdb": "tt4171876",
+    "tmdb": 411757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-05"
+}

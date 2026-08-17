@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sri_sri_2016",
+  "title": "Sri Sri",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27957968",
+    "tmdb": 405768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-06-03"
+}

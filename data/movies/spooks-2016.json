@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spooks_2016",
+  "title": "The Spooks",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26702898",
+    "imdb": "tt4960594",
+    "tmdb": 410216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-18",
+  "runtime_minutes": 113
+}

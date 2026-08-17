@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shed_skin_papa_2016",
+  "title": "Shed Skin Papa",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28055701",
+    "imdb": "tt6135054",
+    "tmdb": 451122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-26"
+}

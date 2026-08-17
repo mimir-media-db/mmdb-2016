@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_santa_claus_battle_of_the_magi_2016",
+  "title": "Santa Claus. Battle of the Magi",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28664585",
+    "imdb": "tt6011884",
+    "tmdb": 428398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-24",
+  "runtime_minutes": 91
+}

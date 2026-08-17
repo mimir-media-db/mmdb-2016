@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_demon_human_1_estrous_cycle_2016",
+  "title": "Sex Demon Human 1 - Estrous Cycle",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85880324",
+    "imdb": "tt6390450",
+    "tmdb": 708430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-25"
+}

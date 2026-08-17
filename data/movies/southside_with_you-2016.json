@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_southside_with_you_2016",
+  "title": "Southside with You",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20709533",
+    "imdb": "tt4258698",
+    "tmdb": 310888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-26"
+}

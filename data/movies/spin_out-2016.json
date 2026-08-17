@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spin_out_2016",
+  "title": "Spin Out",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26806022",
+    "imdb": "tt4680568",
+    "tmdb": 404580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-15",
+  "runtime_minutes": 92
+}

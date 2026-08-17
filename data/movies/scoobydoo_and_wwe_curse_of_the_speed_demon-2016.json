@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_and_wwe_curse_of_the_speed_demon_2016",
+  "title": "Scooby-Doo! and WWE: Curse of the Speed Demon",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24211282",
+    "imdb": "tt4196868",
+    "tmdb": 409122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-23",
+  "runtime_minutes": 81
+}

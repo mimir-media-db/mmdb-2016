@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_s3_2016",
+  "title": "S3",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20463713",
+    "imdb": "tt5323640",
+    "tmdb": 376440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-23"
+}

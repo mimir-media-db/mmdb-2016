@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_since_the_world_was_world_2016",
+  "title": "Since the World Was World",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27116273",
+    "imdb": "tt4190962",
+    "tmdb": 684811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-20"
+}

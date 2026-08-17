@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_song_2016",
+  "title": "Summer Song",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38276581",
+    "imdb": "tt5903196",
+    "tmdb": 544603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-17"
+}

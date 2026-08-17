@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sugar_mountain_2016",
+  "title": "Sugar Mountain",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649466",
+    "imdb": "tt3553378",
+    "tmdb": 423377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-09"
+}

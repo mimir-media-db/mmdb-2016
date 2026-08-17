@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_some_like_it_hot_2016",
+  "title": "Some Like It Hot",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28224536",
+    "imdb": "tt6398666",
+    "tmdb": 433605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-30"
+}

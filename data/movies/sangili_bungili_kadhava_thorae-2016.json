@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sangili_bungili_kadhava_thorae_2016",
+  "title": "Sangili Bungili Kadhava Thorae",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925028",
+    "imdb": "tt6904340",
+    "tmdb": 408914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-01"
+}

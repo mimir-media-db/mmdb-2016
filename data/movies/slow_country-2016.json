@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slow_country_2016",
+  "title": "Slow Country",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30521647",
+    "imdb": "tt6911110",
+    "tmdb": 663528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-01",
+  "runtime_minutes": 115
+}

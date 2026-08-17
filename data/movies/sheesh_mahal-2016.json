@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sheesh_mahal_2016",
+  "title": "Sheesh Mahal",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106634592",
+    "imdb": "tt6033356",
+    "tmdb": 563152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-11-20",
+  "runtime_minutes": 112
+}

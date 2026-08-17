@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_super_express_2016",
+  "title": "Super Express",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964614",
+    "imdb": "tt5187816",
+    "tmdb": 434123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-12-02",
+  "runtime_minutes": 84
+}

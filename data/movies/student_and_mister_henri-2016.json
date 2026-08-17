@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_student_and_mister_henri_2016",
+  "title": "The Student and Mister Henri",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009118",
+    "imdb": "tt4948452",
+    "tmdb": 360638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-07-21",
+  "runtime_minutes": 98
+}

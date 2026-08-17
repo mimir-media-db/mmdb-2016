@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_heart_2016",
+  "title": "Sweet Heart",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963237"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-08-18"
+}

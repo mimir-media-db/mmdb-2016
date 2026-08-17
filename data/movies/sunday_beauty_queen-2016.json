@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunday_beauty_queen_2016",
+  "title": "Sunday Beauty Queen",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27195712",
+    "imdb": "tt6102288",
+    "tmdb": 430792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-10-07"
+}

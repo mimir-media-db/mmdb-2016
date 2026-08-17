@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_s_storm_2016",
+  "title": "S Storm",
+  "year": 2016,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963265",
+    "imdb": "tt5998744",
+    "tmdb": 367195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2016-09-14",
+  "runtime_minutes": 95
+}
